@@ -1,0 +1,4908 @@
+{
+  "AUS": {
+    "1975": {
+      "ever_in_top100": 46,
+      "ever_in_top10": 1,
+      "top_player": "John Newcombe",
+      "top_rank": 2,
+      "unique_atp_player": 46
+    },
+    "1980": {
+      "ever_in_top100": 30,
+      "ever_in_top10": 0,
+      "top_player": "John Alexander",
+      "top_rank": 21,
+      "unique_atp_player": 30
+    },
+    "1985": {
+      "ever_in_top100": 22,
+      "ever_in_top10": 1,
+      "top_player": "Pat Cash",
+      "top_rank": 7,
+      "unique_atp_player": 22
+    },
+    "1990": {
+      "ever_in_top100": 16,
+      "ever_in_top10": 0,
+      "top_player": "Richard Fromberg",
+      "top_rank": 24,
+      "unique_atp_player": 16
+    },
+    "1995": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Patrick Rafter",
+      "top_rank": 20,
+      "unique_atp_player": 15
+    },
+    "2000": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Lleyton Hewitt",
+      "top_rank": 6,
+      "unique_atp_player": 12
+    },
+    "2005": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Lleyton Hewitt",
+      "top_rank": 2,
+      "unique_atp_player": 7
+    },
+    "2010": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Lleyton Hewitt",
+      "top_rank": 22,
+      "unique_atp_player": 6
+    },
+    "2015": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Tomic",
+      "top_rank": 18,
+      "unique_atp_player": 10
+    },
+    "2020": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Alex de Minaur",
+      "top_rank": 18,
+      "unique_atp_player": 10
+    }
+  },
+  "USA": {
+    "1975": {
+      "ever_in_top100": 70,
+      "ever_in_top10": 1,
+      "top_player": "Jimmy Connors",
+      "top_rank": 1,
+      "unique_atp_player": 70
+    },
+    "1980": {
+      "ever_in_top100": 95,
+      "ever_in_top10": 1,
+      "top_player": "John McEnroe",
+      "top_rank": 1,
+      "unique_atp_player": 95
+    },
+    "1985": {
+      "ever_in_top100": 97,
+      "ever_in_top10": 1,
+      "top_player": "John McEnroe",
+      "top_rank": 1,
+      "unique_atp_player": 97
+    },
+    "1990": {
+      "ever_in_top100": 63,
+      "ever_in_top10": 1,
+      "top_player": "Ivan Lendl",
+      "top_rank": 1,
+      "unique_atp_player": 63
+    },
+    "1995": {
+      "ever_in_top100": 38,
+      "ever_in_top10": 1,
+      "top_player": "Pete Sampras",
+      "top_rank": 1,
+      "unique_atp_player": 38
+    },
+    "2000": {
+      "ever_in_top100": 26,
+      "ever_in_top10": 1,
+      "top_player": "Andre Agassi",
+      "top_rank": 1,
+      "unique_atp_player": 26
+    },
+    "2005": {
+      "ever_in_top100": 25,
+      "ever_in_top10": 1,
+      "top_player": "Andy Roddick",
+      "top_rank": 2,
+      "unique_atp_player": 25
+    },
+    "2010": {
+      "ever_in_top100": 17,
+      "ever_in_top10": 1,
+      "top_player": "Andy Roddick",
+      "top_rank": 7,
+      "unique_atp_player": 17
+    },
+    "2015": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "John Isner",
+      "top_rank": 12,
+      "unique_atp_player": 15
+    },
+    "2020": {
+      "ever_in_top100": 19,
+      "ever_in_top10": 0,
+      "top_player": "John Isner",
+      "top_rank": 19,
+      "unique_atp_player": 19
+    }
+  },
+  "NZL": {
+    "1975": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Onny Parun",
+      "top_rank": 17,
+      "unique_atp_player": 7
+    },
+    "1980": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Kelly Evernden",
+      "top_rank": 100,
+      "unique_atp_player": 6
+    },
+    "1985": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Chris Lewis",
+      "top_rank": 82,
+      "unique_atp_player": 7
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Kelly Evernden",
+      "top_rank": 54,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Brett Steven",
+      "top_rank": 33,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mark Nielsen",
+      "top_rank": 216,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mark Nielsen",
+      "top_rank": 341,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Daniel King-Turner",
+      "top_rank": 227,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Michael Venus",
+      "top_rank": 426,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Finn Tearney",
+      "top_rank": 1018,
+      "unique_atp_player": 2
+    }
+  },
+  "MEX": {
+    "1975": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Raul Ramirez",
+      "top_rank": 12,
+      "unique_atp_player": 4
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Raul Ramirez",
+      "top_rank": 27,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Francisco Maciel",
+      "top_rank": 105,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Leonardo Lavalle",
+      "top_rank": 135,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Leonardo Lavalle",
+      "top_rank": 210,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Alejandro Hernandez",
+      "top_rank": 172,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Miguel Gallardo-Valles",
+      "top_rank": 215,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Daniel Garza",
+      "top_rank": 393,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Daniel Garza",
+      "top_rank": 483,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ernesto Escobedo",
+      "top_rank": 185,
+      "unique_atp_player": 2
+    }
+  },
+  "FIN": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Matti Timonen",
+      "top_rank": 315,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Leo Palin",
+      "top_rank": 128,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Olli Rahnasto",
+      "top_rank": 228,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Veli Paloheimo",
+      "top_rank": 48,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Kim Tiilikainen",
+      "top_rank": 224,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Tuomas Ketola",
+      "top_rank": 147,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jarkko Nieminen",
+      "top_rank": 30,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jarkko Nieminen",
+      "top_rank": 39,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Jarkko Nieminen",
+      "top_rank": 66,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Emil Ruusuvuori",
+      "top_rank": 92,
+      "unique_atp_player": 3
+    }
+  },
+  "AUT": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Hans Kary",
+      "top_rank": 82,
+      "unique_atp_player": 3
+    },
+    "1980": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Peter Feigl",
+      "top_rank": 57,
+      "unique_atp_player": 6
+    },
+    "1985": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Thomas Muster",
+      "top_rank": 95,
+      "unique_atp_player": 5
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 1,
+      "top_player": "Thomas Muster",
+      "top_rank": 6,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Thomas Muster",
+      "top_rank": 3,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Stefan Koubek",
+      "top_rank": 22,
+      "unique_atp_player": 5
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jurgen Melzer",
+      "top_rank": 34,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jurgen Melzer",
+      "top_rank": 12,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Dominic Thiem",
+      "top_rank": 18,
+      "unique_atp_player": 7
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Dominic Thiem",
+      "top_rank": 3,
+      "unique_atp_player": 4
+    }
+  },
+  "JPN": {
+    "1975": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Jun Kamiwazumi",
+      "top_rank": 80,
+      "unique_atp_player": 4
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jun Kamiwazumi",
+      "top_rank": 224,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Tsuyoshi Fukui",
+      "top_rank": 356,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Shuzo Matsuoka",
+      "top_rank": 138,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Shuzo Matsuoka",
+      "top_rank": 66,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Gouichi Motomura",
+      "top_rank": 143,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Takao Suzuki",
+      "top_rank": 169,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Go Soeda",
+      "top_rank": 118,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Kei Nishikori",
+      "top_rank": 4,
+      "unique_atp_player": 7
+    },
+    "2020": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Kei Nishikori",
+      "top_rank": 35,
+      "unique_atp_player": 7
+    }
+  },
+  "CHI": {
+    "1975": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jaime Fillol Sr.",
+      "top_rank": 16,
+      "unique_atp_player": 5
+    },
+    "1980": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Hans Gildemeister",
+      "top_rank": 13,
+      "unique_atp_player": 10
+    },
+    "1985": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Ricardo Acuna",
+      "top_rank": 52,
+      "unique_atp_player": 4
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Pedro Rebolledo",
+      "top_rank": 130,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Rios",
+      "top_rank": 24,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Marcelo Rios",
+      "top_rank": 7,
+      "unique_atp_player": 5
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Fernando Gonzalez",
+      "top_rank": 13,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Fernando Gonzalez",
+      "top_rank": 10,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Hans Podlipnik-Castillo",
+      "top_rank": 162,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Cristian Garin",
+      "top_rank": 18,
+      "unique_atp_player": 3
+    }
+  },
+  "BRA": {
+    "1975": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Thomaz Koch",
+      "top_rank": 24,
+      "unique_atp_player": 6
+    },
+    "1980": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Marcos Hocevar",
+      "top_rank": 47,
+      "unique_atp_player": 6
+    },
+    "1985": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 0,
+      "top_player": "Givaldo Barbosa",
+      "top_rank": 100,
+      "unique_atp_player": 9
+    },
+    "1990": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 0,
+      "top_player": "Luiz Mattar",
+      "top_rank": 39,
+      "unique_atp_player": 8
+    },
+    "1995": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Fernando Meligeni",
+      "top_rank": 54,
+      "unique_atp_player": 5
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Gustavo Kuerten",
+      "top_rank": 2,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Ricardo Mello",
+      "top_rank": 50,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Thomaz Bellucci",
+      "top_rank": 22,
+      "unique_atp_player": 6
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Thomaz Bellucci",
+      "top_rank": 30,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Thiago Monteiro",
+      "top_rank": 84,
+      "unique_atp_player": 2
+    }
+  },
+  "SWE": {
+    "1975": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 1,
+      "top_player": "Bjorn Borg",
+      "top_rank": 2,
+      "unique_atp_player": 9
+    },
+    "1980": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 1,
+      "top_player": "Bjorn Borg",
+      "top_rank": 1,
+      "unique_atp_player": 13
+    },
+    "1985": {
+      "ever_in_top100": 18,
+      "ever_in_top10": 1,
+      "top_player": "Mats Wilander",
+      "top_rank": 3,
+      "unique_atp_player": 18
+    },
+    "1990": {
+      "ever_in_top100": 24,
+      "ever_in_top10": 1,
+      "top_player": "Stefan Edberg",
+      "top_rank": 1,
+      "unique_atp_player": 24
+    },
+    "1995": {
+      "ever_in_top100": 17,
+      "ever_in_top10": 1,
+      "top_player": "Stefan Edberg",
+      "top_rank": 7,
+      "unique_atp_player": 17
+    },
+    "2000": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Magnus Norman",
+      "top_rank": 2,
+      "unique_atp_player": 12
+    },
+    "2005": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Joachim Johansson",
+      "top_rank": 9,
+      "unique_atp_player": 6
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Robin Soderling",
+      "top_rank": 4,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Christian Lindell",
+      "top_rank": 177,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mikael Ymer",
+      "top_rank": 67,
+      "unique_atp_player": 1
+    }
+  },
+  "RSA": {
+    "1975": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Cliff Drysdale",
+      "top_rank": 17,
+      "unique_atp_player": 15
+    },
+    "1980": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Mitton",
+      "top_rank": 43,
+      "unique_atp_player": 11
+    },
+    "1985": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Christo Steyn",
+      "top_rank": 68,
+      "unique_atp_player": 7
+    },
+    "1990": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 0,
+      "top_player": "Christo Van Rensburg",
+      "top_rank": 25,
+      "unique_atp_player": 9
+    },
+    "1995": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Wayne Ferreira",
+      "top_rank": 6,
+      "unique_atp_player": 8
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Wayne Ferreira",
+      "top_rank": 11,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Wesley Moodie",
+      "top_rank": 98,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Kevin Anderson",
+      "top_rank": 64,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Kevin Anderson",
+      "top_rank": 10,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Kevin Anderson",
+      "top_rank": 86,
+      "unique_atp_player": 2
+    }
+  },
+  "GEO": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alex Metreveli",
+      "top_rank": 12,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Irakli Labadze",
+      "top_rank": 71,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Teymuraz Gabashvili",
+      "top_rank": 84,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Teymuraz Gabashvili",
+      "top_rank": 52,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Nikoloz Basilashvili",
+      "top_rank": 26,
+      "unique_atp_player": 2
+    }
+  },
+  "ZIM": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Andrew Pattison",
+      "top_rank": 21,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Andrew Pattison",
+      "top_rank": 35,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Haroon Ismail",
+      "top_rank": 516,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Greig Rodger",
+      "top_rank": 100,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Byron Black",
+      "top_rank": 37,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Byron Black",
+      "top_rank": 27,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Wayne Black",
+      "top_rank": 1469,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Takanyi Garanganga",
+      "top_rank": 398,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Benjamin Lock",
+      "top_rank": 430,
+      "unique_atp_player": 1
+    }
+  },
+  "GER": {
+    "1975": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 0,
+      "top_player": "Karl Meiler",
+      "top_rank": 29,
+      "unique_atp_player": 11
+    },
+    "1980": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 0,
+      "top_player": "Ulrich Pinner",
+      "top_rank": 21,
+      "unique_atp_player": 14
+    },
+    "1985": {
+      "ever_in_top100": 18,
+      "ever_in_top10": 1,
+      "top_player": "Boris Becker",
+      "top_rank": 5,
+      "unique_atp_player": 18
+    },
+    "1990": {
+      "ever_in_top100": 17,
+      "ever_in_top10": 1,
+      "top_player": "Boris Becker",
+      "top_rank": 2,
+      "unique_atp_player": 17
+    },
+    "1995": {
+      "ever_in_top100": 22,
+      "ever_in_top10": 1,
+      "top_player": "Boris Becker",
+      "top_rank": 3,
+      "unique_atp_player": 22
+    },
+    "2000": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 1,
+      "top_player": "Nicolas Kiefer",
+      "top_rank": 4,
+      "unique_atp_player": 15
+    },
+    "2005": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Tommy Haas",
+      "top_rank": 14,
+      "unique_atp_player": 15
+    },
+    "2010": {
+      "ever_in_top100": 17,
+      "ever_in_top10": 0,
+      "top_player": "Tommy Haas",
+      "top_rank": 17,
+      "unique_atp_player": 17
+    },
+    "2015": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 0,
+      "top_player": "Philipp Kohlschreiber",
+      "top_rank": 23,
+      "unique_atp_player": 13
+    },
+    "2020": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 1,
+      "top_player": "Alexander Zverev",
+      "top_rank": 7,
+      "unique_atp_player": 11
+    }
+  },
+  "GBR": {
+    "1975": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Mark Cox",
+      "top_rank": 22,
+      "unique_atp_player": 15
+    },
+    "1980": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 0,
+      "top_player": "Buster C. Mottram",
+      "top_rank": 34,
+      "unique_atp_player": 9
+    },
+    "1985": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "John Lloyd",
+      "top_rank": 31,
+      "unique_atp_player": 5
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jeremy Bates",
+      "top_rank": 73,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Greg Rusedski",
+      "top_rank": 43,
+      "unique_atp_player": 7
+    },
+    "2000": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Tim Henman",
+      "top_rank": 9,
+      "unique_atp_player": 7
+    },
+    "2005": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Tim Henman",
+      "top_rank": 6,
+      "unique_atp_player": 6
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Andy Murray",
+      "top_rank": 4,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Andy Murray",
+      "top_rank": 2,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Daniel Evans",
+      "top_rank": 28,
+      "unique_atp_player": 4
+    }
+  },
+  "ESP": {
+    "1975": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Manuel Orantes",
+      "top_rank": 4,
+      "unique_atp_player": 12
+    },
+    "1980": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Jose Higueras",
+      "top_rank": 7,
+      "unique_atp_player": 12
+    },
+    "1985": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Juan Aguilera",
+      "top_rank": 20,
+      "unique_atp_player": 15
+    },
+    "1990": {
+      "ever_in_top100": 16,
+      "ever_in_top10": 1,
+      "top_player": "Emilio Sanchez",
+      "top_rank": 7,
+      "unique_atp_player": 16
+    },
+    "1995": {
+      "ever_in_top100": 22,
+      "ever_in_top10": 1,
+      "top_player": "Sergi Bruguera",
+      "top_rank": 4,
+      "unique_atp_player": 22
+    },
+    "2000": {
+      "ever_in_top100": 24,
+      "ever_in_top10": 1,
+      "top_player": "Alex Corretja",
+      "top_rank": 7,
+      "unique_atp_player": 24
+    },
+    "2005": {
+      "ever_in_top100": 24,
+      "ever_in_top10": 1,
+      "top_player": "Rafael Nadal",
+      "top_rank": 2,
+      "unique_atp_player": 24
+    },
+    "2010": {
+      "ever_in_top100": 22,
+      "ever_in_top10": 1,
+      "top_player": "Rafael Nadal",
+      "top_rank": 1,
+      "unique_atp_player": 22
+    },
+    "2015": {
+      "ever_in_top100": 17,
+      "ever_in_top10": 1,
+      "top_player": "Rafael Nadal",
+      "top_rank": 3,
+      "unique_atp_player": 17
+    },
+    "2020": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 1,
+      "top_player": "Rafael Nadal",
+      "top_rank": 1,
+      "unique_atp_player": 13
+    }
+  },
+  "NED": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Tom Okker",
+      "top_rank": 5,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Tom Okker",
+      "top_rank": 60,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Michiel Schapers",
+      "top_rank": 92,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Paul Haarhuis",
+      "top_rank": 40,
+      "unique_atp_player": 6
+    },
+    "1995": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 1,
+      "top_player": "Richard Krajicek",
+      "top_rank": 10,
+      "unique_atp_player": 11
+    },
+    "2000": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 1,
+      "top_player": "Richard Krajicek",
+      "top_rank": 10,
+      "unique_atp_player": 9
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Sjeng Schalken",
+      "top_rank": 70,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Thiemo de Bakker",
+      "top_rank": 41,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Robin Haase",
+      "top_rank": 63,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Robin Haase",
+      "top_rank": 169,
+      "unique_atp_player": 1
+    }
+  },
+  "ROU": {
+    "1975": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Ilie Nastase",
+      "top_rank": 6,
+      "unique_atp_player": 4
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ilie Nastase",
+      "top_rank": 54,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Florin Segarceanu",
+      "top_rank": 129,
+      "unique_atp_player": 4
+    },
+    "1990": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Florin Segarceanu",
+      "top_rank": 293,
+      "unique_atp_player": 4
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Adrian Voinea",
+      "top_rank": 55,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Andrei Pavel",
+      "top_rank": 25,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Andrei Pavel",
+      "top_rank": 17,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Victor Hanescu",
+      "top_rank": 37,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Victor Hanescu",
+      "top_rank": 146,
+      "unique_atp_player": 3
+    }
+  },
+  "IND": {
+    "1975": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Vijay Amritraj",
+      "top_rank": 30,
+      "unique_atp_player": 6
+    },
+    "1980": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Vijay Amritraj",
+      "top_rank": 19,
+      "unique_atp_player": 4
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ramesh Krishnan",
+      "top_rank": 23,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ramesh Krishnan",
+      "top_rank": 65,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Leander Paes",
+      "top_rank": 123,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Leander Paes",
+      "top_rank": 116,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Harsh Mankad",
+      "top_rank": 245,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Somdev Devvarman",
+      "top_rank": 103,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Somdev Devvarman",
+      "top_rank": 148,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Prajnesh Gunneswaran",
+      "top_rank": 122,
+      "unique_atp_player": 2
+    }
+  },
+  "ITA": {
+    "1975": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Adriano Panatta",
+      "top_rank": 14,
+      "unique_atp_player": 7
+    },
+    "1980": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 0,
+      "top_player": "Corrado Barazzutti",
+      "top_rank": 17,
+      "unique_atp_player": 9
+    },
+    "1985": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 0,
+      "top_player": "Francesco Cancellotti",
+      "top_rank": 21,
+      "unique_atp_player": 11
+    },
+    "1990": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 0,
+      "top_player": "Paolo Cane",
+      "top_rank": 33,
+      "unique_atp_player": 12
+    },
+    "1995": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 0,
+      "top_player": "Andrea Gaudenzi",
+      "top_rank": 18,
+      "unique_atp_player": 13
+    },
+    "2000": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Gianluca Pozzi",
+      "top_rank": 45,
+      "unique_atp_player": 10
+    },
+    "2005": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Filippo Volandri",
+      "top_rank": 31,
+      "unique_atp_player": 10
+    },
+    "2010": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 0,
+      "top_player": "Andreas Seppi",
+      "top_rank": 46,
+      "unique_atp_player": 8
+    },
+    "2015": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Fabio Fognini",
+      "top_rank": 22,
+      "unique_atp_player": 7
+    },
+    "2020": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 1,
+      "top_player": "Matteo Berrettini",
+      "top_rank": 8,
+      "unique_atp_player": 14
+    }
+  },
+  "CZE": {
+    "1975": {
+      "ever_in_top100": 9,
+      "ever_in_top10": 0,
+      "top_player": "Jan Kodes",
+      "top_rank": 17,
+      "unique_atp_player": 9
+    },
+    "1980": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Tomas Smid",
+      "top_rank": 24,
+      "unique_atp_player": 7
+    },
+    "1985": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Tomas Smid",
+      "top_rank": 13,
+      "unique_atp_player": 5
+    },
+    "1990": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Petr Korda",
+      "top_rank": 25,
+      "unique_atp_player": 6
+    },
+    "1995": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 0,
+      "top_player": "Petr Korda",
+      "top_rank": 19,
+      "unique_atp_player": 13
+    },
+    "2000": {
+      "ever_in_top100": 10,
+      "ever_in_top10": 0,
+      "top_player": "Jiri Novak",
+      "top_rank": 37,
+      "unique_atp_player": 10
+    },
+    "2005": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 0,
+      "top_player": "Radek Stepanek",
+      "top_rank": 13,
+      "unique_atp_player": 14
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Tomas Berdych",
+      "top_rank": 6,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Tomas Berdych",
+      "top_rank": 4,
+      "unique_atp_player": 6
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jiri Vesely",
+      "top_rank": 64,
+      "unique_atp_player": 3
+    }
+  },
+  "PAK": {
+    "1975": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Haroon Rahim",
+      "top_rank": 77,
+      "unique_atp_player": 4
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mushaf Zia",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Omer Rashid",
+      "top_rank": 1091,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Aisam-Ul-Haq Qureshi",
+      "top_rank": 289,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Aisam-Ul-Haq Qureshi",
+      "top_rank": 212,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Aisam-Ul-Haq Qureshi",
+      "top_rank": 625,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Aisam-Ul-Haq Qureshi",
+      "top_rank": 100,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Aisam-Ul-Haq Qureshi",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "EGY": {
+    "1975": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Ismail El Shafei",
+      "top_rank": 33,
+      "unique_atp_player": 4
+    },
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ismail El Shafei",
+      "top_rank": 127,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ahmed El Mehelmy",
+      "top_rank": 197,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Tamer El Sawy",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Khaled El Salawi",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Karim Maamoun",
+      "top_rank": 543,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Karim Maamoun",
+      "top_rank": 284,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mohamed Safwat",
+      "top_rank": 131,
+      "unique_atp_player": 1
+    }
+  },
+  "FRA": {
+    "1975": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 0,
+      "top_player": "Francois Jauffret",
+      "top_rank": 26,
+      "unique_atp_player": 14
+    },
+    "1980": {
+      "ever_in_top100": 19,
+      "ever_in_top10": 0,
+      "top_player": "Yannick Noah",
+      "top_rank": 16,
+      "unique_atp_player": 19
+    },
+    "1985": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 1,
+      "top_player": "Yannick Noah",
+      "top_rank": 5,
+      "unique_atp_player": 11
+    },
+    "1990": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 1,
+      "top_player": "Yannick Noah",
+      "top_rank": 9,
+      "unique_atp_player": 15
+    },
+    "1995": {
+      "ever_in_top100": 18,
+      "ever_in_top10": 0,
+      "top_player": "Arnaud Boetsch",
+      "top_rank": 16,
+      "unique_atp_player": 18
+    },
+    "2000": {
+      "ever_in_top100": 18,
+      "ever_in_top10": 1,
+      "top_player": "Cedric Pioline",
+      "top_rank": 5,
+      "unique_atp_player": 18
+    },
+    "2005": {
+      "ever_in_top100": 21,
+      "ever_in_top10": 0,
+      "top_player": "Richard Gasquet",
+      "top_rank": 12,
+      "unique_atp_player": 21
+    },
+    "2010": {
+      "ever_in_top100": 20,
+      "ever_in_top10": 1,
+      "top_player": "Jo-Wilfried Tsonga",
+      "top_rank": 9,
+      "unique_atp_player": 20
+    },
+    "2015": {
+      "ever_in_top100": 16,
+      "ever_in_top10": 1,
+      "top_player": "Richard Gasquet",
+      "top_rank": 9,
+      "unique_atp_player": 16
+    },
+    "2020": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Gael Monfils",
+      "top_rank": 9,
+      "unique_atp_player": 12
+    }
+  },
+  "CRO": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Nikola Pilic",
+      "top_rank": 40,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Zeljko Franulovic",
+      "top_rank": 65,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Bruno Oresar",
+      "top_rank": 80,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Goran Ivanisevic",
+      "top_rank": 9,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Goran Ivanisevic",
+      "top_rank": 4,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Goran Ivanisevic",
+      "top_rank": 61,
+      "unique_atp_player": 5
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Ivan Ljubicic",
+      "top_rank": 8,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Marin Cilic",
+      "top_rank": 9,
+      "unique_atp_player": 8
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Marin Cilic",
+      "top_rank": 8,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Borna Coric",
+      "top_rank": 24,
+      "unique_atp_player": 4
+    }
+  },
+  "RUS": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Teimuraz Kakulia",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Vadim Borisov",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Konstantin Pugaev",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Andrei Chesnokov",
+      "top_rank": 10,
+      "unique_atp_player": 4
+    },
+    "1995": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Yevgeny Kafelnikov",
+      "top_rank": 4,
+      "unique_atp_player": 5
+    },
+    "2000": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Marat Safin",
+      "top_rank": 1,
+      "unique_atp_player": 7
+    },
+    "2005": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Marat Safin",
+      "top_rank": 4,
+      "unique_atp_player": 6
+    },
+    "2010": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Nikolay Davydenko",
+      "top_rank": 5,
+      "unique_atp_player": 8
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Mikhail Youzhny",
+      "top_rank": 56,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Daniil Medvedev",
+      "top_rank": 4,
+      "unique_atp_player": 7
+    }
+  },
+  "COL": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ivan Molina",
+      "top_rank": 49,
+      "unique_atp_player": 3
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jairo Velasco Sr",
+      "top_rank": 64,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alvaro Jordan",
+      "top_rank": 579,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mauricio Hadad",
+      "top_rank": 333,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mauricio Hadad",
+      "top_rank": 78,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Carlos Drada",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Alejandro Falla",
+      "top_rank": 256,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Santiago Giraldo",
+      "top_rank": 56,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Santiago Giraldo",
+      "top_rank": 31,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Daniel Elahi Galan",
+      "top_rank": 148,
+      "unique_atp_player": 1
+    }
+  },
+  "SUI": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Petr Kanderal",
+      "top_rank": 181,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Heinz Gunthardt",
+      "top_rank": 25,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Heinz Gunthardt",
+      "top_rank": 26,
+      "unique_atp_player": 5
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Marc Rosset",
+      "top_rank": 21,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Marc Rosset",
+      "top_rank": 10,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Roger Federer",
+      "top_rank": 24,
+      "unique_atp_player": 6
+    },
+    "2005": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Roger Federer",
+      "top_rank": 1,
+      "unique_atp_player": 6
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Roger Federer",
+      "top_rank": 1,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Roger Federer",
+      "top_rank": 2,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Roger Federer",
+      "top_rank": 3,
+      "unique_atp_player": 4
+    }
+  },
+  "BEL": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Mignot",
+      "top_rank": 120,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Boileau",
+      "top_rank": 153,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Libor Pimek",
+      "top_rank": 21,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Eduardo Masso",
+      "top_rank": 122,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Johan Van Herck",
+      "top_rank": 104,
+      "unique_atp_player": 5
+    },
+    "2000": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Olivier Rochus",
+      "top_rank": 75,
+      "unique_atp_player": 5
+    },
+    "2005": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Olivier Rochus",
+      "top_rank": 24,
+      "unique_atp_player": 6
+    },
+    "2010": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Xavier Malisse",
+      "top_rank": 52,
+      "unique_atp_player": 6
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "David Goffin",
+      "top_rank": 14,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "David Goffin",
+      "top_rank": 10,
+      "unique_atp_player": 4
+    }
+  },
+  "POL": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jacek Niedzwiedzki",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Wojtek Fibak",
+      "top_rank": 11,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Wojtek Fibak",
+      "top_rank": 45,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Wojtek Kowalski",
+      "top_rank": 337,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Wojtek Kowalski",
+      "top_rank": 152,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Bartlomiej Dabrowski",
+      "top_rank": 344,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Lukasz Kubot",
+      "top_rank": 195,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Lukasz Kubot",
+      "top_rank": 42,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jerzy Janowicz",
+      "top_rank": 42,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Hubert Hurkacz",
+      "top_rank": 29,
+      "unique_atp_player": 4
+    }
+  },
+  "HUN": {
+    "1975": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Balazs Taroczy",
+      "top_rank": 48,
+      "unique_atp_player": 5
+    },
+    "1980": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Balazs Taroczy",
+      "top_rank": 15,
+      "unique_atp_player": 4
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Balazs Taroczy",
+      "top_rank": 43,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Sandor Noszaly",
+      "top_rank": 95,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Attila Savolt",
+      "top_rank": 108,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Kornel Bardoczky",
+      "top_rank": 466,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Attila Balazs",
+      "top_rank": 224,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Marton Fucsovics",
+      "top_rank": 165,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Marton Fucsovics",
+      "top_rank": 63,
+      "unique_atp_player": 2
+    }
+  },
+  "CAN": {
+    "1975": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Mike Belkin",
+      "top_rank": 270,
+      "unique_atp_player": 5
+    },
+    "1980": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Harry Fritz",
+      "top_rank": 267,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Martin Wostenholme",
+      "top_rank": 97,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Andrew Sznajder",
+      "top_rank": 65,
+      "unique_atp_player": 5
+    },
+    "1995": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Sebastien Lareau",
+      "top_rank": 80,
+      "unique_atp_player": 5
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Sebastien Lareau",
+      "top_rank": 127,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Frank Dancevic",
+      "top_rank": 146,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Jesse Levine",
+      "top_rank": 116,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Milos Raonic",
+      "top_rank": 6,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Denis Shapovalov",
+      "top_rank": 11,
+      "unique_atp_player": 4
+    }
+  },
+  "SRB": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Nicola Spear",
+      "top_rank": 84,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Slobodan Zivojinovic",
+      "top_rank": 66,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Slobodan Zivojinovic",
+      "top_rank": 91,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Dejan Petrovic",
+      "top_rank": 169,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Novak Djokovic",
+      "top_rank": 85,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Novak Djokovic",
+      "top_rank": 2,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Novak Djokovic",
+      "top_rank": 1,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Novak Djokovic",
+      "top_rank": 1,
+      "unique_atp_player": 8
+    }
+  },
+  "ARG": {
+    "1975": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Guillermo Vilas",
+      "top_rank": 1,
+      "unique_atp_player": 6
+    },
+    "1980": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 1,
+      "top_player": "Guillermo Vilas",
+      "top_rank": 4,
+      "unique_atp_player": 6
+    },
+    "1985": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 0,
+      "top_player": "Martin Jaite",
+      "top_rank": 19,
+      "unique_atp_player": 14
+    },
+    "1990": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 1,
+      "top_player": "Martin Jaite",
+      "top_rank": 10,
+      "unique_atp_player": 12
+    },
+    "1995": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Javier Frana",
+      "top_rank": 32,
+      "unique_atp_player": 6
+    },
+    "2000": {
+      "ever_in_top100": 16,
+      "ever_in_top10": 0,
+      "top_player": "Franco Squillari",
+      "top_rank": 12,
+      "unique_atp_player": 16
+    },
+    "2005": {
+      "ever_in_top100": 13,
+      "ever_in_top10": 1,
+      "top_player": "Guillermo Coria",
+      "top_rank": 5,
+      "unique_atp_player": 13
+    },
+    "2010": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 1,
+      "top_player": "Juan Martin del Potro",
+      "top_rank": 5,
+      "unique_atp_player": 11
+    },
+    "2015": {
+      "ever_in_top100": 12,
+      "ever_in_top10": 0,
+      "top_player": "Leonardo Mayer",
+      "top_rank": 21,
+      "unique_atp_player": 12
+    },
+    "2020": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Diego Schwartzman",
+      "top_rank": 9,
+      "unique_atp_player": 8
+    }
+  },
+  "VEN": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jorge Andrew",
+      "top_rank": 137,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Nicolas Pereira",
+      "top_rank": 90,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Nicolas Pereira",
+      "top_rank": 96,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jimy Szymanski",
+      "top_rank": 170,
+      "unique_atp_player": 5
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jose De Armas",
+      "top_rank": 449,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "David Souto",
+      "top_rank": 449,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ricardo Rodriguez - Pace",
+      "top_rank": 341,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Luis David Martinez",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "BOL": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ramiro Benavides",
+      "top_rank": 111,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mario Martinez",
+      "top_rank": 34,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Oscar Blacutt",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Jose Medrano",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mauricio Doria-Medina",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Hugo Dellien",
+      "top_rank": 249,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Hugo Dellien",
+      "top_rank": 94,
+      "unique_atp_player": 1
+    }
+  },
+  "YUG": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Boro Jovanovic",
+      "top_rank": 193,
+      "unique_atp_player": 1
+    }
+  },
+  "MON": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Balleret",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Balleret",
+      "top_rank": 768,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Gilles Ganancia",
+      "top_rank": 793,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Jean-Rene Lisnard",
+      "top_rank": 138,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jean-Rene Lisnard",
+      "top_rank": 95,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Benjamin Balleret",
+      "top_rank": 249,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Benjamin Balleret",
+      "top_rank": 331,
+      "unique_atp_player": 2
+    }
+  },
+  "BUL": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Bojidar Pampoulov",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Lyuben Petrov",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Julian Stamatov",
+      "top_rank": 703,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ruslon Rainov",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Orlin Stanoytchev",
+      "top_rank": 96,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Todor Enev",
+      "top_rank": 342,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Grigor Dimitrov",
+      "top_rank": 327,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Grigor Dimitrov",
+      "top_rank": 10,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Grigor Dimitrov",
+      "top_rank": 19,
+      "unique_atp_player": 4
+    }
+  },
+  "PAR": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Victor Pecci",
+      "top_rank": 50,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Victor Pecci",
+      "top_rank": 8,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Victor Pecci",
+      "top_rank": 36,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ricardo Mena",
+      "top_rank": 285,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Francisco Rodriguez",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ramon Delgado",
+      "top_rank": 230,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Diego Galeano",
+      "top_rank": 100,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Adolfo Daniel Vallejo",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "TUR": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Cahit Atas",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alaaddin Karagoz",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Efe Ustundag",
+      "top_rank": 611,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marsel Ilhan",
+      "top_rank": 118,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Marsel Ilhan",
+      "top_rank": 77,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Cem Ilkel",
+      "top_rank": 279,
+      "unique_atp_player": 2
+    }
+  },
+  "POR": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jose Vilela",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Joao Cunha-Silva",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Nuno Marques",
+      "top_rank": 109,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Nuno Marques",
+      "top_rank": 92,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bernardo Mota",
+      "top_rank": 352,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Rui Machado",
+      "top_rank": 252,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Fred Gil",
+      "top_rank": 83,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Joao Sousa",
+      "top_rank": 43,
+      "unique_atp_player": 5
+    },
+    "2020": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Joao Sousa",
+      "top_rank": 65,
+      "unique_atp_player": 4
+    }
+  },
+  "URU": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Fabian Barriola",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Jose Luis Damiani",
+      "top_rank": 68,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Diego Perez",
+      "top_rank": 44,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Filippini",
+      "top_rank": 30,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Filippini",
+      "top_rank": 58,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Federico Dondo",
+      "top_rank": 334,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Marcel Felder",
+      "top_rank": 473,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Pablo Cuevas",
+      "top_rank": 47,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Pablo Cuevas",
+      "top_rank": 23,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Pablo Cuevas",
+      "top_rank": 44,
+      "unique_atp_player": 1
+    }
+  },
+  "PER": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Miguel Maurtua",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Fernando Maynetto",
+      "top_rank": 190,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Pablo Arraya",
+      "top_rank": 60,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jaime Yzaga",
+      "top_rank": 24,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jaime Yzaga",
+      "top_rank": 29,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Americo Tupi Venero",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Luis Horna",
+      "top_rank": 51,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Ivan Miranda",
+      "top_rank": 337,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Duilio Beretta",
+      "top_rank": 409,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Juan Pablo Varillas",
+      "top_rank": 135,
+      "unique_atp_player": 1
+    }
+  },
+  "KOR": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Moon Il Kim",
+      "top_rank": 289,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Gap-Taik Ro",
+      "top_rank": 100,
+      "unique_atp_player": 4
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bong-Soo Kim",
+      "top_rank": 173,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Yong-Il Yoon",
+      "top_rank": 324,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Hyung-Taik Lee",
+      "top_rank": 99,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Hyung-Taik Lee",
+      "top_rank": 58,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Yong-Kyu Lim",
+      "top_rank": 299,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Hyeon Chung",
+      "top_rank": 58,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Soonwoo Kwon",
+      "top_rank": 73,
+      "unique_atp_player": 1
+    }
+  },
+  "INA": {
+    "1975": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Gondo Widjojo",
+      "top_rank": 254,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Suwandi Suwandi",
+      "top_rank": 487,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Suwandi Suwandi",
+      "top_rank": 490,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Prima Simpatiaji",
+      "top_rank": 661,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Christopher Rungkat",
+      "top_rank": 668,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Christopher Rungkat",
+      "top_rank": 582,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Christopher Rungkat",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    }
+  },
+  "PHI": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Eddie Cruz",
+      "top_rank": 377,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Felix Barrientos",
+      "top_rank": 100,
+      "unique_atp_player": 4
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Joseph Lizardo",
+      "top_rank": 778,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Johnny Arcilla",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Cecil Mamiit",
+      "top_rank": 227,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Cecil Mamiit",
+      "top_rank": 513,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Patrick Tierro",
+      "top_rank": 1089,
+      "unique_atp_player": 4
+    }
+  },
+  "IRI": {
+    "1975": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Kanyab Derafshijavan",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mansour Bahrami",
+      "top_rank": 343,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mansour Bahrami",
+      "top_rank": 679,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mohammad Reza Tavakoli",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ramin Raziani",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ashkan Shokoofi",
+      "top_rank": 900,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Shahin Khaledan",
+      "top_rank": 2100,
+      "unique_atp_player": 1
+    }
+  },
+  "IRL": {
+    "1975": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Michael Hickey",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Sean Sorensen",
+      "top_rank": 182,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Matt Doyle",
+      "top_rank": 136,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Eoin Collins",
+      "top_rank": 1032,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Owen Casey",
+      "top_rank": 489,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Peter Clarke",
+      "top_rank": 449,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Conor Niland",
+      "top_rank": 162,
+      "unique_atp_player": 4
+    }
+  },
+  "ISR": {
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Shlomo Glickstein",
+      "top_rank": 59,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Shahar Perkiss",
+      "top_rank": 55,
+      "unique_atp_player": 5
+    },
+    "1990": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Amos Mansdorf",
+      "top_rank": 32,
+      "unique_atp_player": 6
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Eyal Ran",
+      "top_rank": 199,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Harel Levy",
+      "top_rank": 61,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Noam Okun",
+      "top_rank": 144,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Dudi Sela",
+      "top_rank": 43,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Dudi Sela",
+      "top_rank": 85,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Edan Leshem",
+      "top_rank": 355,
+      "unique_atp_player": 2
+    }
+  },
+  "ECU": {
+    "1980": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Andres Gomez",
+      "top_rank": 45,
+      "unique_atp_player": 2
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Andres Gomez",
+      "top_rank": 5,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Andres Gomez",
+      "top_rank": 4,
+      "unique_atp_player": 4
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Luis Adrian Morejon",
+      "top_rank": 184,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 1,
+      "top_player": "Nicolas Lapentti",
+      "top_rank": 7,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Nicolas Lapentti",
+      "top_rank": 77,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Nicolas Lapentti",
+      "top_rank": 102,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Gonzalo Escobar",
+      "top_rank": 291,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Emilio Gomez",
+      "top_rank": 151,
+      "unique_atp_player": 2
+    }
+  },
+  "PUR": {
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ernie Fernandez",
+      "top_rank": 691,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ernie Fernandez",
+      "top_rank": 228,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Miguel Nido",
+      "top_rank": 128,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Alex Llompart",
+      "top_rank": 1259,
+      "unique_atp_player": 3
+    }
+  },
+  "CHN": {
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Zhao Xie",
+      "top_rank": 682,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Wei You",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jia-Ping Xia",
+      "top_rank": 612,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bing Pan",
+      "top_rank": 181,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ben-Qiang Zhu",
+      "top_rank": 427,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Peng Sun",
+      "top_rank": 300,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Yan Bai",
+      "top_rank": 465,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Ze Zhang",
+      "top_rank": 214,
+      "unique_atp_player": 5
+    }
+  },
+  "THA": {
+    "1980": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Supot Meesawat",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Tanakorn Srichaphan",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Worapol Thongkamcho",
+      "top_rank": 677,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Naratorn Srichaphan",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Paradorn Srichaphan",
+      "top_rank": 89,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Paradorn Srichaphan",
+      "top_rank": 27,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Kittipong Wachiramanowong",
+      "top_rank": 458,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Warit Sornbutnark",
+      "top_rank": 1009,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Wishaya Trongcharoenchaikul",
+      "top_rank": 623,
+      "unique_atp_player": 1
+    }
+  },
+  "HKG": {
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Kelvin Ng",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mark Bailey",
+      "top_rank": 818,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Thorsten Poelzl",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Melvin Tong",
+      "top_rank": 1298,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Hiu-Tung Yu",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    }
+  },
+  "SIN": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mahader Hassan",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "TPE": {
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Huang-Jung Hsu",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Chung-Hsing Liu",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Chih-Jung Chen",
+      "top_rank": 647,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Wei-Jen Cheng",
+      "top_rank": 835,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Yen-Hsun Lu",
+      "top_rank": 87,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Yen-Hsun Lu",
+      "top_rank": 34,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Yen-Hsun Lu",
+      "top_rank": 38,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jason Jung",
+      "top_rank": 131,
+      "unique_atp_player": 3
+    }
+  },
+  "SVK": {
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Miloslav Mecir Sr.",
+      "top_rank": 11,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Miloslav Mecir Sr.",
+      "top_rank": 25,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Karol Kucera",
+      "top_rank": 42,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Dominik Hrbaty",
+      "top_rank": 14,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Dominik Hrbaty",
+      "top_rank": 17,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Lukas Lacko",
+      "top_rank": 60,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Martin Klizan",
+      "top_rank": 28,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Andrej Martin",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    }
+  },
+  "HAI": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ronald Agenor",
+      "top_rank": 50,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ronald Agenor",
+      "top_rank": 25,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ronald Agenor",
+      "top_rank": 74,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ronald Agenor",
+      "top_rank": 88,
+      "unique_atp_player": 1
+    }
+  },
+  "ALG": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Djamel Boudjemline",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Reda Galou",
+      "top_rank": 1290,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Slimane Saoudi",
+      "top_rank": 444,
+      "unique_atp_player": 1
+    }
+  },
+  "CYP": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alkis Papamichael",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcos Baghdatis",
+      "top_rank": 72,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcos Baghdatis",
+      "top_rank": 18,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcos Baghdatis",
+      "top_rank": 46,
+      "unique_atp_player": 1
+    }
+  },
+  "NOR": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Tony Jonsson",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Anders Haseth",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Christian Ruud",
+      "top_rank": 51,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Christian Ruud",
+      "top_rank": 87,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jan Frode Andersen",
+      "top_rank": 221,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Casper Ruud",
+      "top_rank": 25,
+      "unique_atp_player": 3
+    }
+  },
+  "GRE": {
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "George Kalovelonis",
+      "top_rank": 301,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Tasos Bavelas",
+      "top_rank": 975,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Solon Peppas",
+      "top_rank": 174,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Vasilis Mazarakis",
+      "top_rank": 162,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 1,
+      "top_player": "Stefanos Tsitsipas",
+      "top_rank": 5,
+      "unique_atp_player": 2
+    }
+  },
+  "MAR": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Arafa Chekrouni",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Karim Alami",
+      "top_rank": 438,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Karim Alami",
+      "top_rank": 68,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Younes El Aynaoui",
+      "top_rank": 15,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Mounir El Aarej",
+      "top_rank": 366,
+      "unique_atp_player": 4
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Younes El Aynaoui",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Lamine Ouahab",
+      "top_rank": 313,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Adam Moundir",
+      "top_rank": 458,
+      "unique_atp_player": 3
+    }
+  },
+  "SEN": {
+    "1985": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Yahiya Doumbia",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Yahiya Doumbia",
+      "top_rank": 282,
+      "unique_atp_player": 1
+    }
+  },
+  "DEN": {
+    "1985": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Peter Bastiansen",
+      "top_rank": 263,
+      "unique_atp_player": 3
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Michael Tauson",
+      "top_rank": 126,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Kenneth Carlsen",
+      "top_rank": 65,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Kristian Pless",
+      "top_rank": 254,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Kenneth Carlsen",
+      "top_rank": 52,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Frederik Nielsen",
+      "top_rank": 252,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Frederik Nielsen",
+      "top_rank": 306,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mikael Torpegaard",
+      "top_rank": 170,
+      "unique_atp_player": 3
+    }
+  },
+  "NGR": {
+    "1985": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Nduka Odizor",
+      "top_rank": 76,
+      "unique_atp_player": 2
+    },
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Nduka Odizor",
+      "top_rank": 170,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Sule Ladipo",
+      "top_rank": 278,
+      "unique_atp_player": 1
+    }
+  },
+  "IRQ": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ali Kadhim",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "BRN": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Esam Abdulaal",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "CIV": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Clement N'Goran",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Claude N'Goran",
+      "top_rank": 228,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Valentin Sanon",
+      "top_rank": 596,
+      "unique_atp_player": 2
+    }
+  },
+  "KEN": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Paul Wekesa",
+      "top_rank": 268,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Paul Wekesa",
+      "top_rank": 108,
+      "unique_atp_player": 1
+    }
+  },
+  "CRC": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Kenneth Thome Bolanos",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Juan Antonio Marin",
+      "top_rank": 70,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Juan Antonio Marin",
+      "top_rank": 184,
+      "unique_atp_player": 1
+    }
+  },
+  "DOM": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Rafael Moreno",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Jhonson Garcia",
+      "top_rank": 1356,
+      "unique_atp_player": 3
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Jhonson Garcia",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Victor Estrella Burgos",
+      "top_rank": 43,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Roberto Cid Subervi",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "MAS": {
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Adam Malik",
+      "top_rank": 776,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Selvam Veerasingam",
+      "top_rank": 437,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Selvam Veerasingam",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Yew-Ming Si",
+      "top_rank": 1763,
+      "unique_atp_player": 2
+    }
+  },
+  "MLI": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ka-Vhel Kam",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "KUW": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Khaled Ashkanani",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Muhammad Khaliq Siddiq",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Abdullah Maqdes",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mohammad Ghareeb",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "SYR": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Dawood Dawoodian",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Hazem Naw",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "CUB": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Mario Tabares",
+      "top_rank": 133,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Juan Pino",
+      "top_rank": 620,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Sandor Martinez",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ricardo Chile-Fonte",
+      "top_rank": 598,
+      "unique_atp_player": 1
+    }
+  },
+  "BAH": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Roger Smith",
+      "top_rank": 291,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Roger Smith",
+      "top_rank": 176,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Mark Merklein",
+      "top_rank": 632,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Devin Mullings",
+      "top_rank": 1478,
+      "unique_atp_player": 1
+    }
+  },
+  "BAR": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Bernard Frost",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Darian King",
+      "top_rank": 243,
+      "unique_atp_player": 1
+    }
+  },
+  "SRI": {
+    "1990": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Umesha Wallooppillai",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jayendra Wijeyesekera",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Harshana Godamanna",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Sharmal Dissanayake",
+      "top_rank": 2017,
+      "unique_atp_player": 2
+    }
+  },
+  "TOG": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Goudjo Gbedey",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "ZAM": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Fred Kangwa",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "MLT": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Christopher Gatt",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "GHA": {
+    "1990": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Frank Ofori",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Frank Ofori",
+      "top_rank": 361,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Henry Adjei-Darko",
+      "top_rank": 426,
+      "unique_atp_player": 2
+    }
+  },
+  "UKR": {
+    "1990": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Dimitri Poliakov",
+      "top_rank": 172,
+      "unique_atp_player": 1
+    },
+    "1995": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Andrei Medvedev",
+      "top_rank": 14,
+      "unique_atp_player": 4
+    },
+    "2000": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Andrei Medvedev",
+      "top_rank": 20,
+      "unique_atp_player": 3
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Sergiy Stakhovsky",
+      "top_rank": 205,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Sergiy Stakhovsky",
+      "top_rank": 31,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Alexandr Dolgopolov",
+      "top_rank": 23,
+      "unique_atp_player": 4
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Sergiy Stakhovsky",
+      "top_rank": 167,
+      "unique_atp_player": 2
+    }
+  },
+  "GUA": {
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Luis Perez-Chete",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jacobo Chavez",
+      "top_rank": 1078,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Julen Uriguen",
+      "top_rank": 1076,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Wilfredo Gonzalez",
+      "top_rank": 1089,
+      "unique_atp_player": 1
+    }
+  },
+  "UZB": {
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Oleg Ogorodov",
+      "top_rank": 144,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Oleg Ogorodov",
+      "top_rank": 145,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Farrukh Dustov",
+      "top_rank": 334,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Denis Istomin",
+      "top_rank": 39,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Denis Istomin",
+      "top_rank": 53,
+      "unique_atp_player": 1
+    }
+  },
+  "LAT": {
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Armand Strombach",
+      "top_rank": 568,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Raimonds Sproga",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Andis Juska",
+      "top_rank": 357,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ernests Gulbis",
+      "top_rank": 25,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ernests Gulbis",
+      "top_rank": 15,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ernests Gulbis",
+      "top_rank": 161,
+      "unique_atp_player": 2
+    }
+  },
+  "BLR": {
+    "1995": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Vladimir Voltchkov",
+      "top_rank": 100,
+      "unique_atp_player": 3
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Max Mirnyi",
+      "top_rank": 38,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Max Mirnyi",
+      "top_rank": 25,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Uladzimir Ignatik",
+      "top_rank": 160,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Dzmitry Zhyrmont",
+      "top_rank": 241,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Egor Gerasimov",
+      "top_rank": 68,
+      "unique_atp_player": 2
+    }
+  },
+  "EST": {
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alti Vahkal",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Rene Busch",
+      "top_rank": 100,
+      "unique_atp_player": 4
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Andrei Luzgin",
+      "top_rank": 1311,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Jurgen Zopp",
+      "top_rank": 354,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Kristjan Tamm",
+      "top_rank": 729,
+      "unique_atp_player": 2
+    }
+  },
+  "LTU": {
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Rolandas Murashka",
+      "top_rank": 590,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Rolandas Murashka",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ricardas Berankis",
+      "top_rank": 106,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ricardas Berankis",
+      "top_rank": 72,
+      "unique_atp_player": 2
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ricardas Berankis",
+      "top_rank": 65,
+      "unique_atp_player": 1
+    }
+  },
+  "LUX": {
+    "1995": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Adrian Graimprey",
+      "top_rank": 1224,
+      "unique_atp_player": 2
+    },
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Gilles Muller",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Gilles Muller",
+      "top_rank": 59,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Gilles Muller",
+      "top_rank": 206,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Gilles Muller",
+      "top_rank": 34,
+      "unique_atp_player": 1
+    }
+  },
+  "ARM": {
+    "1995": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Sargis Sargsian",
+      "top_rank": 392,
+      "unique_atp_player": 1
+    },
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Sargis Sargsian",
+      "top_rank": 54,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Sargis Sargsian",
+      "top_rank": 79,
+      "unique_atp_player": 1
+    }
+  },
+  "LBN": {
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ali Hamadeh",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Patrick Chucri",
+      "top_rank": 1478,
+      "unique_atp_player": 2
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Hady Habib",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Benjamin Hassan",
+      "top_rank": 348,
+      "unique_atp_player": 1
+    }
+  },
+  "KAZ": {
+    "2000": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alexey Kedryuk",
+      "top_rank": 1207,
+      "unique_atp_player": 1
+    },
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alexey Kedryuk",
+      "top_rank": 425,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Andrey Golubev",
+      "top_rank": 34,
+      "unique_atp_player": 4
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mikhail Kukushkin",
+      "top_rank": 48,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alexander Bublik",
+      "top_rank": 47,
+      "unique_atp_player": 2
+    }
+  },
+  "SLO": {
+    "2000": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Marko Tkalec",
+      "top_rank": 325,
+      "unique_atp_player": 2
+    },
+    "2005": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Grega Zemlja",
+      "top_rank": 395,
+      "unique_atp_player": 5
+    },
+    "2010": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Blaz Kavcic",
+      "top_rank": 100,
+      "unique_atp_player": 5
+    },
+    "2015": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Aljaz Bedene",
+      "top_rank": 48,
+      "unique_atp_player": 6
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Aljaz Bedene",
+      "top_rank": 47,
+      "unique_atp_player": 1
+    }
+  },
+  "BIH": {
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Amer Delic",
+      "top_rank": 173,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Aldin Setkic",
+      "top_rank": 330,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Damir Dzumhur",
+      "top_rank": 87,
+      "unique_atp_player": 3
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Damir Dzumhur",
+      "top_rank": 107,
+      "unique_atp_player": 1
+    }
+  },
+  "JAM": {
+    "2005": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Ryan Russell",
+      "top_rank": 736,
+      "unique_atp_player": 2
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Dustin Brown",
+      "top_rank": 106,
+      "unique_atp_player": 1
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Dustin Brown",
+      "top_rank": 80,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Blaise Bicknell",
+      "top_rank": 1316,
+      "unique_atp_player": 1
+    }
+  },
+  "SOL": {
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Michael Leong",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    },
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Michael Leong",
+      "top_rank": 1274,
+      "unique_atp_player": 1
+    }
+  },
+  "SAM": {
+    "2005": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Juan Langton",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "AND": {
+    "2010": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Laurent Recouderc",
+      "top_rank": 139,
+      "unique_atp_player": 1
+    }
+  },
+  "MKD": {
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Predrag Rusevski",
+      "top_rank": 615,
+      "unique_atp_player": 2
+    }
+  },
+  "AHO": {
+    "2010": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alexander Blom",
+      "top_rank": 1328,
+      "unique_atp_player": 2
+    }
+  },
+  "ESA": {
+    "2010": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Arevalo",
+      "top_rank": 489,
+      "unique_atp_player": 3
+    },
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Arevalo",
+      "top_rank": 280,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Marcelo Arevalo",
+      "top_rank": 410,
+      "unique_atp_player": 1
+    }
+  },
+  "TUN": {
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Malek Jaziri",
+      "top_rank": 75,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Malek Jaziri",
+      "top_rank": 259,
+      "unique_atp_player": 1
+    }
+  },
+  "MDA": {
+    "2015": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Radu Albot",
+      "top_rank": 107,
+      "unique_atp_player": 1
+    },
+    "2020": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Radu Albot",
+      "top_rank": 79,
+      "unique_atp_player": 1
+    }
+  },
+  "MAD": {
+    "2015": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Antso Rakotondramanga",
+      "top_rank": 1581,
+      "unique_atp_player": 3
+    }
+  }
+}
