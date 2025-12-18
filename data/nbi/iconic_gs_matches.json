@@ -1,0 +1,382 @@
+[
+  {
+    "match": "Felix Auger-Aliassime def. Alex de Minaur",
+    "tourney": "US Open",
+    "round": "QF",
+    "date": "20250824",
+    "score": "4-6 7-6(7) 7-5 7-6(4)",
+    "duration": 253,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Denis Shapovalov def. Valentin Royer",
+    "tourney": "US Open",
+    "round": "R64",
+    "date": "20250824",
+    "score": "7-6(6) 3-6 7-6(4) 6-3",
+    "duration": 219,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "August Holmgren def. Tomas Machac",
+    "tourney": "Wimbledon",
+    "round": "R64",
+    "date": "20250630",
+    "score": "7-6(5) 6-7(8) 6-7(5) 7-5 7-6(5)",
+    "duration": 279,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 4,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Lloyd Harris def. Zizou Bergs",
+    "tourney": "Wimbledon",
+    "round": "R128",
+    "date": "20250630",
+    "score": "7-6(7) 7-6(2) 6-7(5) 6-2",
+    "duration": 246,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Taylor Fritz def. Giovanni Mpetshi Perricard",
+    "tourney": "Wimbledon",
+    "round": "R128",
+    "date": "20250630",
+    "score": "6-7(6) 6-7(8) 6-4 7-6(6) 6-4",
+    "duration": 205,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Arthur Rinderknech def. Alexander Zverev",
+    "tourney": "Wimbledon",
+    "round": "R128",
+    "date": "20250630",
+    "score": "7-6(3) 6-7(8) 6-3 6-7(5) 6-4",
+    "duration": 280,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Jesper de Jong def. Christopher Eubanks",
+    "tourney": "Wimbledon",
+    "round": "R128",
+    "date": "20250630",
+    "score": "6-3 6-7(5) 6-7(7) 6-3 7-6(3)",
+    "duration": 269,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Carlos Alcaraz def. Jannik Sinner",
+    "tourney": "Roland Garros",
+    "round": "F",
+    "date": "20250526",
+    "score": "4-6 6-7(4) 6-4 7-6(3) 7-6(2)",
+    "duration": 329,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Stephane Simian def. Kevin Curren",
+    "tourney": "US Open",
+    "round": "R64",
+    "date": "19910826",
+    "score": "6-3 6-7(4) 7-6(4) 6-4",
+    "duration": 207,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Karel Novacek def. Nuno Marques",
+    "tourney": "US Open",
+    "round": "R64",
+    "date": "19910826",
+    "score": "6-7(1) 7-6(5) 6-4 3-6 6-3",
+    "duration": 202,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Boris Becker def. Guy Forget",
+    "tourney": "Wimbledon",
+    "round": "QF",
+    "date": "19910624",
+    "score": "6-7(5) 7-6(3) 6-2 7-6(7)",
+    "duration": 230,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Jack Draper def. Aleksandar Vukic",
+    "tourney": "Australian Open",
+    "round": "R32",
+    "date": "20250113",
+    "score": "6-4 2-6 5-7 7-6(5) 7-6(8)",
+    "duration": 238,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Tomas Machac def. Reilly Opelka",
+    "tourney": "Australian Open",
+    "round": "R64",
+    "date": "20250113",
+    "score": "3-6 7-6(1) 6-7(5) 7-6(4) 6-4",
+    "duration": 205,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Frances Tiafoe def. Arthur Rinderknech",
+    "tourney": "Australian Open",
+    "round": "R128",
+    "date": "20250113",
+    "score": "7-6(2) 6-3 4-6 6-7(4) 6-3",
+    "duration": 248,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Gael Monfils def. Giovanni Mpetshi Perricard",
+    "tourney": "Australian Open",
+    "round": "R128",
+    "date": "20250113",
+    "score": "7-6(7) 6-3 6-7(6) 6-7(5) 6-4",
+    "duration": 226,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Lorenzo Musetti def. Matteo Arnaldi",
+    "tourney": "Australian Open",
+    "round": "R128",
+    "date": "20250113",
+    "score": "7-6(4) 4-6 7-6(5) 6-3",
+    "duration": 246,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Taylor Fritz def. Alexander Zverev",
+    "tourney": "US Open",
+    "round": "QF",
+    "date": "20240826",
+    "score": "7-6(2) 3-6 6-4 7-6(3)",
+    "duration": 206,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Daniel Evans def. Karen Khachanov",
+    "tourney": "US Open",
+    "round": "R128",
+    "date": "20240826",
+    "score": "6-7(6) 7-6(2) 7-6(4) 4-6 6-4",
+    "duration": 335,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 3,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Taylor Fritz def. Alexander Zverev",
+    "tourney": "Wimbledon",
+    "round": "R16",
+    "date": "20240701",
+    "score": "4-6 6-7(4) 6-4 7-6(3) 6-3",
+    "duration": 209,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Roberto Bautista Agut def. Fabio Fognini",
+    "tourney": "Wimbledon",
+    "round": "R32",
+    "date": "20240701",
+    "score": "7-6(6) 3-6 5-7 7-6(1) 6-4",
+    "duration": 266,
+    "NBI": 1.3,
+    "NBI_100": 130.0,
+    "drama_tags": "comeback, tiebreaks, momentum",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 3,
+      "comeback": 2,
+      "bp_saved_ratio": 0.65,
+      "bp_total": 20.0
+    }
+  }
+]

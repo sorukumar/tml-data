@@ -1,0 +1,101 @@
+,index,tourney_name,tourney_date,round,minutes,score,winner_name,loser_name,NBI,comeback,avg_set_margin,tiebreak_count,lead_changes,bp_saved_ratio,bp_total
+0,197297,US Open,20250824,QF,253.0,4-6 7-6(7) 7-5 7-6(4),Felix Auger-Aliassime,Alex de Minaur,1.3,2,2.0,2,3,0.65,20.0
+1,197263,US Open,20250824,R64,219.0,7-6(6) 3-6 7-6(4) 6-3,Denis Shapovalov,Valentin Royer,1.3,2,2.0,2,3,0.65,20.0
+2,196701,Wimbledon,20250630,R64,279.0,7-6(5) 6-7(8) 6-7(5) 7-5 7-6(5),August Holmgren,Tomas Machac,1.3,2,2.0,4,3,0.65,20.0
+3,196683,Wimbledon,20250630,R128,246.0,7-6(7) 7-6(2) 6-7(5) 6-2,Lloyd Harris,Zizou Bergs,1.3,2,2.0,3,3,0.65,20.0
+4,196663,Wimbledon,20250630,R128,205.0,6-7(6) 6-7(8) 6-4 7-6(6) 6-4,Taylor Fritz,Giovanni Mpetshi Perricard,1.3,2,2.0,3,3,0.65,20.0
+5,196662,Wimbledon,20250630,R128,280.0,7-6(3) 6-7(8) 6-3 6-7(5) 6-4,Arthur Rinderknech,Alexander Zverev,1.3,2,2.0,3,3,0.65,20.0
+6,196647,Wimbledon,20250630,R128,269.0,6-3 6-7(5) 6-7(7) 6-3 7-6(3),Jesper de Jong,Christopher Eubanks,1.3,2,2.0,3,3,0.65,20.0
+7,196458,Roland Garros,20250526,F,329.0,4-6 6-7(4) 6-4 7-6(3) 7-6(2),Carlos Alcaraz,Jannik Sinner,1.3,2,2.0,3,3,0.65,20.0
+8,89365,US Open,19910826,R64,207.0,6-3 6-7(4) 7-6(4) 6-4,Stephane Simian,Kevin Curren,1.3,2,2.0,2,3,0.65,20.0
+9,89355,US Open,19910826,R64,202.0,6-7(1) 7-6(5) 6-4 3-6 6-3,Karel Novacek,Nuno Marques,1.3,2,2.0,2,3,0.65,20.0
+10,88607,Wimbledon,19910624,QF,230.0,6-7(5) 7-6(3) 6-2 7-6(7),Boris Becker,Guy Forget,1.3,2,2.0,3,3,0.65,20.0
+11,195228,Australian Open,20250113,R32,238.0,6-4 2-6 5-7 7-6(5) 7-6(8),Jack Draper,Aleksandar Vukic,1.3,2,2.0,2,3,0.65,20.0
+12,195209,Australian Open,20250113,R64,205.0,3-6 7-6(1) 6-7(5) 7-6(4) 6-4,Tomas Machac,Reilly Opelka,1.3,2,2.0,3,3,0.65,20.0
+13,195152,Australian Open,20250113,R128,248.0,7-6(2) 6-3 4-6 6-7(4) 6-3,Frances Tiafoe,Arthur Rinderknech,1.3,2,2.0,2,3,0.65,20.0
+14,195129,Australian Open,20250113,R128,226.0,7-6(7) 6-3 6-7(6) 6-7(5) 6-4,Gael Monfils,Giovanni Mpetshi Perricard,1.3,2,2.0,3,3,0.65,20.0
+15,195124,Australian Open,20250113,R128,246.0,7-6(4) 4-6 7-6(5) 6-3,Lorenzo Musetti,Matteo Arnaldi,1.3,2,2.0,2,3,0.65,20.0
+16,194331,US Open,20240826,QF,206.0,7-6(2) 3-6 6-4 7-6(3),Taylor Fritz,Alexander Zverev,1.3,2,2.0,2,3,0.65,20.0
+17,194252,US Open,20240826,R128,335.0,6-7(6) 7-6(2) 7-6(4) 4-6 6-4,Daniel Evans,Karen Khachanov,1.3,2,2.0,3,3,0.65,20.0
+18,193741,Wimbledon,20240701,R16,209.0,4-6 6-7(4) 6-4 7-6(3) 6-3,Taylor Fritz,Alexander Zverev,1.3,2,2.0,2,3,0.65,20.0
+19,193729,Wimbledon,20240701,R32,266.0,7-6(6) 3-6 5-7 7-6(1) 6-4,Roberto Bautista Agut,Fabio Fognini,1.3,2,2.0,2,3,0.65,20.0
+20,193725,Wimbledon,20240701,R32,217.0,7-6(9) 6-3 6-7(5) 7-6(6),Ugo Humbert,Brandon Nakashima,1.3,2,2.0,3,3,0.65,20.0
+21,193709,Wimbledon,20240701,R64,233.0,7-6(4) 7-6(4) 4-6 4-6 6-4,Alejandro Tabilo,Flavio Cobolli,1.3,2,2.0,2,3,0.65,20.0
+22,193702,Wimbledon,20240701,R64,229.0,4-6 7-6(5) 6-7(5) 6-3 7-6(7),Ben Shelton,Lloyd Harris,1.3,2,2.0,3,3,0.65,20.0
+23,91949,Roland Garros,19920525,R128,207.0,6-4 6-3 6-7(3) 6-7(4) 6-3,Chris Pridham,Stephane Simian,1.3,2,2.0,2,3,0.65,20.0
+24,91938,Roland Garros,19920525,R128,230.0,7-6(4) 6-7(9) 6-3 7-6(5),Richard Krajicek,Francisco Clavet,1.3,2,2.0,3,3,0.65,20.0
+25,90476,Australian Open,19920113,QF,215.0,5-7 7-6(2) 6-7(1) 6-4 6-4,Richard Krajicek,Michael Stich,1.3,2,2.0,2,3,0.65,20.0
+26,89393,US Open,19910826,R32,210.0,6-7(2) 7-6(3) 7-6(2) 7-6(4),Derrick Rostagno,Jakob Hlasek,1.3,2,2.0,4,3,0.65,20.0
+27,193698,Wimbledon,20240701,R64,222.0,7-6(3) 7-6(4) 2-6 7-6(4),Jannik Sinner,Matteo Berrettini,1.3,2,2.0,3,3,0.65,20.0
+28,193691,Wimbledon,20240701,R64,208.0,6-7(3) 7-6(4) 6-4 7-5,Daniil Medvedev,Alexandre Muller,1.3,2,2.0,2,3,0.65,20.0
+29,193681,Wimbledon,20240701,R128,224.0,7-6(6) 4-6 5-7 7-6(6) 6-3,Emil Ruusuvuori,Mackenzie McDonald,1.3,2,2.0,2,3,0.65,20.0
+30,193656,Wimbledon,20240701,R128,201.0,7-6(5) 6-7(4) 7-6(6) 6-7(4) 6-3,Giovanni Mpetshi Perricard,Sebastian Korda,1.3,2,2.0,4,3,0.65,20.0
+31,193644,Wimbledon,20240701,R128,229.0,6-7(9) 6-4 6-4 3-6 7-6(8),Aleksandar Vukic,Sebastian Ofner,1.3,2,2.0,2,3,0.65,20.0
+32,193642,Wimbledon,20240701,R128,274.0,6-1 6-4 6-7(2) 6-7(4) 7-6(8),Arthur Cazaux,Zizou Bergs,1.3,2,2.0,3,3,0.65,20.0
+33,192168,Australian Open,20240115,SF,258.0,5-7 3-6 7-6(4) 7-6(5) 6-3,Daniil Medvedev,Alexander Zverev,1.3,2,2.0,2,3,0.65,20.0
+34,192144,Australian Open,20240115,R32,204.0,6-4 7-6(4) 4-6 7-6(5),Karen Khachanov,Tomas Machac,1.3,2,2.0,2,3,0.65,20.0
+35,192138,Australian Open,20240115,R64,205.0,6-4 6-7(3) 6-3 7-6(3),Carlos Alcaraz,Lorenzo Sonego,1.3,2,2.0,2,3,0.65,20.0
+36,192131,Australian Open,20240115,R64,271.0,7-5 3-6 4-6 7-6(5) 7-6(7),Alexander Zverev,Lukas Klein,1.3,2,2.0,2,3,0.65,20.0
+37,192114,Australian Open,20240115,R64,216.0,4-6 7-6(6) 6-2 7-6(4),Stefanos Tsitsipas,Jordan Thompson,1.3,2,2.0,2,3,0.65,20.0
+38,192105,Australian Open,20240115,R128,223.0,4-6 7-6(8) 6-2 7-6(4),Lorenzo Sonego,Daniel Evans,1.3,2,2.0,2,3,0.65,20.0
+39,192088,Australian Open,20240115,R128,259.0,2-6 7-6(3) 4-6 6-4 7-6(7),Hugo Grenier,Alexandre Muller,1.3,2,2.0,2,3,0.65,20.0
+40,92318,Wimbledon,19920622,R16,228.0,6-7(10) 6-4 3-6 7-6(2) 6-3,Guy Forget,Jeremy Bates,1.3,2,2.0,2,3,0.65,20.0
+41,92305,Wimbledon,19920622,R32,205.0,6-4 3-6 7-6(5) 7-6(5),Boris Becker,Bryan Shelton,1.3,2,2.0,2,3,0.65,20.0
+42,92223,Wimbledon,19920622,R128,249.0,3-6 7-6(5) 4-6 7-6(5) 9-7,Bryan Shelton,Kevin Curren,1.3,2,2.0,2,3,0.65,20.0
+43,192066,Australian Open,20240115,R128,242.0,5-7 6-3 7-6(5) 7-6(3),Karen Khachanov,Daniel Altmaier,1.3,2,2.0,2,3,0.65,20.0
+44,192055,Australian Open,20240115,R128,214.0,7-6(3) 7-6(4) 4-6 6-2,Lorenzo Musetti,Benjamin Bonzi,1.3,2,2.0,2,3,0.65,20.0
+45,191244,US Open,20230828,R64,244.0,7-5 6-7(2) 6-7(5) 7-6(6) 6-3,Dominic Stricker,Stefanos Tsitsipas,1.3,2,2.0,3,3,0.65,20.0
+46,191232,US Open,20230828,R64,237.0,3-6 4-6 7-6(3) 6-4 7-6(7),Michael Mmoh,John Isner,1.3,2,2.0,2,3,0.65,20.0
+47,191191,US Open,20230828,R128,266.0,7-6(4) 4-6 7-6(1) 4-6 6-4,Marton Fucsovics,Sebastian Korda,1.3,2,2.0,2,3,0.65,20.0
+48,191167,US Open,20230828,R128,278.0,6-7(9) 6-7(5) 6-1 7-5 7-6(9),Grigor Dimitrov,Alex Molcan,1.3,2,2.0,3,3,0.65,20.0
+49,190718,Wimbledon,20230703,R16,201.0,3-6 7-6(6) 7-6(4) 6-3,Holger Rune,Grigor Dimitrov,1.3,2,2.0,2,3,0.65,20.0
+50,190684,Wimbledon,20230703,R64,280.0,7-6(3) 6-7(2) 4-6 7-6(3) 6-4,Stefanos Tsitsipas,Andy Murray,1.3,2,2.0,3,3,0.65,20.0
+51,190660,Wimbledon,20230703,R128,247.0,7-6(4) 6-7(4) 7-6(4) 6-4,Michael Mmoh,Felix Auger-Aliassime,1.3,2,2.0,3,3,0.65,20.0
+52,190655,Wimbledon,20230703,R128,212.0,7-6(7) 3-6 6-3 7-6(2),Tomas Barrios Vera,Sebastian Baez,1.3,2,2.0,2,3,0.65,20.0
+53,102125,Australian Open,19950116,QF,238.0,6-7(4) 6-7(3) 6-3 6-4 6-3,Pete Sampras,Jim Courier,1.3,2,2.0,2,3,0.65,20.0
+54,102090,Australian Open,19950116,R64,201.0,7-6(4) 5-7 7-6(5) 7-5,Jacco Eltingh,Sebastien Lareau,1.3,2,2.0,2,3,0.65,20.0
+55,95914,Roland Garros,19930524,R32,229.0,3-6 7-6(1) 6-3 6-7(8) 7-5,Marc-Kevin Goellner,Mark Woodforde,1.3,2,2.0,2,3,0.65,20.0
+56,95841,Roland Garros,19930524,R128,229.0,6-3 6-7(2) 6-7(5) 6-4 6-4,Marc-Kevin Goellner,David Wheaton,1.3,2,2.0,2,3,0.65,20.0
+57,93230,US Open,19920831,SF,326.0,6-7(3) 7-5 7-6(3) 5-7 6-4,Stefan Edberg,Michael Chang,1.3,2,2.0,2,3,0.65,20.0
+58,190648,Wimbledon,20230703,R128,243.0,2-6 7-6(7) 6-7(4) 6-4 7-5,Roman Safiullin,Roberto Bautista Agut,1.3,2,2.0,2,3,0.65,20.0
+59,190636,Wimbledon,20230703,R128,236.0,3-6 7-6(1) 6-2 6-7(5) 7-6(8),Stefanos Tsitsipas,Dominic Thiem,1.3,2,2.0,3,3,0.65,20.0
+60,190634,Wimbledon,20230703,R128,217.0,6-7(5) 7-6(3) 7-6(8) 7-6(7),Laslo Djere,Maxime Cressy,1.3,2,2.0,4,3,0.65,20.0
+61,190612,Wimbledon,20230703,R128,204.0,6-7(5) 6-3 6-3 7-6(2),Alex de Minaur,Kimmer Coppejans,1.3,2,2.0,2,3,0.65,20.0
+62,190611,Wimbledon,20230703,R128,201.0,6-7(5) 6-3 7-6(7) 6-3,Matteo Berrettini,Lorenzo Sonego,1.3,2,2.0,2,3,0.65,20.0
+63,190610,Wimbledon,20230703,R128,239.0,6-7(5) 5-7 7-6(5) 7-6(3) 6-3,Yosuke Watanuki,Marc-Andrea Huesler,1.3,2,2.0,3,3,0.65,20.0
+64,190396,Roland Garros,20230529,R64,326.0,6-7(0) 7-6(7) 1-6 7-6(4) 7-5,Daniel Altmaier,Jannik Sinner,1.3,2,2.0,3,3,0.65,20.0
+65,190383,Roland Garros,20230529,R64,282.0,6-3 5-7 6-7(13) 7-6(5) 6-4,Hubert Hurkacz,Tallon Griekspoor,1.3,2,2.0,2,3,0.65,20.0
+66,190370,Roland Garros,20230529,R128,260.0,6-4 6-7(7) 2-6 7-6(4) 7-6(4),Guido Pella,Quentin Halys,1.3,2,2.0,3,3,0.65,20.0
+67,190364,Roland Garros,20230529,R128,252.0,7-6(3) 6-7(5) 6-3 6-3,Borna Coric,Federico Coria,1.3,2,2.0,2,3,0.65,20.0
+68,190345,Roland Garros,20230529,R128,296.0,6-3 7-5 6-7(6) 6-7(2) 6-4,Yannick Hanfmann,Thiago Monteiro,1.3,2,2.0,2,3,0.65,20.0
+69,190343,Roland Garros,20230529,R128,311.0,5-7 2-6 7-6(8) 7-6(3) 7-6(9),Andrea Vavassori,Miomir Kecmanovic,1.3,2,2.0,3,3,0.65,20.0
+70,190321,Roland Garros,20230529,R128,239.0,6-4 5-7 7-6(3) 4-6 7-6(9),Nuno Borges,John Isner,1.3,2,2.0,2,3,0.65,20.0
+71,189195,Australian Open,20230116,SF,201.0,7-6(2) 6-4 6-7(6) 6-3,Stefanos Tsitsipas,Karen Khachanov,1.3,2,2.0,2,3,0.65,20.0
+72,189163,Australian Open,20230116,R64,345.0,4-6 6-7(4) 7-6(5) 6-3 7-5,Andy Murray,Thanasi Kokkinakis,1.3,2,2.0,2,3,0.65,20.0
+73,189159,Australian Open,20230116,R64,242.0,6-7(4) 7-6(2) 6-4 6-7(6) 6-2,Alexei Popyrin,Taylor Fritz,1.3,2,2.0,3,3,0.65,20.0
+74,189127,Australian Open,20230116,R128,289.0,6-3 6-3 4-6 6-7(7) 7-6(6),Andy Murray,Matteo Berrettini,1.3,2,2.0,2,3,0.65,20.0
+75,107800,Wimbledon,19960624,R128,223.0,7-6(3) 3-6 6-7(6) 6-4 6-4,Nicolas Lapentti,Kenneth Carlsen,1.3,2,2.0,2,3,0.65,20.0
+76,107797,Wimbledon,19960624,R128,218.0,7-6(6) 6-3 6-7(2) 4-6 7-5,Tim Henman,Yevgeny Kafelnikov,1.3,2,2.0,2,3,0.65,20.0
+77,107782,Wimbledon,19960624,R128,230.0,6-7(5) 7-6(5) 2-6 6-4 10-8,Pierre Bouteyre,Carlos Moya,1.3,2,2.0,2,3,0.65,20.0
+78,107498,Roland Garros,19960527,R64,224.0,7-6(5) 6-4 6-7(5) 4-6 6-2,Karol Kucera,Magnus Norman,1.3,2,2.0,2,3,0.65,20.0
+79,104019,Wimbledon,19950626,R32,225.0,7-6(3) 3-6 6-7(6) 7-6(4) 6-3,Shuzo Matsuoka,Javier Frana,1.3,2,2.0,3,3,0.65,20.0
+80,103949,Wimbledon,19950626,R128,210.0,6-7(10) 7-5 6-7(0) 6-4 6-2,Tomas Carbonell,Wally Masur,1.3,2,2.0,2,3,0.65,20.0
+81,189123,Australian Open,20230116,R128,235.0,6-4 6-7(6) 6-3 7-6(5),Diego Schwartzman,Oleksii Krutykh,1.3,2,2.0,2,3,0.65,20.0
+82,189120,Australian Open,20230116,R128,266.0,4-6 7-6(5) 6-7(5) 7-6(4) 6-1,Alexei Popyrin,Chun-Hsin Tseng,1.3,2,2.0,3,3,0.65,20.0
+83,189072,Australian Open,20230116,R128,242.0,7-6(5) 7-6(1) 1-6 6-7(10) 6-4,Mackenzie McDonald,Brandon Nakashima,1.3,2,2.0,3,3,0.65,20.0
+84,188275,US Open,20220829,QF,315.0,6-3 6-7(7) 6-7(0) 7-5 6-3,Carlos Alcaraz,Jannik Sinner,1.3,2,2.0,2,3,0.65,20.0
+85,111105,Roland Garros,19970526,R128,260.0,5-7 7-6(6) 6-7(10) 6-4 8-6,Mark Woodforde,Javier Sanchez,1.3,2,2.0,2,3,0.65,20.0
+86,107888,Wimbledon,19960624,QF,201.0,6-7(5) 7-6(1) 5-7 7-6(3) 6-2,MaliVai Washington,Alex Radulescu,1.3,2,2.0,3,3,0.65,20.0
+87,188262,US Open,20220829,R32,248.0,6-4 2-6 6-7(3) 6-4 7-6(7),Andrey Rublev,Denis Shapovalov,1.3,2,2.0,2,3,0.65,20.0
+88,188259,US Open,20220829,R32,239.0,7-6(11) 6-7(3) 6-2 7-5,Marin Cilic,Daniel Evans,1.3,2,2.0,2,3,0.65,20.0
+89,188218,US Open,20220829,R64,226.0,6-7(3) 7-6(4) 4-6 6-4 6-4,Yibing Wu,Nuno Borges,1.3,2,2.0,2,3,0.65,20.0
+90,188155,US Open,20220829,R128,242.0,7-6(6) 3-6 7-6(5) 6-7(8) 6-3,Nuno Borges,Ben Shelton,1.3,2,2.0,3,3,0.65,20.0
+91,187718,Wimbledon,20220627,R16,274.0,2-6 5-7 7-6(3) 6-4 7-6(6),Cristian Garin,Alex de Minaur,1.3,2,2.0,2,3,0.65,20.0
+92,187681,Wimbledon,20220627,R64,232.0,6-3 5-7 6-7(2) 6-3 7-6(7),Jiri Vesely,Alejandro Davidovich Fokina,1.3,2,2.0,2,3,0.65,20.0
+93,187671,Wimbledon,20220627,R64,203.0,6-4 7-6(4) 6-7(3) 6-4,John Isner,Andy Murray,1.3,2,2.0,2,3,0.65,20.0
+94,187650,Wimbledon,20220627,R128,250.0,6-7(5) 6-4 7-6(9) 7-6(5),Maxime Cressy,Felix Auger-Aliassime,1.3,2,2.0,3,3,0.65,20.0
+95,187646,Wimbledon,20220627,R128,227.0,5-7 6-4 6-7(5) 7-6(5) 6-4,Filip Krajinovic,Jiri Lehecka,1.3,2,2.0,2,3,0.65,20.0
+96,187633,Wimbledon,20220627,R128,208.0,7-6(4) 6-4 5-7 2-6 7-6(8),Alejandro Davidovich Fokina,Hubert Hurkacz,1.3,2,2.0,2,3,0.65,20.0
+97,186275,Australian Open,20220117,QF,282.0,6-7(4) 3-6 7-6(2) 7-5 6-4,Daniil Medvedev,Felix Auger-Aliassime,1.3,2,2.0,2,3,0.65,20.0
+98,186267,Australian Open,20220117,R16,210.0,6-2 7-6(4) 6-7(4) 7-5,Daniil Medvedev,Maxime Cressy,1.3,2,2.0,2,3,0.65,20.0
+99,186262,Australian Open,20220117,R32,278.0,7-6(4) 6-7(4) 7-5 6-4,Adrian Mannarino,Aslan Karatsev,1.3,2,2.0,2,3,0.65,20.0
