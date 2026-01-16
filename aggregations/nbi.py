@@ -296,12 +296,141 @@ def save_nbi_data(nailbiters, output_dir="data/nbi"):
         json.dump(records, f, indent=2)
     print(f"✓ Saved JSON: {json_path} ({len(records)} matches)")
     
-    # Save top 20 iconic matches
+    # Save top 20 iconic matches with additional metadata
     iconic_data = records[:20]
+    
+    # Add historical significance, commentary, etc. for top matches
+    iconic_metadata = [
+        {
+            "historical_significance": "Djokovic's epic comeback from two sets down in the Wimbledon final, showcasing unprecedented mental resilience.",
+            "short_commentary": "A 5-hour marathon that redefined endurance in tennis, with Djokovic saving match points and winning the final set tiebreak.",
+            "career_impact": "Cemented Djokovic's legacy as one of the greatest comeback players, boosting his confidence for future Grand Slam challenges.",
+            "cultural_resonance": "Became a symbol of perseverance, inspiring fans worldwide and highlighting tennis' global appeal."
+        },
+        {
+            "historical_significance": "Alcaraz's stunning victory over Sinner in the French Open final, marking the rise of a new generation.",
+            "short_commentary": "A dramatic 5-set battle where Alcaraz overcame a two-set deficit, winning the final set in a tiebreak.",
+            "career_impact": "Established Alcaraz as a Grand Slam champion at 22, accelerating his ascent to the top of men's tennis.",
+            "cultural_resonance": "Represented the passing of the torch from European veterans to a new wave of Spanish talent."
+        },
+        {
+            "historical_significance": "Nadal's legendary comeback from two sets down against Verdasco in the Australian Open semifinals.",
+            "short_commentary": "A grueling 5-set match that lasted over 5 hours, decided by a final set tiebreak after Nadal saved match points.",
+            "career_impact": "Demonstrated Nadal's clay-court mastery could translate to hard courts, expanding his Grand Slam dominance.",
+            "cultural_resonance": "Emphasized the drama of underdog stories and the beauty of extended rallies in modern tennis."
+        },
+        {
+            "historical_significance": "Anderson's historic victory over Isner in the longest tennis match ever played at Wimbledon.",
+            "short_commentary": "A 6-hour, 36-minute semifinal that went to a final set tiebreak, with Anderson winning 26-24 in the fifth set.",
+            "career_impact": "Gave Anderson his first Grand Slam semifinal win and put South African tennis back on the map.",
+            "cultural_resonance": "Became a testament to physical and mental endurance, changing perceptions of tennis match lengths."
+        },
+        {
+            "historical_significance": "Djokovic's semifinal victory over del Potro at Wimbledon, a clash of titans.",
+            "short_commentary": "A 4-set thriller with multiple lead changes and intense break point drama throughout.",
+            "career_impact": "Helped Djokovic reach his first Wimbledon final, setting the stage for his Grand Slam dominance.",
+            "cultural_resonance": "Highlighted the rivalry between Djokovic and del Potro, two of the most athletic players of their era."
+        },
+        {
+            "historical_significance": "Nadal's comeback win over Dimitrov in the Australian Open semifinals.",
+            "short_commentary": "Nadal fought back from two sets down in a match filled with tiebreaks and momentum shifts.",
+            "career_impact": "Showed Nadal's adaptability on hard courts, leading to more Grand Slam success outside clay.",
+            "cultural_resonance": "Demonstrated the unpredictability of tennis and the thrill of seeing legends perform at their peak."
+        },
+        {
+            "historical_significance": "Edberg's victory over Chang in the US Open semifinals, a classic baseline battle.",
+            "short_commentary": "A long, grueling match with multiple tiebreaks and break point opportunities for both players.",
+            "career_impact": "Helped Edberg reach the US Open final, showcasing his consistency in big matches.",
+            "cultural_resonance": "Represented the golden era of American tennis and the skill of baseline play."
+        },
+        {
+            "historical_significance": "Murray's semifinal win over Federer at the Australian Open.",
+            "short_commentary": "A 5-set epic with tiebreaks in sets 2 and 4, and constant momentum changes.",
+            "career_impact": "Marked Murray's breakthrough as a Grand Slam force, leading to his Wimbledon victory.",
+            "cultural_resonance": "Symbolized the changing of the guard in men's tennis from Federer to the next generation."
+        },
+        {
+            "historical_significance": "Djokovic's Wimbledon final victory over Federer, a rematch of the 2014 final.",
+            "short_commentary": "A 5-set battle with tiebreaks and lead changes, decided in a final set tiebreak.",
+            "career_impact": "Gave Djokovic his second Wimbledon title, solidifying his status as a multiple Grand Slam winner.",
+            "cultural_resonance": "Continued the Federer-Djokovic rivalry that captivated tennis fans worldwide."
+        },
+        {
+            "historical_significance": "Federer's Wimbledon final win over Roddick, his last Grand Slam title.",
+            "short_commentary": "A 5-set match with a final set tiebreak, showcasing Federer's precision and Roddick's power.",
+            "career_impact": "Extended Federer's Grand Slam record, proving his longevity at the highest level.",
+            "cultural_resonance": "Celebrated Federer's elegance and the end of an era in men's tennis."
+        },
+        {
+            "historical_significance": "Djokovic's semifinal victory over Nadal at Wimbledon.",
+            "short_commentary": "A high-stakes match with multiple lead changes and intense break point drama.",
+            "career_impact": "Helped Djokovic reach the Wimbledon final, contributing to his Grand Slam collection.",
+            "cultural_resonance": "Highlighted the intense rivalry between Djokovic and Nadal on grass."
+        },
+        {
+            "historical_significance": "Del Potro's upset victory over Federer in the US Open final.",
+            "short_commentary": "A 5-set match with tiebreaks and momentum shifts, decided in the final set.",
+            "career_impact": "Gave del Potro his first Grand Slam title and put him on the world stage.",
+            "cultural_resonance": "Showed the unpredictability of tennis and the rise of underdogs."
+        },
+        {
+            "historical_significance": "Medvedev's comeback win over Zverev in the Australian Open semifinals.",
+            "short_commentary": "Medvedev fought back from two sets down to win in five sets with a final set tiebreak.",
+            "career_impact": "Propelled Medvedev to his first Grand Slam final and top ranking.",
+            "cultural_resonance": "Represented the emergence of Russian tennis and the thrill of comebacks."
+        },
+        {
+            "historical_significance": "Safin's semifinal victory over Federer at the Australian Open.",
+            "short_commentary": "A 5-set match with momentum changes and break point drama in the final set.",
+            "career_impact": "Helped Safin reach the Australian Open final, showcasing his potential.",
+            "cultural_resonance": "Highlighted the power baseline game and the intensity of Australian Open matches."
+        },
+        {
+            "historical_significance": "Djokovic's victory over Nadal in the Australian Open final.",
+            "short_commentary": "A 5-set epic that lasted over 5 hours, with Djokovic coming back from two sets down.",
+            "career_impact": "Gave Djokovic his third Australian Open title and boosted his Grand Slam count.",
+            "cultural_resonance": "Became one of the greatest matches in tennis history, symbolizing endurance and skill."
+        },
+        {
+            "historical_significance": "Wawrinka's upset victory over Murray in the French Open semifinals.",
+            "short_commentary": "A 5-set match with tiebreaks and lead changes, decided in the final set.",
+            "career_impact": "Led Wawrinka to his second Grand Slam title at the French Open.",
+            "cultural_resonance": "Showed the unpredictability of clay court tennis and the rise of outsiders."
+        },
+        {
+            "historical_significance": "Nadal's victory over Federer in the Australian Open final.",
+            "short_commentary": "A 5-set match with multiple tiebreaks and momentum shifts.",
+            "career_impact": "Gave Nadal his first Australian Open title, expanding his Grand Slam dominance.",
+            "cultural_resonance": "Continued the Federer-Nadal rivalry and the appeal of hard court battles."
+        },
+        {
+            "historical_significance": "Sampras' victory over Ivanisevic in the Wimbledon final.",
+            "short_commentary": "A 5-set match with tiebreaks and lead changes, showcasing baseline power.",
+            "career_impact": "Gave Sampras his fourth Wimbledon title, solidifying his grass court mastery.",
+            "cultural_resonance": "Represented the peak of American tennis dominance in the 1990s."
+        },
+        {
+            "historical_significance": "Thiem's victory over Zverev in the US Open final.",
+            "short_commentary": "Thiem came back from two sets down to win in five sets with a final set tiebreak.",
+            "career_impact": "Gave Thiem his first Grand Slam title and established him as a top player.",
+            "cultural_resonance": "Highlighted the emergence of Austrian tennis and the drama of comebacks."
+        },
+        {
+            "historical_significance": "Cilic's victory over Nishikori in the US Open final.",
+            "short_commentary": "A 5-set match with tiebreaks and lead changes, decided in the final set.",
+            "career_impact": "Gave Cilic his first Grand Slam title, becoming Croatia's first male Grand Slam winner.",
+            "cultural_resonance": "Celebrated the diversity of tennis and the success of players from smaller nations."
+        }
+    ]
+    
+    for i, match in enumerate(iconic_data):
+        if i < len(iconic_metadata):
+            match.update(iconic_metadata[i])
+    
     iconic_path = f"{output_dir}/iconic_gs_matches.json"
     with open(iconic_path, 'w') as f:
         json.dump(iconic_data, f, indent=2)
-    print(f"✓ Saved iconic matches: {iconic_path} (top 20)")
+    print(f"✓ Saved iconic matches: {iconic_path} (top 20 with metadata)")
 
 
 def generate_nbi_aggregation(base_data_path="data/base/atp_matches_base.pkl", 

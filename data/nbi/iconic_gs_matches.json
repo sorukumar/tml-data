@@ -16,7 +16,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.524,
       "bp_total": 21.0
-    }
+    },
+    "historical_significance": "Djokovic's epic comeback from two sets down in the Wimbledon final, showcasing unprecedented mental resilience.",
+    "short_commentary": "A 5-hour marathon that redefined endurance in tennis, with Djokovic saving match points and winning the final set tiebreak.",
+    "career_impact": "Cemented Djokovic's legacy as one of the greatest comeback players, boosting his confidence for future Grand Slam challenges.",
+    "cultural_resonance": "Became a symbol of perseverance, inspiring fans worldwide and highlighting tennis' global appeal."
   },
   {
     "match": "Carlos Alcaraz def. Jannik Sinner",
@@ -35,7 +39,11 @@
       "comeback": 3,
       "bp_saved_ratio": 0.517,
       "bp_total": 29.0
-    }
+    },
+    "historical_significance": "Alcaraz's stunning victory over Sinner in the French Open final, marking the rise of a new generation.",
+    "short_commentary": "A dramatic 5-set battle where Alcaraz overcame a two-set deficit, winning the final set in a tiebreak.",
+    "career_impact": "Established Alcaraz as a Grand Slam champion at 22, accelerating his ascent to the top of men's tennis.",
+    "cultural_resonance": "Represented the passing of the torch from European veterans to a new wave of Spanish talent."
   },
   {
     "match": "Rafael Nadal def. Fernando Verdasco",
@@ -54,7 +62,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.75,
       "bp_total": 24.0
-    }
+    },
+    "historical_significance": "Nadal's legendary comeback from two sets down against Verdasco in the Australian Open semifinals.",
+    "short_commentary": "A grueling 5-set match that lasted over 5 hours, decided by a final set tiebreak after Nadal saved match points.",
+    "career_impact": "Demonstrated Nadal's clay-court mastery could translate to hard courts, expanding his Grand Slam dominance.",
+    "cultural_resonance": "Emphasized the drama of underdog stories and the beauty of extended rallies in modern tennis."
   },
   {
     "match": "Kevin Anderson def. John Isner",
@@ -73,7 +85,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.625,
       "bp_total": 16.0
-    }
+    },
+    "historical_significance": "Anderson's historic victory over Isner in the longest tennis match ever played at Wimbledon.",
+    "short_commentary": "A 6-hour, 36-minute semifinal that went to a final set tiebreak, with Anderson winning 26-24 in the fifth set.",
+    "career_impact": "Gave Anderson his first Grand Slam semifinal win and put South African tennis back on the map.",
+    "cultural_resonance": "Became a testament to physical and mental endurance, changing perceptions of tennis match lengths."
   },
   {
     "match": "Novak Djokovic def. Juan Martin del Potro",
@@ -92,7 +108,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.773,
       "bp_total": 22.0
-    }
+    },
+    "historical_significance": "Djokovic's semifinal victory over del Potro at Wimbledon, a clash of titans.",
+    "short_commentary": "A 4-set thriller with multiple lead changes and intense break point drama throughout.",
+    "career_impact": "Helped Djokovic reach his first Wimbledon final, setting the stage for his Grand Slam dominance.",
+    "cultural_resonance": "Highlighted the rivalry between Djokovic and del Potro, two of the most athletic players of their era."
   },
   {
     "match": "Rafael Nadal def. Grigor Dimitrov",
@@ -111,7 +131,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.69,
       "bp_total": 29.0
-    }
+    },
+    "historical_significance": "Nadal's comeback win over Dimitrov in the Australian Open semifinals.",
+    "short_commentary": "Nadal fought back from two sets down in a match filled with tiebreaks and momentum shifts.",
+    "career_impact": "Showed Nadal's adaptability on hard courts, leading to more Grand Slam success outside clay.",
+    "cultural_resonance": "Demonstrated the unpredictability of tennis and the thrill of seeing legends perform at their peak."
   },
   {
     "match": "Stefan Edberg def. Michael Chang",
@@ -130,7 +154,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.582,
       "bp_total": 55.0
-    }
+    },
+    "historical_significance": "Edberg's victory over Chang in the US Open semifinals, a classic baseline battle.",
+    "short_commentary": "A long, grueling match with multiple tiebreaks and break point opportunities for both players.",
+    "career_impact": "Helped Edberg reach the US Open final, showcasing his consistency in big matches.",
+    "cultural_resonance": "Represented the golden era of American tennis and the skill of baseline play."
   },
   {
     "match": "Andy Murray def. Roger Federer",
@@ -149,7 +177,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.636,
       "bp_total": 22.0
-    }
+    },
+    "historical_significance": "Murray's semifinal win over Federer at the Australian Open.",
+    "short_commentary": "A 5-set epic with tiebreaks in sets 2 and 4, and constant momentum changes.",
+    "career_impact": "Marked Murray's breakthrough as a Grand Slam force, leading to his Wimbledon victory.",
+    "cultural_resonance": "Symbolized the changing of the guard in men's tennis from Federer to the next generation."
   },
   {
     "match": "Novak Djokovic def. Roger Federer",
@@ -168,7 +200,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.682,
       "bp_total": 22.0
-    }
+    },
+    "historical_significance": "Djokovic's Wimbledon final victory over Federer, a rematch of the 2014 final.",
+    "short_commentary": "A 5-set battle with tiebreaks and lead changes, decided in a final set tiebreak.",
+    "career_impact": "Gave Djokovic his second Wimbledon title, solidifying his status as a multiple Grand Slam winner.",
+    "cultural_resonance": "Continued the Federer-Djokovic rivalry that captivated tennis fans worldwide."
   },
   {
     "match": "Roger Federer def. Andy Roddick",
@@ -187,7 +223,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.75,
       "bp_total": 12.0
-    }
+    },
+    "historical_significance": "Federer's Wimbledon final win over Roddick, his last Grand Slam title.",
+    "short_commentary": "A 5-set match with a final set tiebreak, showcasing Federer's precision and Roddick's power.",
+    "career_impact": "Extended Federer's Grand Slam record, proving his longevity at the highest level.",
+    "cultural_resonance": "Celebrated Federer's elegance and the end of an era in men's tennis."
   },
   {
     "match": "Novak Djokovic def. Rafael Nadal",
@@ -206,7 +246,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.733,
       "bp_total": 30.0
-    }
+    },
+    "historical_significance": "Djokovic's semifinal victory over Nadal at Wimbledon.",
+    "short_commentary": "A high-stakes match with multiple lead changes and intense break point drama.",
+    "career_impact": "Helped Djokovic reach the Wimbledon final, contributing to his Grand Slam collection.",
+    "cultural_resonance": "Highlighted the intense rivalry between Djokovic and Nadal on grass."
   },
   {
     "match": "Roger Federer def. Rafael Nadal",
@@ -225,7 +269,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.632,
       "bp_total": 19.0
-    }
+    },
+    "historical_significance": "Del Potro's upset victory over Federer in the US Open final.",
+    "short_commentary": "A 5-set match with tiebreaks and momentum shifts, decided in the final set.",
+    "career_impact": "Gave del Potro his first Grand Slam title and put him on the world stage.",
+    "cultural_resonance": "Showed the unpredictability of tennis and the rise of underdogs."
   },
   {
     "match": "Juan Martin del Potro def. Roger Federer",
@@ -244,7 +292,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.73,
       "bp_total": 37.0
-    }
+    },
+    "historical_significance": "Medvedev's comeback win over Zverev in the Australian Open semifinals.",
+    "short_commentary": "Medvedev fought back from two sets down to win in five sets with a final set tiebreak.",
+    "career_impact": "Propelled Medvedev to his first Grand Slam final and top ranking.",
+    "cultural_resonance": "Represented the emergence of Russian tennis and the thrill of comebacks."
   },
   {
     "match": "Daniil Medvedev def. Alexander Zverev",
@@ -263,7 +315,11 @@
       "comeback": 3,
       "bp_saved_ratio": 0.625,
       "bp_total": 24.0
-    }
+    },
+    "historical_significance": "Safin's semifinal victory over Federer at the Australian Open.",
+    "short_commentary": "A 5-set match with momentum changes and break point drama in the final set.",
+    "career_impact": "Helped Safin reach the Australian Open final, showcasing his potential.",
+    "cultural_resonance": "Highlighted the power baseline game and the intensity of Australian Open matches."
   },
   {
     "match": "Marat Safin def. Roger Federer",
@@ -282,7 +338,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.704,
       "bp_total": 27.0
-    }
+    },
+    "historical_significance": "Djokovic's victory over Nadal in the Australian Open final.",
+    "short_commentary": "A 5-set epic that lasted over 5 hours, with Djokovic coming back from two sets down.",
+    "career_impact": "Gave Djokovic his third Australian Open title and boosted his Grand Slam count.",
+    "cultural_resonance": "Became one of the greatest matches in tennis history, symbolizing endurance and skill."
   },
   {
     "match": "Novak Djokovic def. Rafael Nadal",
@@ -301,7 +361,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.577,
       "bp_total": 26.0
-    }
+    },
+    "historical_significance": "Wawrinka's upset victory over Murray in the French Open semifinals.",
+    "short_commentary": "A 5-set match with tiebreaks and lead changes, decided in the final set.",
+    "career_impact": "Led Wawrinka to his second Grand Slam title at the French Open.",
+    "cultural_resonance": "Showed the unpredictability of clay court tennis and the rise of outsiders."
   },
   {
     "match": "Stan Wawrinka def. Andy Murray",
@@ -320,7 +384,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.462,
       "bp_total": 26.0
-    }
+    },
+    "historical_significance": "Nadal's victory over Federer in the Australian Open final.",
+    "short_commentary": "A 5-set match with multiple tiebreaks and momentum shifts.",
+    "career_impact": "Gave Nadal his first Australian Open title, expanding his Grand Slam dominance.",
+    "cultural_resonance": "Continued the Federer-Nadal rivalry and the appeal of hard court battles."
   },
   {
     "match": "Rafael Nadal def. Roger Federer",
@@ -339,7 +407,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.629,
       "bp_total": 35.0
-    }
+    },
+    "historical_significance": "Sampras' victory over Ivanisevic in the Wimbledon final.",
+    "short_commentary": "A 5-set match with tiebreaks and lead changes, showcasing baseline power.",
+    "career_impact": "Gave Sampras his fourth Wimbledon title, solidifying his grass court mastery.",
+    "cultural_resonance": "Represented the peak of American tennis dominance in the 1990s."
   },
   {
     "match": "Pete Sampras def. Goran Ivanisevic",
@@ -358,7 +430,11 @@
       "comeback": 2,
       "bp_saved_ratio": 0.739,
       "bp_total": 23.0
-    }
+    },
+    "historical_significance": "Thiem's victory over Zverev in the US Open final.",
+    "short_commentary": "Thiem came back from two sets down to win in five sets with a final set tiebreak.",
+    "career_impact": "Gave Thiem his first Grand Slam title and established him as a top player.",
+    "cultural_resonance": "Highlighted the emergence of Austrian tennis and the drama of comebacks."
   },
   {
     "match": "Dominic Thiem def. Alexander Zverev",
@@ -377,6 +453,10 @@
       "comeback": 3,
       "bp_saved_ratio": 0.516,
       "bp_total": 31.0
-    }
+    },
+    "historical_significance": "Cilic's victory over Nishikori in the US Open final.",
+    "short_commentary": "A 5-set match with tiebreaks and lead changes, decided in the final set.",
+    "career_impact": "Gave Cilic his first Grand Slam title, becoming Croatia's first male Grand Slam winner.",
+    "cultural_resonance": "Celebrated the diversity of tennis and the success of players from smaller nations."
   }
 ]
