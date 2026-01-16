@@ -69,6 +69,13 @@
       "top_player": "Alex de Minaur",
       "top_rank": 18,
       "unique_atp_player": 10
+    },
+    "2025": {
+      "ever_in_top100": 14,
+      "ever_in_top10": 1,
+      "top_player": "Alex de Minaur",
+      "top_rank": 6,
+      "unique_atp_player": 14
     }
   },
   "USA": {
@@ -141,6 +148,13 @@
       "top_player": "John Isner",
       "top_rank": 19,
       "unique_atp_player": 19
+    },
+    "2025": {
+      "ever_in_top100": 27,
+      "ever_in_top10": 1,
+      "top_player": "Taylor Fritz",
+      "top_rank": 4,
+      "unique_atp_player": 27
     }
   },
   "NZL": {
@@ -212,6 +226,13 @@
       "ever_in_top10": 0,
       "top_player": "Finn Tearney",
       "top_rank": 1018,
+      "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "James Watt",
+      "top_rank": 573,
       "unique_atp_player": 2
     }
   },
@@ -285,6 +306,13 @@
       "top_player": "Ernesto Escobedo",
       "top_rank": 185,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Rodrigo Pacheco Mendez",
+      "top_rank": 212,
+      "unique_atp_player": 3
     }
   },
   "FIN": {
@@ -356,6 +384,13 @@
       "ever_in_top10": 0,
       "top_player": "Emil Ruusuvuori",
       "top_rank": 92,
+      "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Otto Virtanen",
+      "top_rank": 98,
       "unique_atp_player": 3
     }
   },
@@ -429,6 +464,13 @@
       "top_player": "Dominic Thiem",
       "top_rank": 3,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Filip Misolic",
+      "top_rank": 95,
+      "unique_atp_player": 4
     }
   },
   "JPN": {
@@ -501,6 +543,13 @@
       "top_player": "Kei Nishikori",
       "top_rank": 35,
       "unique_atp_player": 7
+    },
+    "2025": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Kei Nishikori",
+      "top_rank": 62,
+      "unique_atp_player": 6
     }
   },
   "CHI": {
@@ -573,6 +622,13 @@
       "top_player": "Cristian Garin",
       "top_rank": 18,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Alejandro Tabilo",
+      "top_rank": 31,
+      "unique_atp_player": 5
     }
   },
   "BRA": {
@@ -645,6 +701,13 @@
       "top_player": "Thiago Monteiro",
       "top_rank": 84,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Joao Fonseca",
+      "top_rank": 28,
+      "unique_atp_player": 4
     }
   },
   "SWE": {
@@ -717,6 +780,13 @@
       "top_player": "Mikael Ymer",
       "top_rank": 67,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Elias Ymer",
+      "top_rank": 243,
+      "unique_atp_player": 3
     }
   },
   "RSA": {
@@ -789,6 +859,13 @@
       "top_player": "Kevin Anderson",
       "top_rank": 86,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Lloyd Harris",
+      "top_rank": 320,
+      "unique_atp_player": 2
     }
   },
   "GEO": {
@@ -826,6 +903,13 @@
       "top_player": "Nikoloz Basilashvili",
       "top_rank": 26,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Nikoloz Basilashvili",
+      "top_rank": 101,
+      "unique_atp_player": 3
     }
   },
   "ZIM": {
@@ -963,6 +1047,13 @@
       "top_player": "Alexander Zverev",
       "top_rank": 7,
       "unique_atp_player": 11
+    },
+    "2025": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Alexander Zverev",
+      "top_rank": 2,
+      "unique_atp_player": 8
     }
   },
   "GBR": {
@@ -1035,6 +1126,13 @@
       "top_player": "Daniel Evans",
       "top_rank": 28,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 8,
+      "ever_in_top10": 1,
+      "top_player": "Jack Draper",
+      "top_rank": 4,
+      "unique_atp_player": 8
     }
   },
   "ESP": {
@@ -1107,6 +1205,13 @@
       "top_player": "Rafael Nadal",
       "top_rank": 1,
       "unique_atp_player": 13
+    },
+    "2025": {
+      "ever_in_top100": 11,
+      "ever_in_top10": 1,
+      "top_player": "Carlos Alcaraz",
+      "top_rank": 1,
+      "unique_atp_player": 11
     }
   },
   "NED": {
@@ -1179,6 +1284,13 @@
       "top_player": "Robin Haase",
       "top_rank": 169,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Tallon Griekspoor",
+      "top_rank": 28,
+      "unique_atp_player": 3
     }
   },
   "ROU": {
@@ -1244,6 +1356,13 @@
       "top_player": "Victor Hanescu",
       "top_rank": 146,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Filip Cristian Jianu",
+      "top_rank": 241,
+      "unique_atp_player": 4
     }
   },
   "IND": {
@@ -1316,6 +1435,13 @@
       "top_player": "Prajnesh Gunneswaran",
       "top_rank": 122,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Mukund Sasikumar",
+      "top_rank": 100,
+      "unique_atp_player": 5
     }
   },
   "ITA": {
@@ -1388,6 +1514,13 @@
       "top_player": "Matteo Berrettini",
       "top_rank": 8,
       "unique_atp_player": 14
+    },
+    "2025": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 1,
+      "top_player": "Jannik Sinner",
+      "top_rank": 1,
+      "unique_atp_player": 15
     }
   },
   "CZE": {
@@ -1460,6 +1593,13 @@
       "top_player": "Jiri Vesely",
       "top_rank": 64,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 6,
+      "ever_in_top10": 0,
+      "top_player": "Jakub Mensik",
+      "top_rank": 16,
+      "unique_atp_player": 6
     }
   },
   "PAK": {
@@ -1518,6 +1658,13 @@
       "top_player": "Aisam-Ul-Haq Qureshi",
       "top_rank": 100,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Huzaifa Abdul Rehman",
+      "top_rank": 100,
+      "unique_atp_player": 1
     }
   },
   "EGY": {
@@ -1576,6 +1723,13 @@
       "top_player": "Mohamed Safwat",
       "top_rank": 131,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mohamed Safwat",
+      "top_rank": 460,
+      "unique_atp_player": 3
     }
   },
   "FRA": {
@@ -1648,6 +1802,13 @@
       "top_player": "Gael Monfils",
       "top_rank": 9,
       "unique_atp_player": 12
+    },
+    "2025": {
+      "ever_in_top100": 26,
+      "ever_in_top10": 0,
+      "top_player": "Ugo Humbert",
+      "top_rank": 14,
+      "unique_atp_player": 26
     }
   },
   "CRO": {
@@ -1720,6 +1881,13 @@
       "top_player": "Borna Coric",
       "top_rank": 24,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Marin Cilic",
+      "top_rank": 83,
+      "unique_atp_player": 3
     }
   },
   "RUS": {
@@ -1792,6 +1960,13 @@
       "top_player": "Daniil Medvedev",
       "top_rank": 4,
       "unique_atp_player": 7
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 1,
+      "top_player": "Daniil Medvedev",
+      "top_rank": 5,
+      "unique_atp_player": 4
     }
   },
   "COL": {
@@ -1864,6 +2039,13 @@
       "top_player": "Daniel Elahi Galan",
       "top_rank": 148,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Daniel Elahi Galan",
+      "top_rank": 122,
+      "unique_atp_player": 3
     }
   },
   "SUI": {
@@ -1936,6 +2118,13 @@
       "top_player": "Roger Federer",
       "top_rank": 3,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Jerome Kym",
+      "top_rank": 154,
+      "unique_atp_player": 5
     }
   },
   "BEL": {
@@ -2008,6 +2197,13 @@
       "top_player": "David Goffin",
       "top_rank": 10,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Zizou Bergs",
+      "top_rank": 41,
+      "unique_atp_player": 5
     }
   },
   "POL": {
@@ -2080,6 +2276,13 @@
       "top_player": "Hubert Hurkacz",
       "top_rank": 29,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Hubert Hurkacz",
+      "top_rank": 17,
+      "unique_atp_player": 3
     }
   },
   "HUN": {
@@ -2145,6 +2348,13 @@
       "top_player": "Marton Fucsovics",
       "top_rank": 63,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Fabian Marozsan",
+      "top_rank": 52,
+      "unique_atp_player": 3
     }
   },
   "CAN": {
@@ -2217,6 +2427,13 @@
       "top_player": "Denis Shapovalov",
       "top_rank": 11,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 1,
+      "top_player": "Felix Auger-Aliassime",
+      "top_rank": 8,
+      "unique_atp_player": 7
     }
   },
   "SRB": {
@@ -2275,6 +2492,13 @@
       "top_player": "Novak Djokovic",
       "top_rank": 1,
       "unique_atp_player": 8
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 1,
+      "top_player": "Novak Djokovic",
+      "top_rank": 4,
+      "unique_atp_player": 5
     }
   },
   "ARG": {
@@ -2347,6 +2571,13 @@
       "top_player": "Diego Schwartzman",
       "top_rank": 9,
       "unique_atp_player": 8
+    },
+    "2025": {
+      "ever_in_top100": 15,
+      "ever_in_top10": 0,
+      "top_player": "Francisco Cerundolo",
+      "top_rank": 18,
+      "unique_atp_player": 15
     }
   },
   "VEN": {
@@ -2456,6 +2687,13 @@
       "top_player": "Hugo Dellien",
       "top_rank": 94,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Hugo Dellien",
+      "top_rank": 102,
+      "unique_atp_player": 1
     }
   },
   "YUG": {
@@ -2516,6 +2754,13 @@
       "top_player": "Benjamin Balleret",
       "top_rank": 331,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Valentin Vacherot",
+      "top_rank": 40,
+      "unique_atp_player": 1
     }
   },
   "BUL": {
@@ -2581,6 +2826,13 @@
       "top_player": "Grigor Dimitrov",
       "top_rank": 19,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Grigor Dimitrov",
+      "top_rank": 15,
+      "unique_atp_player": 4
     }
   },
   "PAR": {
@@ -2639,6 +2891,13 @@
       "top_player": "Adolfo Daniel Vallejo",
       "top_rank": 100,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Adolfo Daniel Vallejo",
+      "top_rank": 256,
+      "unique_atp_player": 1
     }
   },
   "TUR": {
@@ -2683,6 +2942,13 @@
       "top_player": "Cem Ilkel",
       "top_rank": 279,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Ergi Kirkin",
+      "top_rank": 303,
+      "unique_atp_player": 4
     }
   },
   "POR": {
@@ -2748,6 +3014,13 @@
       "top_player": "Joao Sousa",
       "top_rank": 65,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Nuno Borges",
+      "top_rank": 33,
+      "unique_atp_player": 3
     }
   },
   "URU": {
@@ -2819,6 +3092,13 @@
       "ever_in_top10": 0,
       "top_player": "Pablo Cuevas",
       "top_rank": 44,
+      "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Franco Roncadelli",
+      "top_rank": 372,
       "unique_atp_player": 1
     }
   },
@@ -2892,6 +3172,13 @@
       "top_player": "Juan Pablo Varillas",
       "top_rank": 135,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Ignacio Buse",
+      "top_rank": 112,
+      "unique_atp_player": 3
     }
   },
   "KOR": {
@@ -2957,6 +3244,13 @@
       "top_player": "Soonwoo Kwon",
       "top_rank": 73,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Hyeon Chung",
+      "top_rank": 379,
+      "unique_atp_player": 2
     }
   },
   "INA": {
@@ -3161,6 +3455,13 @@
       "top_player": "Conor Niland",
       "top_rank": 162,
       "unique_atp_player": 4
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Michael Agwi",
+      "top_rank": 429,
+      "unique_atp_player": 4
     }
   },
   "ISR": {
@@ -3226,6 +3527,13 @@
       "top_player": "Edan Leshem",
       "top_rank": 355,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ofek Shimanov",
+      "top_rank": 1226,
+      "unique_atp_player": 1
     }
   },
   "ECU": {
@@ -3290,6 +3598,13 @@
       "ever_in_top10": 0,
       "top_player": "Emilio Gomez",
       "top_rank": 151,
+      "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alvaro Guillen Meza",
+      "top_rank": 237,
       "unique_atp_player": 2
     }
   },
@@ -3379,6 +3694,13 @@
       "top_player": "Ze Zhang",
       "top_rank": 214,
       "unique_atp_player": 5
+    },
+    "2025": {
+      "ever_in_top100": 7,
+      "ever_in_top10": 0,
+      "top_player": "Zhizhen Zhang",
+      "top_rank": 50,
+      "unique_atp_player": 7
     }
   },
   "THA": {
@@ -3481,6 +3803,13 @@
       "top_player": "Hiu-Tung Yu",
       "top_rank": 100,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Coleman Wong",
+      "top_rank": 149,
+      "unique_atp_player": 1
     }
   },
   "SIN": {
@@ -3548,6 +3877,13 @@
       "top_player": "Jason Jung",
       "top_rank": 131,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Chun-Hsin Tseng",
+      "top_rank": 101,
+      "unique_atp_player": 1
     }
   },
   "SVK": {
@@ -3606,6 +3942,13 @@
       "top_player": "Andrej Martin",
       "top_rank": 100,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Alex Molcan",
+      "top_rank": 201,
+      "unique_atp_player": 2
     }
   },
   "HAI": {
@@ -3689,6 +4032,13 @@
       "top_player": "Marcos Baghdatis",
       "top_rank": 46,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Menelaos Efstathiou",
+      "top_rank": 865,
+      "unique_atp_player": 3
     }
   },
   "NOR": {
@@ -3733,6 +4083,13 @@
       "top_player": "Casper Ruud",
       "top_rank": 25,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 1,
+      "top_player": "Casper Ruud",
+      "top_rank": 5,
+      "unique_atp_player": 3
     }
   },
   "GRE": {
@@ -3770,6 +4127,13 @@
       "top_player": "Stefanos Tsitsipas",
       "top_rank": 5,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 1,
+      "top_player": "Stefanos Tsitsipas",
+      "top_rank": 8,
+      "unique_atp_player": 3
     }
   },
   "MAR": {
@@ -3828,6 +4192,13 @@
       "top_player": "Adam Moundir",
       "top_rank": 458,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Elliot Benchetrit",
+      "top_rank": 608,
+      "unique_atp_player": 4
     }
   },
   "SEN": {
@@ -3902,6 +4273,13 @@
       "top_player": "Mikael Torpegaard",
       "top_rank": 170,
       "unique_atp_player": 3
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 1,
+      "top_player": "Holger Rune",
+      "top_rank": 9,
+      "unique_atp_player": 3
     }
   },
   "NGR": {
@@ -3924,6 +4302,13 @@
       "ever_in_top10": 0,
       "top_player": "Sule Ladipo",
       "top_rank": 278,
+      "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Christopher Bulus",
+      "top_rank": 1018,
       "unique_atp_player": 1
     }
   },
@@ -4042,6 +4427,13 @@
       "top_player": "Roberto Cid Subervi",
       "top_rank": 100,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Peter Bertran",
+      "top_rank": 461,
+      "unique_atp_player": 2
     }
   },
   "MAS": {
@@ -4203,6 +4595,13 @@
       "top_player": "Darian King",
       "top_rank": 243,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Darian King",
+      "top_rank": 1869,
+      "unique_atp_player": 1
     }
   },
   "SRI": {
@@ -4242,6 +4641,13 @@
       "top_player": "Goudjo Gbedey",
       "top_rank": 100,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Hod'abalo Padio",
+      "top_rank": 100,
+      "unique_atp_player": 1
     }
   },
   "ZAM": {
@@ -4334,6 +4740,13 @@
       "top_player": "Sergiy Stakhovsky",
       "top_rank": 167,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 5,
+      "ever_in_top10": 0,
+      "top_player": "Vitaliy Sachko",
+      "top_rank": 222,
+      "unique_atp_player": 5
     }
   },
   "GUA": {
@@ -4401,6 +4814,13 @@
       "top_player": "Denis Istomin",
       "top_rank": 53,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Khumoyun Sultanov",
+      "top_rank": 236,
+      "unique_atp_player": 1
     }
   },
   "LAT": {
@@ -4445,6 +4865,13 @@
       "top_player": "Ernests Gulbis",
       "top_rank": 161,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Robert Strombachs",
+      "top_rank": 407,
+      "unique_atp_player": 1
     }
   },
   "BLR": {
@@ -4526,6 +4953,13 @@
       "top_player": "Kristjan Tamm",
       "top_rank": 729,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Mark Lajal",
+      "top_rank": 156,
+      "unique_atp_player": 3
     }
   },
   "LTU": {
@@ -4563,6 +4997,13 @@
       "top_player": "Ricardas Berankis",
       "top_rank": 65,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Vilius Gaubas",
+      "top_rank": 154,
+      "unique_atp_player": 3
     }
   },
   "LUX": {
@@ -4600,6 +5041,13 @@
       "top_player": "Gilles Muller",
       "top_rank": 34,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Chris Rodesch",
+      "top_rank": 282,
+      "unique_atp_player": 2
     }
   },
   "ARM": {
@@ -4653,6 +5101,13 @@
       "top_player": "Benjamin Hassan",
       "top_rank": 348,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 3,
+      "ever_in_top10": 0,
+      "top_player": "Hady Habib",
+      "top_rank": 172,
+      "unique_atp_player": 3
     }
   },
   "KAZ": {
@@ -4690,6 +5145,13 @@
       "top_player": "Alexander Bublik",
       "top_rank": 47,
       "unique_atp_player": 2
+    },
+    "2025": {
+      "ever_in_top100": 4,
+      "ever_in_top10": 0,
+      "top_player": "Alexander Bublik",
+      "top_rank": 16,
+      "unique_atp_player": 4
     }
   },
   "SLO": {
@@ -4727,6 +5189,13 @@
       "top_player": "Aljaz Bedene",
       "top_rank": 47,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Bor Artnak",
+      "top_rank": 447,
+      "unique_atp_player": 2
     }
   },
   "BIH": {
@@ -4756,6 +5225,13 @@
       "ever_in_top10": 0,
       "top_player": "Damir Dzumhur",
       "top_rank": 107,
+      "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Damir Dzumhur",
+      "top_rank": 54,
       "unique_atp_player": 1
     }
   },
@@ -4787,6 +5263,13 @@
       "top_player": "Blaise Bicknell",
       "top_rank": 1316,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Rowland Phillips",
+      "top_rank": 100,
+      "unique_atp_player": 2
     }
   },
   "SOL": {
@@ -4862,6 +5345,13 @@
       "top_player": "Marcelo Arevalo",
       "top_rank": 410,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Cesar Cruz",
+      "top_rank": 100,
+      "unique_atp_player": 2
     }
   },
   "TUN": {
@@ -4877,6 +5367,13 @@
       "ever_in_top10": 0,
       "top_player": "Malek Jaziri",
       "top_rank": 259,
+      "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Moez Echargui",
+      "top_rank": 175,
       "unique_atp_player": 1
     }
   },
@@ -4894,6 +5391,13 @@
       "top_player": "Radu Albot",
       "top_rank": 79,
       "unique_atp_player": 1
+    },
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ilya Snitari",
+      "top_rank": 587,
+      "unique_atp_player": 1
     }
   },
   "MAD": {
@@ -4903,6 +5407,42 @@
       "top_player": "Antso Rakotondramanga",
       "top_rank": 1581,
       "unique_atp_player": 3
+    }
+  },
+  "BEN": {
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Patrick Agbo-Panzo",
+      "top_rank": 100,
+      "unique_atp_player": 2
+    }
+  },
+  "NAM": {
+    "2025": {
+      "ever_in_top100": 2,
+      "ever_in_top10": 0,
+      "top_player": "Connor Henry Van Schalkwyk",
+      "top_rank": 1124,
+      "unique_atp_player": 2
+    }
+  },
+  "SVN": {
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Ziga Sesko",
+      "top_rank": 100,
+      "unique_atp_player": 1
+    }
+  },
+  "PRY": {
+    "2025": {
+      "ever_in_top100": 1,
+      "ever_in_top10": 0,
+      "top_player": "Alex Santino Nu\u00f1ez Vera",
+      "top_rank": 1562,
+      "unique_atp_player": 1
     }
   }
 }

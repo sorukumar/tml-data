@@ -962,31 +962,6 @@
     "peak_year": 1974
   },
   {
-    "player": "Mats Wilander",
-    "country": "SWE",
-    "years_active": [
-      1980,
-      1981,
-      1982,
-      1983,
-      1984,
-      1985,
-      1986,
-      1987,
-      1988,
-      1989,
-      1990,
-      1991,
-      1992,
-      1993,
-      1994,
-      1995,
-      1996
-    ],
-    "total_titles": 572,
-    "peak_year": 1983
-  },
-  {
     "player": "Tommy Haas",
     "country": "GER",
     "years_active": [
@@ -1015,6 +990,31 @@
     ],
     "total_titles": 572,
     "peak_year": 2001
+  },
+  {
+    "player": "Mats Wilander",
+    "country": "SWE",
+    "years_active": [
+      1980,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989,
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996
+    ],
+    "total_titles": 572,
+    "peak_year": 1983
   },
   {
     "player": "Jaime Fillol Sr.",
