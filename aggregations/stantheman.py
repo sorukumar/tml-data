@@ -60,12 +60,31 @@ def calculate_breakthrough_comparison(df):
                 'gs_titles': 0,
                 'total_matches': 0,
                 'wins': 0,
+                'losses': 0,
                 'first_gs_date': None,
-                'first_gs_age': None
+                'first_gs_age': None,
+                'gs_matches': 0,
+                'gs_wins': 0,
+                'peak_ranking': 9999,
+                'peak_ranking_before_gs': 9999,
+                'wins_before_gs': 0,
+                'matches_before_gs_count': 0
             }
         
+        # Track overall stats
         player_stats[winner]['total_matches'] += 1
         player_stats[winner]['wins'] += 1
+        
+        # Track peak ranking (lower is better)
+        if pd.notna(row.get('winner_rank')):
+            winner_rank = row['winner_rank']
+            if winner_rank < player_stats[winner]['peak_ranking']:
+                player_stats[winner]['peak_ranking'] = winner_rank
+        
+        # Track Grand Slam matches
+        if row['tourney_name'] in GRAND_SLAMS:
+            player_stats[winner]['gs_matches'] += 1
+            player_stats[winner]['gs_wins'] += 1
         
         # Initialize loser stats
         if pd.notna(loser):
@@ -76,10 +95,29 @@ def calculate_breakthrough_comparison(df):
                     'gs_titles': 0,
                     'total_matches': 0,
                     'wins': 0,
+                    'losses': 0,
                     'first_gs_date': None,
-                    'first_gs_age': None
+                    'first_gs_age': None,
+                    'gs_matches': 0,
+                    'gs_wins': 0,
+                    'peak_ranking': 9999,
+                    'peak_ranking_before_gs': 9999,
+                    'wins_before_gs': 0,
+                    'matches_before_gs_count': 0
                 }
+            
             player_stats[loser]['total_matches'] += 1
+            player_stats[loser]['losses'] += 1
+            
+            # Track peak ranking for loser
+            if pd.notna(row.get('loser_rank')):
+                loser_rank = row['loser_rank']
+                if loser_rank < player_stats[loser]['peak_ranking']:
+                    player_stats[loser]['peak_ranking'] = loser_rank
+            
+            # Track Grand Slam matches for loser
+            if row['tourney_name'] in GRAND_SLAMS:
+                player_stats[loser]['gs_matches'] += 1
         
         # Check if this is a GS final win
         if row['tourney_name'] in GRAND_SLAMS and row['round'] == 'F':
@@ -90,37 +128,68 @@ def calculate_breakthrough_comparison(df):
     
     print(f"✓ Tracked {len(player_stats)} unique players")
     
-    # Calculate matches before first GS for each champion
+    # Calculate stats before first GS for each champion
+    for player, stats in player_stats.items():
+        if stats['gs_titles'] > 0 and stats['first_gs_date']:
+            # Count matches and wins before first GS
+            for _, row in df.iterrows():
+                if row['tourney_date'] < stats['first_gs_date']:
+                    if row['winner_name'] == player:
+                        stats['matches_before_gs_count'] += 1
+                        stats['wins_before_gs'] += 1
+                        
+                        # Track peak ranking before first GS
+                        if pd.notna(row.get('winner_rank')):
+                            winner_rank = row['winner_rank']
+                            if winner_rank < stats['peak_ranking_before_gs']:
+                                stats['peak_ranking_before_gs'] = winner_rank
+                    
+                    elif row['loser_name'] == player:
+                        stats['matches_before_gs_count'] += 1
+                        
+                        # Track peak ranking before first GS
+                        if pd.notna(row.get('loser_rank')):
+                            loser_rank = row['loser_rank']
+                            if loser_rank < stats['peak_ranking_before_gs']:
+                                stats['peak_ranking_before_gs'] = loser_rank
+    
+    # Build breakthrough data
     breakthrough_data = []
     
     for player, stats in player_stats.items():
         if stats['gs_titles'] > 0 and stats['first_gs_date']:
-            # Count matches before first GS
-            matches_before = 0
-            for _, row in df.iterrows():
-                if row['winner_name'] == player or row['loser_name'] == player:
-                    if row['tourney_date'] < stats['first_gs_date']:
-                        matches_before += 1
-            
             # Calculate actual years on tour from first match to first GS
             first_match_year = int(str(stats['first_match_date'])[:4]) if pd.notna(stats['first_match_date']) else 2000
             first_gs_year = int(str(stats['first_gs_date'])[:4]) if pd.notna(stats['first_gs_date']) else 2000
             years_on_tour = max(0, first_gs_year - first_match_year)
             
+            # Calculate win percentages
+            overall_win_pct = round(stats['wins'] / stats['total_matches'] * 100, 2) if stats['total_matches'] > 0 else 0
+            gs_win_pct = round(stats['gs_wins'] / stats['gs_matches'] * 100, 2) if stats['gs_matches'] > 0 else 0
+            win_pct_before_gs = round(stats['wins_before_gs'] / stats['matches_before_gs_count'] * 100, 2) if stats['matches_before_gs_count'] > 0 else 0
+            
+            # Handle peak rankings (leave empty if no ranking data available)
+            peak_rank = float(stats['peak_ranking']) if stats['peak_ranking'] < 9999 else None
+            peak_rank_before_gs = float(stats['peak_ranking_before_gs']) if stats['peak_ranking_before_gs'] < 9999 else None
+            
+            # Calculate career span properly
+            last_match_year = 2025  # Current year as upper bound
+            career_span = last_match_year - first_match_year
+            
             breakthrough_data.append({
                 'Player_Name': player,
                 'Age_First_GS': round(stats['first_gs_age'], 1) if pd.notna(stats['first_gs_age']) else 25.0,
-                'Matches_Before_First_GS': min(matches_before, 1000),
+                'Matches_Before_First_GS': stats['matches_before_gs_count'],
                 'Total_GS_Titles': stats['gs_titles'],
                 'Year_Turned_Pro': first_match_year,
                 'Year_First_GS': first_gs_year,
                 'Total_ATP_Matches': stats['total_matches'],
-                'Career_Span_Years': 15,
-                'Win_Percentage': round(stats['wins'] / stats['total_matches'] * 100, 2) if stats['total_matches'] > 0 else 0,
-                'GS_Win_Ratio': round(70.0, 2),
-                'Peak_Ranking': 5.0,
-                'Peak_Ranking_Before_GS': 10.0,
-                'Win_Percentage_Before_GS': 65.0,
+                'Career_Span_Years': career_span,
+                'Win_Percentage': overall_win_pct,
+                'GS_Win_Ratio': gs_win_pct,
+                'Peak_Ranking': peak_rank,
+                'Peak_Ranking_Before_GS': peak_rank_before_gs,
+                'Win_Percentage_Before_GS': win_pct_before_gs,
                 'Years_On_Tour_Before_GS': years_on_tour
             })
     
