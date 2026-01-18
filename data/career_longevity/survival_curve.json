@@ -1,0 +1,90 @@
+{
+  "timeline": [
+    {
+      "years": 0,
+      "players_remaining": 7561,
+      "survival_probability": 100.0
+    },
+    {
+      "years": 1,
+      "players_remaining": 4444,
+      "survival_probability": 58.78
+    },
+    {
+      "years": 2,
+      "players_remaining": 3806,
+      "survival_probability": 50.34
+    },
+    {
+      "years": 3,
+      "players_remaining": 3300,
+      "survival_probability": 43.65
+    },
+    {
+      "years": 4,
+      "players_remaining": 2905,
+      "survival_probability": 38.42
+    },
+    {
+      "years": 5,
+      "players_remaining": 2481,
+      "survival_probability": 32.81
+    },
+    {
+      "years": 6,
+      "players_remaining": 2148,
+      "survival_probability": 28.41
+    },
+    {
+      "years": 7,
+      "players_remaining": 1844,
+      "survival_probability": 24.39
+    },
+    {
+      "years": 8,
+      "players_remaining": 1522,
+      "survival_probability": 20.13
+    },
+    {
+      "years": 9,
+      "players_remaining": 1247,
+      "survival_probability": 16.49
+    },
+    {
+      "years": 10,
+      "players_remaining": 1024,
+      "survival_probability": 13.54
+    },
+    {
+      "years": 12,
+      "players_remaining": 633,
+      "survival_probability": 8.37
+    },
+    {
+      "years": 15,
+      "players_remaining": 220,
+      "survival_probability": 2.91
+    },
+    {
+      "years": 18,
+      "players_remaining": 61,
+      "survival_probability": 0.81
+    },
+    {
+      "years": 20,
+      "players_remaining": 30,
+      "survival_probability": 0.4
+    },
+    {
+      "years": 25,
+      "players_remaining": 6,
+      "survival_probability": 0.08
+    },
+    {
+      "years": 30,
+      "players_remaining": 0,
+      "survival_probability": 0.0
+    }
+  ],
+  "total_players": 7561
+}

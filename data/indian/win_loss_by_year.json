@@ -1,0 +1,356 @@
+[
+  {
+    "year": 1968,
+    "total_matches": 3803,
+    "wins": 59,
+    "losses": 38
+  },
+  {
+    "year": 1969,
+    "total_matches": 3516,
+    "wins": 27,
+    "losses": 26
+  },
+  {
+    "year": 1970,
+    "total_matches": 3236,
+    "wins": 25,
+    "losses": 34
+  },
+  {
+    "year": 1971,
+    "total_matches": 3871,
+    "wins": 19,
+    "losses": 25
+  },
+  {
+    "year": 1972,
+    "total_matches": 3788,
+    "wins": 48,
+    "losses": 53
+  },
+  {
+    "year": 1973,
+    "total_matches": 4382,
+    "wins": 75,
+    "losses": 89
+  },
+  {
+    "year": 1974,
+    "total_matches": 4127,
+    "wins": 80,
+    "losses": 101
+  },
+  {
+    "year": 1975,
+    "total_matches": 4129,
+    "wins": 75,
+    "losses": 85
+  },
+  {
+    "year": 1976,
+    "total_matches": 3932,
+    "wins": 61,
+    "losses": 91
+  },
+  {
+    "year": 1977,
+    "total_matches": 4105,
+    "wins": 51,
+    "losses": 80
+  },
+  {
+    "year": 1978,
+    "total_matches": 3861,
+    "wins": 51,
+    "losses": 65
+  },
+  {
+    "year": 1979,
+    "total_matches": 3995,
+    "wins": 61,
+    "losses": 78
+  },
+  {
+    "year": 1980,
+    "total_matches": 3872,
+    "wins": 85,
+    "losses": 64
+  },
+  {
+    "year": 1981,
+    "total_matches": 3916,
+    "wins": 62,
+    "losses": 67
+  },
+  {
+    "year": 1982,
+    "total_matches": 4078,
+    "wins": 43,
+    "losses": 53
+  },
+  {
+    "year": 1983,
+    "total_matches": 3464,
+    "wins": 39,
+    "losses": 47
+  },
+  {
+    "year": 1984,
+    "total_matches": 3222,
+    "wins": 56,
+    "losses": 43
+  },
+  {
+    "year": 1985,
+    "total_matches": 3391,
+    "wins": 42,
+    "losses": 49
+  },
+  {
+    "year": 1986,
+    "total_matches": 3297,
+    "wins": 46,
+    "losses": 37
+  },
+  {
+    "year": 1987,
+    "total_matches": 3581,
+    "wins": 47,
+    "losses": 35
+  },
+  {
+    "year": 1988,
+    "total_matches": 3671,
+    "wins": 32,
+    "losses": 23
+  },
+  {
+    "year": 1989,
+    "total_matches": 3583,
+    "wins": 30,
+    "losses": 36
+  },
+  {
+    "year": 1990,
+    "total_matches": 3745,
+    "wins": 26,
+    "losses": 30
+  },
+  {
+    "year": 1991,
+    "total_matches": 3727,
+    "wins": 17,
+    "losses": 26
+  },
+  {
+    "year": 1992,
+    "total_matches": 3730,
+    "wins": 11,
+    "losses": 6
+  },
+  {
+    "year": 1993,
+    "total_matches": 3890,
+    "wins": 8,
+    "losses": 13
+  },
+  {
+    "year": 1994,
+    "total_matches": 3938,
+    "wins": 4,
+    "losses": 9
+  },
+  {
+    "year": 1995,
+    "total_matches": 3800,
+    "wins": 12,
+    "losses": 13
+  },
+  {
+    "year": 1996,
+    "total_matches": 3836,
+    "wins": 17,
+    "losses": 20
+  },
+  {
+    "year": 1997,
+    "total_matches": 3561,
+    "wins": 17,
+    "losses": 30
+  },
+  {
+    "year": 1998,
+    "total_matches": 3591,
+    "wins": 15,
+    "losses": 19
+  },
+  {
+    "year": 1999,
+    "total_matches": 3334,
+    "wins": 8,
+    "losses": 13
+  },
+  {
+    "year": 2000,
+    "total_matches": 3378,
+    "wins": 9,
+    "losses": 14
+  },
+  {
+    "year": 2001,
+    "total_matches": 3404,
+    "wins": 5,
+    "losses": 14
+  },
+  {
+    "year": 2002,
+    "total_matches": 3213,
+    "wins": 7,
+    "losses": 9
+  },
+  {
+    "year": 2003,
+    "total_matches": 3125,
+    "wins": 9,
+    "losses": 11
+  },
+  {
+    "year": 2004,
+    "total_matches": 3288,
+    "wins": 4,
+    "losses": 8
+  },
+  {
+    "year": 2005,
+    "total_matches": 3263,
+    "wins": 8,
+    "losses": 8
+  },
+  {
+    "year": 2006,
+    "total_matches": 3267,
+    "wins": 4,
+    "losses": 14
+  },
+  {
+    "year": 2007,
+    "total_matches": 3285,
+    "wins": 4,
+    "losses": 14
+  },
+  {
+    "year": 2008,
+    "total_matches": 3030,
+    "wins": 13,
+    "losses": 13
+  },
+  {
+    "year": 2009,
+    "total_matches": 3085,
+    "wins": 15,
+    "losses": 12
+  },
+  {
+    "year": 2010,
+    "total_matches": 3030,
+    "wins": 11,
+    "losses": 20
+  },
+  {
+    "year": 2011,
+    "total_matches": 3015,
+    "wins": 20,
+    "losses": 31
+  },
+  {
+    "year": 2012,
+    "total_matches": 3094,
+    "wins": 9,
+    "losses": 12
+  },
+  {
+    "year": 2013,
+    "total_matches": 2886,
+    "wins": 15,
+    "losses": 17
+  },
+  {
+    "year": 2014,
+    "total_matches": 2874,
+    "wins": 13,
+    "losses": 17
+  },
+  {
+    "year": 2015,
+    "total_matches": 2945,
+    "wins": 4,
+    "losses": 9
+  },
+  {
+    "year": 2016,
+    "total_matches": 2970,
+    "wins": 5,
+    "losses": 12
+  },
+  {
+    "year": 2017,
+    "total_matches": 2936,
+    "wins": 17,
+    "losses": 11
+  },
+  {
+    "year": 2018,
+    "total_matches": 3011,
+    "wins": 14,
+    "losses": 29
+  },
+  {
+    "year": 2019,
+    "total_matches": 2721,
+    "wins": 6,
+    "losses": 19
+  },
+  {
+    "year": 2020,
+    "total_matches": 1466,
+    "wins": 2,
+    "losses": 13
+  },
+  {
+    "year": 2021,
+    "total_matches": 2735,
+    "wins": 4,
+    "losses": 15
+  },
+  {
+    "year": 2022,
+    "total_matches": 2918,
+    "wins": 5,
+    "losses": 8
+  },
+  {
+    "year": 2023,
+    "total_matches": 2995,
+    "wins": 5,
+    "losses": 8
+  },
+  {
+    "year": 2024,
+    "total_matches": 3159,
+    "wins": 8,
+    "losses": 20
+  },
+  {
+    "year": 2025,
+    "total_matches": 2861,
+    "wins": 6,
+    "losses": 4
+  },
+  {
+    "year": 2026,
+    "total_matches": 137,
+    "wins": 0,
+    "losses": 0
+  }
+]

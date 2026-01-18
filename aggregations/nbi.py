@@ -2,13 +2,13 @@
 """
 NBI (Nailbiter Index) Calculator
 Calculates drama scores for Grand Slam Finals and Semi-Finals
+Now uses pre-enriched match data with parsed scores
 """
 
 import pandas as pd
 import numpy as np
 import json
 import os
-import re
 
 
 # =============================================================================
@@ -26,97 +26,19 @@ NBI_WEIGHTS = {
 
 # Data filtering parameters
 ANALYSIS_START_YEAR = 1980
-GRAND_SLAMS = ['Australian Open', 'Roland Garros', 'Wimbledon', 'US Open']
 TARGET_ROUNDS = ['F', 'SF']  # Finals and Semi-Finals
 
 
 # =============================================================================
-# HELPER FUNCTIONS
+# DRAMA TAGGING
 # =============================================================================
-
-def parse_sets(score_str):
-    """Parse set scores from the 'score' string"""
-    if pd.isna(score_str):
-        return [], 0, 0
-    score_str = score_str.replace("RET", "").replace("W/O", "")
-    sets = re.findall(r"(\d+)-(\d+)(?:\((\d+)\))?", score_str)
-    set_margins = [abs(int(s1) - int(s2)) for s1, s2, *_ in sets]
-    tiebreaks = sum(1 for _, _, tb in sets if tb not in [None, ''])
-    lead_changes = sum([
-        1 for i in range(1, len(sets))
-        if (int(sets[i-1][0]) > int(sets[i-1][1])) != (int(sets[i][0]) > int(sets[i][1]))
-    ])
-    return set_margins, tiebreaks, lead_changes
-
-
-def advanced_comeback_score(score_str):
-    """Calculate advanced comeback score (0-3 scale)"""
-    if pd.isna(score_str):
-        return 0
-    score_str = score_str.replace("RET", "").replace("W/O", "")
-    sets = re.findall(r"(\d+)-(\d+)", score_str)
-    if len(sets) < 3:
-        return 0
-    
-    set_winners = [1 if int(s1) > int(s2) else 2 for s1, s2 in sets]
-    p1_sets = set_winners.count(1)
-    p2_sets = set_winners.count(2)
-    
-    if p1_sets == p2_sets:
-        return 0
-    
-    winner = 1 if p1_sets > p2_sets else 2
-    loser = 2 if winner == 1 else 1
-    
-    winner_set_wins = 0
-    loser_set_wins = 0
-    lead_diffs = []
-    
-    for val in set_winners:
-        if val == winner:
-            winner_set_wins += 1
-        else:
-            loser_set_wins += 1
-        lead_diffs.append(loser_set_wins - winner_set_wins)
-    
-    # Down 0-2 comeback = 3 points
-    if len(lead_diffs) > 1 and lead_diffs[1] == 2:
-        return 3
-    
-    # Non-consecutive set losses = 2 points
-    losing_indices = [i for i, val in enumerate(set_winners) if val == loser]
-    if len(losing_indices) >= 2 and (losing_indices[-1] - losing_indices[0] > 1):
-        return 2
-    
-    # Won only 1 of first 3 sets but won = 2 points
-    if len(set_winners) == 5 and set_winners[:3].count(winner) == 1:
-        return 2
-    
-    # 5-setter decided in final set = 1 point
-    if len(set_winners) == 5 and set_winners[-1] == winner:
-        return 1
-    
-    return 0
-
-
-def final_set_tiebreak(score_str):
-    """Check if the final set was decided by a tiebreak"""
-    if pd.isna(score_str):
-        return 0
-    score_str = score_str.replace("RET", "").replace("W/O", "")
-    sets = re.findall(r"(\d+)-(\d+)(?:\((\d+)\))?", score_str)
-    if not sets:
-        return 0
-    last_set = sets[-1]
-    return 1 if len(last_set) > 2 and last_set[2] not in [None, ''] else 0
-
 
 def tag_drama(row):
     """Generate drama tags for a match"""
     tags = []
-    if row['comeback'] >= 2:
+    if row['comeback_score'] >= 2:
         tags.append('comeback')
-    if row['tiebreak_count'] >= 2:
+    if row['tiebreaks_count'] >= 2:
         tags.append('tiebreaks')
     if row['lead_changes'] >= 2:
         tags.append('momentum')
@@ -130,15 +52,15 @@ def tag_drama(row):
 
 
 # =============================================================================
-# MAIN NBI CALCULATION
+# MAIN NBI CALCULATION (USING ENRICHED MATCHES)
 # =============================================================================
 
-def calculate_nbi(df):
+def calculate_nbi(df_enriched):
     """
-    Calculate NBI (Nailbiter Index) for Grand Slam matches
+    Calculate NBI (Nailbiter Index) for Grand Slam matches using enriched data
     
     Args:
-        df: DataFrame with ATP match data
+        df_enriched: DataFrame with enriched match data (already has parsed scores)
     
     Returns:
         pd.DataFrame: Sorted nailbiter matches with NBI scores
@@ -147,25 +69,14 @@ def calculate_nbi(df):
     print("CALCULATING NBI (NAILBITER INDEX)")
     print("="*60)
     
-    # Filter for Grand Slams
-    gs_df = df[df['tourney_name'].isin(GRAND_SLAMS)].copy()
-    
-    # Filter for Finals and Semi-Finals from start year onwards
-    gs_df['tourney_year'] = pd.to_datetime(
-        gs_df['tourney_date'].astype(str), 
-        format='%Y%m%d', 
-        errors='coerce'
-    ).dt.year
-    
-    gs_df = gs_df[
-        (gs_df['tourney_level'] == 'G') & 
-        (gs_df['round'].isin(TARGET_ROUNDS)) & 
-        (gs_df['tourney_year'] >= ANALYSIS_START_YEAR)
+    # Filter for Grand Slams, Finals/SF, complete matches from start year
+    gs_df = df_enriched[
+        (df_enriched['is_grand_slam'] == True) & 
+        (df_enriched['tourney_level'] == 'G') & 
+        (df_enriched['round'].isin(TARGET_ROUNDS)) & 
+        (df_enriched['year'] >= ANALYSIS_START_YEAR) &
+        (df_enriched['is_complete'] == True)
     ].copy()
-    
-    # Remove incomplete matches
-    gs_df['is_complete'] = ~gs_df['score'].str.contains('RET|W/O', na=False)
-    gs_df = gs_df[gs_df['is_complete']].copy()
     
     if gs_df.empty:
         print("✗ No Grand Slam Finals/SF found")
@@ -173,30 +84,24 @@ def calculate_nbi(df):
     
     print(f"✓ Found {len(gs_df)} complete GS Finals/SF matches ({ANALYSIS_START_YEAR}+)")
     
-    # Feature engineering
-    print("Computing match features...")
-    gs_df['parsed'] = gs_df['score'].apply(parse_sets)
-    gs_df['set_margins'] = gs_df['parsed'].apply(lambda x: x[0])
-    gs_df['tiebreak_count'] = gs_df['parsed'].apply(lambda x: x[1])
-    gs_df['lead_changes'] = gs_df['parsed'].apply(lambda x: x[2])
-    gs_df['avg_set_margin'] = gs_df['set_margins'].apply(lambda x: np.mean(x) if x else np.nan)
-    gs_df['comeback'] = gs_df['score'].apply(advanced_comeback_score)
-    gs_df['num_sets'] = gs_df['set_margins'].apply(len)
-    gs_df['final_set_tiebreak'] = gs_df['score'].apply(final_set_tiebreak)
+    # Enriched data already has: avg_set_margin, tiebreaks_count, lead_changes, 
+    # comeback_score, final_set_tiebreak - no need to recalculate!
     
     # Break point drama
+    print("Computing break point drama...")
     gs_df['bp_total'] = gs_df['w_bpFaced'].fillna(0) + gs_df['l_bpFaced'].fillna(0)
     gs_df['bp_saved_total'] = gs_df['w_bpSaved'].fillna(0) + gs_df['l_bpSaved'].fillna(0)
     gs_df['bp_saved_ratio'] = gs_df['bp_saved_total'] / gs_df['bp_total'].replace(0, np.nan)
     gs_df['bp_saved_ratio'] = gs_df['bp_saved_ratio'].fillna(0)
     
     # Duration
+    gs_df['num_sets'] = gs_df['winner_sets'] + gs_df['loser_sets']
     gs_df['duration_score'] = gs_df['minutes'] / gs_df['num_sets'].replace(0, np.nan)
     
     # Normalize features (0-1 scale)
     print("Normalizing features...")
-    features_to_normalize = ['avg_set_margin', 'tiebreak_count', 'lead_changes', 
-                             'comeback', 'bp_saved_ratio', 'duration_score']
+    features_to_normalize = ['avg_set_margin', 'tiebreaks_count', 'lead_changes', 
+                             'comeback_score', 'bp_saved_ratio', 'duration_score']
     
     for col in features_to_normalize:
         min_val = gs_df[col].min()
@@ -213,9 +118,9 @@ def calculate_nbi(df):
     print("Calculating NBI scores...")
     gs_df['NBI'] = (
         NBI_WEIGHTS['avg_set_margin'] * gs_df['avg_set_margin_norm'] +
-        NBI_WEIGHTS['tiebreak_count'] * gs_df['tiebreak_count_norm'] +
+        NBI_WEIGHTS['tiebreak_count'] * gs_df['tiebreaks_count_norm'] +
         NBI_WEIGHTS['lead_changes'] * gs_df['lead_changes_norm'] +
-        NBI_WEIGHTS['comeback'] * gs_df['comeback_norm'] +
+        NBI_WEIGHTS['comeback'] * gs_df['comeback_score_norm'] +
         NBI_WEIGHTS['bp_saved_ratio'] * gs_df['bp_saved_ratio_norm'] +
         NBI_WEIGHTS['final_set_tiebreak'] * gs_df['final_set_tiebreak'] +
         NBI_WEIGHTS['duration_score'] * gs_df['duration_score_norm']
@@ -234,7 +139,7 @@ def calculate_nbi(df):
     print(f"✓ NBI calculated for {len(nailbiters)} matches")
     print(f"  Top NBI: {nailbiters['NBI'].max():.3f}")
     print(f"  #1 Match: {nailbiters.iloc[0]['winner_name']} def. {nailbiters.iloc[0]['loser_name']}")
-    print(f"  Tournament: {nailbiters.iloc[0]['tourney_name']} {nailbiters.iloc[0]['tourney_year']}")
+    print(f"  Tournament: {nailbiters.iloc[0]['tourney_name']} {nailbiters.iloc[0]['year']}")
     
     return nailbiters
 
@@ -253,8 +158,8 @@ def save_nbi_data(nailbiters, output_dir="data/nbi"):
     # Save CSV
     csv_output = nailbiters[[
         'tourney_name', 'tourney_date', 'round', 'minutes', 'score',
-        'winner_name', 'loser_name', 'NBI', 'comeback', 'avg_set_margin',
-        'tiebreak_count', 'lead_changes', 'bp_saved_ratio', 'bp_total'
+        'winner_name', 'loser_name', 'NBI', 'comeback_score', 'avg_set_margin',
+        'tiebreaks_count', 'lead_changes', 'bp_saved_ratio', 'bp_total'
     ]].copy()
     
     csv_path = f"{output_dir}/gs_nailbiters.csv"
@@ -281,9 +186,9 @@ def save_nbi_data(nailbiters, output_dir="data/nbi"):
             'drama_tags': row['drama_tags'],
             'raw_stats': {
                 'avg_set_margin': safe(row['avg_set_margin'], 2),
-                'tiebreak_count': safe(row['tiebreak_count'], 0),
+                'tiebreak_count': safe(row['tiebreaks_count'], 0),
                 'lead_changes': safe(row['lead_changes'], 0),
-                'comeback': safe(row['comeback'], 0),
+                'comeback': safe(row['comeback_score'], 0),
                 'bp_saved_ratio': safe(row['bp_saved_ratio'], 3),
                 'bp_total': safe(row['bp_total'], 0)
             }
@@ -296,13 +201,7 @@ def save_nbi_data(nailbiters, output_dir="data/nbi"):
         json.dump(records, f, indent=2)
     print(f"✓ Saved JSON: {json_path} ({len(records)} matches)")
     
-    # NOTE: iconic_gs_matches.json is manually curated with historical narratives
-    # DO NOT auto-generate this file - it should be maintained separately
-    # The curated file lives in the repo and contains human-written:
-    #   - historical_significance
-    #   - short_commentary  
-    #   - career_impact
-    #   - cultural_resonance
+    # NOTE: iconic_gs_matches.json is manually curated
     iconic_path = f"{output_dir}/iconic_gs_matches.json"
     if os.path.exists(iconic_path):
         print(f"✓ Preserved curated iconic matches: {iconic_path} (not overwritten)")
@@ -310,14 +209,30 @@ def save_nbi_data(nailbiters, output_dir="data/nbi"):
         print(f"⚠ Warning: {iconic_path} not found - please add curated iconic matches manually")
 
 
-def generate_nbi_aggregation(base_data_path="data/base/atp_matches_base.pkl", 
-                             output_dir="data/nbi"):
-    """Main function to generate NBI aggregation"""
-    print("Loading base data...")
-    df = pd.read_pickle(base_data_path)
-    print(f"✓ Loaded {len(df):,} matches")
+def generate_nbi_aggregation(matches_enriched_path="data/base/matches_enriched.parquet",
+                              output_dir="data/nbi"):
+    """
+    Generate NBI aggregation from enriched matches data
+    """
+    print("\n" + "="*60)
+    print("GENERATING NBI (NAILBITER INDEX) DATA")
+    print("="*60)
     
-    nailbiters = calculate_nbi(df)
+    # Load enriched matches (now Parquet format)
+    print("\nLoading enriched matches...")
+    if matches_enriched_path.endswith('.parquet'):
+        df_enriched = pd.read_parquet(matches_enriched_path)
+    else:
+        df_enriched = pd.read_pickle(matches_enriched_path)
+    
+    try:
+        print(f"✓ Loaded {len(df_enriched):,} enriched matches")
+    except FileNotFoundError:
+        print(f"❌ ERROR: Enriched matches file not found: {matches_enriched_path}")
+        print("Please run: python build_base_metrics.py")
+        return
+    
+    nailbiters = calculate_nbi(df_enriched)
     
     if not nailbiters.empty:
         save_nbi_data(nailbiters, output_dir)

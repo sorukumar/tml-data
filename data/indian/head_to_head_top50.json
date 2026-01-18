@@ -1,0 +1,863 @@
+[
+  {
+    "id": "MP30",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "M272",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "L117",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "K103",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "S142",
+    "name": null,
+    "top50_matches": 14,
+    "top50_wins": 2,
+    "top50_losses": 12,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "M773",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "A021",
+    "name": null,
+    "top50_matches": 95,
+    "top50_wins": 11,
+    "top50_losses": 84,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "MQ00",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "A022",
+    "name": null,
+    "top50_matches": 280,
+    "top50_wins": 114,
+    "top50_losses": 166,
+    "notable_upsets_vs_top10": [
+      {
+        "date": "19730829",
+        "opponent": "Rod Laver",
+        "opponent_rank": 4,
+        "tournament": "US Open",
+        "round": "R32",
+        "score": "7-6 2-6 6-4 2-6 6-4"
+      },
+      {
+        "date": "19740828",
+        "opponent": "Bjorn Borg",
+        "opponent_rank": 6,
+        "tournament": "US Open",
+        "round": "R64",
+        "score": "6-1 7-6 3-6 1-6 6-2"
+      },
+      {
+        "date": "19750317",
+        "opponent": "Stan Smith",
+        "opponent_rank": 9,
+        "tournament": "Memphis WCT",
+        "round": "R16",
+        "score": "7-5 6-0"
+      },
+      {
+        "date": "19750421",
+        "opponent": "Stan Smith",
+        "opponent_rank": 10,
+        "tournament": "Houston WCT",
+        "round": "R32",
+        "score": "6-3 7-5"
+      },
+      {
+        "date": "19750818",
+        "opponent": "Jimmy Connors",
+        "opponent_rank": 1,
+        "tournament": "South Orange",
+        "round": "QF",
+        "score": "4-6 7-6 6-4"
+      },
+      {
+        "date": "19750929",
+        "opponent": "John Alexander",
+        "opponent_rank": 10,
+        "tournament": "Nations Cup",
+        "round": "RR",
+        "score": "2-6 7-6 7-5"
+      },
+      {
+        "date": "19751117",
+        "opponent": "Manuel Orantes",
+        "opponent_rank": 5,
+        "tournament": "Calcutta",
+        "round": "F",
+        "score": "7-5 6-3"
+      },
+      {
+        "date": "19760217",
+        "opponent": "Manuel Orantes",
+        "opponent_rank": 5,
+        "tournament": "St. Louis WCT",
+        "round": "QF",
+        "score": "2-6 7-6(4) 7-6(3)"
+      },
+      {
+        "date": "19770322",
+        "opponent": "Manuel Orantes",
+        "opponent_rank": 6,
+        "tournament": "Rotterdam WCT",
+        "round": "R16",
+        "score": "1-6 7-6(6) 6-2"
+      },
+      {
+        "date": "19770328",
+        "opponent": "Ilie Nastase",
+        "opponent_rank": 4,
+        "tournament": "London WCT",
+        "round": "QF",
+        "score": "6-3 5-7 6-2"
+      },
+      {
+        "date": "19780925",
+        "opponent": "Raul Ramirez",
+        "opponent_rank": 8,
+        "tournament": "Mexico City-2",
+        "round": "F",
+        "score": "6-4 6-4"
+      },
+      {
+        "date": "19790226",
+        "opponent": "Eddie Dibbs",
+        "opponent_rank": 7,
+        "tournament": "Memphis",
+        "round": "R32",
+        "score": "6-4 6-1"
+      },
+      {
+        "date": "19790402",
+        "opponent": "Vitas Gerulaitis",
+        "opponent_rank": 5,
+        "tournament": "Rotterdam WCT",
+        "round": "QF",
+        "score": "6-1 7-6"
+      },
+      {
+        "date": "19800114",
+        "opponent": "Vitas Gerulaitis",
+        "opponent_rank": 4,
+        "tournament": "Birmingham WCT",
+        "round": "QF",
+        "score": "6-1 0-6 6-4"
+      },
+      {
+        "date": "19800219",
+        "opponent": "Eddie Dibbs",
+        "opponent_rank": 10,
+        "tournament": "WCT Invitational",
+        "round": "RR",
+        "score": "6-2 6-1"
+      },
+      {
+        "date": "19800219",
+        "opponent": "Jimmy Connors",
+        "opponent_rank": 3,
+        "tournament": "WCT Invitational",
+        "round": "RR",
+        "score": "6-3 6-2"
+      },
+      {
+        "date": "19800324",
+        "opponent": "Guillermo Vilas",
+        "opponent_rank": 4,
+        "tournament": "Milan WCT",
+        "round": "R16",
+        "score": "4-6 6-2 6-3"
+      },
+      {
+        "date": "19800505",
+        "opponent": "Jimmy Connors",
+        "opponent_rank": 3,
+        "tournament": "Forest Hills WCT",
+        "round": "R16",
+        "score": "6-4 4-6 6-3"
+      },
+      {
+        "date": "19800818",
+        "opponent": "Guillermo Vilas",
+        "opponent_rank": 4,
+        "tournament": "Cincinnati",
+        "round": "R16",
+        "score": "4-6 7-6 6-3"
+      },
+      {
+        "date": "19800826",
+        "opponent": "Eddie Dibbs",
+        "opponent_rank": 8,
+        "tournament": "US Open",
+        "round": "R64",
+        "score": "7-5 0-6 4-6 6-2 6-1"
+      },
+      {
+        "date": "19810302",
+        "opponent": "Harold Solomon",
+        "opponent_rank": 9,
+        "tournament": "Salisbury WCT",
+        "round": "RR",
+        "score": "4-6 6-4 6-2"
+      },
+      {
+        "date": "19810810",
+        "opponent": "John McEnroe",
+        "opponent_rank": 1,
+        "tournament": "Montreal",
+        "round": "R16",
+        "score": "5-7 7-6 6-1"
+      },
+      {
+        "date": "19820305",
+        "opponent": "Eliot Teltscher",
+        "opponent_rank": 8,
+        "tournament": "Davis Cup WG R1: USA vs IND",
+        "round": "RR",
+        "score": "6-3 7-5"
+      },
+      {
+        "date": "19820420",
+        "opponent": "Jose-Luis Clerc",
+        "opponent_rank": 5,
+        "tournament": "WCT Finals",
+        "round": "QF",
+        "score": "6-7(4) 6-2 6-2 2-6 6-4"
+      },
+      {
+        "date": "19840820",
+        "opponent": "John McEnroe",
+        "opponent_rank": 1,
+        "tournament": "Cincinnati",
+        "round": "R64",
+        "score": "6-7 6-2 6-3"
+      },
+      {
+        "date": "19841029",
+        "opponent": "Henrik Sundstrom",
+        "opponent_rank": 6,
+        "tournament": "Stockholm",
+        "round": "R32",
+        "score": "6-1 6-4"
+      },
+      {
+        "date": "19850429",
+        "opponent": "Jimmy Connors",
+        "opponent_rank": 3,
+        "tournament": "Las Vegas",
+        "round": "R32",
+        "score": "6-1 7-6"
+      },
+      {
+        "date": "19850802",
+        "opponent": "Mats Wilander",
+        "opponent_rank": 3,
+        "tournament": "Davis Cup WG QF: IND vs SWE",
+        "round": "RR",
+        "score": "8-6 9-7"
+      },
+      {
+        "date": "19860616",
+        "opponent": "Henri Leconte",
+        "opponent_rank": 9,
+        "tournament": "Bristol",
+        "round": "F",
+        "score": "7-6 1-6 8-6"
+      }
+    ]
+  },
+  {
+    "id": "M058",
+    "name": null,
+    "top50_matches": 87,
+    "top50_wins": 9,
+    "top50_losses": 78,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "MC67",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "R084",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "A059",
+    "name": null,
+    "top50_matches": 10,
+    "top50_wins": 0,
+    "top50_losses": 10,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "M252",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "K024",
+    "name": null,
+    "top50_matches": 241,
+    "top50_wins": 78,
+    "top50_losses": 163,
+    "notable_upsets_vs_top10": [
+      {
+        "date": "19810901",
+        "opponent": "Gene Mayer",
+        "opponent_rank": 7,
+        "tournament": "US Open",
+        "round": "R16",
+        "score": "4-6 1-6 7-6 7-5"
+      },
+      {
+        "date": "19820712",
+        "opponent": "Sandy Mayer",
+        "opponent_rank": 9,
+        "tournament": "Stuttgart",
+        "round": "F",
+        "score": "5-7 6-3 6-3 7-6"
+      },
+      {
+        "date": "19841015",
+        "opponent": "Mats Wilander",
+        "opponent_rank": 4,
+        "tournament": "Tokyo-2",
+        "round": "QF",
+        "score": "5-7 6-4 7-6"
+      },
+      {
+        "date": "19860623",
+        "opponent": "Joakim Nystrom",
+        "opponent_rank": 8,
+        "tournament": "Wimbledon",
+        "round": "R32",
+        "score": "6-7 6-2 7-6 6-4"
+      },
+      {
+        "date": "19861027",
+        "opponent": "Jimmy Connors",
+        "opponent_rank": 8,
+        "tournament": "Hong Kong",
+        "round": "QF",
+        "score": "4-6 6-3 6-4"
+      },
+      {
+        "date": "19890116",
+        "opponent": "Mats Wilander",
+        "opponent_rank": 1,
+        "tournament": "Australian Open",
+        "round": "R64",
+        "score": "6-3 6-2 7-6"
+      }
+    ]
+  },
+  {
+    "id": "N050",
+    "name": null,
+    "top50_matches": 3,
+    "top50_wins": 0,
+    "top50_losses": 3,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "G143",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "B107",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "V018",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "A165",
+    "name": null,
+    "top50_matches": 7,
+    "top50_wins": 0,
+    "top50_losses": 7,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "P269",
+    "name": null,
+    "top50_matches": 51,
+    "top50_wins": 14,
+    "top50_losses": 37,
+    "notable_upsets_vs_top10": [
+      {
+        "date": "19950922",
+        "opponent": "Goran Ivanisevic",
+        "opponent_rank": 7,
+        "tournament": "Davis Cup WG PO: IND vs CRO",
+        "round": "RR",
+        "score": "6-7(4) 4-6 7-6(3) 6-4 6-1"
+      },
+      {
+        "date": "19960722",
+        "opponent": "Thomas Enqvist",
+        "opponent_rank": 10,
+        "tournament": "Atlanta Olympics",
+        "round": "R16",
+        "score": "7-5 7-6"
+      },
+      {
+        "date": "19980817",
+        "opponent": "Pete Sampras",
+        "opponent_rank": 2,
+        "tournament": "New Haven",
+        "round": "R16",
+        "score": "6-3 6-4"
+      }
+    ]
+  },
+  {
+    "id": "B471",
+    "name": null,
+    "top50_matches": 14,
+    "top50_wins": 1,
+    "top50_losses": 13,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "F329",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "M699",
+    "name": null,
+    "top50_matches": 4,
+    "top50_wins": 0,
+    "top50_losses": 4,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "B757",
+    "name": null,
+    "top50_matches": 13,
+    "top50_wins": 1,
+    "top50_losses": 12,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "I042",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "A487",
+    "name": null,
+    "top50_matches": 7,
+    "top50_wins": 1,
+    "top50_losses": 6,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "D616",
+    "name": null,
+    "top50_matches": 57,
+    "top50_wins": 15,
+    "top50_losses": 42,
+    "notable_upsets_vs_top10": [
+      {
+        "date": "20140224",
+        "opponent": "Juan Martin del Potro",
+        "opponent_rank": 5,
+        "tournament": "Dubai",
+        "round": "R32",
+        "score": "7-6(3) RET"
+      }
+    ]
+  },
+  {
+    "id": "BF55",
+    "name": null,
+    "top50_matches": 17,
+    "top50_wins": 4,
+    "top50_losses": 13,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "V505",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SG33",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "RB56",
+    "name": null,
+    "top50_matches": 15,
+    "top50_wins": 1,
+    "top50_losses": 14,
+    "notable_upsets_vs_top10": [
+      {
+        "date": "20170626",
+        "opponent": "Dominic Thiem",
+        "opponent_rank": 8,
+        "tournament": "Antalya",
+        "round": "R16",
+        "score": "6-3 6-2"
+      }
+    ]
+  },
+  {
+    "id": "ME64",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "GA94",
+    "name": null,
+    "top50_matches": 9,
+    "top50_wins": 2,
+    "top50_losses": 7,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "N897",
+    "name": null,
+    "top50_matches": 19,
+    "top50_wins": 3,
+    "top50_losses": 16,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SY71",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "N558",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "KH77",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "MP13",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "S0RI",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "S0DE",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "B0LB",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "G065",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SR63",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SR58",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "AD64",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "D651",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "K060",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "E034",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "R230",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "P359",
+    "name": null,
+    "top50_matches": 2,
+    "top50_wins": 0,
+    "top50_losses": 2,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "K281",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "F186",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "N260",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "K397",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "U044",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "W541",
+    "name": null,
+    "top50_matches": 1,
+    "top50_wins": 0,
+    "top50_losses": 1,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SG28",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "SG79",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "R823",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "V502",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "MH48",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "N480",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "PA97",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "KD43",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "D0JI",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  },
+  {
+    "id": "VA48",
+    "name": null,
+    "top50_matches": 0,
+    "top50_wins": 0,
+    "top50_losses": 0,
+    "notable_upsets_vs_top10": []
+  }
+]

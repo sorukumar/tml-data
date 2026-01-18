@@ -1,0 +1,1656 @@
+{
+  "nodes": [
+    {
+      "name": "Jimmy Connors",
+      "country": "USA",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 1587,
+      "career_win_pct": 80.78,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 2
+      },
+      "surface_win_pcts": {
+        "Grass": 50.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 2
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 50.0
+      }
+    },
+    {
+      "name": "John McEnroe",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 3,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 1091,
+      "career_win_pct": 81.58,
+      "gs_titles": 7,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 3
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67
+      },
+      "tourney_wins": {
+        "Wimbledon": 2
+      },
+      "tourney_matches": {
+        "Wimbledon": 3
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 66.67
+      }
+    },
+    {
+      "name": "Chris Lewis",
+      "country": "NZL",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 441,
+      "career_win_pct": 54.65,
+      "gs_titles": 0,
+      "peak_ranking": 19,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Boris Becker",
+      "country": "GER",
+      "matches_won": 3,
+      "matches_played": 7,
+      "win_pct": 42.86,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 941,
+      "career_win_pct": 76.09,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 5,
+      "top_5_win_pct": 40.0,
+      "was_top_5": true,
+      "unique_opponents": 5,
+      "surface_wins": {
+        "Grass": 3
+      },
+      "surface_matches": {
+        "Grass": 7
+      },
+      "surface_win_pcts": {
+        "Grass": 42.86
+      },
+      "tourney_wins": {
+        "Wimbledon": 3
+      },
+      "tourney_matches": {
+        "Wimbledon": 7
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 42.86
+      }
+    },
+    {
+      "name": "Kevin Curren",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 580,
+      "career_win_pct": 58.62,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Ivan Lendl",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 2,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1319,
+      "career_win_pct": 81.58,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 2
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 2
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Pat Cash",
+      "country": "AUS",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 386,
+      "career_win_pct": 61.66,
+      "gs_titles": 1,
+      "peak_ranking": 4,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    },
+    {
+      "name": "Stefan Edberg",
+      "country": "SWE",
+      "matches_won": 2,
+      "matches_played": 3,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 1074,
+      "career_win_pct": 74.58,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 3
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67
+      },
+      "tourney_wins": {
+        "Wimbledon": 2
+      },
+      "tourney_matches": {
+        "Wimbledon": 3
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 66.67
+      }
+    },
+    {
+      "name": "Michael Stich",
+      "country": "GER",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 564,
+      "career_win_pct": 68.44,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    },
+    {
+      "name": "Andre Agassi",
+      "country": "USA",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 1147,
+      "career_win_pct": 76.02,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 2
+      },
+      "surface_win_pcts": {
+        "Grass": 50.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 2
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 50.0
+      }
+    },
+    {
+      "name": "Goran Ivanisevic",
+      "country": "CRO",
+      "matches_won": 1,
+      "matches_played": 4,
+      "win_pct": 25.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 937,
+      "career_win_pct": 64.46,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 2,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 4
+      },
+      "surface_win_pcts": {
+        "Grass": 25.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 4
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 25.0
+      }
+    },
+    {
+      "name": "Pete Sampras",
+      "country": "USA",
+      "matches_won": 7,
+      "matches_played": 7,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 996,
+      "career_win_pct": 76.91,
+      "gs_titles": 14,
+      "peak_ranking": 1,
+      "top_5_wins": 4,
+      "top_5_matches": 4,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Grass": 7
+      },
+      "surface_matches": {
+        "Grass": 7
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 7
+      },
+      "tourney_matches": {
+        "Wimbledon": 7
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    },
+    {
+      "name": "Jim Courier",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 745,
+      "career_win_pct": 68.19,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Richard Krajicek",
+      "country": "NED",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 635,
+      "career_win_pct": 65.2,
+      "gs_titles": 1,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    },
+    {
+      "name": "MaliVai Washington",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 440,
+      "career_win_pct": 57.73,
+      "gs_titles": 0,
+      "peak_ranking": 11,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Cedric Pioline",
+      "country": "FRA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 708,
+      "career_win_pct": 55.08,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Patrick Rafter",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 2,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 551,
+      "career_win_pct": 65.15,
+      "gs_titles": 2,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 2
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 2
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Lleyton Hewitt",
+      "country": "AUS",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 883,
+      "career_win_pct": 70.1,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    },
+    {
+      "name": "David Nalbandian",
+      "country": "ARG",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 579,
+      "career_win_pct": 66.15,
+      "gs_titles": 0,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Roger Federer",
+      "country": "SUI",
+      "matches_won": 8,
+      "matches_played": 12,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 1545,
+      "career_win_pct": 81.88,
+      "gs_titles": 20,
+      "peak_ranking": 1,
+      "top_5_wins": 5,
+      "top_5_matches": 9,
+      "top_5_win_pct": 55.56,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Grass": 8
+      },
+      "surface_matches": {
+        "Grass": 12
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67
+      },
+      "tourney_wins": {
+        "Wimbledon": 8
+      },
+      "tourney_matches": {
+        "Wimbledon": 12
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 66.67
+      }
+    },
+    {
+      "name": "Mark Philippoussis",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 522,
+      "career_win_pct": 60.34,
+      "gs_titles": 0,
+      "peak_ranking": 8,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Andy Roddick",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 3,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 829,
+      "career_win_pct": 74.07,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 3,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 3
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 3
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Rafael Nadal",
+      "country": "ESP",
+      "matches_won": 2,
+      "matches_played": 5,
+      "win_pct": 40.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1326,
+      "career_win_pct": 82.28,
+      "gs_titles": 22,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 4,
+      "top_5_win_pct": 25.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 5
+      },
+      "surface_win_pcts": {
+        "Grass": 40.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 2
+      },
+      "tourney_matches": {
+        "Wimbledon": 5
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 40.0
+      }
+    },
+    {
+      "name": "Tomas Berdych",
+      "country": "CZE",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 988,
+      "career_win_pct": 65.08,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Novak Djokovic",
+      "country": "SRB",
+      "matches_won": 7,
+      "matches_played": 10,
+      "win_pct": 70.0,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 1413,
+      "career_win_pct": 83.37,
+      "gs_titles": 24,
+      "peak_ranking": 1,
+      "top_5_wins": 4,
+      "top_5_matches": 7,
+      "top_5_win_pct": 57.14,
+      "was_top_5": true,
+      "unique_opponents": 7,
+      "surface_wins": {
+        "Grass": 7
+      },
+      "surface_matches": {
+        "Grass": 10
+      },
+      "surface_win_pcts": {
+        "Grass": 70.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 7
+      },
+      "tourney_matches": {
+        "Wimbledon": 10
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 70.0
+      }
+    },
+    {
+      "name": "Andy Murray",
+      "country": "GBR",
+      "matches_won": 2,
+      "matches_played": 3,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 1017,
+      "career_win_pct": 73.55,
+      "gs_titles": 3,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 3
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67
+      },
+      "tourney_wins": {
+        "Wimbledon": 2
+      },
+      "tourney_matches": {
+        "Wimbledon": 3
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 66.67
+      }
+    },
+    {
+      "name": "Milos Raonic",
+      "country": "CAN",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 584,
+      "career_win_pct": 66.44,
+      "gs_titles": 0,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Marin Cilic",
+      "country": "CRO",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 956,
+      "career_win_pct": 62.87,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Kevin Anderson",
+      "country": "RSA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 614,
+      "career_win_pct": 58.47,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Matteo Berrettini",
+      "country": "ITA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 328,
+      "career_win_pct": 64.33,
+      "gs_titles": 0,
+      "peak_ranking": 6,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Nick Kyrgios",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 334,
+      "career_win_pct": 63.17,
+      "gs_titles": 0,
+      "peak_ranking": 13,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "country": "ESP",
+      "matches_won": 2,
+      "matches_played": 3,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 345,
+      "career_win_pct": 81.16,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 3,
+      "top_5_win_pct": 66.67,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 3
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67
+      },
+      "tourney_wins": {
+        "Wimbledon": 2
+      },
+      "tourney_matches": {
+        "Wimbledon": 3
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 66.67
+      }
+    },
+    {
+      "name": "Jannik Sinner",
+      "country": "ITA",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 417,
+      "career_win_pct": 78.18,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Wimbledon": 1
+      },
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {
+        "Wimbledon": 100.0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "player1": "Jimmy Connors",
+      "player2": "John McEnroe",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 2
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 2
+      },
+      "surface_wins": {
+        "Jimmy Connors": {
+          "Grass": 1
+        },
+        "John McEnroe": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Chris Lewis",
+      "player2": "John McEnroe",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Chris Lewis": {},
+        "John McEnroe": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Kevin Curren",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Grass": 1
+        },
+        "Kevin Curren": {}
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Ivan Lendl",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Grass": 1
+        },
+        "Ivan Lendl": {}
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Pat Cash",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Ivan Lendl": {},
+        "Pat Cash": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Stefan Edberg",
+      "total_matches": 3,
+      "player1_wins": 1,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Grass": 3
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 3
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Grass": 1
+        },
+        "Stefan Edberg": {
+          "Grass": 2
+        }
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Michael Stich",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {},
+        "Michael Stich": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Goran Ivanisevic",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Grass": 1
+        },
+        "Goran Ivanisevic": {}
+      }
+    },
+    {
+      "player1": "Jim Courier",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Jim Courier": {},
+        "Pete Sampras": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Goran Ivanisevic",
+      "player2": "Pete Sampras",
+      "total_matches": 2,
+      "player1_wins": 0,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Grass": 2
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 2
+      },
+      "surface_wins": {
+        "Goran Ivanisevic": {},
+        "Pete Sampras": {
+          "Grass": 2
+        }
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {},
+        "Pete Sampras": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "MaliVai Washington",
+      "player2": "Richard Krajicek",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "MaliVai Washington": {},
+        "Richard Krajicek": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Cedric Pioline",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Cedric Pioline": {},
+        "Pete Sampras": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {},
+        "Pete Sampras": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Patrick Rafter",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Patrick Rafter": {},
+        "Pete Sampras": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Goran Ivanisevic",
+      "player2": "Patrick Rafter",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Goran Ivanisevic": {
+          "Grass": 1
+        },
+        "Patrick Rafter": {}
+      }
+    },
+    {
+      "player1": "David Nalbandian",
+      "player2": "Lleyton Hewitt",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "David Nalbandian": {},
+        "Lleyton Hewitt": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Mark Philippoussis",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Mark Philippoussis": {},
+        "Roger Federer": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Roddick",
+      "player2": "Roger Federer",
+      "total_matches": 3,
+      "player1_wins": 0,
+      "player2_wins": 3,
+      "surface_breakdown": {
+        "Grass": 3
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 3
+      },
+      "surface_wins": {
+        "Andy Roddick": {},
+        "Roger Federer": {
+          "Grass": 3
+        }
+      }
+    },
+    {
+      "player1": "Rafael Nadal",
+      "player2": "Roger Federer",
+      "total_matches": 3,
+      "player1_wins": 1,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Grass": 3
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 3
+      },
+      "surface_wins": {
+        "Rafael Nadal": {
+          "Grass": 1
+        },
+        "Roger Federer": {
+          "Grass": 2
+        }
+      }
+    },
+    {
+      "player1": "Rafael Nadal",
+      "player2": "Tomas Berdych",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Rafael Nadal": {
+          "Grass": 1
+        },
+        "Tomas Berdych": {}
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Rafael Nadal",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Grass": 1
+        },
+        "Rafael Nadal": {}
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {
+          "Grass": 1
+        },
+        "Novak Djokovic": {}
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Roger Federer",
+      "total_matches": 3,
+      "player1_wins": 3,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 3
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 3
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Grass": 3
+        },
+        "Roger Federer": {}
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Milos Raonic",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {
+          "Grass": 1
+        },
+        "Milos Raonic": {}
+      }
+    },
+    {
+      "player1": "Marin Cilic",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Marin Cilic": {},
+        "Roger Federer": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Kevin Anderson",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Kevin Anderson": {},
+        "Novak Djokovic": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Matteo Berrettini",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Matteo Berrettini": {},
+        "Novak Djokovic": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Nick Kyrgios",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Nick Kyrgios": {},
+        "Novak Djokovic": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Carlos Alcaraz",
+      "player2": "Novak Djokovic",
+      "total_matches": 2,
+      "player1_wins": 2,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 2
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 2
+      },
+      "surface_wins": {
+        "Carlos Alcaraz": {
+          "Grass": 2
+        },
+        "Novak Djokovic": {}
+      }
+    },
+    {
+      "player1": "Carlos Alcaraz",
+      "player2": "Jannik Sinner",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Carlos Alcaraz": {},
+        "Jannik Sinner": {
+          "Grass": 1
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "total_matches": 43,
+    "total_players": 33,
+    "total_matchups": 32,
+    "year_range": {
+      "min": 1982,
+      "max": 2025
+    }
+  }
+}

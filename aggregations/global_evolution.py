@@ -196,11 +196,22 @@ def save_global_evolution_data(country_mapping, country_profiles, timeline,
     print(f"✓ Saved top players list: {players_path}")
 
 
-def generate_global_evolution_aggregation(base_data_path="data/base/atp_matches_base.pkl",
-                                          output_dir="data/globaltop100evolution"):
-    """Main function to generate global evolution aggregation"""
-    print("Loading base data...")
-    df = pd.read_pickle(base_data_path)
+def generate_global_evolution_aggregation(base_data_path="data/base/atp_matches_raw.parquet",
+                                           output_dir="data/globaltop100evolution"):
+    """
+    Generate global evolution data from base matches
+    """
+    print("\n" + "="*60)
+    print("GENERATING GLOBAL TOP 100 EVOLUTION DATA")
+    print("="*60)
+    
+    # Load base data (now Parquet format)
+    print("\nLoading base data...")
+    if base_data_path.endswith('.parquet'):
+        df = pd.read_parquet(base_data_path)
+    else:
+        df = pd.read_pickle(base_data_path)
+    
     print(f"✓ Loaded {len(df):,} matches")
     
     country_mapping, country_profiles, timeline, timeline_js, top_players_timeline = calculate_global_evolution(df)

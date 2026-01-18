@@ -1,0 +1,768 @@
+[
+  {
+    "id": "K024",
+    "name": "Ramesh Krishnan",
+    "years": [
+      1990,
+      1991,
+      1992,
+      1993
+    ],
+    "years_played": 4,
+    "min_year": 1990,
+    "max_year": 1993,
+    "matches_played": 95,
+    "wins": 43,
+    "losses": 52,
+    "win_pct": 45.26,
+    "best_rank": 62.0
+  },
+  {
+    "id": "A165",
+    "name": "Zeeshan Ali",
+    "years": [
+      1990,
+      1991,
+      1993,
+      1994
+    ],
+    "years_played": 4,
+    "min_year": 1990,
+    "max_year": 1994,
+    "matches_played": 7,
+    "wins": 1,
+    "losses": 6,
+    "win_pct": 14.29,
+    "best_rank": 355.0
+  },
+  {
+    "id": "V018",
+    "name": "Srinivasan Vasudevan",
+    "years": [
+      1990,
+      1991
+    ],
+    "years_played": 2,
+    "min_year": 1990,
+    "max_year": 1991,
+    "matches_played": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_pct": 80.0,
+    "best_rank": 381.0
+  },
+  {
+    "id": "P269",
+    "name": "Leander Paes",
+    "years": [
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008
+    ],
+    "years_played": 19,
+    "min_year": 1990,
+    "max_year": 2008,
+    "matches_played": 200,
+    "wins": 101,
+    "losses": 99,
+    "win_pct": 50.5,
+    "best_rank": 76.0
+  },
+  {
+    "id": "B471",
+    "name": "Mahesh Bhupathi",
+    "years": [
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2008
+    ],
+    "years_played": 8,
+    "min_year": 1995,
+    "max_year": 2008,
+    "matches_played": 38,
+    "wins": 10,
+    "losses": 28,
+    "win_pct": 26.32,
+    "best_rank": 225.0
+  },
+  {
+    "id": "F329",
+    "name": "Fazaluddin Syed",
+    "years": [
+      1999,
+      2000,
+      2001
+    ],
+    "years_played": 3,
+    "min_year": 1999,
+    "max_year": 2001,
+    "matches_played": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_pct": 44.44,
+    "best_rank": 435.0
+  },
+  {
+    "id": "M699",
+    "name": "Harsh Mankad",
+    "years": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "years_played": 6,
+    "min_year": 2000,
+    "max_year": 2005,
+    "matches_played": 19,
+    "wins": 6,
+    "losses": 13,
+    "win_pct": 31.58,
+    "best_rank": 245.0
+  },
+  {
+    "id": "B757",
+    "name": "Rohan Bopanna",
+    "years": [
+      2002,
+      2003,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2016
+    ],
+    "years_played": 12,
+    "min_year": 2002,
+    "max_year": 2016,
+    "matches_played": 48,
+    "wins": 15,
+    "losses": 33,
+    "win_pct": 31.25,
+    "best_rank": 232.0
+  },
+  {
+    "id": "I042",
+    "name": "Asif Ismail",
+    "years": [
+      1994,
+      2003
+    ],
+    "years_played": 2,
+    "min_year": 1994,
+    "max_year": 2003,
+    "matches_played": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_pct": 25.0,
+    "best_rank": 1001.0
+  },
+  {
+    "id": "A487",
+    "name": "Prakash Amritraj",
+    "years": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2012,
+      2013
+    ],
+    "years_played": 11,
+    "min_year": 2002,
+    "max_year": 2013,
+    "matches_played": 53,
+    "wins": 20,
+    "losses": 33,
+    "win_pct": 37.74,
+    "best_rank": 159.0
+  },
+  {
+    "id": "D616",
+    "name": "Somdev Devvarman",
+    "years": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "years_played": 11,
+    "min_year": 2006,
+    "max_year": 2016,
+    "matches_played": 144,
+    "wins": 63,
+    "losses": 81,
+    "win_pct": 43.75,
+    "best_rank": 62.0
+  },
+  {
+    "id": "BF55",
+    "name": "Yuki Bhambri",
+    "years": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021,
+      2022,
+      2023
+    ],
+    "years_played": 13,
+    "min_year": 2009,
+    "max_year": 2023,
+    "matches_played": 61,
+    "wins": 28,
+    "losses": 33,
+    "win_pct": 45.9,
+    "best_rank": 84.0
+  },
+  {
+    "id": "V505",
+    "name": "Vishnu Vardhan",
+    "years": [
+      2007,
+      2011,
+      2012
+    ],
+    "years_played": 3,
+    "min_year": 2007,
+    "max_year": 2012,
+    "matches_played": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_pct": 20.0,
+    "best_rank": 262.0
+  },
+  {
+    "id": "SG33",
+    "name": "Sanam Singh",
+    "years": [
+      2012,
+      2014
+    ],
+    "years_played": 2,
+    "min_year": 2012,
+    "max_year": 2014,
+    "matches_played": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_pct": 25.0,
+    "best_rank": 367.0
+  },
+  {
+    "id": "RB56",
+    "name": "Ramkumar Ramanathan",
+    "years": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "years_played": 12,
+    "min_year": 2014,
+    "max_year": 2025,
+    "matches_played": 63,
+    "wins": 25,
+    "losses": 38,
+    "win_pct": 39.68,
+    "best_rank": 115.0
+  },
+  {
+    "id": "ME64",
+    "name": "Saketh Myneni",
+    "years": [
+      2014,
+      2016,
+      2017
+    ],
+    "years_played": 3,
+    "min_year": 2014,
+    "max_year": 2017,
+    "matches_played": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_pct": 40.0,
+    "best_rank": 137.0
+  },
+  {
+    "id": "GA94",
+    "name": "Prajnesh Gunneswaran",
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "years_played": 7,
+    "min_year": 2017,
+    "max_year": 2023,
+    "matches_played": 39,
+    "wins": 11,
+    "losses": 28,
+    "win_pct": 28.21,
+    "best_rank": 84.0
+  },
+  {
+    "id": "N897",
+    "name": "Sumit Nagal",
+    "years": [
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "years_played": 9,
+    "min_year": 2016,
+    "max_year": 2025,
+    "matches_played": 53,
+    "wins": 15,
+    "losses": 38,
+    "win_pct": 28.3,
+    "best_rank": 68.0
+  },
+  {
+    "id": "SY71",
+    "name": "Digvijaypratap Singh",
+    "years": [
+      2023
+    ],
+    "years_played": 1,
+    "min_year": 2023,
+    "max_year": 2023,
+    "matches_played": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_pct": 100.0,
+    "best_rank": 544.0
+  },
+  {
+    "id": "N558",
+    "name": "N.Sriram Balaji",
+    "years": [
+      2018,
+      2024
+    ],
+    "years_played": 2,
+    "min_year": 2018,
+    "max_year": 2024,
+    "matches_played": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_pct": 33.33,
+    "best_rank": NaN
+  },
+  {
+    "id": "KH77",
+    "name": "Niki Kaliyanda Poonacha",
+    "years": [
+      2024
+    ],
+    "years_played": 1,
+    "min_year": 2024,
+    "max_year": 2024,
+    "matches_played": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_pct": 100.0,
+    "best_rank": 795.0
+  },
+  {
+    "id": "MP13",
+    "name": "Mukund Sasikumar",
+    "years": [
+      2020,
+      2023,
+      2025
+    ],
+    "years_played": 3,
+    "min_year": 2020,
+    "max_year": 2025,
+    "matches_played": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_pct": 20.0,
+    "best_rank": 263.0
+  },
+  {
+    "id": "S0RI",
+    "name": "Karan Singh",
+    "years": [
+      2025
+    ],
+    "years_played": 1,
+    "min_year": 2025,
+    "max_year": 2025,
+    "matches_played": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_pct": 100.0,
+    "best_rank": 496.0
+  },
+  {
+    "id": "S0DE",
+    "name": "Dhakshineswar Suresh",
+    "years": [
+      2025
+    ],
+    "years_played": 1,
+    "min_year": 2025,
+    "max_year": 2025,
+    "matches_played": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_pct": 50.0,
+    "best_rank": 626.0
+  },
+  {
+    "id": "A022",
+    "name": "Vijay Amritraj",
+    "years": [
+      1990,
+      1993
+    ],
+    "years_played": 2,
+    "min_year": 1990,
+    "max_year": 1993,
+    "matches_played": 4,
+    "wins": 0,
+    "losses": 4,
+    "win_pct": 0.0,
+    "best_rank": 286.0
+  },
+  {
+    "id": "R230",
+    "name": "Rohit Rajpal",
+    "years": [
+      1990
+    ],
+    "years_played": 1,
+    "min_year": 1990,
+    "max_year": 1990,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 844.0
+  },
+  {
+    "id": "P359",
+    "name": "Srinath Prahlad",
+    "years": [
+      1996,
+      1998,
+      2000
+    ],
+    "years_played": 3,
+    "min_year": 1996,
+    "max_year": 2000,
+    "matches_played": 5,
+    "wins": 0,
+    "losses": 5,
+    "win_pct": 0.0,
+    "best_rank": 385.0
+  },
+  {
+    "id": "K281",
+    "name": "Sandeep Kirtane",
+    "years": [
+      1996
+    ],
+    "years_played": 1,
+    "min_year": 1996,
+    "max_year": 1996,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 654.0
+  },
+  {
+    "id": "F186",
+    "name": "Mark Ferreira",
+    "years": [
+      1997
+    ],
+    "years_played": 1,
+    "min_year": 1997,
+    "max_year": 1997,
+    "matches_played": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_pct": 0.0,
+    "best_rank": NaN
+  },
+  {
+    "id": "N260",
+    "name": "Susheel Narla",
+    "years": [
+      1997
+    ],
+    "years_played": 1,
+    "min_year": 1997,
+    "max_year": 1997,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 955.0
+  },
+  {
+    "id": "K397",
+    "name": "Sunil Kumar",
+    "years": [
+      2000
+    ],
+    "years_played": 1,
+    "min_year": 2000,
+    "max_year": 2000,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 1199.0
+  },
+  {
+    "id": "U044",
+    "name": "Vishal Uppal",
+    "years": [
+      2006
+    ],
+    "years_played": 1,
+    "min_year": 2006,
+    "max_year": 2006,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 526.0
+  },
+  {
+    "id": "W541",
+    "name": "Akash Wagh",
+    "years": [
+      2006
+    ],
+    "years_played": 1,
+    "min_year": 2006,
+    "max_year": 2006,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": NaN
+  },
+  {
+    "id": "SG28",
+    "name": "Vivek Shokeen",
+    "years": [
+      2007
+    ],
+    "years_played": 1,
+    "min_year": 2007,
+    "max_year": 2007,
+    "matches_played": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_pct": 0.0,
+    "best_rank": 733.0
+  },
+  {
+    "id": "SG79",
+    "name": "Navdeep Singh",
+    "years": [
+      2007
+    ],
+    "years_played": 1,
+    "min_year": 2007,
+    "max_year": 2007,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 817.0
+  },
+  {
+    "id": "R823",
+    "name": "Purav Raja",
+    "years": [
+      2007
+    ],
+    "years_played": 1,
+    "min_year": 2007,
+    "max_year": 2007,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 907.0
+  },
+  {
+    "id": "V502",
+    "name": "Ranjeet Virali-Murugesan",
+    "years": [
+      2013
+    ],
+    "years_played": 1,
+    "min_year": 2013,
+    "max_year": 2013,
+    "matches_played": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_pct": 0.0,
+    "best_rank": 511.0
+  },
+  {
+    "id": "MH48",
+    "name": "Vijayant Malik",
+    "years": [
+      2013
+    ],
+    "years_played": 1,
+    "min_year": 2013,
+    "max_year": 2013,
+    "matches_played": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_pct": 0.0,
+    "best_rank": 537.0
+  },
+  {
+    "id": "N480",
+    "name": "Jeevan Nedunchezhiyan",
+    "years": [
+      2014
+    ],
+    "years_played": 1,
+    "min_year": 2014,
+    "max_year": 2014,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 314.0
+  },
+  {
+    "id": "PA97",
+    "name": "Vijay Sundar Prashanth",
+    "years": [
+      2015
+    ],
+    "years_played": 1,
+    "min_year": 2015,
+    "max_year": 2015,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 557.0
+  },
+  {
+    "id": "KD43",
+    "name": "Arjun Kadhe",
+    "years": [
+      2018,
+      2020,
+      2022
+    ],
+    "years_played": 3,
+    "min_year": 2018,
+    "max_year": 2022,
+    "matches_played": 4,
+    "wins": 0,
+    "losses": 4,
+    "win_pct": 0.0,
+    "best_rank": 392.0
+  },
+  {
+    "id": "D0JI",
+    "name": "Manas Dhamne",
+    "years": [
+      2023
+    ],
+    "years_played": 1,
+    "min_year": 2023,
+    "max_year": 2023,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": NaN
+  },
+  {
+    "id": "VA48",
+    "name": "Siddharth Vishwakarma",
+    "years": [
+      2024
+    ],
+    "years_played": 1,
+    "min_year": 2024,
+    "max_year": 2024,
+    "matches_played": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_pct": 0.0,
+    "best_rank": 588.0
+  }
+]

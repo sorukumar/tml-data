@@ -1,0 +1,1873 @@
+{
+  "nodes": [
+    {
+      "name": "Jimmy Connors",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1587,
+      "career_win_pct": 80.78,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 2
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Ivan Lendl",
+      "country": "USA",
+      "matches_won": 3,
+      "matches_played": 8,
+      "win_pct": 37.5,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1319,
+      "career_win_pct": 81.58,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 7,
+      "top_5_win_pct": 28.57,
+      "was_top_5": true,
+      "unique_opponents": 5,
+      "surface_wins": {
+        "Hard": 3
+      },
+      "surface_matches": {
+        "Hard": 8
+      },
+      "surface_win_pcts": {
+        "Hard": 37.5
+      },
+      "tourney_wins": {
+        "US Open": 3
+      },
+      "tourney_matches": {
+        "US Open": 8
+      },
+      "tourney_win_pcts": {
+        "US Open": 37.5
+      }
+    },
+    {
+      "name": "John McEnroe",
+      "country": "USA",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 1091,
+      "career_win_pct": 81.58,
+      "gs_titles": 7,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Miloslav Mecir Sr.",
+      "country": "SVK",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 386,
+      "career_win_pct": 68.13,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Mats Wilander",
+      "country": "SWE",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 795,
+      "career_win_pct": 71.95,
+      "gs_titles": 7,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Boris Becker",
+      "country": "GER",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 941,
+      "career_win_pct": 76.09,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Pete Sampras",
+      "country": "USA",
+      "matches_won": 5,
+      "matches_played": 8,
+      "win_pct": 62.5,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 996,
+      "career_win_pct": 76.91,
+      "gs_titles": 14,
+      "peak_ranking": 1,
+      "top_5_wins": 3,
+      "top_5_matches": 5,
+      "top_5_win_pct": 60.0,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Hard": 5
+      },
+      "surface_matches": {
+        "Hard": 8
+      },
+      "surface_win_pcts": {
+        "Hard": 62.5
+      },
+      "tourney_wins": {
+        "US Open": 5
+      },
+      "tourney_matches": {
+        "US Open": 8
+      },
+      "tourney_win_pcts": {
+        "US Open": 62.5
+      }
+    },
+    {
+      "name": "Andre Agassi",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 6,
+      "win_pct": 33.33,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1147,
+      "career_win_pct": 76.02,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 3,
+      "top_5_win_pct": 33.33,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 6
+      },
+      "surface_win_pcts": {
+        "Hard": 33.33
+      },
+      "tourney_wins": {
+        "US Open": 2
+      },
+      "tourney_matches": {
+        "US Open": 6
+      },
+      "tourney_win_pcts": {
+        "US Open": 33.33
+      }
+    },
+    {
+      "name": "Stefan Edberg",
+      "country": "SWE",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1074,
+      "career_win_pct": 74.58,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 2
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Jim Courier",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 745,
+      "career_win_pct": 68.19,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Cedric Pioline",
+      "country": "FRA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 708,
+      "career_win_pct": 55.08,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Michael Stich",
+      "country": "GER",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 564,
+      "career_win_pct": 68.44,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Michael Chang",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 978,
+      "career_win_pct": 67.89,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Patrick Rafter",
+      "country": "AUS",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 551,
+      "career_win_pct": 65.15,
+      "gs_titles": 2,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 2
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Greg Rusedski",
+      "country": "GBR",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 728,
+      "career_win_pct": 60.16,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Mark Philippoussis",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 522,
+      "career_win_pct": 60.34,
+      "gs_titles": 0,
+      "peak_ranking": 8,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Todd Martin",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 649,
+      "career_win_pct": 63.48,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Marat Safin",
+      "country": "RUS",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 693,
+      "career_win_pct": 61.18,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Lleyton Hewitt",
+      "country": "AUS",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 883,
+      "career_win_pct": 70.1,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Andy Roddick",
+      "country": "USA",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 829,
+      "career_win_pct": 74.07,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Juan Carlos Ferrero",
+      "country": "ESP",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 741,
+      "career_win_pct": 64.64,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Roger Federer",
+      "country": "SUI",
+      "matches_won": 5,
+      "matches_played": 7,
+      "win_pct": 71.43,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1545,
+      "career_win_pct": 81.88,
+      "gs_titles": 20,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 3,
+      "top_5_win_pct": 66.67,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Hard": 5
+      },
+      "surface_matches": {
+        "Hard": 7
+      },
+      "surface_win_pcts": {
+        "Hard": 71.43
+      },
+      "tourney_wins": {
+        "US Open": 5
+      },
+      "tourney_matches": {
+        "US Open": 7
+      },
+      "tourney_win_pcts": {
+        "US Open": 71.43
+      }
+    },
+    {
+      "name": "Novak Djokovic",
+      "country": "SRB",
+      "matches_won": 4,
+      "matches_played": 10,
+      "win_pct": 40.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1413,
+      "career_win_pct": 83.37,
+      "gs_titles": 24,
+      "peak_ranking": 1,
+      "top_5_wins": 4,
+      "top_5_matches": 10,
+      "top_5_win_pct": 40.0,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Hard": 4
+      },
+      "surface_matches": {
+        "Hard": 10
+      },
+      "surface_win_pcts": {
+        "Hard": 40.0
+      },
+      "tourney_wins": {
+        "US Open": 4
+      },
+      "tourney_matches": {
+        "US Open": 10
+      },
+      "tourney_win_pcts": {
+        "US Open": 40.0
+      }
+    },
+    {
+      "name": "Andy Murray",
+      "country": "GBR",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 1017,
+      "career_win_pct": 73.55,
+      "gs_titles": 3,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Juan Martin del Potro",
+      "country": "ARG",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 621,
+      "career_win_pct": 71.34,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Rafael Nadal",
+      "country": "ESP",
+      "matches_won": 4,
+      "matches_played": 5,
+      "win_pct": 80.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1326,
+      "career_win_pct": 82.28,
+      "gs_titles": 22,
+      "peak_ranking": 1,
+      "top_5_wins": 3,
+      "top_5_matches": 4,
+      "top_5_win_pct": 75.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Hard": 4
+      },
+      "surface_matches": {
+        "Hard": 5
+      },
+      "surface_win_pcts": {
+        "Hard": 80.0
+      },
+      "tourney_wins": {
+        "US Open": 4
+      },
+      "tourney_matches": {
+        "US Open": 5
+      },
+      "tourney_win_pcts": {
+        "US Open": 80.0
+      }
+    },
+    {
+      "name": "Marin Cilic",
+      "country": "CRO",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 956,
+      "career_win_pct": 62.87,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Kei Nishikori",
+      "country": "JPN",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 691,
+      "career_win_pct": 65.7,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Stan Wawrinka",
+      "country": "SUI",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 970,
+      "career_win_pct": 60.41,
+      "gs_titles": 3,
+      "peak_ranking": 3,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Kevin Anderson",
+      "country": "RSA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 614,
+      "career_win_pct": 58.47,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Daniil Medvedev",
+      "country": "RUS",
+      "matches_won": 1,
+      "matches_played": 3,
+      "win_pct": 33.33,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 610,
+      "career_win_pct": 70.49,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 3,
+      "top_5_win_pct": 33.33,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 3
+      },
+      "surface_win_pcts": {
+        "Hard": 33.33
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 3
+      },
+      "tourney_win_pcts": {
+        "US Open": 33.33
+      }
+    },
+    {
+      "name": "Dominic Thiem",
+      "country": "AUT",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 568,
+      "career_win_pct": 61.8,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Alexander Zverev",
+      "country": "GER",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 748,
+      "career_win_pct": 69.92,
+      "gs_titles": 0,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "country": "ESP",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 345,
+      "career_win_pct": 81.16,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "US Open": 2
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 100.0
+      }
+    },
+    {
+      "name": "Casper Ruud",
+      "country": "NOR",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 461,
+      "career_win_pct": 65.08,
+      "gs_titles": 0,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Jannik Sinner",
+      "country": "ITA",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 417,
+      "career_win_pct": 78.18,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "US Open": 1
+      },
+      "tourney_matches": {
+        "US Open": 2
+      },
+      "tourney_win_pcts": {
+        "US Open": 50.0
+      }
+    },
+    {
+      "name": "Taylor Fritz",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 557,
+      "career_win_pct": 61.04,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    }
+  ],
+  "edges": [
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Jimmy Connors",
+      "total_matches": 2,
+      "player1_wins": 0,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "US Open": 2
+      },
+      "surface_wins": {
+        "Ivan Lendl": {},
+        "Jimmy Connors": {
+          "Hard": 2
+        }
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "John McEnroe",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "US Open": 2
+      },
+      "surface_wins": {
+        "Ivan Lendl": {
+          "Hard": 1
+        },
+        "John McEnroe": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Miloslav Mecir Sr.",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Ivan Lendl": {
+          "Hard": 1
+        },
+        "Miloslav Mecir Sr.": {}
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Mats Wilander",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "US Open": 2
+      },
+      "surface_wins": {
+        "Ivan Lendl": {
+          "Hard": 1
+        },
+        "Mats Wilander": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Ivan Lendl",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Hard": 1
+        },
+        "Ivan Lendl": {}
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Pete Sampras",
+      "total_matches": 3,
+      "player1_wins": 0,
+      "player2_wins": 3,
+      "surface_breakdown": {
+        "Hard": 3
+      },
+      "tourney_breakdown": {
+        "US Open": 3
+      },
+      "surface_wins": {
+        "Andre Agassi": {},
+        "Pete Sampras": {
+          "Hard": 3
+        }
+      }
+    },
+    {
+      "player1": "Jim Courier",
+      "player2": "Stefan Edberg",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Jim Courier": {},
+        "Stefan Edberg": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Pete Sampras",
+      "player2": "Stefan Edberg",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Pete Sampras": {},
+        "Stefan Edberg": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Cedric Pioline",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Cedric Pioline": {},
+        "Pete Sampras": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Michael Stich",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Michael Stich": {}
+      }
+    },
+    {
+      "player1": "Michael Chang",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Michael Chang": {},
+        "Pete Sampras": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Greg Rusedski",
+      "player2": "Patrick Rafter",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Greg Rusedski": {},
+        "Patrick Rafter": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Mark Philippoussis",
+      "player2": "Patrick Rafter",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Mark Philippoussis": {},
+        "Patrick Rafter": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Todd Martin",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Todd Martin": {}
+      }
+    },
+    {
+      "player1": "Marat Safin",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Marat Safin": {
+          "Hard": 1
+        },
+        "Pete Sampras": {}
+      }
+    },
+    {
+      "player1": "Lleyton Hewitt",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Lleyton Hewitt": {
+          "Hard": 1
+        },
+        "Pete Sampras": {}
+      }
+    },
+    {
+      "player1": "Andy Roddick",
+      "player2": "Juan Carlos Ferrero",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andy Roddick": {
+          "Hard": 1
+        },
+        "Juan Carlos Ferrero": {}
+      }
+    },
+    {
+      "player1": "Lleyton Hewitt",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Lleyton Hewitt": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Roddick",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andy Roddick": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Roger Federer",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "US Open": 2
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Hard": 1
+        },
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Juan Martin del Potro",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Juan Martin del Potro": {
+          "Hard": 1
+        },
+        "Roger Federer": {}
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Rafael Nadal",
+      "total_matches": 3,
+      "player1_wins": 1,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Hard": 3
+      },
+      "tourney_breakdown": {
+        "US Open": 3
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Hard": 1
+        },
+        "Rafael Nadal": {
+          "Hard": 2
+        }
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {
+          "Hard": 1
+        },
+        "Novak Djokovic": {}
+      }
+    },
+    {
+      "player1": "Kei Nishikori",
+      "player2": "Marin Cilic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Kei Nishikori": {},
+        "Marin Cilic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Stan Wawrinka",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Novak Djokovic": {},
+        "Stan Wawrinka": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Kevin Anderson",
+      "player2": "Rafael Nadal",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Kevin Anderson": {},
+        "Rafael Nadal": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Juan Martin del Potro",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Juan Martin del Potro": {},
+        "Novak Djokovic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Daniil Medvedev",
+      "player2": "Rafael Nadal",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Daniil Medvedev": {},
+        "Rafael Nadal": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Alexander Zverev",
+      "player2": "Dominic Thiem",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Alexander Zverev": {},
+        "Dominic Thiem": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Daniil Medvedev",
+      "player2": "Novak Djokovic",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "US Open": 2
+      },
+      "surface_wins": {
+        "Daniil Medvedev": {
+          "Hard": 1
+        },
+        "Novak Djokovic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Carlos Alcaraz",
+      "player2": "Casper Ruud",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Carlos Alcaraz": {
+          "Hard": 1
+        },
+        "Casper Ruud": {}
+      }
+    },
+    {
+      "player1": "Jannik Sinner",
+      "player2": "Taylor Fritz",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Jannik Sinner": {
+          "Hard": 1
+        },
+        "Taylor Fritz": {}
+      }
+    },
+    {
+      "player1": "Carlos Alcaraz",
+      "player2": "Jannik Sinner",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1
+      },
+      "surface_wins": {
+        "Carlos Alcaraz": {
+          "Hard": 1
+        },
+        "Jannik Sinner": {}
+      }
+    }
+  ],
+  "metadata": {
+    "total_matches": 44,
+    "total_players": 37,
+    "total_matchups": 35,
+    "year_range": {
+      "min": 1982,
+      "max": 2025
+    }
+  }
+}

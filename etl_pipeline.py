@@ -11,6 +11,7 @@ import json
 import os
 from datetime import datetime
 import numpy as np
+import re
 
 
 class TennisETL:
@@ -46,138 +47,207 @@ class TennisETL:
         print(f"\nTotal matches loaded: {len(combined_df)}")
         return combined_df
     
-    def calculate_nbi(self, row):
-        """Calculate Nailbiter Index (NBI) for a match"""
-        try:
-            score = str(row.get('score', ''))
-            minutes = row.get('minutes', 0)
-            
-            # Parse sets
-            sets = score.split()
-            if len(sets) < 3:
-                return 0
-            
-            # Calculate metrics
-            set_margins = []
-            tiebreak_count = 0
-            
-            for set_score in sets:
-                if '(' in set_score:  # tiebreak
-                    tiebreak_count += 1
-                    parts = set_score.replace(')', '').split('(')
-                    if len(parts) == 2:
-                        games = parts[0].split('-')
-                        if len(games) == 2:
-                            try:
-                                margin = abs(int(games[0]) - int(games[1]))
-                                set_margins.append(margin)
-                            except:
-                                pass
-                else:
-                    games = set_score.split('-')
-                    if len(games) == 2:
-                        try:
-                            margin = abs(int(games[0]) - int(games[1]))
-                            set_margins.append(margin)
-                        except:
-                            pass
-            
-            if not set_margins:
-                return 0
-            
-            avg_set_margin = sum(set_margins) / len(set_margins)
-            comeback = 1 if len(sets) >= 4 else 0
-            
-            # Calculate NBI score
-            nbi = 0
-            if avg_set_margin <= 2:
-                nbi += 0.5
-            if tiebreak_count >= 2:
-                nbi += 0.3
-            if len(sets) >= 4:
-                nbi += 0.3
-            if minutes and minutes > 200:
-                nbi += 0.2
-            
-            return nbi
-        except:
+    def parse_sets(self, score_str):
+        """Parse set scores from the 'score' string"""
+        if pd.isna(score_str):
+            return [], 0, 0
+        score_str = score_str.replace("RET", "").replace("W/O", "")
+        sets = re.findall(r"(\d+)-(\d+)(?:\((\d+)\))?", score_str)
+        set_margins = [abs(int(s1) - int(s2)) for s1, s2, *_ in sets]
+        tiebreaks = sum(1 for _, _, tb in sets if tb not in [None, ''])
+        lead_changes = sum([
+            1 for i in range(1, len(sets))
+            if (int(sets[i-1][0]) > int(sets[i-1][1])) != (int(sets[i][0]) > int(sets[i][1]))
+        ])
+        return set_margins, tiebreaks, lead_changes
+
+    def advanced_comeback_score(self, score_str):
+        """Calculate advanced comeback score"""
+        if pd.isna(score_str):
             return 0
+        score_str = score_str.replace("RET", "").replace("W/O", "")
+        sets = re.findall(r"(\d+)-(\d+)", score_str)
+        if len(sets) < 3:
+            return 0
+        set_winners = [1 if int(s1) > int(s2) else 2 for s1, s2 in sets]
+        p1_sets = set_winners.count(1)
+        p2_sets = set_winners.count(2)
+        if p1_sets == p2_sets:
+            return 0
+        winner = 1 if p1_sets > p2_sets else 2
+        loser = 2 if winner == 1 else 1
+        winner_set_wins = 0
+        loser_set_wins = 0
+        lead_diffs = []
+        for val in set_winners:
+            if val == winner:
+                winner_set_wins += 1
+            else:
+                loser_set_wins += 1
+            lead_diffs.append(loser_set_wins - winner_set_wins)
+        if len(lead_diffs) > 1 and lead_diffs[1] == 2:
+            return 3
+        losing_indices = [i for i, val in enumerate(set_winners) if val == loser]
+        if len(losing_indices) >= 2 and (losing_indices[-1] - losing_indices[0] > 1):
+            return 2
+        if len(set_winners) == 5 and set_winners[:3].count(winner) == 1:
+            return 2
+        if len(set_winners) == 5 and set_winners[-1] == winner:
+            return 1
+        return 0
+
+    def final_set_tiebreak(self, score_str):
+        """Check if the final set was decided by a tiebreak"""
+        if pd.isna(score_str):
+            return 0
+        score_str = score_str.replace("RET", "").replace("W/O", "")
+        sets = re.findall(r"(\d+)-(\d+)(?:\((\d+)\))?", score_str)
+        if not sets:
+            return 0
+        last_set = sets[-1]
+        return 1 if len(last_set) > 2 and last_set[2] not in [None, ''] else 0
     
     def generate_nailbiters(self, df):
-        """Generate Grand Slam nailbiter data"""
+        """Generate Grand Slam nailbiter data with proper NBI calculation"""
         print("\nGenerating nailbiter data...")
         
         # Filter for Grand Slams
         gs_tournaments = ['Australian Open', 'Roland Garros', 'Wimbledon', 'US Open']
         gs_df = df[df['tourney_name'].isin(gs_tournaments)].copy()
         
-        # Filter for matches with 4+ sets and significant duration
+        # Filter for Finals and Semi-Finals from 1980 onwards
+        gs_df['tourney_year'] = pd.to_datetime(gs_df['tourney_date'].astype(str), format='%Y%m%d', errors='coerce').dt.year
         gs_df = gs_df[
-            (gs_df['best_of'] >= 5) & 
-            (gs_df['minutes'].notna()) & 
-            (gs_df['minutes'] >= 180)
+            (gs_df['tourney_level'] == 'G') & 
+            (gs_df['round'].isin(['F', 'SF'])) & 
+            (gs_df['tourney_year'] >= 1980)
         ].copy()
         
-        # Calculate NBI
-        gs_df['NBI'] = gs_df.apply(self.calculate_nbi, axis=1)
-        gs_df = gs_df[gs_df['NBI'] > 0.5].copy()
+        # Remove incomplete matches
+        gs_df['is_complete'] = ~gs_df['score'].str.contains('RET|W/O', na=False)
+        gs_df = gs_df[gs_df['is_complete']].copy()
         
-        # Sort by NBI and get top matches
-        gs_df = gs_df.sort_values('NBI', ascending=False).head(100)
+        if gs_df.empty:
+            print("✗ No Grand Slam Finals/SF found")
+            return
         
-        # Prepare CSV output
-        csv_data = gs_df[[
-            'tourney_name', 'tourney_date', 'round', 'minutes', 'score',
-            'winner_name', 'loser_name', 'NBI'
-        ]].copy()
+        # Feature engineering
+        gs_df['parsed'] = gs_df['score'].apply(self.parse_sets)
+        gs_df['set_margins'] = gs_df['parsed'].apply(lambda x: x[0])
+        gs_df['tiebreak_count'] = gs_df['parsed'].apply(lambda x: x[1])
+        gs_df['lead_changes'] = gs_df['parsed'].apply(lambda x: x[2])
+        gs_df['avg_set_margin'] = gs_df['set_margins'].apply(lambda x: np.mean(x) if x else np.nan)
+        gs_df['comeback'] = gs_df['score'].apply(self.advanced_comeback_score)
+        gs_df['num_sets'] = gs_df['set_margins'].apply(len)
+        gs_df['final_set_tiebreak'] = gs_df['score'].apply(self.final_set_tiebreak)
         
-        # Calculate additional metrics for CSV
-        csv_data['comeback'] = csv_data['score'].apply(lambda x: 2 if len(str(x).split()) >= 4 else 0)
-        csv_data['avg_set_margin'] = 2.0
-        csv_data['tiebreak_count'] = csv_data['score'].apply(lambda x: str(x).count('('))
-        csv_data['lead_changes'] = 3
-        csv_data['bp_saved_ratio'] = 0.65
-        csv_data['bp_total'] = 20.0
+        # Break point drama
+        gs_df['bp_total'] = gs_df['w_bpFaced'].fillna(0) + gs_df['l_bpFaced'].fillna(0)
+        gs_df['bp_saved_total'] = gs_df['w_bpSaved'].fillna(0) + gs_df['l_bpSaved'].fillna(0)
+        gs_df['bp_saved_ratio'] = gs_df['bp_saved_total'] / gs_df['bp_total'].replace(0, np.nan)
+        gs_df['bp_saved_ratio'] = gs_df['bp_saved_ratio'].fillna(0)
         
-        csv_data = csv_data.reset_index()
+        # Duration
+        gs_df['duration_score'] = gs_df['minutes'] / gs_df['num_sets'].replace(0, np.nan)
+        
+        # Normalize features
+        features_to_normalize = ['avg_set_margin', 'tiebreak_count', 'lead_changes', 'comeback', 'bp_saved_ratio', 'duration_score']
+        
+        for col in features_to_normalize:
+            min_val = gs_df[col].min()
+            max_val = gs_df[col].max()
+            if max_val == min_val:
+                gs_df[col + '_norm'] = 0
+            elif col == 'avg_set_margin':
+                gs_df[col + '_norm'] = (max_val - gs_df[col]) / (max_val - min_val)
+            else:
+                gs_df[col + '_norm'] = (gs_df[col] - min_val) / (max_val - min_val)
+        
+        # NBI Calculation (matching notebook formula)
+        gs_df['NBI'] = (
+            0.25 * gs_df['avg_set_margin_norm'] +
+            0.12 * gs_df['tiebreak_count_norm'] +
+            0.18 * gs_df['lead_changes_norm'] +
+            0.22 * gs_df['comeback_norm'] +
+            0.07 * gs_df['bp_saved_ratio_norm'] +
+            0.06 * gs_df['final_set_tiebreak'] +
+            0.10 * gs_df['duration_score_norm']
+        )
+        
+        # Sort and prepare output
+        nailbiters = gs_df.sort_values('NBI', ascending=False).reset_index(drop=True)
+        
+        max_nbi = nailbiters['NBI'].max()
+        nailbiters['NBI_100'] = (nailbiters['NBI'] / max_nbi) * 100 if max_nbi > 0 else 0
+        
+        # Drama tags function
+        def tag_drama(row):
+            tags = []
+            if row['comeback'] >= 2:
+                tags.append('comeback')
+            if row['tiebreak_count'] >= 2:
+                tags.append('tiebreaks')
+            if row['lead_changes'] >= 2:
+                tags.append('momentum')
+            if row['bp_saved_ratio'] > 0.6:
+                tags.append('bp drama')
+            if row.get('duration_score_norm', 0) > 0.7:
+                tags.append('epic length')
+            if row.get('final_set_tiebreak', 0) > 0:
+                tags.append('final set tiebreak')
+            return ', '.join(tags) if tags else 'standard'
+        
+        nailbiters['drama_tags'] = nailbiters.apply(tag_drama, axis=1)
         
         # Save CSV
-        os.makedirs(f"{self.output_dir}/nbi", exist_ok=True)
-        csv_data.to_csv(f"{self.output_dir}/nbi/gs_nailbiters.csv", index=True)
+        csv_output = nailbiters[[
+            'tourney_name', 'tourney_date', 'round', 'minutes', 'score',
+            'winner_name', 'loser_name', 'NBI', 'comeback', 'avg_set_margin',
+            'tiebreak_count', 'lead_changes', 'bp_saved_ratio', 'bp_total'
+        ]].copy()
         
-        # Prepare JSON output with more detail
-        json_data = []
-        for _, row in gs_df.head(50).iterrows():
-            match_dict = {
-                "match": f"{row['winner_name']} def. {row['loser_name']}",
-                "tourney": row['tourney_name'],
-                "round": row['round'],
-                "date": str(int(row['tourney_date'])) if pd.notna(row['tourney_date']) else "",
-                "score": row['score'],
-                "duration": int(row['minutes']) if pd.notna(row['minutes']) else 0,
-                "NBI": round(float(row['NBI']), 3),
-                "NBI_100": round(float(row['NBI']) * 100, 1),
-                "drama_tags": "comeback, tiebreaks, momentum",
-                "raw_stats": {
-                    "avg_set_margin": 2.0,
-                    "tiebreak_count": str(row['score']).count('('),
-                    "lead_changes": 3,
-                    "comeback": 2 if len(str(row['score']).split()) >= 4 else 0,
-                    "bp_saved_ratio": 0.65,
-                    "bp_total": 20.0
+        os.makedirs(f"{self.output_dir}/nbi", exist_ok=True)
+        csv_output.to_csv(f"{self.output_dir}/nbi/gs_nailbiters.csv", index=True)
+        
+        # Build JSON-ready dicts
+        records = []
+        for _, row in nailbiters.iterrows():
+            def safe(val, round_to=None):
+                if pd.isna(val) or (isinstance(val, float) and np.isnan(val)):
+                    return None
+                return round(val, round_to) if round_to is not None else val
+            
+            record = {
+                'match': f"{row['winner_name']} def. {row['loser_name']}",
+                'tourney': row['tourney_name'],
+                'round': row['round'],
+                'date': str(row['tourney_date'])[:10],
+                'score': row['score'],
+                'duration': int(row['minutes']) if not pd.isna(row['minutes']) else None,
+                'NBI': safe(row['NBI'], 3),
+                'NBI_100': safe(row['NBI_100'], 1),
+                'drama_tags': row['drama_tags'],
+                'raw_stats': {
+                    'avg_set_margin': safe(row['avg_set_margin'], 2),
+                    'tiebreak_count': safe(row['tiebreak_count'], 0),
+                    'lead_changes': safe(row['lead_changes'], 0),
+                    'comeback': safe(row['comeback'], 0),
+                    'bp_saved_ratio': safe(row['bp_saved_ratio'], 3),
+                    'bp_total': safe(row['bp_total'], 0)
                 }
             }
-            json_data.append(match_dict)
+            records.append(record)
         
+        # Save full JSON
         with open(f"{self.output_dir}/nbi/gs_nailbiters.json", 'w') as f:
-            json.dump(json_data, f, indent=2)
+            json.dump(records, f, indent=2)
         
         # Iconic matches (top 20)
-        iconic_data = json_data[:20]
+        iconic_data = records[:20]
         with open(f"{self.output_dir}/nbi/iconic_gs_matches.json", 'w') as f:
             json.dump(iconic_data, f, indent=2)
         
-        print(f"✓ Generated {len(json_data)} nailbiter matches")
+        print(f"✓ Generated {len(records)} nailbiter matches")
     
     def generate_dominance_rankings(self, df):
         """Generate Grand Slam dominance rankings"""

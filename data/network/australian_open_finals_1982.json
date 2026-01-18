@@ -1,0 +1,1888 @@
+{
+  "nodes": [
+    {
+      "name": "Johan Kriek",
+      "country": "USA",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 603,
+      "career_win_pct": 63.02,
+      "gs_titles": 2,
+      "peak_ranking": 7,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Grass": 1
+      },
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Steve Denton",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 225,
+      "career_win_pct": 48.44,
+      "gs_titles": 0,
+      "peak_ranking": 12,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Mats Wilander",
+      "country": "SWE",
+      "matches_won": 3,
+      "matches_played": 4,
+      "win_pct": 75.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 795,
+      "career_win_pct": 71.95,
+      "gs_titles": 7,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Grass": 2,
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Grass": 3,
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Grass": 66.67,
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 3
+      },
+      "tourney_matches": {
+        "Australian Open": 4
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 75.0
+      }
+    },
+    {
+      "name": "Ivan Lendl",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 4,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 1319,
+      "career_win_pct": 81.58,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 3,
+      "top_5_win_pct": 33.33,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Grass": 1,
+        "Hard": 3
+      },
+      "surface_win_pcts": {
+        "Hard": 66.67
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 4
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 50.0
+      }
+    },
+    {
+      "name": "Kevin Curren",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 580,
+      "career_win_pct": 58.62,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Stefan Edberg",
+      "country": "SWE",
+      "matches_won": 2,
+      "matches_played": 5,
+      "win_pct": 40.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1074,
+      "career_win_pct": 74.58,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 4,
+      "top_5_win_pct": 25.0,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Grass": 2
+      },
+      "surface_matches": {
+        "Grass": 2,
+        "Hard": 3
+      },
+      "surface_win_pcts": {
+        "Grass": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 5
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 40.0
+      }
+    },
+    {
+      "name": "Pat Cash",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 2,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 386,
+      "career_win_pct": 61.66,
+      "gs_titles": 1,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 2,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1,
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 2
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Miloslav Mecir Sr.",
+      "country": "SVK",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 386,
+      "career_win_pct": 68.13,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Boris Becker",
+      "country": "GER",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 941,
+      "career_win_pct": 76.09,
+      "gs_titles": 6,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 2
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Jim Courier",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 745,
+      "career_win_pct": 68.19,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 2
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Pete Sampras",
+      "country": "USA",
+      "matches_won": 2,
+      "matches_played": 3,
+      "win_pct": 66.67,
+      "win_pct_category": "61% - 70%",
+      "career_total_matches": 996,
+      "career_win_pct": 76.91,
+      "gs_titles": 14,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 3
+      },
+      "surface_win_pcts": {
+        "Hard": 66.67
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 3
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 66.67
+      }
+    },
+    {
+      "name": "Todd Martin",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 649,
+      "career_win_pct": 63.48,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Andre Agassi",
+      "country": "USA",
+      "matches_won": 4,
+      "matches_played": 4,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1147,
+      "career_win_pct": 76.02,
+      "gs_titles": 8,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Hard": 4
+      },
+      "surface_matches": {
+        "Hard": 4
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 4
+      },
+      "tourney_matches": {
+        "Australian Open": 4
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Michael Chang",
+      "country": "USA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 978,
+      "career_win_pct": 67.89,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Carlos Moya",
+      "country": "ESP",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 900,
+      "career_win_pct": 64.22,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Petr Korda",
+      "country": "CZE",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 664,
+      "career_win_pct": 62.2,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Marcelo Rios",
+      "country": "CHI",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 588,
+      "career_win_pct": 66.84,
+      "gs_titles": 0,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Yevgeny Kafelnikov",
+      "country": "RUS",
+      "matches_won": 1,
+      "matches_played": 2,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 920,
+      "career_win_pct": 66.63,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 50.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 2
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 50.0
+      }
+    },
+    {
+      "name": "Thomas Enqvist",
+      "country": "SWE",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 750,
+      "career_win_pct": 59.73,
+      "gs_titles": 0,
+      "peak_ranking": 4,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Arnaud Clement",
+      "country": "FRA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 646,
+      "career_win_pct": 49.23,
+      "gs_titles": 0,
+      "peak_ranking": 10,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Thomas Johansson",
+      "country": "SWE",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 658,
+      "career_win_pct": 54.86,
+      "gs_titles": 1,
+      "peak_ranking": 7,
+      "top_5_wins": 0,
+      "top_5_matches": 0,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Marat Safin",
+      "country": "RUS",
+      "matches_won": 1,
+      "matches_played": 3,
+      "win_pct": 33.33,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 693,
+      "career_win_pct": 61.18,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 3
+      },
+      "surface_win_pcts": {
+        "Hard": 33.33
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 3
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 33.33
+      }
+    },
+    {
+      "name": "Rainer Schuettler",
+      "country": "GER",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 668,
+      "career_win_pct": 49.25,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Roger Federer",
+      "country": "SUI",
+      "matches_won": 6,
+      "matches_played": 7,
+      "win_pct": 85.71,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1545,
+      "career_win_pct": 81.88,
+      "gs_titles": 20,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 2,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Hard": 6
+      },
+      "surface_matches": {
+        "Hard": 7
+      },
+      "surface_win_pcts": {
+        "Hard": 85.71
+      },
+      "tourney_wins": {
+        "Australian Open": 6
+      },
+      "tourney_matches": {
+        "Australian Open": 7
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 85.71
+      }
+    },
+    {
+      "name": "Lleyton Hewitt",
+      "country": "AUS",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 883,
+      "career_win_pct": 70.1,
+      "gs_titles": 2,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Marcos Baghdatis",
+      "country": "CYP",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 625,
+      "career_win_pct": 56.0,
+      "gs_titles": 0,
+      "peak_ranking": 8,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Fernando Gonzalez",
+      "country": "CHI",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 577,
+      "career_win_pct": 64.64,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Novak Djokovic",
+      "country": "SRB",
+      "matches_won": 10,
+      "matches_played": 10,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 1413,
+      "career_win_pct": 83.37,
+      "gs_titles": 24,
+      "peak_ranking": 1,
+      "top_5_wins": 8,
+      "top_5_matches": 8,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 6,
+      "surface_wins": {
+        "Hard": 10
+      },
+      "surface_matches": {
+        "Hard": 10
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 10
+      },
+      "tourney_matches": {
+        "Australian Open": 10
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Jo-Wilfried Tsonga",
+      "country": "FRA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 714,
+      "career_win_pct": 66.25,
+      "gs_titles": 0,
+      "peak_ranking": 5,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Rafael Nadal",
+      "country": "ESP",
+      "matches_won": 2,
+      "matches_played": 6,
+      "win_pct": 33.33,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1326,
+      "career_win_pct": 82.28,
+      "gs_titles": 22,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 4,
+      "top_5_win_pct": 50.0,
+      "was_top_5": true,
+      "unique_opponents": 4,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 6
+      },
+      "surface_win_pcts": {
+        "Hard": 33.33
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 6
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 33.33
+      }
+    },
+    {
+      "name": "Andy Murray",
+      "country": "GBR",
+      "matches_won": 0,
+      "matches_played": 5,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 1017,
+      "career_win_pct": 73.55,
+      "gs_titles": 3,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 5,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 5
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 5
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Stan Wawrinka",
+      "country": "SUI",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 970,
+      "career_win_pct": 60.41,
+      "gs_titles": 3,
+      "peak_ranking": 3,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Marin Cilic",
+      "country": "CRO",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 956,
+      "career_win_pct": 62.87,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Dominic Thiem",
+      "country": "AUT",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 568,
+      "career_win_pct": 61.8,
+      "gs_titles": 1,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Daniil Medvedev",
+      "country": "RUS",
+      "matches_won": 0,
+      "matches_played": 3,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 610,
+      "career_win_pct": 70.49,
+      "gs_titles": 1,
+      "peak_ranking": 1,
+      "top_5_wins": 0,
+      "top_5_matches": 3,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 3,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 3
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 3
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Stefanos Tsitsipas",
+      "country": "GRE",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 558,
+      "career_win_pct": 67.03,
+      "gs_titles": 0,
+      "peak_ranking": 3,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Jannik Sinner",
+      "country": "ITA",
+      "matches_won": 2,
+      "matches_played": 2,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 417,
+      "career_win_pct": 78.18,
+      "gs_titles": 4,
+      "peak_ranking": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 2,
+      "surface_wins": {
+        "Hard": 2
+      },
+      "surface_matches": {
+        "Hard": 2
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 2
+      },
+      "tourney_matches": {
+        "Australian Open": 2
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
+    },
+    {
+      "name": "Alexander Zverev",
+      "country": "GER",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 748,
+      "career_win_pct": 69.92,
+      "gs_titles": 0,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {}
+    }
+  ],
+  "edges": [
+    {
+      "player1": "Johan Kriek",
+      "player2": "Steve Denton",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Johan Kriek": {
+          "Grass": 1
+        },
+        "Steve Denton": {}
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Mats Wilander",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Ivan Lendl": {},
+        "Mats Wilander": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Kevin Curren",
+      "player2": "Mats Wilander",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Kevin Curren": {},
+        "Mats Wilander": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Mats Wilander",
+      "player2": "Stefan Edberg",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Mats Wilander": {},
+        "Stefan Edberg": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Pat Cash",
+      "player2": "Stefan Edberg",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Pat Cash": {},
+        "Stefan Edberg": {
+          "Grass": 1
+        }
+      }
+    },
+    {
+      "player1": "Mats Wilander",
+      "player2": "Pat Cash",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Mats Wilander": {
+          "Hard": 1
+        },
+        "Pat Cash": {}
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Miloslav Mecir Sr.",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Ivan Lendl": {
+          "Hard": 1
+        },
+        "Miloslav Mecir Sr.": {}
+      }
+    },
+    {
+      "player1": "Ivan Lendl",
+      "player2": "Stefan Edberg",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Ivan Lendl": {
+          "Hard": 1
+        },
+        "Stefan Edberg": {}
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Ivan Lendl",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Hard": 1
+        },
+        "Ivan Lendl": {}
+      }
+    },
+    {
+      "player1": "Jim Courier",
+      "player2": "Stefan Edberg",
+      "total_matches": 2,
+      "player1_wins": 2,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "Australian Open": 2
+      },
+      "surface_wins": {
+        "Jim Courier": {
+          "Hard": 2
+        },
+        "Stefan Edberg": {}
+      }
+    },
+    {
+      "player1": "Pete Sampras",
+      "player2": "Todd Martin",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Pete Sampras": {
+          "Hard": 1
+        },
+        "Todd Martin": {}
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Pete Sampras": {}
+      }
+    },
+    {
+      "player1": "Boris Becker",
+      "player2": "Michael Chang",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Boris Becker": {
+          "Hard": 1
+        },
+        "Michael Chang": {}
+      }
+    },
+    {
+      "player1": "Carlos Moya",
+      "player2": "Pete Sampras",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Carlos Moya": {},
+        "Pete Sampras": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Marcelo Rios",
+      "player2": "Petr Korda",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Marcelo Rios": {},
+        "Petr Korda": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Thomas Enqvist",
+      "player2": "Yevgeny Kafelnikov",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Thomas Enqvist": {},
+        "Yevgeny Kafelnikov": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Yevgeny Kafelnikov",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Yevgeny Kafelnikov": {}
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Arnaud Clement",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Arnaud Clement": {}
+      }
+    },
+    {
+      "player1": "Marat Safin",
+      "player2": "Thomas Johansson",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Marat Safin": {},
+        "Thomas Johansson": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andre Agassi",
+      "player2": "Rainer Schuettler",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Andre Agassi": {
+          "Hard": 1
+        },
+        "Rainer Schuettler": {}
+      }
+    },
+    {
+      "player1": "Marat Safin",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Marat Safin": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Lleyton Hewitt",
+      "player2": "Marat Safin",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Lleyton Hewitt": {},
+        "Marat Safin": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Marcos Baghdatis",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Marcos Baghdatis": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Fernando Gonzalez",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Fernando Gonzalez": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Jo-Wilfried Tsonga",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Jo-Wilfried Tsonga": {},
+        "Novak Djokovic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Rafael Nadal",
+      "player2": "Roger Federer",
+      "total_matches": 2,
+      "player1_wins": 1,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "Australian Open": 2
+      },
+      "surface_wins": {
+        "Rafael Nadal": {
+          "Hard": 1
+        },
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Andy Murray",
+      "player2": "Novak Djokovic",
+      "total_matches": 4,
+      "player1_wins": 0,
+      "player2_wins": 4,
+      "surface_breakdown": {
+        "Hard": 4
+      },
+      "tourney_breakdown": {
+        "Australian Open": 4
+      },
+      "surface_wins": {
+        "Andy Murray": {},
+        "Novak Djokovic": {
+          "Hard": 4
+        }
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Rafael Nadal",
+      "total_matches": 2,
+      "player1_wins": 2,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 2
+      },
+      "tourney_breakdown": {
+        "Australian Open": 2
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Hard": 2
+        },
+        "Rafael Nadal": {}
+      }
+    },
+    {
+      "player1": "Rafael Nadal",
+      "player2": "Stan Wawrinka",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Rafael Nadal": {},
+        "Stan Wawrinka": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Marin Cilic",
+      "player2": "Roger Federer",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Marin Cilic": {},
+        "Roger Federer": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Dominic Thiem",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Dominic Thiem": {},
+        "Novak Djokovic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Daniil Medvedev",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Daniil Medvedev": {},
+        "Novak Djokovic": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Daniil Medvedev",
+      "player2": "Rafael Nadal",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Daniil Medvedev": {},
+        "Rafael Nadal": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Novak Djokovic",
+      "player2": "Stefanos Tsitsipas",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Novak Djokovic": {
+          "Hard": 1
+        },
+        "Stefanos Tsitsipas": {}
+      }
+    },
+    {
+      "player1": "Daniil Medvedev",
+      "player2": "Jannik Sinner",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Daniil Medvedev": {},
+        "Jannik Sinner": {
+          "Hard": 1
+        }
+      }
+    },
+    {
+      "player1": "Alexander Zverev",
+      "player2": "Jannik Sinner",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Alexander Zverev": {},
+        "Jannik Sinner": {
+          "Hard": 1
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "total_matches": 43,
+    "total_players": 38,
+    "total_matchups": 37,
+    "year_range": {
+      "min": 1982,
+      "max": 2025
+    }
+  }
+}

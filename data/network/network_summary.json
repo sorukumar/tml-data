@@ -1,0 +1,27 @@
+{
+  "grand_slam_finals_2003": {
+    "players": 37,
+    "matches": 91,
+    "matchups": 49
+  },
+  "individual_slams_1982": {
+    "australian_open": {
+      "file": "australian_open_finals_1982.json"
+    },
+    "roland_garros": {
+      "file": "roland_garros_finals_1982.json"
+    },
+    "wimbledon": {
+      "file": "wimbledon_finals_1982.json"
+    },
+    "us_open": {
+      "file": "us_open_finals_1982.json"
+    }
+  },
+  "high_volume_players_2000": {
+    "players": 1827,
+    "matches": 69038,
+    "matchups": 35055,
+    "min_matches_threshold": 200
+  }
+}

@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "MP30",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "M272",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 10,
+        "matches": 23,
+        "win_pct": 43.48
+      },
+      "Grass": {
+        "wins": 26,
+        "matches": 56,
+        "win_pct": 46.43
+      }
+    }
+  },
+  {
+    "id": "L117",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 5,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 17,
+        "matches": 34,
+        "win_pct": 50.0
+      },
+      "Grass": {
+        "wins": 41,
+        "matches": 76,
+        "win_pct": 53.95
+      }
+    }
+  },
+  {
+    "id": "K103",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 2,
+        "win_pct": 50.0
+      },
+      "Clay": {
+        "wins": 15,
+        "matches": 19,
+        "win_pct": 78.95
+      },
+      "Grass": {
+        "wins": 7,
+        "matches": 13,
+        "win_pct": 53.85
+      }
+    }
+  },
+  {
+    "id": "S142",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 3,
+        "matches": 13,
+        "win_pct": 23.08
+      },
+      "Clay": {
+        "wins": 12,
+        "matches": 32,
+        "win_pct": 37.5
+      },
+      "Grass": {
+        "wins": 13,
+        "matches": 35,
+        "win_pct": 37.14
+      }
+    }
+  },
+  {
+    "id": "M773",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 2,
+        "matches": 5,
+        "win_pct": 40.0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 6,
+        "win_pct": 16.67
+      }
+    }
+  },
+  {
+    "id": "A021",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 18,
+        "matches": 63,
+        "win_pct": 28.57
+      },
+      "Clay": {
+        "wins": 33,
+        "matches": 98,
+        "win_pct": 33.67
+      },
+      "Grass": {
+        "wins": 32,
+        "matches": 67,
+        "win_pct": 47.76
+      }
+    }
+  },
+  {
+    "id": "MQ00",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 2,
+        "matches": 2,
+        "win_pct": 100.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "A022",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 93,
+        "matches": 177,
+        "win_pct": 52.54
+      },
+      "Clay": {
+        "wins": 77,
+        "matches": 152,
+        "win_pct": 50.66
+      },
+      "Grass": {
+        "wins": 116,
+        "matches": 173,
+        "win_pct": 67.05
+      }
+    }
+  },
+  {
+    "id": "M058",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 21,
+        "matches": 62,
+        "win_pct": 33.87
+      },
+      "Clay": {
+        "wins": 40,
+        "matches": 111,
+        "win_pct": 36.04
+      },
+      "Grass": {
+        "wins": 16,
+        "matches": 52,
+        "win_pct": 30.77
+      }
+    }
+  },
+  {
+    "id": "MC67",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Grass": {
+        "wins": 3,
+        "matches": 7,
+        "win_pct": 42.86
+      }
+    }
+  },
+  {
+    "id": "R084",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 6,
+        "win_pct": 16.67
+      }
+    }
+  },
+  {
+    "id": "A059",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 3,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 3,
+        "matches": 18,
+        "win_pct": 16.67
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "M252",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 2,
+        "win_pct": 50.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "K024",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 172,
+        "matches": 301,
+        "win_pct": 57.14
+      },
+      "Clay": {
+        "wins": 43,
+        "matches": 111,
+        "win_pct": 38.74
+      },
+      "Grass": {
+        "wins": 57,
+        "matches": 103,
+        "win_pct": 55.34
+      }
+    }
+  },
+  {
+    "id": "N050",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 8,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "G143",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "B107",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      }
+    }
+  },
+  {
+    "id": "V018",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 4,
+        "matches": 6,
+        "win_pct": 66.67
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Grass": {
+        "wins": 3,
+        "matches": 5,
+        "win_pct": 60.0
+      }
+    }
+  },
+  {
+    "id": "A165",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 3,
+        "matches": 9,
+        "win_pct": 33.33
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 10,
+        "win_pct": 10.0
+      }
+    }
+  },
+  {
+    "id": "P269",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 39,
+        "matches": 98,
+        "win_pct": 39.8
+      },
+      "Clay": {
+        "wins": 6,
+        "matches": 14,
+        "win_pct": 42.86
+      },
+      "Grass": {
+        "wins": 46,
+        "matches": 70,
+        "win_pct": 65.71
+      }
+    }
+  },
+  {
+    "id": "B471",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 3,
+        "matches": 18,
+        "win_pct": 16.67
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 4,
+        "win_pct": 25.0
+      },
+      "Grass": {
+        "wins": 6,
+        "matches": 16,
+        "win_pct": 37.5
+      }
+    }
+  },
+  {
+    "id": "F329",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 3,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 4,
+        "matches": 6,
+        "win_pct": 66.67
+      }
+    }
+  },
+  {
+    "id": "M699",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 3,
+        "matches": 12,
+        "win_pct": 25.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 3,
+        "matches": 4,
+        "win_pct": 75.0
+      }
+    }
+  },
+  {
+    "id": "B757",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 6,
+        "matches": 29,
+        "win_pct": 20.69
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      },
+      "Grass": {
+        "wins": 8,
+        "matches": 18,
+        "win_pct": 44.44
+      }
+    }
+  },
+  {
+    "id": "I042",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 2,
+        "win_pct": 50.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "A487",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 5,
+        "matches": 27,
+        "win_pct": 18.52
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 15,
+        "matches": 23,
+        "win_pct": 65.22
+      }
+    }
+  },
+  {
+    "id": "D616",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 54,
+        "matches": 111,
+        "win_pct": 48.65
+      },
+      "Clay": {
+        "wins": 6,
+        "matches": 21,
+        "win_pct": 28.57
+      },
+      "Grass": {
+        "wins": 3,
+        "matches": 12,
+        "win_pct": 25.0
+      }
+    }
+  },
+  {
+    "id": "BF55",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 24,
+        "matches": 52,
+        "win_pct": 46.15
+      },
+      "Clay": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 4,
+        "win_pct": 25.0
+      }
+    }
+  },
+  {
+    "id": "V505",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 4,
+        "win_pct": 25.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "SG33",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 3,
+        "win_pct": 33.33
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "RB56",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 12,
+        "matches": 44,
+        "win_pct": 27.27
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 11,
+        "matches": 16,
+        "win_pct": 68.75
+      }
+    }
+  },
+  {
+    "id": "ME64",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 4,
+        "win_pct": 25.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      }
+    }
+  },
+  {
+    "id": "GA94",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 9,
+        "matches": 29,
+        "win_pct": 31.03
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 2,
+        "matches": 8,
+        "win_pct": 25.0
+      }
+    }
+  },
+  {
+    "id": "N897",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 9,
+        "matches": 32,
+        "win_pct": 28.12
+      },
+      "Clay": {
+        "wins": 6,
+        "matches": 20,
+        "win_pct": 30.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "SY71",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "N558",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      }
+    }
+  },
+  {
+    "id": "KH77",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      }
+    }
+  },
+  {
+    "id": "MP13",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 4,
+        "win_pct": 25.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "S0RI",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 1,
+        "win_pct": 100.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "S0DE",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 1,
+        "matches": 2,
+        "win_pct": 50.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "B0LB",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "G065",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "SR63",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "SR58",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      }
+    }
+  },
+  {
+    "id": "AD64",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "D651",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "K060",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "E034",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "R230",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "P359",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 4,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "K281",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "F186",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "N260",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "K397",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "U044",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "W541",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "SG28",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "SG79",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "R823",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "V502",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "MH48",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 2,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "N480",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "PA97",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "KD43",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 4,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "D0JI",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  },
+  {
+    "id": "VA48",
+    "name": null,
+    "surface_stats": {
+      "Hard": {
+        "wins": 0,
+        "matches": 1,
+        "win_pct": 0.0
+      },
+      "Clay": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      },
+      "Grass": {
+        "wins": 0,
+        "matches": 0,
+        "win_pct": 0
+      }
+    }
+  }
+]

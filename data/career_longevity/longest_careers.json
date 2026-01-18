@@ -1,0 +1,902 @@
+[
+  {
+    "player_name": "Thomas Muster",
+    "career_length_years": 27.36,
+    "career_start": "1984-06-15",
+    "career_end": "2011-10-24",
+    "total_matches": 903,
+    "wins": 626,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Jimmy Connors",
+    "career_length_years": 26.7,
+    "career_start": "1969-08-16",
+    "career_end": "1996-04-29",
+    "total_matches": 1588,
+    "wins": 1283,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Francisco Rodriguez",
+    "career_length_years": 26.54,
+    "career_start": "1979-09-24",
+    "career_end": "2006-04-07",
+    "total_matches": 20,
+    "wins": 14,
+    "best_rank": 374.0
+  },
+  {
+    "player_name": "Aqeel Khan",
+    "career_length_years": 26.45,
+    "career_start": "1998-04-03",
+    "career_end": "2024-09-14",
+    "total_matches": 75,
+    "wins": 32,
+    "best_rank": 368.0
+  },
+  {
+    "player_name": "Aisam-Ul-Haq Qureshi",
+    "career_length_years": 25.36,
+    "career_start": "1998-09-25",
+    "career_end": "2024-02-03",
+    "total_matches": 75,
+    "wins": 41,
+    "best_rank": 154.0
+  },
+  {
+    "player_name": "Feliciano Lopez",
+    "career_length_years": 25.2,
+    "career_start": "1998-04-13",
+    "career_end": "2023-06-26",
+    "total_matches": 1004,
+    "wins": 512,
+    "best_rank": 12.0
+  },
+  {
+    "player_name": "Guillermo Vilas",
+    "career_length_years": 23.86,
+    "career_start": "1968-11-04",
+    "career_end": "1992-09-14",
+    "total_matches": 1257,
+    "wins": 955,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Andrei Gorban",
+    "career_length_years": 23.77,
+    "career_start": "2001-04-27",
+    "career_end": "2025-02-01",
+    "total_matches": 11,
+    "wins": 3,
+    "best_rank": 351.0
+  },
+  {
+    "player_name": "Mansour Bahrami",
+    "career_length_years": 23.45,
+    "career_start": "1973-10-22",
+    "career_end": "1997-04-04",
+    "total_matches": 93,
+    "wins": 38,
+    "best_rank": 197.0
+  },
+  {
+    "player_name": "Richard Gasquet",
+    "career_length_years": 23.11,
+    "career_start": "2002-04-15",
+    "career_end": "2025-05-26",
+    "total_matches": 1031,
+    "wins": 613,
+    "best_rank": 7.0
+  },
+  {
+    "player_name": "Tommy Robredo",
+    "career_length_years": 23.02,
+    "career_start": "1999-04-12",
+    "career_end": "2022-04-18",
+    "total_matches": 897,
+    "wins": 534,
+    "best_rank": 5.0
+  },
+  {
+    "player_name": "Roger Federer",
+    "career_length_years": 22.98,
+    "career_start": "1998-07-06",
+    "career_end": "2021-06-28",
+    "total_matches": 1545,
+    "wins": 1265,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Vijay Amritraj",
+    "career_length_years": 22.72,
+    "career_start": "1970-04-17",
+    "career_end": "1993-01-04",
+    "total_matches": 732,
+    "wins": 415,
+    "best_rank": 19.0
+  },
+  {
+    "player_name": "Rafael Nadal",
+    "career_length_years": 22.56,
+    "career_start": "2002-04-29",
+    "career_end": "2024-11-19",
+    "total_matches": 1326,
+    "wins": 1091,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Stan Wawrinka",
+    "career_length_years": 22.52,
+    "career_start": "2003-07-07",
+    "career_end": "2026-01-11",
+    "total_matches": 970,
+    "wins": 586,
+    "best_rank": 3.0
+  },
+  {
+    "player_name": "Peter Campbell",
+    "career_length_years": 22.07,
+    "career_start": "1968-01-08",
+    "career_end": "1990-02-02",
+    "total_matches": 30,
+    "wins": 4,
+    "best_rank": 157.0
+  },
+  {
+    "player_name": "Bjorn Borg",
+    "career_length_years": 22.03,
+    "career_start": "1971-10-30",
+    "career_end": "1993-11-08",
+    "total_matches": 805,
+    "wins": 659,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Harold Solomon",
+    "career_length_years": 21.58,
+    "career_start": "1969-08-16",
+    "career_end": "1991-03-15",
+    "total_matches": 932,
+    "wins": 592,
+    "best_rank": 6.0
+  },
+  {
+    "player_name": "Novak Djokovic",
+    "career_length_years": 21.57,
+    "career_start": "2004-04-09",
+    "career_end": "2025-11-03",
+    "total_matches": 1413,
+    "wins": 1178,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Gael Monfils",
+    "career_length_years": 21.26,
+    "career_start": "2004-10-11",
+    "career_end": "2026-01-13",
+    "total_matches": 945,
+    "wins": 585,
+    "best_rank": 6.0
+  },
+  {
+    "player_name": "Ivo Karlovic",
+    "career_length_years": 21.13,
+    "career_start": "2000-07-14",
+    "career_end": "2021-08-30",
+    "total_matches": 719,
+    "wins": 373,
+    "best_rank": 14.0
+  },
+  {
+    "player_name": "Fernando Verdasco",
+    "career_length_years": 21.02,
+    "career_start": "2002-04-08",
+    "career_end": "2023-04-17",
+    "total_matches": 1007,
+    "wins": 559,
+    "best_rank": 7.0
+  },
+  {
+    "player_name": "Tommy Haas",
+    "career_length_years": 20.97,
+    "career_start": "1996-08-12",
+    "career_end": "2017-07-31",
+    "total_matches": 919,
+    "wins": 572,
+    "best_rank": 2.0
+  },
+  {
+    "player_name": "Fabrice Santoro",
+    "career_length_years": 20.74,
+    "career_start": "1989-04-24",
+    "career_end": "2010-01-18",
+    "total_matches": 914,
+    "wins": 470,
+    "best_rank": 17.0
+  },
+  {
+    "player_name": "Nenad Zimonjic",
+    "career_length_years": 20.74,
+    "career_start": "1996-07-12",
+    "career_end": "2017-04-07",
+    "total_matches": 38,
+    "wins": 12,
+    "best_rank": 197.0
+  },
+  {
+    "player_name": "Nicolas Mahut",
+    "career_length_years": 20.68,
+    "career_start": "2000-05-29",
+    "career_end": "2021-02-02",
+    "total_matches": 407,
+    "wins": 181,
+    "best_rank": 37.0
+  },
+  {
+    "player_name": "Andre Agassi",
+    "career_length_years": 20.51,
+    "career_start": "1986-02-24",
+    "career_end": "2006-08-28",
+    "total_matches": 1147,
+    "wins": 872,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Marin Cilic",
+    "career_length_years": 20.45,
+    "career_start": "2005-07-25",
+    "career_end": "2026-01-07",
+    "total_matches": 956,
+    "wins": 601,
+    "best_rank": 3.0
+  },
+  {
+    "player_name": "Yen-Hsun Lu",
+    "career_length_years": 20.45,
+    "career_start": "2001-02-09",
+    "career_end": "2021-07-24",
+    "total_matches": 398,
+    "wins": 162,
+    "best_rank": 33.0
+  },
+  {
+    "player_name": "Julian Knowle",
+    "career_length_years": 20.18,
+    "career_start": "1992-07-20",
+    "career_end": "2012-09-24",
+    "total_matches": 43,
+    "wins": 10,
+    "best_rank": 86.0
+  },
+  {
+    "player_name": "Philipp Kohlschreiber",
+    "career_length_years": 19.99,
+    "career_start": "2002-04-29",
+    "career_end": "2022-04-25",
+    "total_matches": 882,
+    "wins": 482,
+    "best_rank": 17.0
+  },
+  {
+    "player_name": "Benjamin Balleret",
+    "career_length_years": 19.92,
+    "career_start": "2005-03-04",
+    "career_end": "2025-02-01",
+    "total_matches": 60,
+    "wins": 30,
+    "best_rank": 234.0
+  },
+  {
+    "player_name": "Malek Jaziri",
+    "career_length_years": 19.9,
+    "career_start": "2003-04-04",
+    "career_end": "2023-02-27",
+    "total_matches": 247,
+    "wins": 103,
+    "best_rank": 42.0
+  },
+  {
+    "player_name": "Younes El Aynaoui",
+    "career_length_years": 19.84,
+    "career_start": "1990-03-05",
+    "career_end": "2010-01-04",
+    "total_matches": 502,
+    "wins": 270,
+    "best_rank": 14.0
+  },
+  {
+    "player_name": "Fabio Fognini",
+    "career_length_years": 19.76,
+    "career_start": "2005-09-26",
+    "career_end": "2025-06-30",
+    "total_matches": 827,
+    "wins": 428,
+    "best_rank": 9.0
+  },
+  {
+    "player_name": "Rubin Statham",
+    "career_length_years": 19.53,
+    "career_start": "2005-03-04",
+    "career_end": "2024-09-14",
+    "total_matches": 54,
+    "wins": 26,
+    "best_rank": 288.0
+  },
+  {
+    "player_name": "Pavel Vizner",
+    "career_length_years": 19.5,
+    "career_start": "1988-08-08",
+    "career_end": "2008-02-08",
+    "total_matches": 4,
+    "wins": 0,
+    "best_rank": 591.0
+  },
+  {
+    "player_name": "Abdelhak Hameurlaine",
+    "career_length_years": 19.44,
+    "career_start": "1990-02-01",
+    "career_end": "2009-07-10",
+    "total_matches": 15,
+    "wins": 3,
+    "best_rank": NaN
+  },
+  {
+    "player_name": "Gustavo Guerrero",
+    "career_length_years": 19.41,
+    "career_start": "1968-06-17",
+    "career_end": "1987-11-16",
+    "total_matches": 27,
+    "wins": 7,
+    "best_rank": 82.0
+  },
+  {
+    "player_name": "Andy Murray",
+    "career_length_years": 19.16,
+    "career_start": "2005-04-18",
+    "career_end": "2024-06-17",
+    "total_matches": 1017,
+    "wins": 748,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Jurgen Melzer",
+    "career_length_years": 19.03,
+    "career_start": "1999-10-11",
+    "career_end": "2018-10-22",
+    "total_matches": 689,
+    "wins": 353,
+    "best_rank": 8.0
+  },
+  {
+    "player_name": "Lleyton Hewitt",
+    "career_length_years": 19.01,
+    "career_start": "1997-01-13",
+    "career_end": "2016-01-18",
+    "total_matches": 883,
+    "wins": 619,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Giovanni Lapentti",
+    "career_length_years": 18.98,
+    "career_start": "1998-02-13",
+    "career_end": "2017-02-06",
+    "total_matches": 56,
+    "wins": 19,
+    "best_rank": 114.0
+  },
+  {
+    "player_name": "Bernard Balleret",
+    "career_length_years": 18.95,
+    "career_start": "1972-05-20",
+    "career_end": "1991-05-03",
+    "total_matches": 48,
+    "wins": 21,
+    "best_rank": 291.0
+  },
+  {
+    "player_name": "Andreas Seppi",
+    "career_length_years": 18.88,
+    "career_start": "2003-07-21",
+    "career_end": "2022-06-06",
+    "total_matches": 810,
+    "wins": 388,
+    "best_rank": 18.0
+  },
+  {
+    "player_name": "Mikhail Youzhny",
+    "career_length_years": 18.86,
+    "career_start": "1999-11-08",
+    "career_end": "2018-09-17",
+    "total_matches": 922,
+    "wins": 499,
+    "best_rank": 8.0
+  },
+  {
+    "player_name": "Yannick Noah",
+    "career_length_years": 18.72,
+    "career_start": "1977-05-23",
+    "career_end": "1996-02-12",
+    "total_matches": 697,
+    "wins": 483,
+    "best_rank": 4.0
+  },
+  {
+    "player_name": "Marcelo Arevalo",
+    "career_length_years": 18.59,
+    "career_start": "2007-02-09",
+    "career_end": "2025-09-13",
+    "total_matches": 54,
+    "wins": 33,
+    "best_rank": 145.0
+  },
+  {
+    "player_name": "John Antonas",
+    "career_length_years": 18.51,
+    "career_start": "1971-01-18",
+    "career_end": "1989-07-21",
+    "total_matches": 15,
+    "wins": 3,
+    "best_rank": 270.0
+  },
+  {
+    "player_name": "Janko Tipsarevic",
+    "career_length_years": 18.46,
+    "career_start": "2001-04-27",
+    "career_end": "2019-10-14",
+    "total_matches": 550,
+    "wins": 289,
+    "best_rank": 8.0
+  },
+  {
+    "player_name": "Andrei Pavel",
+    "career_length_years": 18.39,
+    "career_start": "1991-05-03",
+    "career_end": "2009-09-21",
+    "total_matches": 548,
+    "wins": 281,
+    "best_rank": 13.0
+  },
+  {
+    "player_name": "Kim Warwick",
+    "career_length_years": 18.36,
+    "career_start": "1969-12-01",
+    "career_end": "1988-04-11",
+    "total_matches": 573,
+    "wins": 297,
+    "best_rank": 15.0
+  },
+  {
+    "player_name": "Gilles Muller",
+    "career_length_years": 18.33,
+    "career_start": "2000-04-28",
+    "career_end": "2018-08-27",
+    "total_matches": 446,
+    "wins": 233,
+    "best_rank": 21.0
+  },
+  {
+    "player_name": "Jimmy Arias",
+    "career_length_years": 18.3,
+    "career_start": "1980-03-31",
+    "career_end": "1998-07-20",
+    "total_matches": 507,
+    "wins": 285,
+    "best_rank": 5.0
+  },
+  {
+    "player_name": "Pablo Cuevas",
+    "career_length_years": 18.29,
+    "career_start": "2004-02-06",
+    "career_end": "2022-05-23",
+    "total_matches": 464,
+    "wins": 241,
+    "best_rank": 19.0
+  },
+  {
+    "player_name": "Radek Stepanek",
+    "career_length_years": 18.25,
+    "career_start": "1998-10-19",
+    "career_end": "2017-01-16",
+    "total_matches": 690,
+    "wins": 386,
+    "best_rank": 11.0
+  },
+  {
+    "player_name": "Selvam Veerasingam",
+    "career_length_years": 18.17,
+    "career_start": "1988-02-05",
+    "career_end": "2006-04-07",
+    "total_matches": 22,
+    "wins": 10,
+    "best_rank": 437.0
+  },
+  {
+    "player_name": "Robin Haase",
+    "career_length_years": 18.11,
+    "career_start": "2006-06-19",
+    "career_end": "2024-07-29",
+    "total_matches": 507,
+    "wins": 234,
+    "best_rank": 35.0
+  },
+  {
+    "player_name": "Kei Nishikori",
+    "career_length_years": 18.06,
+    "career_start": "2007-07-16",
+    "career_end": "2025-08-07",
+    "total_matches": 691,
+    "wins": 454,
+    "best_rank": 4.0
+  },
+  {
+    "player_name": "Gilles Simon",
+    "career_length_years": 18.05,
+    "career_start": "2004-10-11",
+    "career_end": "2022-10-31",
+    "total_matches": 904,
+    "wins": 508,
+    "best_rank": 7.0
+  },
+  {
+    "player_name": "Ricardo Mena",
+    "career_length_years": 18.03,
+    "career_start": "1990-03-30",
+    "career_end": "2008-04-11",
+    "total_matches": 30,
+    "wins": 15,
+    "best_rank": 285.0
+  },
+  {
+    "player_name": "Anoosha Shahgholi",
+    "career_length_years": 17.98,
+    "career_start": "1999-02-12",
+    "career_end": "2017-02-03",
+    "total_matches": 19,
+    "wins": 6,
+    "best_rank": 860.0
+  },
+  {
+    "player_name": "Leander Paes",
+    "career_length_years": 17.94,
+    "career_start": "1990-05-05",
+    "career_end": "2008-04-11",
+    "total_matches": 200,
+    "wins": 101,
+    "best_rank": 76.0
+  },
+  {
+    "player_name": "Dustin Brown",
+    "career_length_years": 17.92,
+    "career_start": "2003-07-07",
+    "career_end": "2021-06-07",
+    "total_matches": 161,
+    "wins": 62,
+    "best_rank": 66.0
+  },
+  {
+    "player_name": "Ernests Gulbis",
+    "career_length_years": 17.92,
+    "career_start": "2005-03-04",
+    "career_end": "2023-02-04",
+    "total_matches": 485,
+    "wins": 246,
+    "best_rank": 10.0
+  },
+  {
+    "player_name": "John Alexander",
+    "career_length_years": 17.83,
+    "career_start": "1968-02-08",
+    "career_end": "1985-12-09",
+    "total_matches": 1033,
+    "wins": 597,
+    "best_rank": 8.0
+  },
+  {
+    "player_name": "Toshiro Sakai",
+    "career_length_years": 17.74,
+    "career_start": "1968-01-19",
+    "career_end": "1985-10-14",
+    "total_matches": 108,
+    "wins": 50,
+    "best_rank": 84.0
+  },
+  {
+    "player_name": "Jose Higueras",
+    "career_length_years": 17.69,
+    "career_start": "1968-06-17",
+    "career_end": "1986-02-24",
+    "total_matches": 701,
+    "wins": 454,
+    "best_rank": 5.0
+  },
+  {
+    "player_name": "Jo-Wilfried Tsonga",
+    "career_length_years": 17.69,
+    "career_start": "2004-09-13",
+    "career_end": "2022-05-23",
+    "total_matches": 714,
+    "wins": 473,
+    "best_rank": 5.0
+  },
+  {
+    "player_name": "Martin Klizan",
+    "career_length_years": 17.67,
+    "career_start": "2007-07-29",
+    "career_end": "2025-03-31",
+    "total_matches": 304,
+    "wins": 147,
+    "best_rank": 25.0
+  },
+  {
+    "player_name": "Adrian Mannarino",
+    "career_length_years": 17.63,
+    "career_start": "2008-05-25",
+    "career_end": "2026-01-12",
+    "total_matches": 678,
+    "wins": 317,
+    "best_rank": 17.0
+  },
+  {
+    "player_name": "Grigor Dimitrov",
+    "career_length_years": 17.57,
+    "career_start": "2008-06-15",
+    "career_end": "2026-01-08",
+    "total_matches": 788,
+    "wins": 483,
+    "best_rank": 3.0
+  },
+  {
+    "player_name": "Denis Istomin",
+    "career_length_years": 17.54,
+    "career_start": "2005-03-04",
+    "career_end": "2022-09-16",
+    "total_matches": 498,
+    "wins": 231,
+    "best_rank": 33.0
+  },
+  {
+    "player_name": "Ilie Nastase",
+    "career_length_years": 17.54,
+    "career_start": "1968-03-25",
+    "career_end": "1985-10-07",
+    "total_matches": 1267,
+    "wins": 924,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "John McEnroe",
+    "career_length_years": 17.5,
+    "career_start": "1976-08-23",
+    "career_end": "1994-02-21",
+    "total_matches": 1091,
+    "wins": 890,
+    "best_rank": 1.0
+  },
+  {
+    "player_name": "Vasek Pospisil",
+    "career_length_years": 17.46,
+    "career_start": "2008-02-08",
+    "career_end": "2025-07-27",
+    "total_matches": 314,
+    "wins": 137,
+    "best_rank": 27.0
+  },
+  {
+    "player_name": "Victor Estrella Burgos",
+    "career_length_years": 17.43,
+    "career_start": "2001-02-09",
+    "career_end": "2018-07-16",
+    "total_matches": 162,
+    "wins": 82,
+    "best_rank": 43.0
+  },
+  {
+    "player_name": "Sherwood Stewart",
+    "career_length_years": 17.36,
+    "career_start": "1968-07-08",
+    "career_end": "1985-11-18",
+    "total_matches": 409,
+    "wins": 174,
+    "best_rank": 57.0
+  },
+  {
+    "player_name": "Victor Pecci",
+    "career_length_years": 17.34,
+    "career_start": "1972-11-27",
+    "career_end": "1990-03-30",
+    "total_matches": 623,
+    "wins": 370,
+    "best_rank": 8.0
+  },
+  {
+    "player_name": "Ronald Agenor",
+    "career_length_years": 17.31,
+    "career_start": "1984-04-09",
+    "career_end": "2001-07-30",
+    "total_matches": 483,
+    "wins": 227,
+    "best_rank": 23.0
+  },
+  {
+    "player_name": "Mikhail Kukushkin",
+    "career_length_years": 17.27,
+    "career_start": "2007-10-22",
+    "career_end": "2025-01-27",
+    "total_matches": 415,
+    "wins": 175,
+    "best_rank": 40.0
+  },
+  {
+    "player_name": "Jonas Bjorkman",
+    "career_length_years": 17.25,
+    "career_start": "1991-07-08",
+    "career_end": "2008-10-06",
+    "total_matches": 778,
+    "wins": 416,
+    "best_rank": 4.0
+  },
+  {
+    "player_name": "Jeremy Chardy",
+    "career_length_years": 17.17,
+    "career_start": "2006-05-01",
+    "career_end": "2023-07-03",
+    "total_matches": 607,
+    "wins": 300,
+    "best_rank": 25.0
+  },
+  {
+    "player_name": "Todd Woodbridge",
+    "career_length_years": 17.16,
+    "career_start": "1988-01-04",
+    "career_end": "2005-03-04",
+    "total_matches": 482,
+    "wins": 245,
+    "best_rank": 20.0
+  },
+  {
+    "player_name": "Paul-Henri Mathieu",
+    "career_length_years": 17.15,
+    "career_start": "2000-07-24",
+    "career_end": "2017-09-18",
+    "total_matches": 584,
+    "wins": 276,
+    "best_rank": 12.0
+  },
+  {
+    "player_name": "Sergiy Stakhovsky",
+    "career_length_years": 17.13,
+    "career_start": "2004-10-11",
+    "career_end": "2021-11-26",
+    "total_matches": 390,
+    "wins": 175,
+    "best_rank": 31.0
+  },
+  {
+    "player_name": "Daniel Evans",
+    "career_length_years": 17.11,
+    "career_start": "2008-06-09",
+    "career_end": "2025-07-21",
+    "total_matches": 348,
+    "wins": 162,
+    "best_rank": 21.0
+  },
+  {
+    "player_name": "David Ferrer",
+    "career_length_years": 17.08,
+    "career_start": "2002-04-08",
+    "career_end": "2019-05-06",
+    "total_matches": 1119,
+    "wins": 740,
+    "best_rank": 3.0
+  },
+  {
+    "player_name": "Robert Lutz",
+    "career_length_years": 17.05,
+    "career_start": "1968-02-02",
+    "career_end": "1985-02-18",
+    "total_matches": 772,
+    "wins": 468,
+    "best_rank": 14.0
+  },
+  {
+    "player_name": "Frederik Nielsen",
+    "career_length_years": 17.03,
+    "career_start": "2003-02-24",
+    "career_end": "2020-03-06",
+    "total_matches": 57,
+    "wins": 26,
+    "best_rank": 191.0
+  },
+  {
+    "player_name": "Stan Smith",
+    "career_length_years": 17.02,
+    "career_start": "1968-02-12",
+    "career_end": "1985-02-18",
+    "total_matches": 1099,
+    "wins": 789,
+    "best_rank": 5.0
+  },
+  {
+    "player_name": "Daniel Nestor",
+    "career_length_years": 16.98,
+    "career_start": "1989-08-14",
+    "career_end": "2006-08-07",
+    "total_matches": 205,
+    "wins": 86,
+    "best_rank": 58.0
+  },
+  {
+    "player_name": "Vincent Spadea",
+    "career_length_years": 16.95,
+    "career_start": "1993-03-12",
+    "career_end": "2010-02-22",
+    "total_matches": 671,
+    "wins": 312,
+    "best_rank": 19.0
+  },
+  {
+    "player_name": "Julien Benneteau",
+    "career_length_years": 16.88,
+    "career_start": "2001-10-08",
+    "career_end": "2018-08-27",
+    "total_matches": 570,
+    "wins": 273,
+    "best_rank": 25.0
+  },
+  {
+    "player_name": "Ramesh Krishnan",
+    "career_length_years": 16.84,
+    "career_start": "1976-11-22",
+    "career_end": "1993-09-24",
+    "total_matches": 613,
+    "wins": 323,
+    "best_rank": 23.0
+  },
+  {
+    "player_name": "Nicolas Massu",
+    "career_length_years": 16.84,
+    "career_start": "1996-04-05",
+    "career_end": "2013-02-04",
+    "total_matches": 497,
+    "wins": 259,
+    "best_rank": 10.0
+  },
+  {
+    "player_name": "Jarkko Nieminen",
+    "career_length_years": 16.81,
+    "career_start": "1999-09-24",
+    "career_end": "2016-07-15",
+    "total_matches": 761,
+    "wins": 411,
+    "best_rank": 13.0
+  },
+  {
+    "player_name": "Pat Cash",
+    "career_length_years": 16.79,
+    "career_start": "1981-01-05",
+    "career_end": "1997-10-20",
+    "total_matches": 386,
+    "wins": 238,
+    "best_rank": 4.0
+  },
+  {
+    "player_name": "Bernard Tomic",
+    "career_length_years": 16.77,
+    "career_start": "2009-01-04",
+    "career_end": "2025-10-13",
+    "total_matches": 374,
+    "wins": 187,
+    "best_rank": 17.0
+  },
+  {
+    "player_name": "Stefan Koubek",
+    "career_length_years": 16.72,
+    "career_start": "1994-06-13",
+    "career_end": "2011-03-04",
+    "total_matches": 469,
+    "wins": 215,
+    "best_rank": 20.0
+  }
+]
