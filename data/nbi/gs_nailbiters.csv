@@ -1,4 +1,4 @@
-,tourney_name,tourney_date,round,minutes,score,winner_name,loser_name,NBI,comeback_score,avg_set_margin,tiebreaks_count,lead_changes,bp_saved_ratio,bp_total
+,tourney_name,tourney_date,round,minutes,score,winner_name,loser_name,NBI,comeback,avg_set_margin,tiebreak_count,lead_changes,bp_saved_ratio,bp_total
 0,Wimbledon,20190701,F,297.0,7-6(5) 1-6 7-6(4) 4-6 13-12(3),Novak Djokovic,Roger Federer,0.8102425742574259,2,2.0,3,4,0.5238095238095238,21.0
 1,Roland Garros,20250526,F,329.0,4-6 6-7(4) 6-4 7-6(3) 7-6(2),Carlos Alcaraz,Jannik Sinner,0.7999513485831341,3,1.4,3,1,0.5172413793103449,29.0
 2,Australian Open,20090119,SF,310.0,6-7(4) 6-4 7-6(2) 6-7(1) 6-4,Rafael Nadal,Fernando Verdasco,0.7674859735973596,2,1.4,3,3,0.75,24.0
