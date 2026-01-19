@@ -321,74 +321,98 @@ def generate_network_datasets(df_enriched, player_metrics_df, output_dir="data/n
     
     os.makedirs(output_dir, exist_ok=True)
     
-    # 1. Grand Slam Finals since 2003
-    print("\n1. Grand Slam Finals (2003-present)")
-    gs_finals_2003 = build_network_data(
+    # 1. Grand Slam Finals since 1968
+    print("\n1. Grand Slam Finals (1968-present)")
+    gs_finals_1968 = build_network_data(
         df_enriched,
         player_metrics_df,
-        year_filter={'min': 2003},
+        year_filter={'min': 1968},
         tourney_filter=GRAND_SLAMS,
         round_filter=['F']
     )
     
-    with open(f"{output_dir}/grand_slam_finals_2003.json", 'w') as f:
-        json.dump(gs_finals_2003, f, indent=2)
-    print(f"  ✓ Saved: grand_slam_finals_2003.json")
+    with open(f"{output_dir}/grand_slam_finals_1968.json", 'w') as f:
+        json.dump(gs_finals_1968, f, indent=2)
+    print(f"  ✓ Saved: grand_slam_finals_1968.json")
     
-    # 2. Individual Grand Slam Finals since 1982
-    print("\n2. Individual Grand Slam Finals (1982-present)")
+    # 2. Individual Grand Slam Finals since 1968
+    print("\n2. Individual Grand Slam Finals (1968-present)")
     for slam in GRAND_SLAMS:
         slam_key = slam.lower().replace(' ', '_')
         print(f"\n  Processing {slam}...")
         slam_data = build_network_data(
             df_enriched,
             player_metrics_df,
-            year_filter={'min': 1982},
+            year_filter={'min': 1968},
             tourney_filter=[slam],
             round_filter=['F']
         )
         
-        with open(f"{output_dir}/{slam_key}_finals_1982.json", 'w') as f:
+        with open(f"{output_dir}/{slam_key}_finals_1968.json", 'w') as f:
             json.dump(slam_data, f, indent=2)
-        print(f"  ✓ Saved: {slam_key}_finals_1982.json")
+        print(f"  ✓ Saved: {slam_key}_finals_1968.json")
     
-    # 3. All matches for players with 200+ career matches (2000-present)
-    print("\n3. High-Volume Players Network (200+ matches since 2000)")
+    # 3. Tennis Legends Rivalries Network (100+ matches, peak ranking <=30, H2H >=3 since 1968)
+    print("\n3. Tennis Legends Rivalries Network (1968-present)")
     
-    # Use player_metrics to find high-volume players (much faster!)
-    high_volume_players = player_metrics_df[player_metrics_df['total_matches'] >= 200]['player_name'].tolist()
-    print(f"  Found {len(high_volume_players)} players with 200+ career matches")
+    # Use player_metrics to find legends (100+ matches, peak ranking <=30)
+    legends_players = player_metrics_df[
+        (player_metrics_df['total_matches'] >= 100) & 
+        (player_metrics_df['peak_ranking'] <= 30)
+    ]['player_name'].tolist()
+    print(f"  Found {len(legends_players)} tennis legends")
     
-    # Filter to matches from 2000+ involving these players
-    high_volume_df = df_enriched[
-        (df_enriched['year'] >= 2000) &
-        ((df_enriched['winner_name'].isin(high_volume_players)) | 
-         (df_enriched['loser_name'].isin(high_volume_players)))
+    # Filter to matches from 1968+ involving these players
+    legends_df = df_enriched[
+        (df_enriched['year'] >= 1968) &
+        ((df_enriched['winner_name'].isin(legends_players)) | 
+         (df_enriched['loser_name'].isin(legends_players)))
     ]
     
-    high_volume_network = build_network_data(high_volume_df, player_metrics_df)
+    legends_network = build_network_data(legends_df, player_metrics_df)
     
-    with open(f"{output_dir}/high_volume_players_2000.json", 'w') as f:
-        json.dump(high_volume_network, f, indent=2)
-    print(f"  ✓ Saved: high_volume_players_2000.json")
+    # Filter to only include the 424 legends as nodes
+    legends_set = set(legends_players)
+    legends_network['nodes'] = [node for node in legends_network['nodes'] if node['name'] in legends_set]
+    
+    # Filter edges to only include those between legends
+    legends_network['edges'] = [edge for edge in legends_network['edges'] if edge['player1'] in legends_set and edge['player2'] in legends_set]
+    
+    # Save full edges before filtering
+    full_edges = legends_network['edges'][:]
+    
+    # Filter edges to only include rivalries with 5+ matches
+    legends_network['edges'] = [edge for edge in legends_network['edges'] if edge['total_matches'] >= 5]
+    
+    # Add back edges for top 5 players (peak ranking <=5) even if H2H <5
+    top5_players = set(player_metrics_df[player_metrics_df['peak_ranking'] <= 5]['player_name'])
+    top5_edges = [edge for edge in full_edges if edge['total_matches'] < 5 and 
+                  edge['player1'] in top5_players and edge['player2'] in top5_players]
+    legends_network['edges'].extend(top5_edges)
+    
+    with open(f"{output_dir}/tennis_legends_rivalries_1968.json", 'w') as f:
+        json.dump(legends_network, f, indent=2)
+    print(f"  ✓ Saved: tennis_legends_rivalries_1968.json")
     
     # 4. Summary statistics
     summary = {
-        'grand_slam_finals_2003': {
-            'players': gs_finals_2003['metadata']['total_players'],
-            'matches': gs_finals_2003['metadata']['total_matches'],
-            'matchups': gs_finals_2003['metadata']['total_matchups']
+        'grand_slam_finals_1968': {
+            'players': gs_finals_1968['metadata']['total_players'],
+            'matches': gs_finals_1968['metadata']['total_matches'],
+            'matchups': gs_finals_1968['metadata']['total_matchups']
         },
-        'individual_slams_1982': {
+        'individual_slams_1968': {
             slam.lower().replace(' ', '_'): {
-                'file': f"{slam.lower().replace(' ', '_')}_finals_1982.json"
+                'file': f"{slam.lower().replace(' ', '_')}_finals_1968.json"
             } for slam in GRAND_SLAMS
         },
-        'high_volume_players_2000': {
-            'players': high_volume_network['metadata']['total_players'],
-            'matches': high_volume_network['metadata']['total_matches'],
-            'matchups': high_volume_network['metadata']['total_matchups'],
-            'min_matches_threshold': 200
+        'tennis_legends_rivalries_1968': {
+            'players': legends_network['metadata']['total_players'],
+            'matches': legends_network['metadata']['total_matches'],
+            'matchups': legends_network['metadata']['total_matchups'],
+            'min_matches_threshold': 100,
+            'peak_ranking_threshold': 30,
+            'min_h2h_matches': 5
         }
     }
     
@@ -399,10 +423,10 @@ def generate_network_datasets(df_enriched, player_metrics_df, output_dir="data/n
     print("✅ NETWORK GRAPH AGGREGATION COMPLETE")
     print("="*60)
     print(f"\nGenerated Files:")
-    print(f"  - grand_slam_finals_2003.json")
+    print(f"  - grand_slam_finals_1968.json")
     for slam in GRAND_SLAMS:
-        print(f"  - {slam.lower().replace(' ', '_')}_finals_1982.json")
-    print(f"  - high_volume_players_2000.json")
+        print(f"  - {slam.lower().replace(' ', '_')}_finals_1968.json")
+    print(f"  - tennis_legends_rivalries_1968.json")
     print(f"  - network_summary.json")
 
 

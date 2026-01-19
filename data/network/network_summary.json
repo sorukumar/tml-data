@@ -1,27 +1,29 @@
 {
-  "grand_slam_finals_2003": {
-    "players": 37,
-    "matches": 91,
-    "matchups": 49
+  "grand_slam_finals_1968": {
+    "players": 112,
+    "matches": 228,
+    "matchups": 154
   },
-  "individual_slams_1982": {
+  "individual_slams_1968": {
     "australian_open": {
-      "file": "australian_open_finals_1982.json"
+      "file": "australian_open_finals_1968.json"
     },
     "roland_garros": {
-      "file": "roland_garros_finals_1982.json"
+      "file": "roland_garros_finals_1968.json"
     },
     "wimbledon": {
-      "file": "wimbledon_finals_1982.json"
+      "file": "wimbledon_finals_1968.json"
     },
     "us_open": {
-      "file": "us_open_finals_1982.json"
+      "file": "us_open_finals_1968.json"
     }
   },
-  "high_volume_players_2000": {
-    "players": 1827,
-    "matches": 69038,
-    "matchups": 35055,
-    "min_matches_threshold": 200
+  "tennis_legends_rivalries_1968": {
+    "players": 4284,
+    "matches": 150845,
+    "matchups": 72667,
+    "min_matches_threshold": 100,
+    "peak_ranking_threshold": 30,
+    "min_h2h_matches": 5
   }
 }
