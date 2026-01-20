@@ -64,11 +64,14 @@ def generate_iconic():
     for m in nailbiters:
         parts = m['match'].split(' def. ')
         if len(parts) == 2:
-            key = f"{parts[0]}|{parts[1]}|{m['date'][:4]}"
+            # Key: Winner|Loser|Year|Tournament
+            key = f"{parts[0]}|{parts[1]}|{m['date'][:4]}|{m['tourney']}"
             nbi_lookup[key] = m
 
     for (w, l, y, t, r) in historian_picks:
-        key = f"{w}|{l}|{y}"
+        # Strict lookup: Winner|Loser|Year|Tournament
+        # This prevents collisions (e.g. Laver vs Roche played AO SF and US Open F in 1969)
+        key = f"{w}|{l}|{y}|{t}"
         
         match_data = nbi_lookup.get(key)
         
@@ -77,7 +80,8 @@ def generate_iconic():
         # Let's try to be flexible with lookup if exact match fails
         if not match_data:
             print(f"Warning: Match not found in NBI logic: {key}. Searching looser...")
-            # Try to find by year and tournament in NBI list to see if names differ slightly
+            # Try looser match? Or just accept fallback.
+            # Maybe try checking date if tournament name implies vague matching?
             pass
 
         if match_data:
