@@ -2,6 +2,8 @@
   "nodes": [
     {
       "name": "Rod Laver",
+      "decade": 1960,
+      "active_span": "2 years (68-69)",
       "country": "AUS",
       "matches_won": 2,
       "matches_played": 2,
@@ -37,6 +39,8 @@
     },
     {
       "name": "Tony Roche",
+      "decade": 1960,
+      "active_span": "1 year (68)",
       "country": "AUS",
       "matches_won": 0,
       "matches_played": 1,
@@ -64,6 +68,8 @@
     },
     {
       "name": "John Newcombe",
+      "decade": 1970,
+      "active_span": "3 years (69-71)",
       "country": "AUS",
       "matches_won": 2,
       "matches_played": 3,
@@ -99,6 +105,8 @@
     },
     {
       "name": "Ken Rosewall",
+      "decade": 1970,
+      "active_span": "5 years (70-74)",
       "country": "AUS",
       "matches_won": 0,
       "matches_played": 2,
@@ -126,6 +134,8 @@
     },
     {
       "name": "Stan Smith",
+      "decade": 1970,
+      "active_span": "2 years (71-72)",
       "country": "USA",
       "matches_won": 1,
       "matches_played": 2,
@@ -161,6 +171,8 @@
     },
     {
       "name": "Ilie Nastase",
+      "decade": 1970,
+      "active_span": "5 years (72-76)",
       "country": "ROU",
       "matches_won": 0,
       "matches_played": 2,
@@ -188,6 +200,8 @@
     },
     {
       "name": "Jan Kodes",
+      "decade": 1970,
+      "active_span": "1 year (73)",
       "country": "CZE",
       "matches_won": 1,
       "matches_played": 1,
@@ -223,6 +237,8 @@
     },
     {
       "name": "Alex Metreveli",
+      "decade": 1970,
+      "active_span": "1 year (73)",
       "country": "GEO",
       "matches_won": 0,
       "matches_played": 1,
@@ -250,6 +266,8 @@
     },
     {
       "name": "Jimmy Connors",
+      "decade": 1970,
+      "active_span": "11 years (74-84)",
       "country": "USA",
       "matches_won": 2,
       "matches_played": 6,
@@ -285,6 +303,8 @@
     },
     {
       "name": "Arthur Ashe",
+      "decade": 1970,
+      "active_span": "1 year (75)",
       "country": "USA",
       "matches_won": 1,
       "matches_played": 1,
@@ -320,6 +340,8 @@
     },
     {
       "name": "Bjorn Borg",
+      "decade": 1970,
+      "active_span": "6 years (76-81)",
       "country": "SWE",
       "matches_won": 5,
       "matches_played": 6,
@@ -355,6 +377,8 @@
     },
     {
       "name": "Roscoe Tanner",
+      "decade": 1970,
+      "active_span": "1 year (79)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 1,
@@ -382,6 +406,8 @@
     },
     {
       "name": "John McEnroe",
+      "decade": 1980,
+      "active_span": "5 years (80-84)",
       "country": "USA",
       "matches_won": 3,
       "matches_played": 5,
@@ -417,6 +443,8 @@
     },
     {
       "name": "Chris Lewis",
+      "decade": 1980,
+      "active_span": "1 year (83)",
       "country": "NZL",
       "matches_won": 0,
       "matches_played": 1,
@@ -444,6 +472,8 @@
     },
     {
       "name": "Boris Becker",
+      "decade": 1980,
+      "active_span": "11 years (85-95)",
       "country": "GER",
       "matches_won": 3,
       "matches_played": 7,
@@ -479,6 +509,8 @@
     },
     {
       "name": "Kevin Curren",
+      "decade": 1980,
+      "active_span": "1 year (85)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 1,
@@ -506,6 +538,8 @@
     },
     {
       "name": "Ivan Lendl",
+      "decade": 1980,
+      "active_span": "2 years (86-87)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 2,
@@ -533,6 +567,8 @@
     },
     {
       "name": "Pat Cash",
+      "decade": 1980,
+      "active_span": "1 year (87)",
       "country": "AUS",
       "matches_won": 1,
       "matches_played": 1,
@@ -568,6 +604,8 @@
     },
     {
       "name": "Stefan Edberg",
+      "decade": 1980,
+      "active_span": "3 years (88-90)",
       "country": "SWE",
       "matches_won": 2,
       "matches_played": 3,
@@ -603,6 +641,8 @@
     },
     {
       "name": "Michael Stich",
+      "decade": 1990,
+      "active_span": "1 year (91)",
       "country": "GER",
       "matches_won": 1,
       "matches_played": 1,
@@ -638,6 +678,8 @@
     },
     {
       "name": "Andre Agassi",
+      "decade": 1990,
+      "active_span": "8 years (92-99)",
       "country": "USA",
       "matches_won": 1,
       "matches_played": 2,
@@ -673,6 +715,8 @@
     },
     {
       "name": "Goran Ivanisevic",
+      "decade": 1990,
+      "active_span": "10 years (92-01)",
       "country": "CRO",
       "matches_won": 1,
       "matches_played": 4,
@@ -708,6 +752,8 @@
     },
     {
       "name": "Pete Sampras",
+      "decade": 1990,
+      "active_span": "8 years (93-00)",
       "country": "USA",
       "matches_won": 7,
       "matches_played": 7,
@@ -743,6 +789,8 @@
     },
     {
       "name": "Jim Courier",
+      "decade": 1990,
+      "active_span": "1 year (93)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 1,
@@ -770,6 +818,8 @@
     },
     {
       "name": "Richard Krajicek",
+      "decade": 1990,
+      "active_span": "1 year (96)",
       "country": "NED",
       "matches_won": 1,
       "matches_played": 1,
@@ -805,6 +855,8 @@
     },
     {
       "name": "MaliVai Washington",
+      "decade": 1990,
+      "active_span": "1 year (96)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 1,
@@ -832,6 +884,8 @@
     },
     {
       "name": "Cedric Pioline",
+      "decade": 1990,
+      "active_span": "1 year (97)",
       "country": "FRA",
       "matches_won": 0,
       "matches_played": 1,
@@ -859,6 +913,8 @@
     },
     {
       "name": "Patrick Rafter",
+      "decade": 2000,
+      "active_span": "2 years (00-01)",
       "country": "AUS",
       "matches_won": 0,
       "matches_played": 2,
@@ -886,6 +942,8 @@
     },
     {
       "name": "Lleyton Hewitt",
+      "decade": 2000,
+      "active_span": "1 year (02)",
       "country": "AUS",
       "matches_won": 1,
       "matches_played": 1,
@@ -921,6 +979,8 @@
     },
     {
       "name": "David Nalbandian",
+      "decade": 2000,
+      "active_span": "1 year (02)",
       "country": "ARG",
       "matches_won": 0,
       "matches_played": 1,
@@ -948,6 +1008,8 @@
     },
     {
       "name": "Roger Federer",
+      "decade": 2000,
+      "active_span": "17 years (03-19)",
       "country": "SUI",
       "matches_won": 8,
       "matches_played": 12,
@@ -983,6 +1045,8 @@
     },
     {
       "name": "Mark Philippoussis",
+      "decade": 2000,
+      "active_span": "1 year (03)",
       "country": "AUS",
       "matches_won": 0,
       "matches_played": 1,
@@ -1010,6 +1074,8 @@
     },
     {
       "name": "Andy Roddick",
+      "decade": 2000,
+      "active_span": "6 years (04-09)",
       "country": "USA",
       "matches_won": 0,
       "matches_played": 3,
@@ -1037,6 +1103,8 @@
     },
     {
       "name": "Rafael Nadal",
+      "decade": 2000,
+      "active_span": "6 years (06-11)",
       "country": "ESP",
       "matches_won": 2,
       "matches_played": 5,
@@ -1072,6 +1140,8 @@
     },
     {
       "name": "Tomas Berdych",
+      "decade": 2010,
+      "active_span": "1 year (10)",
       "country": "CZE",
       "matches_won": 0,
       "matches_played": 1,
@@ -1099,6 +1169,8 @@
     },
     {
       "name": "Novak Djokovic",
+      "decade": 2010,
+      "active_span": "14 years (11-24)",
       "country": "SRB",
       "matches_won": 7,
       "matches_played": 10,
@@ -1134,6 +1206,8 @@
     },
     {
       "name": "Andy Murray",
+      "decade": 2010,
+      "active_span": "5 years (12-16)",
       "country": "GBR",
       "matches_won": 2,
       "matches_played": 3,
@@ -1169,6 +1243,8 @@
     },
     {
       "name": "Milos Raonic",
+      "decade": 2010,
+      "active_span": "1 year (16)",
       "country": "CAN",
       "matches_won": 0,
       "matches_played": 1,
@@ -1196,6 +1272,8 @@
     },
     {
       "name": "Marin Cilic",
+      "decade": 2010,
+      "active_span": "1 year (17)",
       "country": "CRO",
       "matches_won": 0,
       "matches_played": 1,
@@ -1223,6 +1301,8 @@
     },
     {
       "name": "Kevin Anderson",
+      "decade": 2010,
+      "active_span": "1 year (18)",
       "country": "RSA",
       "matches_won": 0,
       "matches_played": 1,
@@ -1250,6 +1330,8 @@
     },
     {
       "name": "Matteo Berrettini",
+      "decade": 2020,
+      "active_span": "1 year (21)",
       "country": "ITA",
       "matches_won": 0,
       "matches_played": 1,
@@ -1277,6 +1359,8 @@
     },
     {
       "name": "Nick Kyrgios",
+      "decade": 2020,
+      "active_span": "1 year (22)",
       "country": "AUS",
       "matches_won": 0,
       "matches_played": 1,
@@ -1304,6 +1388,8 @@
     },
     {
       "name": "Carlos Alcaraz",
+      "decade": 2020,
+      "active_span": "3 years (23-25)",
       "country": "ESP",
       "matches_won": 2,
       "matches_played": 3,
@@ -1339,6 +1425,8 @@
     },
     {
       "name": "Jannik Sinner",
+      "decade": 2020,
+      "active_span": "1 year (25)",
       "country": "ITA",
       "matches_won": 1,
       "matches_played": 1,

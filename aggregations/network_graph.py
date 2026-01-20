@@ -125,7 +125,8 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
                     'top_5_wins': 0,
                     'top_5_matches': 0,
                     'was_top_5': bool(pm['was_top_5']),
-                    'opponents': set()
+                    'opponents': set(),
+                    'years_active': []
                 }
             else:
                 # Fallback if not in metrics (shouldn't happen)
@@ -145,7 +146,8 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
                     'top_5_wins': 0,
                     'top_5_matches': 0,
                     'was_top_5': False,
-                    'opponents': set()
+                    'opponents': set(),
+                    'years_active': []
                 }
         
         if loser not in nodes:
@@ -167,7 +169,8 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
                     'top_5_wins': 0,
                     'top_5_matches': 0,
                     'was_top_5': bool(pm['was_top_5']),
-                    'opponents': set()
+                    'opponents': set(),
+                    'years_active': []
                 }
             else:
                 nodes[loser] = {
@@ -186,7 +189,8 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
                     'top_5_wins': 0,
                     'top_5_matches': 0,
                     'was_top_5': False,
-                    'opponents': set()
+                    'opponents': set(),
+                    'years_active': []
                 }
         
         # Update winner node stats (for filtered dataset)
@@ -210,6 +214,9 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
         
         if winner_rank <= 5:
             nodes[loser]['top_5_matches'] += 1
+            
+        nodes[winner]['years_active'].append(int(row['year']))
+        nodes[loser]['years_active'].append(int(row['year']))
         
         # Update edge (undirected - use sorted tuple as key)
         edge_key = tuple(sorted([winner, loser]))
@@ -247,8 +254,32 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
             matches = data['tourney_matches'][tourney]
             tourney_win_pcts[tourney] = calculate_win_percentage(wins, matches)
         
+        # Determine primary decade (median year) and active span
+        active_span = ""
+        if data['years_active']:
+            years = sorted(list(set(data['years_active'])))
+            min_year = years[0]
+            max_year = years[-1]
+            span = max_year - min_year + 1
+            
+            # Format years as YY-YY
+            y1 = str(min_year)[2:]
+            y2 = str(max_year)[2:]
+            
+            if span > 1:
+                active_span = f"{span} years ({y1}-{y2})"
+            else:
+                active_span = f"1 year ({y1})"
+                
+            median_year = np.median(data['years_active'])
+            decade = int(np.floor(median_year / 10) * 10)
+        else:
+            decade = None
+
         node_list.append({
             'name': name,
+            'decade': decade,
+            'active_span': active_span,
             'country': data['country'],
             'matches_won': data['matches_won'],
             'matches_played': data['matches_played'],
