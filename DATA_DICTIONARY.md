@@ -318,8 +318,11 @@ fetch('https://raw.githubusercontent.com/sorukumar/tml-data/main/data/base/head_
 
 #### iconic_gs_matches.json
 
-**Records**: 20 manually curated iconic matches  
-**Purpose**: Editorial context for famous matches
+#### iconic_gs_matches.json
+ 
+**Records**: 37 manually curated iconic matches (Finals/Semis, 1968-2025)
+**Purpose**: Editorial context for famous matches.
+**Maintenance**: **MANUALLY CURATED**. Do not regenerate or overwrite via script. Updated by historians/editors only.
 
 ```json
 [
