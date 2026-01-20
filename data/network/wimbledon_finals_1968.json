@@ -1479,6 +1479,12 @@
           "Grass": 1
         },
         "Tony Roche": {}
+      },
+      "tourney_wins": {
+        "Rod Laver": {
+          "Wimbledon": 1
+        },
+        "Tony Roche": {}
       }
     },
     {
@@ -1498,6 +1504,12 @@
         "Rod Laver": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "John Newcombe": {},
+        "Rod Laver": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1515,6 +1527,12 @@
       "surface_wins": {
         "John Newcombe": {
           "Grass": 1
+        },
+        "Ken Rosewall": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Wimbledon": 1
         },
         "Ken Rosewall": {}
       }
@@ -1536,6 +1554,12 @@
           "Grass": 1
         },
         "Stan Smith": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Wimbledon": 1
+        },
+        "Stan Smith": {}
       }
     },
     {
@@ -1554,6 +1578,12 @@
         "Ilie Nastase": {},
         "Stan Smith": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {},
+        "Stan Smith": {
+          "Wimbledon": 1
         }
       }
     },
@@ -1574,6 +1604,12 @@
         "Jan Kodes": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Alex Metreveli": {},
+        "Jan Kodes": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1591,6 +1627,12 @@
       "surface_wins": {
         "Jimmy Connors": {
           "Grass": 1
+        },
+        "Ken Rosewall": {}
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Wimbledon": 1
         },
         "Ken Rosewall": {}
       }
@@ -1612,6 +1654,12 @@
           "Grass": 1
         },
         "Jimmy Connors": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "Wimbledon": 1
+        },
+        "Jimmy Connors": {}
       }
     },
     {
@@ -1629,6 +1677,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Grass": 1
+        },
+        "Ilie Nastase": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
         },
         "Ilie Nastase": {}
       }
@@ -1650,6 +1704,12 @@
           "Grass": 2
         },
         "Jimmy Connors": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 2
+        },
+        "Jimmy Connors": {}
       }
     },
     {
@@ -1667,6 +1727,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Grass": 1
+        },
+        "Roscoe Tanner": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
         },
         "Roscoe Tanner": {}
       }
@@ -1690,6 +1756,14 @@
         "John McEnroe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
+        },
+        "John McEnroe": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1711,6 +1785,14 @@
         "John McEnroe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Wimbledon": 1
+        },
+        "John McEnroe": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1730,6 +1812,12 @@
         "John McEnroe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Chris Lewis": {},
+        "John McEnroe": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1747,6 +1835,12 @@
       "surface_wins": {
         "Boris Becker": {
           "Grass": 1
+        },
+        "Kevin Curren": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1
         },
         "Kevin Curren": {}
       }
@@ -1768,6 +1862,12 @@
           "Grass": 1
         },
         "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1
+        },
+        "Ivan Lendl": {}
       }
     },
     {
@@ -1786,6 +1886,12 @@
         "Ivan Lendl": {},
         "Pat Cash": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {},
+        "Pat Cash": {
+          "Wimbledon": 1
         }
       }
     },
@@ -1808,6 +1914,14 @@
         "Stefan Edberg": {
           "Grass": 2
         }
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1
+        },
+        "Stefan Edberg": {
+          "Wimbledon": 2
+        }
       }
     },
     {
@@ -1827,6 +1941,12 @@
         "Michael Stich": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Boris Becker": {},
+        "Michael Stich": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1844,6 +1964,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Grass": 1
+        },
+        "Goran Ivanisevic": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Wimbledon": 1
         },
         "Goran Ivanisevic": {}
       }
@@ -1865,6 +1991,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jim Courier": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1883,6 +2015,12 @@
         "Goran Ivanisevic": {},
         "Pete Sampras": {
           "Grass": 2
+        }
+      },
+      "tourney_wins": {
+        "Goran Ivanisevic": {},
+        "Pete Sampras": {
+          "Wimbledon": 2
         }
       }
     },
@@ -1903,6 +2041,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Boris Becker": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1921,6 +2065,12 @@
         "MaliVai Washington": {},
         "Richard Krajicek": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "MaliVai Washington": {},
+        "Richard Krajicek": {
+          "Wimbledon": 1
         }
       }
     },
@@ -1941,6 +2091,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Cedric Pioline": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1959,6 +2115,12 @@
         "Andre Agassi": {},
         "Pete Sampras": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
         }
       }
     },
@@ -1979,6 +2141,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Patrick Rafter": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -1996,6 +2164,12 @@
       "surface_wins": {
         "Goran Ivanisevic": {
           "Grass": 1
+        },
+        "Patrick Rafter": {}
+      },
+      "tourney_wins": {
+        "Goran Ivanisevic": {
+          "Wimbledon": 1
         },
         "Patrick Rafter": {}
       }
@@ -2017,6 +2191,12 @@
         "Lleyton Hewitt": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "David Nalbandian": {},
+        "Lleyton Hewitt": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -2036,6 +2216,12 @@
         "Roger Federer": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Mark Philippoussis": {},
+        "Roger Federer": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -2054,6 +2240,12 @@
         "Andy Roddick": {},
         "Roger Federer": {
           "Grass": 3
+        }
+      },
+      "tourney_wins": {
+        "Andy Roddick": {},
+        "Roger Federer": {
+          "Wimbledon": 3
         }
       }
     },
@@ -2076,6 +2268,14 @@
         "Roger Federer": {
           "Grass": 2
         }
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Wimbledon": 1
+        },
+        "Roger Federer": {
+          "Wimbledon": 2
+        }
       }
     },
     {
@@ -2093,6 +2293,12 @@
       "surface_wins": {
         "Rafael Nadal": {
           "Grass": 1
+        },
+        "Tomas Berdych": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Wimbledon": 1
         },
         "Tomas Berdych": {}
       }
@@ -2114,6 +2320,12 @@
           "Grass": 1
         },
         "Rafael Nadal": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Wimbledon": 1
+        },
+        "Rafael Nadal": {}
       }
     },
     {
@@ -2133,6 +2345,12 @@
         "Roger Federer": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -2150,6 +2368,12 @@
       "surface_wins": {
         "Andy Murray": {
           "Grass": 1
+        },
+        "Novak Djokovic": {}
+      },
+      "tourney_wins": {
+        "Andy Murray": {
+          "Wimbledon": 1
         },
         "Novak Djokovic": {}
       }
@@ -2171,6 +2395,12 @@
           "Grass": 3
         },
         "Roger Federer": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Wimbledon": 3
+        },
+        "Roger Federer": {}
       }
     },
     {
@@ -2188,6 +2418,12 @@
       "surface_wins": {
         "Andy Murray": {
           "Grass": 1
+        },
+        "Milos Raonic": {}
+      },
+      "tourney_wins": {
+        "Andy Murray": {
+          "Wimbledon": 1
         },
         "Milos Raonic": {}
       }
@@ -2209,6 +2445,12 @@
         "Roger Federer": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Marin Cilic": {},
+        "Roger Federer": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -2227,6 +2469,12 @@
         "Kevin Anderson": {},
         "Novak Djokovic": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Kevin Anderson": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
         }
       }
     },
@@ -2247,6 +2495,12 @@
         "Novak Djokovic": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Matteo Berrettini": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -2265,6 +2519,12 @@
         "Nick Kyrgios": {},
         "Novak Djokovic": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Nick Kyrgios": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
         }
       }
     },
@@ -2285,6 +2545,12 @@
           "Grass": 2
         },
         "Novak Djokovic": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "Wimbledon": 2
+        },
+        "Novak Djokovic": {}
       }
     },
     {
@@ -2303,6 +2569,12 @@
         "Carlos Alcaraz": {},
         "Jannik Sinner": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {},
+        "Jannik Sinner": {
+          "Wimbledon": 1
         }
       }
     }

@@ -1791,6 +1791,12 @@
         "Rod Laver": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Andres Gimeno": {},
+        "Rod Laver": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -1808,6 +1814,12 @@
       "surface_wins": {
         "Arthur Ashe": {
           "Grass": 1
+        },
+        "Dick Crealy": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "Australian Open": 1
         },
         "Dick Crealy": {}
       }
@@ -1829,6 +1841,12 @@
         "Ken Rosewall": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {},
+        "Ken Rosewall": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -1846,6 +1864,12 @@
       "surface_wins": {
         "Ken Rosewall": {
           "Grass": 1
+        },
+        "Mal Anderson": {}
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "Australian Open": 1
         },
         "Mal Anderson": {}
       }
@@ -1867,6 +1891,12 @@
           "Grass": 1
         },
         "Onny Parun": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Australian Open": 1
+        },
+        "Onny Parun": {}
       }
     },
     {
@@ -1884,6 +1914,12 @@
       "surface_wins": {
         "Jimmy Connors": {
           "Grass": 1
+        },
+        "Phil Dent": {}
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Australian Open": 1
         },
         "Phil Dent": {}
       }
@@ -1905,6 +1941,12 @@
         "John Newcombe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {},
+        "John Newcombe": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -1924,6 +1966,12 @@
         "Mark Edmondson": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "John Newcombe": {},
+        "Mark Edmondson": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -1941,6 +1989,12 @@
       "surface_wins": {
         "Guillermo Vilas": {
           "Grass": 1
+        },
+        "John Marks": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "Australian Open": 1
         },
         "John Marks": {}
       }
@@ -1962,6 +2016,12 @@
           "Grass": 1
         },
         "John Sadri": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "Australian Open": 1
+        },
+        "John Sadri": {}
       }
     },
     {
@@ -1979,6 +2039,12 @@
       "surface_wins": {
         "Brian Teacher": {
           "Grass": 1
+        },
+        "Kim Warwick": {}
+      },
+      "tourney_wins": {
+        "Brian Teacher": {
+          "Australian Open": 1
         },
         "Kim Warwick": {}
       }
@@ -2000,6 +2066,12 @@
           "Grass": 2
         },
         "Steve Denton": {}
+      },
+      "tourney_wins": {
+        "Johan Kriek": {
+          "Australian Open": 2
+        },
+        "Steve Denton": {}
       }
     },
     {
@@ -2018,6 +2090,12 @@
         "Ivan Lendl": {},
         "Mats Wilander": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {},
+        "Mats Wilander": {
+          "Australian Open": 1
         }
       }
     },
@@ -2038,6 +2116,12 @@
         "Mats Wilander": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Kevin Curren": {},
+        "Mats Wilander": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2056,6 +2140,12 @@
         "Mats Wilander": {},
         "Stefan Edberg": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Mats Wilander": {},
+        "Stefan Edberg": {
+          "Australian Open": 1
         }
       }
     },
@@ -2076,6 +2166,12 @@
         "Stefan Edberg": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Pat Cash": {},
+        "Stefan Edberg": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2093,6 +2189,12 @@
       "surface_wins": {
         "Mats Wilander": {
           "Hard": 1
+        },
+        "Pat Cash": {}
+      },
+      "tourney_wins": {
+        "Mats Wilander": {
+          "Australian Open": 1
         },
         "Pat Cash": {}
       }
@@ -2114,6 +2216,12 @@
           "Hard": 1
         },
         "Miloslav Mecir Sr.": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Australian Open": 1
+        },
+        "Miloslav Mecir Sr.": {}
       }
     },
     {
@@ -2131,6 +2239,12 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Hard": 1
+        },
+        "Stefan Edberg": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Australian Open": 1
         },
         "Stefan Edberg": {}
       }
@@ -2152,6 +2266,12 @@
           "Hard": 1
         },
         "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Australian Open": 1
+        },
+        "Ivan Lendl": {}
       }
     },
     {
@@ -2169,6 +2289,12 @@
       "surface_wins": {
         "Jim Courier": {
           "Hard": 2
+        },
+        "Stefan Edberg": {}
+      },
+      "tourney_wins": {
+        "Jim Courier": {
+          "Australian Open": 2
         },
         "Stefan Edberg": {}
       }
@@ -2190,6 +2316,12 @@
           "Hard": 1
         },
         "Todd Martin": {}
+      },
+      "tourney_wins": {
+        "Pete Sampras": {
+          "Australian Open": 1
+        },
+        "Todd Martin": {}
       }
     },
     {
@@ -2207,6 +2339,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Pete Sampras": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
         },
         "Pete Sampras": {}
       }
@@ -2228,6 +2366,12 @@
           "Hard": 1
         },
         "Michael Chang": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Australian Open": 1
+        },
+        "Michael Chang": {}
       }
     },
     {
@@ -2246,6 +2390,12 @@
         "Carlos Moya": {},
         "Pete Sampras": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Carlos Moya": {},
+        "Pete Sampras": {
+          "Australian Open": 1
         }
       }
     },
@@ -2266,6 +2416,12 @@
         "Petr Korda": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marcelo Rios": {},
+        "Petr Korda": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2285,6 +2441,12 @@
         "Yevgeny Kafelnikov": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Thomas Enqvist": {},
+        "Yevgeny Kafelnikov": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2302,6 +2464,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Yevgeny Kafelnikov": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
         },
         "Yevgeny Kafelnikov": {}
       }
@@ -2323,6 +2491,12 @@
           "Hard": 1
         },
         "Arnaud Clement": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
+        },
+        "Arnaud Clement": {}
       }
     },
     {
@@ -2342,6 +2516,12 @@
         "Thomas Johansson": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marat Safin": {},
+        "Thomas Johansson": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2359,6 +2539,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Rainer Schuettler": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
         },
         "Rainer Schuettler": {}
       }
@@ -2380,6 +2566,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marat Safin": {},
+        "Roger Federer": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2398,6 +2590,12 @@
         "Lleyton Hewitt": {},
         "Marat Safin": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {},
+        "Marat Safin": {
+          "Australian Open": 1
         }
       }
     },
@@ -2418,6 +2616,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marcos Baghdatis": {},
+        "Roger Federer": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2437,6 +2641,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Fernando Gonzalez": {},
+        "Roger Federer": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2455,6 +2665,12 @@
         "Jo-Wilfried Tsonga": {},
         "Novak Djokovic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Jo-Wilfried Tsonga": {},
+        "Novak Djokovic": {
+          "Australian Open": 1
         }
       }
     },
@@ -2477,6 +2693,14 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Australian Open": 1
+        },
+        "Roger Federer": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2495,6 +2719,12 @@
         "Andy Murray": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "Australian Open": 1
         }
       }
     },
@@ -2515,6 +2745,12 @@
         "Novak Djokovic": {
           "Hard": 4
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Novak Djokovic": {
+          "Australian Open": 4
+        }
       }
     },
     {
@@ -2532,6 +2768,12 @@
       "surface_wins": {
         "Novak Djokovic": {
           "Hard": 2
+        },
+        "Rafael Nadal": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Australian Open": 2
         },
         "Rafael Nadal": {}
       }
@@ -2553,6 +2795,12 @@
         "Stan Wawrinka": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {},
+        "Stan Wawrinka": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2571,6 +2819,12 @@
         "Marin Cilic": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Marin Cilic": {},
+        "Roger Federer": {
+          "Australian Open": 1
         }
       }
     },
@@ -2591,6 +2845,12 @@
         "Novak Djokovic": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Dominic Thiem": {},
+        "Novak Djokovic": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2609,6 +2869,12 @@
         "Daniil Medvedev": {},
         "Novak Djokovic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Novak Djokovic": {
+          "Australian Open": 1
         }
       }
     },
@@ -2629,6 +2895,12 @@
         "Rafael Nadal": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Rafael Nadal": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2646,6 +2918,12 @@
       "surface_wins": {
         "Novak Djokovic": {
           "Hard": 1
+        },
+        "Stefanos Tsitsipas": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Australian Open": 1
         },
         "Stefanos Tsitsipas": {}
       }
@@ -2667,6 +2945,12 @@
         "Jannik Sinner": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Jannik Sinner": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -2685,6 +2969,12 @@
         "Alexander Zverev": {},
         "Jannik Sinner": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Jannik Sinner": {
+          "Australian Open": 1
         }
       }
     }

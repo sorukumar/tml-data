@@ -1724,6 +1724,12 @@
           "Grass": 1
         },
         "Tom Okker": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "US Open": 1
+        },
+        "Tom Okker": {}
       }
     },
     {
@@ -1741,6 +1747,12 @@
       "surface_wins": {
         "Rod Laver": {
           "Grass": 1
+        },
+        "Tony Roche": {}
+      },
+      "tourney_wins": {
+        "Rod Laver": {
+          "US Open": 1
         },
         "Tony Roche": {}
       }
@@ -1762,6 +1774,12 @@
           "Grass": 1
         },
         "Tony Roche": {}
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "US Open": 1
+        },
+        "Tony Roche": {}
       }
     },
     {
@@ -1780,6 +1798,12 @@
         "Jan Kodes": {},
         "Stan Smith": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Jan Kodes": {},
+        "Stan Smith": {
+          "US Open": 1
         }
       }
     },
@@ -1800,6 +1824,12 @@
         "Ilie Nastase": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {},
+        "Ilie Nastase": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -1818,6 +1848,12 @@
         "Jan Kodes": {},
         "John Newcombe": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Jan Kodes": {},
+        "John Newcombe": {
+          "US Open": 1
         }
       }
     },
@@ -1838,6 +1874,12 @@
           "Grass": 1
         },
         "Ken Rosewall": {}
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "US Open": 1
+        },
+        "Ken Rosewall": {}
       }
     },
     {
@@ -1856,6 +1898,12 @@
         "Jimmy Connors": {},
         "Manuel Orantes": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {},
+        "Manuel Orantes": {
+          "US Open": 1
         }
       }
     },
@@ -1878,6 +1926,12 @@
           "Clay": 1,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {},
+        "Jimmy Connors": {
+          "US Open": 2
+        }
       }
     },
     {
@@ -1895,6 +1949,12 @@
       "surface_wins": {
         "Guillermo Vilas": {
           "Clay": 1
+        },
+        "Jimmy Connors": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "US Open": 1
         },
         "Jimmy Connors": {}
       }
@@ -1916,6 +1976,12 @@
           "Hard": 1
         },
         "Vitas Gerulaitis": {}
+      },
+      "tourney_wins": {
+        "John McEnroe": {
+          "US Open": 1
+        },
+        "Vitas Gerulaitis": {}
       }
     },
     {
@@ -1935,6 +2001,12 @@
         "John McEnroe": {
           "Hard": 2
         }
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {},
+        "John McEnroe": {
+          "US Open": 2
+        }
       }
     },
     {
@@ -1953,6 +2025,12 @@
         "Ivan Lendl": {},
         "Jimmy Connors": {
           "Hard": 2
+        }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {},
+        "Jimmy Connors": {
+          "US Open": 2
         }
       }
     },
@@ -1975,6 +2053,14 @@
         "John McEnroe": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "US Open": 1
+        },
+        "John McEnroe": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -1992,6 +2078,12 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Hard": 1
+        },
+        "Miloslav Mecir Sr.": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "US Open": 1
         },
         "Miloslav Mecir Sr.": {}
       }
@@ -2015,6 +2107,14 @@
         "Mats Wilander": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "US Open": 1
+        },
+        "Mats Wilander": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2032,6 +2132,12 @@
       "surface_wins": {
         "Boris Becker": {
           "Hard": 1
+        },
+        "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "US Open": 1
         },
         "Ivan Lendl": {}
       }
@@ -2053,6 +2159,12 @@
         "Pete Sampras": {
           "Hard": 3
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Pete Sampras": {
+          "US Open": 3
+        }
       }
     },
     {
@@ -2071,6 +2183,12 @@
         "Jim Courier": {},
         "Stefan Edberg": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Jim Courier": {},
+        "Stefan Edberg": {
+          "US Open": 1
         }
       }
     },
@@ -2091,6 +2209,12 @@
         "Stefan Edberg": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Pete Sampras": {},
+        "Stefan Edberg": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2110,6 +2234,12 @@
         "Pete Sampras": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Cedric Pioline": {},
+        "Pete Sampras": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2127,6 +2257,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Michael Stich": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "US Open": 1
         },
         "Michael Stich": {}
       }
@@ -2148,6 +2284,12 @@
         "Pete Sampras": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Chang": {},
+        "Pete Sampras": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2166,6 +2308,12 @@
         "Greg Rusedski": {},
         "Patrick Rafter": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Greg Rusedski": {},
+        "Patrick Rafter": {
+          "US Open": 1
         }
       }
     },
@@ -2186,6 +2334,12 @@
         "Patrick Rafter": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Mark Philippoussis": {},
+        "Patrick Rafter": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2203,6 +2357,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Todd Martin": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "US Open": 1
         },
         "Todd Martin": {}
       }
@@ -2224,6 +2384,12 @@
           "Hard": 1
         },
         "Pete Sampras": {}
+      },
+      "tourney_wins": {
+        "Marat Safin": {
+          "US Open": 1
+        },
+        "Pete Sampras": {}
       }
     },
     {
@@ -2241,6 +2407,12 @@
       "surface_wins": {
         "Lleyton Hewitt": {
           "Hard": 1
+        },
+        "Pete Sampras": {}
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {
+          "US Open": 1
         },
         "Pete Sampras": {}
       }
@@ -2262,6 +2434,12 @@
           "Hard": 1
         },
         "Juan Carlos Ferrero": {}
+      },
+      "tourney_wins": {
+        "Andy Roddick": {
+          "US Open": 1
+        },
+        "Juan Carlos Ferrero": {}
       }
     },
     {
@@ -2280,6 +2458,12 @@
         "Lleyton Hewitt": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {},
+        "Roger Federer": {
+          "US Open": 1
         }
       }
     },
@@ -2300,6 +2484,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Roger Federer": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2318,6 +2508,12 @@
         "Andy Roddick": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Andy Roddick": {},
+        "Roger Federer": {
+          "US Open": 1
         }
       }
     },
@@ -2340,6 +2536,14 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "US Open": 1
+        },
+        "Roger Federer": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2359,6 +2563,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2376,6 +2586,12 @@
       "surface_wins": {
         "Juan Martin del Potro": {
           "Hard": 1
+        },
+        "Roger Federer": {}
+      },
+      "tourney_wins": {
+        "Juan Martin del Potro": {
+          "US Open": 1
         },
         "Roger Federer": {}
       }
@@ -2399,6 +2615,14 @@
         "Rafael Nadal": {
           "Hard": 2
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "US Open": 1
+        },
+        "Rafael Nadal": {
+          "US Open": 2
+        }
       }
     },
     {
@@ -2416,6 +2640,12 @@
       "surface_wins": {
         "Andy Murray": {
           "Hard": 1
+        },
+        "Novak Djokovic": {}
+      },
+      "tourney_wins": {
+        "Andy Murray": {
+          "US Open": 1
         },
         "Novak Djokovic": {}
       }
@@ -2437,6 +2667,12 @@
         "Marin Cilic": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Kei Nishikori": {},
+        "Marin Cilic": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2455,6 +2691,12 @@
         "Novak Djokovic": {},
         "Stan Wawrinka": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {},
+        "Stan Wawrinka": {
+          "US Open": 1
         }
       }
     },
@@ -2475,6 +2717,12 @@
         "Rafael Nadal": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Kevin Anderson": {},
+        "Rafael Nadal": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2493,6 +2741,12 @@
         "Juan Martin del Potro": {},
         "Novak Djokovic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Juan Martin del Potro": {},
+        "Novak Djokovic": {
+          "US Open": 1
         }
       }
     },
@@ -2513,6 +2767,12 @@
         "Rafael Nadal": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Rafael Nadal": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2531,6 +2791,12 @@
         "Alexander Zverev": {},
         "Dominic Thiem": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Dominic Thiem": {
+          "US Open": 1
         }
       }
     },
@@ -2553,6 +2819,14 @@
         "Novak Djokovic": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {
+          "US Open": 1
+        },
+        "Novak Djokovic": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -2570,6 +2844,12 @@
       "surface_wins": {
         "Carlos Alcaraz": {
           "Hard": 1
+        },
+        "Casper Ruud": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "US Open": 1
         },
         "Casper Ruud": {}
       }
@@ -2591,6 +2871,12 @@
           "Hard": 1
         },
         "Taylor Fritz": {}
+      },
+      "tourney_wins": {
+        "Jannik Sinner": {
+          "US Open": 1
+        },
+        "Taylor Fritz": {}
       }
     },
     {
@@ -2608,6 +2894,12 @@
       "surface_wins": {
         "Carlos Alcaraz": {
           "Hard": 1
+        },
+        "Jannik Sinner": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "US Open": 1
         },
         "Jannik Sinner": {}
       }

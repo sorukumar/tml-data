@@ -1898,6 +1898,14 @@
         "Rod Laver": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "Roland Garros": 1
+        },
+        "Rod Laver": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -1915,6 +1923,12 @@
       "surface_wins": {
         "Jan Kodes": {
           "Clay": 1
+        },
+        "Zeljko Franulovic": {}
+      },
+      "tourney_wins": {
+        "Jan Kodes": {
+          "Roland Garros": 1
         },
         "Zeljko Franulovic": {}
       }
@@ -1936,6 +1950,12 @@
         "Jan Kodes": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {},
+        "Jan Kodes": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -1953,6 +1973,12 @@
       "surface_wins": {
         "Andres Gimeno": {
           "Clay": 1
+        },
+        "Patrick Proisy": {}
+      },
+      "tourney_wins": {
+        "Andres Gimeno": {
+          "Roland Garros": 1
         },
         "Patrick Proisy": {}
       }
@@ -1974,6 +2000,12 @@
           "Clay": 1
         },
         "Nikola Pilic": {}
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {
+          "Roland Garros": 1
+        },
+        "Nikola Pilic": {}
       }
     },
     {
@@ -1991,6 +2023,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Manuel Orantes": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Manuel Orantes": {}
       }
@@ -2012,6 +2050,12 @@
           "Clay": 2
         },
         "Guillermo Vilas": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 2
+        },
+        "Guillermo Vilas": {}
       }
     },
     {
@@ -2029,6 +2073,12 @@
       "surface_wins": {
         "Adriano Panatta": {
           "Clay": 1
+        },
+        "Harold Solomon": {}
+      },
+      "tourney_wins": {
+        "Adriano Panatta": {
+          "Roland Garros": 1
         },
         "Harold Solomon": {}
       }
@@ -2050,6 +2100,12 @@
         "Guillermo Vilas": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Brian Gottfried": {},
+        "Guillermo Vilas": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2067,6 +2123,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Victor Pecci": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Victor Pecci": {}
       }
@@ -2088,6 +2150,12 @@
           "Clay": 1
         },
         "Vitas Gerulaitis": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
+        },
+        "Vitas Gerulaitis": {}
       }
     },
     {
@@ -2105,6 +2173,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Ivan Lendl": {}
       }
@@ -2126,6 +2200,12 @@
         "Mats Wilander": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {},
+        "Mats Wilander": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2145,6 +2225,12 @@
         "Yannick Noah": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Mats Wilander": {},
+        "Yannick Noah": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2162,6 +2248,12 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Clay": 1
+        },
+        "John McEnroe": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1
         },
         "John McEnroe": {}
       }
@@ -2185,6 +2277,14 @@
         "Mats Wilander": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1
+        },
+        "Mats Wilander": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2202,6 +2302,12 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Clay": 1
+        },
+        "Mikael Pernfors": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1
         },
         "Mikael Pernfors": {}
       }
@@ -2223,6 +2329,12 @@
         "Mats Wilander": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Henri Leconte": {},
+        "Mats Wilander": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2240,6 +2352,12 @@
       "surface_wins": {
         "Michael Chang": {
           "Clay": 1
+        },
+        "Stefan Edberg": {}
+      },
+      "tourney_wins": {
+        "Michael Chang": {
+          "Roland Garros": 1
         },
         "Stefan Edberg": {}
       }
@@ -2261,6 +2379,12 @@
         "Andres Gomez": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Andres Gomez": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2280,6 +2404,12 @@
         "Jim Courier": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Jim Courier": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2297,6 +2427,12 @@
       "surface_wins": {
         "Jim Courier": {
           "Clay": 1
+        },
+        "Petr Korda": {}
+      },
+      "tourney_wins": {
+        "Jim Courier": {
+          "Roland Garros": 1
         },
         "Petr Korda": {}
       }
@@ -2318,6 +2454,12 @@
         "Sergi Bruguera": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Jim Courier": {},
+        "Sergi Bruguera": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2336,6 +2478,12 @@
         "Alberto Berasategui": {},
         "Sergi Bruguera": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Alberto Berasategui": {},
+        "Sergi Bruguera": {
+          "Roland Garros": 1
         }
       }
     },
@@ -2356,6 +2504,12 @@
         "Thomas Muster": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Chang": {},
+        "Thomas Muster": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2375,6 +2529,12 @@
         "Yevgeny Kafelnikov": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Stich": {},
+        "Yevgeny Kafelnikov": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2392,6 +2552,12 @@
       "surface_wins": {
         "Gustavo Kuerten": {
           "Clay": 1
+        },
+        "Sergi Bruguera": {}
+      },
+      "tourney_wins": {
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
         },
         "Sergi Bruguera": {}
       }
@@ -2413,6 +2579,12 @@
         "Carlos Moya": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alex Corretja": {},
+        "Carlos Moya": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2430,6 +2602,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Clay": 1
+        },
+        "Andrei Medvedev": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Roland Garros": 1
         },
         "Andrei Medvedev": {}
       }
@@ -2451,6 +2629,12 @@
           "Clay": 1
         },
         "Magnus Norman": {}
+      },
+      "tourney_wins": {
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
+        },
+        "Magnus Norman": {}
       }
     },
     {
@@ -2470,6 +2654,12 @@
         "Gustavo Kuerten": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alex Corretja": {},
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2487,6 +2677,12 @@
       "surface_wins": {
         "Albert Costa": {
           "Clay": 1
+        },
+        "Juan Carlos Ferrero": {}
+      },
+      "tourney_wins": {
+        "Albert Costa": {
+          "Roland Garros": 1
         },
         "Juan Carlos Ferrero": {}
       }
@@ -2508,6 +2704,12 @@
           "Clay": 1
         },
         "Martin Verkerk": {}
+      },
+      "tourney_wins": {
+        "Juan Carlos Ferrero": {
+          "Roland Garros": 1
+        },
+        "Martin Verkerk": {}
       }
     },
     {
@@ -2525,6 +2727,12 @@
       "surface_wins": {
         "Gaston Gaudio": {
           "Clay": 1
+        },
+        "Guillermo Coria": {}
+      },
+      "tourney_wins": {
+        "Gaston Gaudio": {
+          "Roland Garros": 1
         },
         "Guillermo Coria": {}
       }
@@ -2546,6 +2754,12 @@
         "Rafael Nadal": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Mariano Puerta": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2563,6 +2777,12 @@
       "surface_wins": {
         "Rafael Nadal": {
           "Clay": 4
+        },
+        "Roger Federer": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 4
         },
         "Roger Federer": {}
       }
@@ -2584,6 +2804,12 @@
         "Roger Federer": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Robin Soderling": {},
+        "Roger Federer": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2601,6 +2827,12 @@
       "surface_wins": {
         "Rafael Nadal": {
           "Clay": 1
+        },
+        "Robin Soderling": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 1
         },
         "Robin Soderling": {}
       }
@@ -2622,6 +2854,12 @@
         "Rafael Nadal": {
           "Clay": 3
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {},
+        "Rafael Nadal": {
+          "Roland Garros": 3
+        }
       }
     },
     {
@@ -2640,6 +2878,12 @@
         "David Ferrer": {},
         "Rafael Nadal": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "David Ferrer": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
         }
       }
     },
@@ -2660,6 +2904,12 @@
         "Stan Wawrinka": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {},
+        "Stan Wawrinka": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2679,6 +2929,12 @@
         "Novak Djokovic": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Novak Djokovic": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2696,6 +2952,12 @@
       "surface_wins": {
         "Rafael Nadal": {
           "Clay": 1
+        },
+        "Stan Wawrinka": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 1
         },
         "Stan Wawrinka": {}
       }
@@ -2717,6 +2979,12 @@
         "Rafael Nadal": {
           "Clay": 2
         }
+      },
+      "tourney_wins": {
+        "Dominic Thiem": {},
+        "Rafael Nadal": {
+          "Roland Garros": 2
+        }
       }
     },
     {
@@ -2734,6 +3002,12 @@
       "surface_wins": {
         "Novak Djokovic": {
           "Clay": 1
+        },
+        "Stefanos Tsitsipas": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Roland Garros": 1
         },
         "Stefanos Tsitsipas": {}
       }
@@ -2755,6 +3029,12 @@
         "Rafael Nadal": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Casper Ruud": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2773,6 +3053,12 @@
         "Casper Ruud": {},
         "Novak Djokovic": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Casper Ruud": {},
+        "Novak Djokovic": {
+          "Roland Garros": 1
         }
       }
     },
@@ -2793,6 +3079,12 @@
         "Carlos Alcaraz": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Carlos Alcaraz": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -2810,6 +3102,12 @@
       "surface_wins": {
         "Carlos Alcaraz": {
           "Clay": 1
+        },
+        "Jannik Sinner": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "Roland Garros": 1
         },
         "Jannik Sinner": {}
       }

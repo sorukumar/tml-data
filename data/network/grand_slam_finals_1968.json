@@ -4031,6 +4031,14 @@
         "Rod Laver": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "Roland Garros": 1
+        },
+        "Rod Laver": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -4049,6 +4057,13 @@
       "surface_wins": {
         "Rod Laver": {
           "Grass": 2
+        },
+        "Tony Roche": {}
+      },
+      "tourney_wins": {
+        "Rod Laver": {
+          "Wimbledon": 1,
+          "US Open": 1
         },
         "Tony Roche": {}
       }
@@ -4070,6 +4085,12 @@
           "Grass": 1
         },
         "Tom Okker": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "US Open": 1
+        },
+        "Tom Okker": {}
       }
     },
     {
@@ -4088,6 +4109,12 @@
         "Andres Gimeno": {},
         "Rod Laver": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Andres Gimeno": {},
+        "Rod Laver": {
+          "Australian Open": 1
         }
       }
     },
@@ -4108,6 +4135,12 @@
         "Rod Laver": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "John Newcombe": {},
+        "Rod Laver": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -4125,6 +4158,12 @@
       "surface_wins": {
         "Arthur Ashe": {
           "Grass": 1
+        },
+        "Dick Crealy": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "Australian Open": 1
         },
         "Dick Crealy": {}
       }
@@ -4146,6 +4185,12 @@
           "Clay": 1
         },
         "Zeljko Franulovic": {}
+      },
+      "tourney_wins": {
+        "Jan Kodes": {
+          "Roland Garros": 1
+        },
+        "Zeljko Franulovic": {}
       }
     },
     {
@@ -4163,6 +4208,12 @@
       "surface_wins": {
         "John Newcombe": {
           "Grass": 1
+        },
+        "Ken Rosewall": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Wimbledon": 1
         },
         "Ken Rosewall": {}
       }
@@ -4184,6 +4235,12 @@
           "Grass": 1
         },
         "Tony Roche": {}
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "US Open": 1
+        },
+        "Tony Roche": {}
       }
     },
     {
@@ -4202,6 +4259,12 @@
         "Arthur Ashe": {},
         "Ken Rosewall": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {},
+        "Ken Rosewall": {
+          "Australian Open": 1
         }
       }
     },
@@ -4222,6 +4285,12 @@
         "Jan Kodes": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {},
+        "Jan Kodes": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -4239,6 +4308,12 @@
       "surface_wins": {
         "John Newcombe": {
           "Grass": 1
+        },
+        "Stan Smith": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Wimbledon": 1
         },
         "Stan Smith": {}
       }
@@ -4260,6 +4335,12 @@
         "Stan Smith": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jan Kodes": {},
+        "Stan Smith": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -4277,6 +4358,12 @@
       "surface_wins": {
         "Ken Rosewall": {
           "Grass": 1
+        },
+        "Mal Anderson": {}
+      },
+      "tourney_wins": {
+        "Ken Rosewall": {
+          "Australian Open": 1
         },
         "Mal Anderson": {}
       }
@@ -4298,6 +4385,12 @@
           "Clay": 1
         },
         "Patrick Proisy": {}
+      },
+      "tourney_wins": {
+        "Andres Gimeno": {
+          "Roland Garros": 1
+        },
+        "Patrick Proisy": {}
       }
     },
     {
@@ -4316,6 +4409,12 @@
         "Ilie Nastase": {},
         "Stan Smith": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {},
+        "Stan Smith": {
+          "Wimbledon": 1
         }
       }
     },
@@ -4336,6 +4435,12 @@
         "Ilie Nastase": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {},
+        "Ilie Nastase": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -4353,6 +4458,12 @@
       "surface_wins": {
         "John Newcombe": {
           "Grass": 1
+        },
+        "Onny Parun": {}
+      },
+      "tourney_wins": {
+        "John Newcombe": {
+          "Australian Open": 1
         },
         "Onny Parun": {}
       }
@@ -4374,6 +4485,12 @@
           "Clay": 1
         },
         "Nikola Pilic": {}
+      },
+      "tourney_wins": {
+        "Ilie Nastase": {
+          "Roland Garros": 1
+        },
+        "Nikola Pilic": {}
       }
     },
     {
@@ -4392,6 +4509,12 @@
         "Alex Metreveli": {},
         "Jan Kodes": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Alex Metreveli": {},
+        "Jan Kodes": {
+          "Wimbledon": 1
         }
       }
     },
@@ -4412,6 +4535,12 @@
         "John Newcombe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jan Kodes": {},
+        "John Newcombe": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -4431,6 +4560,12 @@
           "Grass": 1
         },
         "Phil Dent": {}
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Australian Open": 1
+        },
+        "Phil Dent": {}
       }
     },
     {
@@ -4448,6 +4583,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Manuel Orantes": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Manuel Orantes": {}
       }
@@ -4470,6 +4611,13 @@
           "Grass": 2
         },
         "Ken Rosewall": {}
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Wimbledon": 1,
+          "US Open": 1
+        },
+        "Ken Rosewall": {}
       }
     },
     {
@@ -4489,6 +4637,12 @@
         "John Newcombe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {},
+        "John Newcombe": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -4506,6 +4660,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 2
+        },
+        "Guillermo Vilas": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 2
         },
         "Guillermo Vilas": {}
       }
@@ -4527,6 +4687,12 @@
           "Grass": 1
         },
         "Jimmy Connors": {}
+      },
+      "tourney_wins": {
+        "Arthur Ashe": {
+          "Wimbledon": 1
+        },
+        "Jimmy Connors": {}
       }
     },
     {
@@ -4545,6 +4711,12 @@
         "Jimmy Connors": {},
         "Manuel Orantes": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {},
+        "Manuel Orantes": {
+          "US Open": 1
         }
       }
     },
@@ -4565,6 +4737,12 @@
         "Mark Edmondson": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "John Newcombe": {},
+        "Mark Edmondson": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -4584,6 +4762,12 @@
           "Clay": 1
         },
         "Harold Solomon": {}
+      },
+      "tourney_wins": {
+        "Adriano Panatta": {
+          "Roland Garros": 1
+        },
+        "Harold Solomon": {}
       }
     },
     {
@@ -4601,6 +4785,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Grass": 1
+        },
+        "Ilie Nastase": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
         },
         "Ilie Nastase": {}
       }
@@ -4628,6 +4818,14 @@
           "Clay": 1,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 2
+        },
+        "Jimmy Connors": {
+          "US Open": 2
+        }
       }
     },
     {
@@ -4647,6 +4845,12 @@
         "Guillermo Vilas": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Brian Gottfried": {},
+        "Guillermo Vilas": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -4664,6 +4868,12 @@
       "surface_wins": {
         "Guillermo Vilas": {
           "Clay": 1
+        },
+        "Jimmy Connors": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "US Open": 1
         },
         "Jimmy Connors": {}
       }
@@ -4685,6 +4895,12 @@
           "Grass": 1
         },
         "John Marks": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "Australian Open": 1
+        },
+        "John Marks": {}
       }
     },
     {
@@ -4702,6 +4918,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Victor Pecci": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Victor Pecci": {}
       }
@@ -4723,6 +4945,12 @@
           "Grass": 1
         },
         "Roscoe Tanner": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
+        },
+        "Roscoe Tanner": {}
       }
     },
     {
@@ -4740,6 +4968,12 @@
       "surface_wins": {
         "John McEnroe": {
           "Hard": 1
+        },
+        "Vitas Gerulaitis": {}
+      },
+      "tourney_wins": {
+        "John McEnroe": {
+          "US Open": 1
         },
         "Vitas Gerulaitis": {}
       }
@@ -4761,6 +4995,12 @@
           "Grass": 1
         },
         "John Sadri": {}
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {
+          "Australian Open": 1
+        },
+        "John Sadri": {}
       }
     },
     {
@@ -4778,6 +5018,12 @@
       "surface_wins": {
         "Bjorn Borg": {
           "Clay": 1
+        },
+        "Vitas Gerulaitis": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
         },
         "Vitas Gerulaitis": {}
       }
@@ -4804,6 +5050,15 @@
           "Hard": 2,
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Wimbledon": 1
+        },
+        "John McEnroe": {
+          "US Open": 2,
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -4821,6 +5076,12 @@
       "surface_wins": {
         "Brian Teacher": {
           "Grass": 1
+        },
+        "Kim Warwick": {}
+      },
+      "tourney_wins": {
+        "Brian Teacher": {
+          "Australian Open": 1
         },
         "Kim Warwick": {}
       }
@@ -4842,6 +5103,12 @@
           "Clay": 1
         },
         "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Bjorn Borg": {
+          "Roland Garros": 1
+        },
+        "Ivan Lendl": {}
       }
     },
     {
@@ -4859,6 +5126,12 @@
       "surface_wins": {
         "Johan Kriek": {
           "Grass": 2
+        },
+        "Steve Denton": {}
+      },
+      "tourney_wins": {
+        "Johan Kriek": {
+          "Australian Open": 2
         },
         "Steve Denton": {}
       }
@@ -4879,6 +5152,12 @@
         "Guillermo Vilas": {},
         "Mats Wilander": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Guillermo Vilas": {},
+        "Mats Wilander": {
+          "Roland Garros": 1
         }
       }
     },
@@ -4901,6 +5180,14 @@
         "John McEnroe": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Jimmy Connors": {
+          "Wimbledon": 1
+        },
+        "John McEnroe": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -4919,6 +5206,12 @@
         "Ivan Lendl": {},
         "Jimmy Connors": {
           "Hard": 2
+        }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {},
+        "Jimmy Connors": {
+          "US Open": 2
         }
       }
     },
@@ -4939,6 +5232,12 @@
         "Yannick Noah": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Mats Wilander": {},
+        "Yannick Noah": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -4957,6 +5256,12 @@
         "Chris Lewis": {},
         "John McEnroe": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Chris Lewis": {},
+        "John McEnroe": {
+          "Wimbledon": 1
         }
       }
     },
@@ -4986,6 +5291,17 @@
           "Clay": 1,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1,
+          "US Open": 1
+        },
+        "Mats Wilander": {
+          "Australian Open": 1,
+          "Roland Garros": 1,
+          "US Open": 1
+        }
       }
     },
     {
@@ -5010,6 +5326,15 @@
         "John McEnroe": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1,
+          "US Open": 1
+        },
+        "John McEnroe": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -5029,6 +5354,12 @@
         "Mats Wilander": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Kevin Curren": {},
+        "Mats Wilander": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -5046,6 +5377,12 @@
       "surface_wins": {
         "Boris Becker": {
           "Grass": 1
+        },
+        "Kevin Curren": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1
         },
         "Kevin Curren": {}
       }
@@ -5067,6 +5404,12 @@
         "Stefan Edberg": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Mats Wilander": {},
+        "Stefan Edberg": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -5084,6 +5427,12 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Clay": 1
+        },
+        "Mikael Pernfors": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Roland Garros": 1
         },
         "Mikael Pernfors": {}
       }
@@ -5109,6 +5458,14 @@
           "Hard": 2
         },
         "Ivan Lendl": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1,
+          "US Open": 1,
+          "Australian Open": 1
+        },
+        "Ivan Lendl": {}
       }
     },
     {
@@ -5127,6 +5484,13 @@
       "surface_wins": {
         "Ivan Lendl": {
           "Hard": 2
+        },
+        "Miloslav Mecir Sr.": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "US Open": 1,
+          "Australian Open": 1
         },
         "Miloslav Mecir Sr.": {}
       }
@@ -5148,6 +5512,12 @@
         "Stefan Edberg": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Pat Cash": {},
+        "Stefan Edberg": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -5166,6 +5536,12 @@
         "Ivan Lendl": {},
         "Pat Cash": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {},
+        "Pat Cash": {
+          "Wimbledon": 1
         }
       }
     },
@@ -5186,6 +5562,12 @@
           "Hard": 1
         },
         "Pat Cash": {}
+      },
+      "tourney_wins": {
+        "Mats Wilander": {
+          "Australian Open": 1
+        },
+        "Pat Cash": {}
       }
     },
     {
@@ -5204,6 +5586,12 @@
         "Henri Leconte": {},
         "Mats Wilander": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Henri Leconte": {},
+        "Mats Wilander": {
+          "Roland Garros": 1
         }
       }
     },
@@ -5226,6 +5614,14 @@
         "Stefan Edberg": {
           "Grass": 2
         }
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Wimbledon": 1
+        },
+        "Stefan Edberg": {
+          "Wimbledon": 2
+        }
       }
     },
     {
@@ -5243,6 +5639,12 @@
       "surface_wins": {
         "Michael Chang": {
           "Clay": 1
+        },
+        "Stefan Edberg": {}
+      },
+      "tourney_wins": {
+        "Michael Chang": {
+          "Roland Garros": 1
         },
         "Stefan Edberg": {}
       }
@@ -5264,6 +5666,12 @@
           "Hard": 1
         },
         "Stefan Edberg": {}
+      },
+      "tourney_wins": {
+        "Ivan Lendl": {
+          "Australian Open": 1
+        },
+        "Stefan Edberg": {}
       }
     },
     {
@@ -5282,6 +5690,12 @@
         "Andre Agassi": {},
         "Andres Gomez": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Andres Gomez": {
+          "Roland Garros": 1
         }
       }
     },
@@ -5308,6 +5722,15 @@
           "Hard": 3,
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
+        },
+        "Pete Sampras": {
+          "US Open": 3,
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -5327,6 +5750,12 @@
         "Jim Courier": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Jim Courier": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5345,6 +5774,12 @@
         "Boris Becker": {},
         "Michael Stich": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Boris Becker": {},
+        "Michael Stich": {
+          "Wimbledon": 1
         }
       }
     },
@@ -5368,6 +5803,14 @@
         "Stefan Edberg": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Jim Courier": {
+          "Australian Open": 2
+        },
+        "Stefan Edberg": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -5385,6 +5828,12 @@
       "surface_wins": {
         "Jim Courier": {
           "Clay": 1
+        },
+        "Petr Korda": {}
+      },
+      "tourney_wins": {
+        "Jim Courier": {
+          "Roland Garros": 1
         },
         "Petr Korda": {}
       }
@@ -5406,6 +5855,12 @@
           "Grass": 1
         },
         "Goran Ivanisevic": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Wimbledon": 1
+        },
+        "Goran Ivanisevic": {}
       }
     },
     {
@@ -5424,6 +5879,12 @@
         "Pete Sampras": {},
         "Stefan Edberg": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Pete Sampras": {},
+        "Stefan Edberg": {
+          "US Open": 1
         }
       }
     },
@@ -5444,6 +5905,12 @@
         "Sergi Bruguera": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Jim Courier": {},
+        "Sergi Bruguera": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5462,6 +5929,12 @@
         "Jim Courier": {},
         "Pete Sampras": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Jim Courier": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
         }
       }
     },
@@ -5485,6 +5958,13 @@
           "Hard": 1,
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Cedric Pioline": {},
+        "Pete Sampras": {
+          "US Open": 1,
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -5502,6 +5982,12 @@
       "surface_wins": {
         "Pete Sampras": {
           "Hard": 1
+        },
+        "Todd Martin": {}
+      },
+      "tourney_wins": {
+        "Pete Sampras": {
+          "Australian Open": 1
         },
         "Todd Martin": {}
       }
@@ -5523,6 +6009,12 @@
         "Sergi Bruguera": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alberto Berasategui": {},
+        "Sergi Bruguera": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5542,6 +6034,12 @@
         "Pete Sampras": {
           "Grass": 2
         }
+      },
+      "tourney_wins": {
+        "Goran Ivanisevic": {},
+        "Pete Sampras": {
+          "Wimbledon": 2
+        }
       }
     },
     {
@@ -5559,6 +6057,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Michael Stich": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "US Open": 1
         },
         "Michael Stich": {}
       }
@@ -5580,6 +6084,12 @@
         "Thomas Muster": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Chang": {},
+        "Thomas Muster": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5599,6 +6109,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Boris Becker": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -5616,6 +6132,12 @@
       "surface_wins": {
         "Boris Becker": {
           "Hard": 1
+        },
+        "Michael Chang": {}
+      },
+      "tourney_wins": {
+        "Boris Becker": {
+          "Australian Open": 1
         },
         "Michael Chang": {}
       }
@@ -5637,6 +6159,12 @@
         "Yevgeny Kafelnikov": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Stich": {},
+        "Yevgeny Kafelnikov": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5655,6 +6183,12 @@
         "MaliVai Washington": {},
         "Richard Krajicek": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "MaliVai Washington": {},
+        "Richard Krajicek": {
+          "Wimbledon": 1
         }
       }
     },
@@ -5675,6 +6209,12 @@
         "Pete Sampras": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Michael Chang": {},
+        "Pete Sampras": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -5694,6 +6234,12 @@
         "Pete Sampras": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Carlos Moya": {},
+        "Pete Sampras": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -5711,6 +6257,12 @@
       "surface_wins": {
         "Gustavo Kuerten": {
           "Clay": 1
+        },
+        "Sergi Bruguera": {}
+      },
+      "tourney_wins": {
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
         },
         "Sergi Bruguera": {}
       }
@@ -5732,6 +6284,12 @@
         "Patrick Rafter": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Greg Rusedski": {},
+        "Patrick Rafter": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -5750,6 +6308,12 @@
         "Marcelo Rios": {},
         "Petr Korda": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Marcelo Rios": {},
+        "Petr Korda": {
+          "Australian Open": 1
         }
       }
     },
@@ -5770,6 +6334,12 @@
         "Carlos Moya": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alex Corretja": {},
+        "Carlos Moya": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5788,6 +6358,12 @@
         "Mark Philippoussis": {},
         "Patrick Rafter": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Mark Philippoussis": {},
+        "Patrick Rafter": {
+          "US Open": 1
         }
       }
     },
@@ -5808,6 +6384,12 @@
         "Yevgeny Kafelnikov": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Thomas Enqvist": {},
+        "Yevgeny Kafelnikov": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -5825,6 +6407,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Clay": 1
+        },
+        "Andrei Medvedev": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Roland Garros": 1
         },
         "Andrei Medvedev": {}
       }
@@ -5846,6 +6434,12 @@
           "Hard": 1
         },
         "Todd Martin": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "US Open": 1
+        },
+        "Todd Martin": {}
       }
     },
     {
@@ -5863,6 +6457,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Yevgeny Kafelnikov": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
         },
         "Yevgeny Kafelnikov": {}
       }
@@ -5884,6 +6484,12 @@
           "Clay": 1
         },
         "Magnus Norman": {}
+      },
+      "tourney_wins": {
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
+        },
+        "Magnus Norman": {}
       }
     },
     {
@@ -5903,6 +6509,12 @@
         "Pete Sampras": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Patrick Rafter": {},
+        "Pete Sampras": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -5920,6 +6532,12 @@
       "surface_wins": {
         "Marat Safin": {
           "Hard": 1
+        },
+        "Pete Sampras": {}
+      },
+      "tourney_wins": {
+        "Marat Safin": {
+          "US Open": 1
         },
         "Pete Sampras": {}
       }
@@ -5941,6 +6559,12 @@
           "Hard": 1
         },
         "Arnaud Clement": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
+        },
+        "Arnaud Clement": {}
       }
     },
     {
@@ -5960,6 +6584,12 @@
         "Gustavo Kuerten": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Alex Corretja": {},
+        "Gustavo Kuerten": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -5977,6 +6607,12 @@
       "surface_wins": {
         "Goran Ivanisevic": {
           "Grass": 1
+        },
+        "Patrick Rafter": {}
+      },
+      "tourney_wins": {
+        "Goran Ivanisevic": {
+          "Wimbledon": 1
         },
         "Patrick Rafter": {}
       }
@@ -5998,6 +6634,12 @@
           "Hard": 1
         },
         "Pete Sampras": {}
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {
+          "US Open": 1
+        },
+        "Pete Sampras": {}
       }
     },
     {
@@ -6017,6 +6659,12 @@
         "Thomas Johansson": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marat Safin": {},
+        "Thomas Johansson": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6034,6 +6682,12 @@
       "surface_wins": {
         "Albert Costa": {
           "Clay": 1
+        },
+        "Juan Carlos Ferrero": {}
+      },
+      "tourney_wins": {
+        "Albert Costa": {
+          "Roland Garros": 1
         },
         "Juan Carlos Ferrero": {}
       }
@@ -6055,6 +6709,12 @@
         "Lleyton Hewitt": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "David Nalbandian": {},
+        "Lleyton Hewitt": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -6072,6 +6732,12 @@
       "surface_wins": {
         "Andre Agassi": {
           "Hard": 1
+        },
+        "Rainer Schuettler": {}
+      },
+      "tourney_wins": {
+        "Andre Agassi": {
+          "Australian Open": 1
         },
         "Rainer Schuettler": {}
       }
@@ -6093,6 +6759,12 @@
           "Clay": 1
         },
         "Martin Verkerk": {}
+      },
+      "tourney_wins": {
+        "Juan Carlos Ferrero": {
+          "Roland Garros": 1
+        },
+        "Martin Verkerk": {}
       }
     },
     {
@@ -6112,6 +6784,12 @@
         "Roger Federer": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Mark Philippoussis": {},
+        "Roger Federer": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -6129,6 +6807,12 @@
       "surface_wins": {
         "Andy Roddick": {
           "Hard": 1
+        },
+        "Juan Carlos Ferrero": {}
+      },
+      "tourney_wins": {
+        "Andy Roddick": {
+          "US Open": 1
         },
         "Juan Carlos Ferrero": {}
       }
@@ -6150,6 +6834,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marat Safin": {},
+        "Roger Federer": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6167,6 +6857,12 @@
       "surface_wins": {
         "Gaston Gaudio": {
           "Clay": 1
+        },
+        "Guillermo Coria": {}
+      },
+      "tourney_wins": {
+        "Gaston Gaudio": {
+          "Roland Garros": 1
         },
         "Guillermo Coria": {}
       }
@@ -6191,6 +6887,13 @@
           "Grass": 3,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Roddick": {},
+        "Roger Federer": {
+          "Wimbledon": 3,
+          "US Open": 1
+        }
       }
     },
     {
@@ -6209,6 +6912,12 @@
         "Lleyton Hewitt": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {},
+        "Roger Federer": {
+          "US Open": 1
         }
       }
     },
@@ -6229,6 +6938,12 @@
         "Marat Safin": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Lleyton Hewitt": {},
+        "Marat Safin": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6247,6 +6962,12 @@
         "Mariano Puerta": {},
         "Rafael Nadal": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Mariano Puerta": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
         }
       }
     },
@@ -6267,6 +6988,12 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Andre Agassi": {},
+        "Roger Federer": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -6285,6 +7012,12 @@
         "Marcos Baghdatis": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Marcos Baghdatis": {},
+        "Roger Federer": {
+          "Australian Open": 1
         }
       }
     },
@@ -6314,6 +7047,17 @@
           "Grass": 2,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 4,
+          "Wimbledon": 1,
+          "Australian Open": 1
+        },
+        "Roger Federer": {
+          "Wimbledon": 2,
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6332,6 +7076,12 @@
         "Fernando Gonzalez": {},
         "Roger Federer": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Fernando Gonzalez": {},
+        "Roger Federer": {
+          "Australian Open": 1
         }
       }
     },
@@ -6357,6 +7107,15 @@
         "Roger Federer": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Wimbledon": 3,
+          "US Open": 1
+        },
+        "Roger Federer": {
+          "US Open": 1
+        }
       }
     },
     {
@@ -6375,6 +7134,12 @@
         "Jo-Wilfried Tsonga": {},
         "Novak Djokovic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Jo-Wilfried Tsonga": {},
+        "Novak Djokovic": {
+          "Australian Open": 1
         }
       }
     },
@@ -6399,6 +7164,14 @@
           "Hard": 2,
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {},
+        "Roger Federer": {
+          "US Open": 1,
+          "Australian Open": 1,
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -6418,6 +7191,12 @@
         "Roger Federer": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Robin Soderling": {},
+        "Roger Federer": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -6435,6 +7214,12 @@
       "surface_wins": {
         "Juan Martin del Potro": {
           "Hard": 1
+        },
+        "Roger Federer": {}
+      },
+      "tourney_wins": {
+        "Juan Martin del Potro": {
+          "US Open": 1
         },
         "Roger Federer": {}
       }
@@ -6456,6 +7241,12 @@
           "Clay": 1
         },
         "Robin Soderling": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 1
+        },
+        "Robin Soderling": {}
       }
     },
     {
@@ -6473,6 +7264,12 @@
       "surface_wins": {
         "Rafael Nadal": {
           "Grass": 1
+        },
+        "Tomas Berdych": {}
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Wimbledon": 1
         },
         "Tomas Berdych": {}
       }
@@ -6503,6 +7300,17 @@
           "Hard": 2,
           "Clay": 3
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Wimbledon": 1,
+          "US Open": 1,
+          "Australian Open": 2
+        },
+        "Rafael Nadal": {
+          "US Open": 2,
+          "Roland Garros": 3
+        }
       }
     },
     {
@@ -6531,6 +7339,16 @@
           "Hard": 4,
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Andy Murray": {
+          "US Open": 1,
+          "Wimbledon": 1
+        },
+        "Novak Djokovic": {
+          "Australian Open": 4,
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -6549,6 +7367,12 @@
         "David Ferrer": {},
         "Rafael Nadal": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "David Ferrer": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
         }
       }
     },
@@ -6573,6 +7397,14 @@
         "Stan Wawrinka": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Rafael Nadal": {
+          "Roland Garros": 1
+        },
+        "Stan Wawrinka": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6591,6 +7423,12 @@
         "Kei Nishikori": {},
         "Marin Cilic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Kei Nishikori": {},
+        "Marin Cilic": {
+          "US Open": 1
         }
       }
     },
@@ -6614,6 +7452,13 @@
           "Clay": 1,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {},
+        "Stan Wawrinka": {
+          "Roland Garros": 1,
+          "US Open": 1
+        }
       }
     },
     {
@@ -6631,6 +7476,12 @@
       "surface_wins": {
         "Andy Murray": {
           "Grass": 1
+        },
+        "Milos Raonic": {}
+      },
+      "tourney_wins": {
+        "Andy Murray": {
+          "Wimbledon": 1
         },
         "Milos Raonic": {}
       }
@@ -6655,6 +7506,13 @@
           "Grass": 1,
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Marin Cilic": {},
+        "Roger Federer": {
+          "Wimbledon": 1,
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6673,6 +7531,12 @@
         "Kevin Anderson": {},
         "Rafael Nadal": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Kevin Anderson": {},
+        "Rafael Nadal": {
+          "US Open": 1
         }
       }
     },
@@ -6693,6 +7557,12 @@
         "Rafael Nadal": {
           "Clay": 2
         }
+      },
+      "tourney_wins": {
+        "Dominic Thiem": {},
+        "Rafael Nadal": {
+          "Roland Garros": 2
+        }
       }
     },
     {
@@ -6712,6 +7582,12 @@
         "Novak Djokovic": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Kevin Anderson": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -6730,6 +7606,12 @@
         "Juan Martin del Potro": {},
         "Novak Djokovic": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Juan Martin del Potro": {},
+        "Novak Djokovic": {
+          "US Open": 1
         }
       }
     },
@@ -6751,6 +7633,13 @@
         "Rafael Nadal": {
           "Hard": 2
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Rafael Nadal": {
+          "US Open": 1,
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6770,6 +7659,12 @@
         "Novak Djokovic": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Dominic Thiem": {},
+        "Novak Djokovic": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6788,6 +7683,12 @@
         "Alexander Zverev": {},
         "Dominic Thiem": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Dominic Thiem": {
+          "US Open": 1
         }
       }
     },
@@ -6811,6 +7712,15 @@
         "Novak Djokovic": {
           "Hard": 2
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {
+          "US Open": 1
+        },
+        "Novak Djokovic": {
+          "Australian Open": 1,
+          "US Open": 1
+        }
       }
     },
     {
@@ -6833,6 +7743,13 @@
           "Hard": 1
         },
         "Stefanos Tsitsipas": {}
+      },
+      "tourney_wins": {
+        "Novak Djokovic": {
+          "Roland Garros": 1,
+          "Australian Open": 1
+        },
+        "Stefanos Tsitsipas": {}
       }
     },
     {
@@ -6851,6 +7768,12 @@
         "Matteo Berrettini": {},
         "Novak Djokovic": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Matteo Berrettini": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
         }
       }
     },
@@ -6871,6 +7794,12 @@
         "Rafael Nadal": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Casper Ruud": {},
+        "Rafael Nadal": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -6890,6 +7819,12 @@
         "Novak Djokovic": {
           "Grass": 1
         }
+      },
+      "tourney_wins": {
+        "Nick Kyrgios": {},
+        "Novak Djokovic": {
+          "Wimbledon": 1
+        }
       }
     },
     {
@@ -6907,6 +7842,12 @@
       "surface_wins": {
         "Carlos Alcaraz": {
           "Hard": 1
+        },
+        "Casper Ruud": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "US Open": 1
         },
         "Casper Ruud": {}
       }
@@ -6928,6 +7869,12 @@
         "Novak Djokovic": {
           "Clay": 1
         }
+      },
+      "tourney_wins": {
+        "Casper Ruud": {},
+        "Novak Djokovic": {
+          "Roland Garros": 1
+        }
       }
     },
     {
@@ -6945,6 +7892,12 @@
       "surface_wins": {
         "Carlos Alcaraz": {
           "Grass": 2
+        },
+        "Novak Djokovic": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "Wimbledon": 2
         },
         "Novak Djokovic": {}
       }
@@ -6966,6 +7919,12 @@
         "Jannik Sinner": {
           "Hard": 1
         }
+      },
+      "tourney_wins": {
+        "Daniil Medvedev": {},
+        "Jannik Sinner": {
+          "Australian Open": 1
+        }
       }
     },
     {
@@ -6984,6 +7943,12 @@
         "Alexander Zverev": {},
         "Carlos Alcaraz": {
           "Clay": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Carlos Alcaraz": {
+          "Roland Garros": 1
         }
       }
     },
@@ -7004,6 +7969,12 @@
           "Hard": 1
         },
         "Taylor Fritz": {}
+      },
+      "tourney_wins": {
+        "Jannik Sinner": {
+          "US Open": 1
+        },
+        "Taylor Fritz": {}
       }
     },
     {
@@ -7022,6 +7993,12 @@
         "Alexander Zverev": {},
         "Jannik Sinner": {
           "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Jannik Sinner": {
+          "Australian Open": 1
         }
       }
     },
@@ -7048,6 +8025,15 @@
         },
         "Jannik Sinner": {
           "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "Roland Garros": 1,
+          "US Open": 1
+        },
+        "Jannik Sinner": {
+          "Wimbledon": 1
         }
       }
     }
