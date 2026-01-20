@@ -25,7 +25,7 @@ NBI_WEIGHTS = {
 }
 
 # Data filtering parameters
-ANALYSIS_START_YEAR = 1980
+ANALYSIS_START_YEAR = 1968
 TARGET_ROUNDS = ['F', 'SF']  # Finals and Semi-Finals
 
 
