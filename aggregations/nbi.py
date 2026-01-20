@@ -133,6 +133,84 @@ def calculate_nbi(df_enriched):
     # Create a mask for missing BP data but valid match length
     missing_bp_mask = (gs_df['bp_total'] == 0) & (gs_df['num_sets'] >= 3)
     gs_df.loc[missing_bp_mask, 'bp_saved_ratio'] = high_drama_bp_ratio
+
+    # =========================================================================
+    # REFINED LOGIC (Blowout Exemption + Decider Bonus + Comeback + Titan)
+    # =========================================================================
+
+    def refined_metrics(row):
+        score_str = row['score']
+        if not isinstance(score_str, str): return row
+        
+        import re
+        sets = re.findall(r'(\d+)-(\d+)', score_str)
+        if not sets: return row
+        
+        # Parse set scores into margins
+        margins = []
+        p1_sets_won = 0
+        p2_sets_won = 0
+        
+        decider_bonus = 0
+        is_decider = False
+        
+        for i, (w, l) in enumerate(sets):
+            w, l = int(w), int(l)
+            margin = abs(w - l)
+            margins.append(margin)
+            
+            if w > l: p1_sets_won += 1
+            else: p2_sets_won += 1
+            
+            # Check for Decider Intensity (Final Set)
+            # If it's the 5th set (or 3rd for women/early rounds)
+            if i == len(sets) - 1 and (i == 4 or (i == 2 and row['tourney_level'] != 'G')): 
+                 is_decider = True
+                 # Bonus for overtime/tiebreak in decider
+                 if w + l >= 12:
+                     decider_bonus = 1 # Equivalent to +1 extra tiebreak/advantage set
+        
+        # 1. Blowout Exemption
+        # If 5 sets played, drop the largest margin (worst set) from average
+        if len(margins) == 5:
+            margins.remove(max(margins))
+        
+        new_avg_margin = sum(margins) / len(margins) if margins else 0
+        
+        # 2. Decider Bonus Application
+        # We add the bonus to the advantage/tiebreak count
+        new_tiebreak_count = row['tiebreaks_count'] + decider_bonus
+        
+        # 3. True Comeback (0-2 Down)
+        # Check if winner lost first two sets
+        # Note: 'score' string is always "Winner def. Loser", so first sets are Winner vs Loser scores?
+        # WAIT: standard score format is "WinnerLabels" e.g. "6-4 4-6..." means Winner won set 1.
+        # BUT classic format "6-4 4-6" implies Winner score is first.
+        # Let's simple check: if first two sets have L > W.
+        new_comeback = row['comeback_score']
+        if len(sets) == 5:
+            s1 = sets[0]
+            s2 = sets[1]
+            # Winner lost set 1 and 2? (W < L)
+            if int(s1[0]) < int(s1[1]) and int(s2[0]) < int(s2[1]):
+                new_comeback = 4 # MAX Comeback (Heroic Stand)
+        
+        row['avg_set_margin'] = new_avg_margin
+        row['tiebreaks_count'] = new_tiebreak_count
+        row['comeback_score'] = new_comeback
+        
+        return row
+
+    gs_df = gs_df.apply(refined_metrics, axis=1)
+    
+    # 4. Titan Bonus (Rank Check)
+    # If both players top 10 (rank <= 10), apply bonus later during NBI calc
+    # We will assume winner_rank/loser_rank exist. If not, skip.
+    try:
+        gs_df['titan_bonus'] = ((gs_df['winner_rank'] <= 10) & (gs_df['loser_rank'] <= 10)).astype(int)
+    except KeyError:
+        gs_df['titan_bonus'] = 0    
+
     
     # Normalize features (0-1 scale)
     print("Normalizing features...")
@@ -151,8 +229,7 @@ def calculate_nbi(df_enriched):
             gs_df[col + '_norm'] = (gs_df[col] - min_val) / (max_val - min_val)
     
     # Calculate NBI using weighted formula
-    print("Calculating NBI scores...")
-    gs_df['NBI'] = (
+    base_nbi = (
         NBI_WEIGHTS['avg_set_margin'] * gs_df['avg_set_margin_norm'] +
         NBI_WEIGHTS['tiebreak_count'] * gs_df['tiebreaks_count_norm'] +
         NBI_WEIGHTS['lead_changes'] * gs_df['lead_changes_norm'] +
@@ -161,6 +238,9 @@ def calculate_nbi(df_enriched):
         NBI_WEIGHTS['final_set_tiebreak'] * gs_df['final_set_tiebreak'] +
         NBI_WEIGHTS['duration_score'] * gs_df['duration_score_norm']
     )
+    
+    # Apply Titan Bonus (1.1x multiplier for Top 10 clashes)
+    gs_df['NBI'] = base_nbi * (1 + (0.10 * gs_df['titan_bonus']))
     
     # Sort by NBI
     nailbiters = gs_df.sort_values('NBI', ascending=False).reset_index(drop=True)
