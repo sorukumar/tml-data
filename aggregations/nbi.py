@@ -96,7 +96,27 @@ def calculate_nbi(df_enriched):
     
     # Duration
     gs_df['num_sets'] = gs_df['winner_sets'] + gs_df['loser_sets']
+    
+    # Strategy 1: Impute Missing Duration
+    # Historical data often misses duration. Estimate: 3.2 mins per game (fast courts of 70s/80s)
+    # Average modern set is ~40-50 mins.
+    total_games = gs_df['winner_games'] + gs_df['loser_games']
+    estimated_duration = total_games * 3.2
+    gs_df['minutes'] = gs_df['minutes'].fillna(estimated_duration)
+    
     gs_df['duration_score'] = gs_df['minutes'] / gs_df['num_sets'].replace(0, np.nan)
+    
+    # Strategy 2: Impute Missing Break Point Data
+    # For older matches (bp_total=0), we don't want a 0.0 score component.
+    # We assign the median bp_saved_ratio of the dataset to avoid penalizing them.
+    # We only do this for significant matches (4+ sets) where we assume drama existed.
+    median_bp_ratio = gs_df[gs_df['bp_total'] > 0]['bp_saved_ratio'].median()
+    if pd.isna(median_bp_ratio):
+        median_bp_ratio = 0.5
+        
+    # Create a mask for missing BP data but valid match length
+    missing_bp_mask = (gs_df['bp_total'] == 0) & (gs_df['num_sets'] >= 3)
+    gs_df.loc[missing_bp_mask, 'bp_saved_ratio'] = median_bp_ratio
     
     # Normalize features (0-1 scale)
     print("Normalizing features...")
