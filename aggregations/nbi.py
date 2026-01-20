@@ -97,26 +97,42 @@ def calculate_nbi(df_enriched):
     # Duration
     gs_df['num_sets'] = gs_df['winner_sets'] + gs_df['loser_sets']
     
-    # Strategy 1: Impute Missing Duration
-    # Historical data often misses duration. Estimate: 3.2 mins per game (fast courts of 70s/80s)
-    # Average modern set is ~40-50 mins.
+    # Strategy 1: Impute Missing Duration (Heritage Logic)
+    # Estimate: 3.2 mins per game (fast courts of 70s/80s)
     total_games = gs_df['winner_games'] + gs_df['loser_games']
     estimated_duration = total_games * 3.2
     gs_df['minutes'] = gs_df['minutes'].fillna(estimated_duration)
     
     gs_df['duration_score'] = gs_df['minutes'] / gs_df['num_sets'].replace(0, np.nan)
     
-    # Strategy 2: Impute Missing Break Point Data
-    # For older matches (bp_total=0), we don't want a 0.0 score component.
-    # We assign the median bp_saved_ratio of the dataset to avoid penalizing them.
-    # We only do this for significant matches (4+ sets) where we assume drama existed.
-    median_bp_ratio = gs_df[gs_df['bp_total'] > 0]['bp_saved_ratio'].median()
-    if pd.isna(median_bp_ratio):
-        median_bp_ratio = 0.5
+    # Strategy 2: "Advantage Set" Benefit (Fixes Pre-Tiebreak Bias)
+    # 7-5, 8-6, 10-8 sets are as dramatic as tiebreaks.
+    # We count sets with 12+ games and use that as 'tiebreaks_count' if higher.
+    def count_advantage_sets(score_str):
+        if not isinstance(score_str, str): return 0
+        count = 0
+        # Simple parse for "X-Y" patterns
+        import re
+        sets = re.findall(r'(\d+)-(\d+)', score_str)
+        for w_games, l_games in sets:
+            if int(w_games) + int(l_games) >= 12:
+                count += 1
+        return count
+
+    gs_df['advantage_sets_count'] = gs_df['score'].apply(count_advantage_sets)
+    # Use the higher of recorded tiebreaks or advantage sets (for legacy fairness)
+    gs_df['tiebreaks_count'] = gs_df[['tiebreaks_count', 'advantage_sets_count']].max(axis=1)
+
+    # Strategy 3: "High Drama" Imputation (Fixes Missing Stats)
+    # For major matches (4+ sets) with missing BPs, assume High Drama (75th percentile)
+    # instead of Median (50th), giving benefit of doubt to classics.
+    high_drama_bp_ratio = gs_df[gs_df['bp_total'] > 0]['bp_saved_ratio'].quantile(0.75)
+    if pd.isna(high_drama_bp_ratio):
+        high_drama_bp_ratio = 0.6  # Safe default
         
     # Create a mask for missing BP data but valid match length
     missing_bp_mask = (gs_df['bp_total'] == 0) & (gs_df['num_sets'] >= 3)
-    gs_df.loc[missing_bp_mask, 'bp_saved_ratio'] = median_bp_ratio
+    gs_df.loc[missing_bp_mask, 'bp_saved_ratio'] = high_drama_bp_ratio
     
     # Normalize features (0-1 scale)
     print("Normalizing features...")
