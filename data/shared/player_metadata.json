@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Roger Federer",
+        "nickname": "The Maestro",
+        "description": "Precision, elegance, and 20 Grand Slams."
+    },
+    {
+        "name": "Rafael Nadal",
+        "nickname": "King of Clay",
+        "description": "Unrivaled intensity and 14 Roland Garros titles."
+    },
+    {
+        "name": "Novak Djokovic",
+        "nickname": "The Djoker",
+        "description": "Elastic defense and the most Grand Slam titles in history."
+    },
+    {
+        "name": "Carlos Alcaraz",
+        "nickname": "The Prodigy",
+        "description": "The youngest world number one in ATP history."
+    },
+    {
+        "name": "Jannik Sinner",
+        "nickname": "The Fox",
+        "description": "Explosive baseline power and 2024 Australian Open champion."
+    },
+    {
+        "name": "Pete Sampras",
+        "nickname": "Pistol Pete",
+        "description": "Dominant serve-and-volley game and 14 Slams."
+    },
+    {
+        "name": "Andre Agassi",
+        "nickname": "The Punisher",
+        "description": "From rebel with a mullet to elder statesman of the game."
+    },
+    {
+        "name": "Bjorn Borg",
+        "nickname": "Ice-Borg",
+        "description": "The ultimate cool customer and 5 consecutive Wimbledon titles."
+    },
+    {
+        "name": "Andy Murray",
+        "nickname": "Sir Andy",
+        "description": "The defensive wall who broke the UK's 77-year Wimbledon drought."
+    },
+    {
+        "name": "Stan Wawrinka",
+        "nickname": "Stan the Man",
+        "description": "The most devastating one-handed backhand in the modern era."
+    },
+    {
+        "name": "Goran Ivanisevic",
+        "nickname": "The Split Wizard",
+        "description": "The only wildcard to ever win Wimbledon."
+    },
+    {
+        "name": "John McEnroe",
+        "nickname": "SuperBrat",
+        "description": "Volleying genius and 'You cannot be serious!'"
+    },
+    {
+        "name": "Boris Becker",
+        "nickname": "Boom Boom",
+        "description": "The youngest ever Wimbledon champion at age 17."
+    },
+    {
+        "name": "Stefan Edberg",
+        "nickname": "The Elegance",
+        "description": "The smoothest serve-and-volleyer to ever touch the grass."
+    },
+    {
+        "name": "Ivan Lendl",
+        "nickname": "The Ivan",
+        "description": "The pioneer of modern power baseline tennis."
+    },
+    {
+        "name": "Jimmy Connors",
+        "nickname": "Jimbo",
+        "description": "The street fighter with 109 career titles."
+    },
+    {
+        "name": "Daniil Medvedev",
+        "nickname": "The Octopus",
+        "description": "Unorthodox brilliance and incredible court coverage."
+    },
+    {
+        "name": "Lleyton Hewitt",
+        "nickname": "Rusty",
+        "description": "The fiery counter-puncher and youngest ever #1 before Alcaraz."
+    },
+    {
+        "name": "Marat Safin",
+        "nickname": "The Russian Giant",
+        "description": "Immense raw power and the 2000 US Open champion."
+    },
+    {
+        "name": "Gustavo Kuerten",
+        "nickname": "Guga",
+        "description": "The beloved Brazilian King of Clay who drew a heart in the sand."
+    },
+    {
+        "name": "Jim Courier",
+        "nickname": "The Rock",
+        "description": "Relentless work ethic and 4-time Slam winner."
+    },
+    {
+        "name": "Mats Wilander",
+        "nickname": "The Tactician",
+        "description": "Won Slams on all three surfaces in a single year (1988)."
+    },
+    {
+        "name": "Michael Chang",
+        "nickname": "The Speedster",
+        "description": "Youngest male Grand Slam champion in history (17y 3m)."
+    },
+    {
+        "name": "Ken Rosewall",
+        "nickname": "Muscles",
+        "description": "Ageless wonder who won Slams 19 years apart."
+    },
+    {
+        "name": "Rod Laver",
+        "nickname": "The Rocket",
+        "description": "The only player to achieve two calendar-year Grand Slams."
+    },
+    {
+        "name": "John Newcombe",
+        "nickname": "Newk",
+        "description": "The legendary Aussie with the most famous mustache in tennis."
+    },
+    {
+        "name": "Arthur Ashe",
+        "nickname": "The Trailblazer",
+        "description": "The first African-American man to win the US Open and Wimbledon."
+    },
+    {
+        "name": "Ilie Nastase",
+        "nickname": "Nasty",
+        "description": "The original showman and first ATP world number one."
+    },
+    {
+        "name": "Guillermo Vilas",
+        "nickname": "The Young Bull",
+        "description": "The Argentinian poet who dominated the 1977 season."
+    },
+    {
+        "name": "Juan Martin del Potro",
+        "nickname": "Tower of Tandil",
+        "description": "The gentle giant with a thunderous hammer forehand."
+    }
+]
