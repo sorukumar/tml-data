@@ -91,6 +91,9 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
     player_ids = appearances['id'].unique().tolist()
     print(f"✓ Found {len(player_ids)} unique Indian players since {start_year}")
 
+    # Create name map for players
+    name_map = appearances.groupby('id')['name'].agg(lambda x: x.mode().iat[0] if not x.mode().empty else None).to_dict()
+
     # Helper: compute best performance per player per year
     best_performance_year = appearances.groupby(['id', 'year']).apply(lambda g: pd.Series(get_best_performance_from_group(g, round_order), index=['best_round','best_tourney'])).reset_index()
 
@@ -132,6 +135,13 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
     # Add min and max years and years_played
     players['years'] = players['years'].apply(lambda x: x if isinstance(x, list) else [])
     players['years_played'] = players['years'].apply(len)
+    
+    # Calculate career titles from winning an 'F' round
+    titles_df = country_matches[(country_matches['round'] == 'F') & (country_matches['winner_ioc'] == country_code)].groupby('winner_id').size().reset_index(name='titles_total')
+    titles_df['winner_id'] = titles_df['winner_id'].astype(str)
+    players = players.merge(titles_df.rename(columns={'winner_id':'id'}), on='id', how='left')
+    players['titles_total'] = players['titles_total'].fillna(0).astype(int)
+
     players['min_year'] = players['years'].apply(lambda x: min(x) if x else None)
     players['max_year'] = players['years'].apply(lambda x: max(x) if x else None)
 
@@ -161,6 +171,13 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     # Best GS performance formatting
     players['best_grand_slam_performance'] = players.apply(lambda r: f"{safe_str(r.get('best_gs_round'))} at {safe_str(r.get('best_gs_tourney'))}" if pd.notna(r.get('best_gs_round')) else 'No Grand Slam Matches', axis=1)
+    
+    # Helper for KPI: Count GS Quarterfinals or better
+    def is_gs_qf_plus(perf):
+        if not perf: return False
+        return any(q in perf for q in ['QF', 'SF', 'F', 'W'])
+    
+    players['is_gs_qf_plus'] = players['best_grand_slam_performance'].apply(is_gs_qf_plus)
 
     # Convert best_performance_lifetime to friendly string
     players['best_performance_lifetime'] = players.apply(lambda r: f"{safe_str(r.get('best_performance_lifetime'))} at {safe_str(r.get('best_tourney_lifetime'))}" if pd.notna(r.get('best_performance_lifetime')) else None, axis=1)
@@ -173,7 +190,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
     for _, row in players.sort_values(['matches_played','best_rank'], ascending=[False,True]).iterrows():
         players_summary.append({
             'id': row['id'],
-            'name': row.get('name') if pd.notna(row.get('name')) else None,
+            'name': name_map.get(row['id']),
             'years': row['years'],
             'years_played': int(row['years_played']),
             'min_year': int(row['min_year']) if row['min_year'] is not None else None,
@@ -186,7 +203,9 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
             'best_performance_each_year': row.get('best_performance_each_year'),
             'best_grand_slam_performance': row.get('best_grand_slam_performance'),
             'best_rank': row.get('best_rank'),
-            'top100_wins': int(row['top100_wins'])
+            'top100_wins': int(row['top100_wins']),
+            'titles_total': int(row['titles_total']),
+            'is_gs_qf_plus': bool(row['is_gs_qf_plus'])
         })
 
     # Save players_summary.json
@@ -299,7 +318,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
         milestones.append({
             'id': pid,
-            'name': players_summary[[p['id'] for p in players_summary].index(pid)]['name'] if pid in [p['id'] for p in players_summary] else None,
+            'name': name_map.get(pid),
             'first_match_date': first_match_date,
             'age_at_first_match': round(age_first,2) if age_first is not None and not pd.isna(age_first) else None,
             'first_grand_slam_date': first_gs_date,
@@ -333,7 +352,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
         h2h_top50.append({
             'id': pid,
-            'name': next((p['name'] for p in players_summary if p['id'] == pid), None),
+            'name': name_map.get(pid),
             'top50_matches': int(top50_total),
             'top50_wins': int(top50_wins),
             'top50_losses': int(top50_losses),

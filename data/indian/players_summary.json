@@ -37,7 +37,9 @@
     "best_performance_each_year": "1970: R32 at Hilversum, 1971: R64 at Hilversum, 1972: F at Beckenham, 1973: F at Bretton Woods, 1974: F at Beckenham, 1975: F at Columbus, 1976: F at Memphis WCT, 1977: F at Auckland, 1978: F at Mexico City-2, 1979: F at Bombay, 1980: F at Newport, 1981: F at Salisbury WCT, 1982: SF at Genoa WCT, 1983: F at Stowe, 1984: F at Newport, 1985: R16 at Brussels, 1986: F at Bristol, 1987: R16 at Bristol, 1988: SF at Newport, 1989: QF at Seoul, 1990: R32 at Hong Kong, 1993: R32 at Doha",
     "best_grand_slam_performance": "QF at Wimbledon",
     "best_rank": 19.0,
-    "top100_wins": 219
+    "top100_wins": 219,
+    "titles_total": 15,
+    "is_gs_qf_plus": true
   },
   {
     "id": "K024",
@@ -73,7 +75,9 @@
     "best_performance_each_year": "1976: R32 at Bangalore, 1977: R32 at Bombay, 1978: SF at Hong Kong, 1979: QF at Auckland, 1980: SF at Taipei, 1981: F at Manila, 1982: F at Stuttgart, 1983: SF at Bristol, 1984: F at Metz, 1985: F at Cologne, 1986: F at Tokyo-1, 1987: F at Wellington, 1988: F at Auckland, 1989: F at Auckland, 1990: F at Schenectady, 1991: R16 at San Francisco, 1992: SF at Singapore, 1993: R16 at Gstaad",
     "best_grand_slam_performance": "QF at US Open",
     "best_rank": 23.0,
-    "top100_wins": 164
+    "top100_wins": 164,
+    "titles_total": 8,
+    "is_gs_qf_plus": true
   },
   {
     "id": "A021",
@@ -107,7 +111,9 @@
     "best_performance_each_year": "1969: R64 at Beckenham, 1970: R32 at Hilversum, 1971: R32 at Gstaad, 1972: QF at Beckenham, 1973: SF at Hong Kong, 1974: SF at Beckenham, 1975: SF at South Orange, 1976: QF at Columbus-2, 1977: QF at Newport, 1978: SF at Calcutta, 1979: QF at South Orange, 1980: QF at San Jose, 1981: QF at Newport, 1982: R16 at South Orange",
     "best_grand_slam_performance": "R32 at US Open",
     "best_rank": 75.0,
-    "top100_wins": 26
+    "top100_wins": 26,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "M058",
@@ -141,7 +147,9 @@
     "best_performance_each_year": "1970: R32 at Hilversum, 1971: R64 at Clemmons, 1972: QF at Haverford, 1973: R32 at Columbus, 1974: R16 at Bombay, 1975: QF at Chicago, 1976: F at Bangalore, 1977: QF at Los Angeles-2, 1978: SF at Lagos, 1979: QF at San Jose-1, 1980: QF at Lagos, 1981: QF at San Juan, 1982: SF at Tokyo-1, 1983: R32 at Gstaad, 1984: R32 at Hong Kong, 1985: R64 at Tokyo-1",
     "best_grand_slam_performance": "R32 at Australian Open",
     "best_rank": 73.0,
-    "top100_wins": 37
+    "top100_wins": 37,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "P269",
@@ -178,7 +186,9 @@
     "best_performance_each_year": "1991: R16 at Singapore, 1992: R64 at Barcelona Olympics, 1993: R16 at Toulouse, 1994: QF at Kuala Lumpur, 1995: QF at Beijing, 1996: SF at Newport, 1997: SF at Shanghai, 1998: F at Newport, 1999: QF at Newport, 2000: R16 at Chennai, 2001: R32 at Chennai, 2002: R32 at Chennai, 2005: R32 at Chennai",
     "best_grand_slam_performance": "R32 at US Open",
     "best_rank": 76.0,
-    "top100_wins": 32
+    "top100_wins": 32,
+    "titles_total": 1,
+    "is_gs_qf_plus": false
   },
   {
     "id": "D616",
@@ -207,7 +217,9 @@
     "best_performance_each_year": "2006: R64 at Washington, 2007: R32 at Mumbai, 2008: QF at Washington, 2009: F at Chennai, 2010: QF at Johannesburg, 2011: F at Johannesburg, 2012: R16 at Chennai, 2013: R16 at Zagreb, 2014: R16 at Dubai, 2015: R32 at Chennai, 2016: R32 at Chennai",
     "best_grand_slam_performance": "R64 at US Open",
     "best_rank": 62.0,
-    "top100_wins": 29
+    "top100_wins": 29,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "L117",
@@ -233,7 +245,9 @@
     "best_performance_each_year": "1968: QF at Manchester, 1969: QF at Munich, 1970: R16 at Omaha, 1971: F at Beckenham, 1972: R16 at Queen's Club, 1973: R16 at Copenhagen WCT, 1974: R32 at Washington-2, 1975: R32 at Calcutta",
     "best_grand_slam_performance": "R32 at Roland Garros",
     "best_rank": 176.0,
-    "top100_wins": 1
+    "top100_wins": 1,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "M272",
@@ -260,7 +274,9 @@
     "best_performance_each_year": "1968: SF at Lugano, 1969: R32 at Queen's Club, 1970: R16 at Bristol, 1971: R16 at Newport, 1972: QF at Newport, 1973: QF at Nottingham, 1974: R16 at Manchester, 1975: R32 at Calcutta, 1976: R32 at Bangalore",
     "best_grand_slam_performance": "R16 at Wimbledon",
     "best_rank": 139.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": true
   },
   {
     "id": "S142",
@@ -287,7 +303,9 @@
     "best_performance_each_year": "1968: R16 at Toronto, 1969: R32 at Southampton, 1970: R64 at Philadelphia, 1972: QF at Buenos Aires, 1973: QF at New Delhi, 1974: R16 at Long Island WCT, 1975: R16 at Algiers, 1976: R16 at Bangalore, 1977: R32 at Hong Kong",
     "best_grand_slam_performance": "R32 at Australian Open",
     "best_rank": 106.0,
-    "top100_wins": 4
+    "top100_wins": 4,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "RB56",
@@ -317,7 +335,9 @@
     "best_performance_each_year": "2014: R16 at Chennai, 2015: R32 at Chennai, 2016: QF at Chennai, 2017: QF at Antalya, 2018: F at Newport, 2019: R16 at Newport, 2020: R32 at Pune, 2021: R32 at Singapore, 2022: R32 at Pune, 2023: R32 at Pune, 2024: R128 at Shanghai Masters",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 115.0,
-    "top100_wins": 8
+    "top100_wins": 8,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "BF55",
@@ -348,7 +368,9 @@
     "best_performance_each_year": "2009: R128 at Miami Masters, 2010: R16 at Kuala Lumpur, 2011: R32 at Chennai, 2012: R16 at Chennai, 2014: QF at Chennai, 2015: R128 at Australian Open, 2016: R32 at Sofia, 2017: QF at Washington, 2018: R16 at Pune, 2021: R32 at Singapore, 2022: R16 at Pune",
     "best_grand_slam_performance": "R128 at Australian Open",
     "best_rank": 84.0,
-    "top100_wins": 7
+    "top100_wins": 7,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "N897",
@@ -375,7 +397,9 @@
     "best_performance_each_year": "2018: R32 at Pune, 2019: R32 at Hamburg, 2020: R32 at Pune, 2021: QF at Buenos Aires, 2023: R32 at Pune, 2024: R16 at Marrakech, 2025: R32 at Auckland",
     "best_grand_slam_performance": "R64 at US Open",
     "best_rank": 68.0,
-    "top100_wins": 5
+    "top100_wins": 5,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "A487",
@@ -404,7 +428,9 @@
     "best_performance_each_year": "2002: R32 at Chennai, 2003: R16 at Los Angeles, 2004: R16 at Chennai, 2005: R32 at Chennai, 2006: R16 at Chennai, 2007: QF at Newport, 2008: F at Newport, 2009: R16 at Newport, 2010: R32 at Chennai, 2012: R16 at Chennai, 2013: R16 at Newport",
     "best_grand_slam_performance": "R128 at US Open",
     "best_rank": 159.0,
-    "top100_wins": 3
+    "top100_wins": 3,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "B757",
@@ -434,7 +460,9 @@
     "best_performance_each_year": "2002: R32 at Chennai, 2006: R16 at Chennai, 2007: R32 at Beijing, 2008: QF at Newport, 2009: R16 at Kuala Lumpur, 2010: R32 at Chennai, 2011: R32 at Chennai, 2013: R32 at Queen's Club",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 232.0,
-    "top100_wins": 4
+    "top100_wins": 4,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "K103",
@@ -456,7 +484,9 @@
     "best_performance_each_year": "1968: F at Toronto, 1973: R16 at New Delhi, 1975: R32 at Calcutta",
     "best_grand_slam_performance": "R64 at US Open",
     "best_rank": 263.0,
-    "top100_wins": 1
+    "top100_wins": 1,
+    "titles_total": 1,
+    "is_gs_qf_plus": false
   },
   {
     "id": "GA94",
@@ -481,7 +511,9 @@
     "best_performance_each_year": "2018: R16 at Stuttgart, 2019: R16 at Antalya, 2020: R16 at Pune, 2021: R64 at Washington, 2022: R32 at Pune",
     "best_grand_slam_performance": "R128 at Australian Open",
     "best_rank": 84.0,
-    "top100_wins": 4
+    "top100_wins": 4,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "B471",
@@ -507,7 +539,9 @@
     "best_performance_each_year": "1995: R128 at US Open, 1996: R16 at New Delhi, 1997: R16 at Los Angeles, 1998: R32 at Chennai, 1999: R32 at Chennai, 2000: R128 at Wimbledon, 2001: R32 at Chennai",
     "best_grand_slam_performance": "R128 at US Open",
     "best_rank": 225.0,
-    "top100_wins": 3
+    "top100_wins": 3,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "A059",
@@ -531,7 +565,9 @@
     "best_performance_each_year": "1974: R32 at Gstaad, 1975: R32 at South Orange, 1976: QF at Bangalore, 1977: R16 at St. Louis WCT, 1978: R16 at Dayton, 1979: R16 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 195.0,
-    "top100_wins": 1
+    "top100_wins": 1,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "A165",
@@ -555,7 +591,9 @@
     "best_performance_each_year": "1988: R16 at Schenectady, 1989: R32 at Tokyo-1",
     "best_grand_slam_performance": "R128 at Wimbledon",
     "best_rank": 138.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": true
   },
   {
     "id": "M699",
@@ -579,7 +617,9 @@
     "best_performance_each_year": "2004: R32 at Chennai, 2005: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 245.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "MC67",
@@ -601,7 +641,9 @@
     "best_performance_each_year": "1972: R64 at Beckenham, 1973: R16 at New Delhi, 1974: R16 at Bombay, 1975: R32 at Calcutta",
     "best_grand_slam_performance": "R64 at Wimbledon",
     "best_rank": 211.0,
-    "top100_wins": 1
+    "top100_wins": 1,
+    "titles_total": 0,
+    "is_gs_qf_plus": true
   },
   {
     "id": "V018",
@@ -625,7 +667,9 @@
     "best_performance_each_year": "1985: R32 at Tokyo-1, 1986: R32 at Tokyo-1, 1989: R64 at Kitzbuhel",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 215.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "M773",
@@ -647,7 +691,9 @@
     "best_performance_each_year": "1969: R64 at Beckenham, 1970: R64 at Hilversum, 1971: R64 at Beckenham, 1973: R16 at New Delhi",
     "best_grand_slam_performance": "R128 at Wimbledon",
     "best_rank": 263.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": true
   },
   {
     "id": "N050",
@@ -669,7 +715,9 @@
     "best_performance_each_year": "1975: R64 at Madrid-2, 1976: R32 at Madrid-1, 1978: R32 at Newport, 1979: R16 at Sarasota",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 216.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "R084",
@@ -692,7 +740,9 @@
     "best_performance_each_year": "1973: R32 at New Delhi, 1974: R16 at Bombay, 1976: R128 at Wimbledon, 1977: R32 at Bombay, 1978: R16 at New Orleans",
     "best_grand_slam_performance": "R64 at Wimbledon",
     "best_rank": 236.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": true
   },
   {
     "id": "F329",
@@ -713,7 +763,9 @@
     "best_performance_each_year": "2001: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 435.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "ME64",
@@ -734,7 +786,9 @@
     "best_performance_each_year": "2016: R128 at US Open, 2017: R32 at Chennai",
     "best_grand_slam_performance": "R128 at US Open",
     "best_rank": 137.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "V505",
@@ -755,7 +809,9 @@
     "best_performance_each_year": "2007: R32 at Chennai, 2012: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 262.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "MP13",
@@ -776,7 +832,9 @@
     "best_performance_each_year": "2020: R32 at Pune, 2023: R32 at Pune",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 263.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "P359",
@@ -797,7 +855,9 @@
     "best_performance_each_year": "1996: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 385.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "B107",
@@ -818,7 +878,9 @@
     "best_performance_each_year": "1978: R32 at Calcutta, 1979: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 528.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SG33",
@@ -838,7 +900,9 @@
     "best_performance_each_year": "2012: R32 at Kuala Lumpur",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 367.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "G143",
@@ -859,7 +923,9 @@
     "best_performance_each_year": "1973: R32 at New Delhi, 1974: R32 at Bombay, 1979: R16 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 370.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "KD43",
@@ -880,7 +946,9 @@
     "best_performance_each_year": "2018: R32 at Pune, 2020: R32 at Pune, 2022: R32 at Pune",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 392.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "K060",
@@ -900,7 +968,9 @@
     "best_performance_each_year": "1978: R32 at Calcutta, 1979: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 569.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "I042",
@@ -920,7 +990,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 1001.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "MP30",
@@ -940,7 +1012,9 @@
     "best_performance_each_year": "1973: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "MQ00",
@@ -959,7 +1033,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "N558",
@@ -979,7 +1055,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SR58",
@@ -999,7 +1077,9 @@
     "best_performance_each_year": "1973: R32 at New Delhi, 1974: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 370.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "V502",
@@ -1018,7 +1098,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 511.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "MH48",
@@ -1037,7 +1119,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 537.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "S0DE",
@@ -1056,7 +1140,9 @@
     "best_performance_each_year": "2025: R64 at Winston-Salem",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 626.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SG28",
@@ -1075,7 +1161,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 733.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "M252",
@@ -1094,7 +1182,9 @@
     "best_performance_each_year": "1977: R16 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 1
+    "top100_wins": 1,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "F186",
@@ -1113,7 +1203,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "N480",
@@ -1132,7 +1224,9 @@
     "best_performance_each_year": "2014: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 314.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "S0RI",
@@ -1151,7 +1245,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 496.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "U044",
@@ -1170,7 +1266,9 @@
     "best_performance_each_year": "2006: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 526.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SY71",
@@ -1189,7 +1287,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 544.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "PA97",
@@ -1208,7 +1308,9 @@
     "best_performance_each_year": "2015: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 557.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "VA48",
@@ -1227,7 +1329,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 588.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "K281",
@@ -1246,7 +1350,9 @@
     "best_performance_each_year": "1996: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 654.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "KH77",
@@ -1265,7 +1371,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 795.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SG79",
@@ -1284,7 +1392,9 @@
     "best_performance_each_year": "2007: R32 at Mumbai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 817.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "R230",
@@ -1303,7 +1413,9 @@
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 844.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "R823",
@@ -1322,7 +1434,9 @@
     "best_performance_each_year": "2007: R32 at Mumbai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 907.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "N260",
@@ -1341,7 +1455,9 @@
     "best_performance_each_year": "1997: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 955.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "K397",
@@ -1360,7 +1476,9 @@
     "best_performance_each_year": "2000: R32 at Chennai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 1199.0,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "B0LB",
@@ -1379,7 +1497,9 @@
     "best_performance_each_year": "1972: R64 at Hilversum",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "G065",
@@ -1398,7 +1518,9 @@
     "best_performance_each_year": "1972: R64 at Hilversum",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "SR63",
@@ -1417,7 +1539,9 @@
     "best_performance_each_year": "1973: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "AD64",
@@ -1436,7 +1560,9 @@
     "best_performance_each_year": "1974: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "D651",
@@ -1455,7 +1581,9 @@
     "best_performance_each_year": "1976: R32 at Bangalore",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "E034",
@@ -1474,7 +1602,9 @@
     "best_performance_each_year": "1979: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "W541",
@@ -1493,7 +1623,9 @@
     "best_performance_each_year": "2006: R32 at Mumbai",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   },
   {
     "id": "D0JI",
@@ -1512,6 +1644,8 @@
     "best_performance_each_year": "2023: R32 at Pune",
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": NaN,
-    "top100_wins": 0
+    "top100_wins": 0,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
   }
 ]

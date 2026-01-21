@@ -320,6 +320,10 @@ def build_network_data(df_enriched, player_metrics_df, year_filter=None, tourney
             'surface_wins': {
                 player1: dict(data['winner_wins_by_surface']) if player1 < player2 else dict(data['loser_wins_by_surface']),
                 player2: dict(data['loser_wins_by_surface']) if player1 < player2 else dict(data['winner_wins_by_surface'])
+            },
+            'tourney_wins': {
+                player1: dict(data['winner_wins_by_tourney']) if player1 < player2 else dict(data['loser_wins_by_tourney']),
+                player2: dict(data['loser_wins_by_tourney']) if player1 < player2 else dict(data['winner_wins_by_tourney'])
             }
         })
     
