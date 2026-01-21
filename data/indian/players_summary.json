@@ -1011,7 +1011,7 @@
     "best_performance_lifetime": "R32 at New Delhi",
     "best_performance_each_year": "1973: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1032,7 +1032,7 @@
     "best_performance_lifetime": null,
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1054,7 +1054,7 @@
     "best_performance_lifetime": null,
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1181,7 +1181,7 @@
     "best_performance_lifetime": "R16 at Bombay",
     "best_performance_each_year": "1977: R16 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 1,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1202,7 +1202,7 @@
     "best_performance_lifetime": null,
     "best_performance_each_year": "",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1496,7 +1496,7 @@
     "best_performance_lifetime": "R64 at Hilversum",
     "best_performance_each_year": "1972: R64 at Hilversum",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1517,7 +1517,7 @@
     "best_performance_lifetime": "R64 at Hilversum",
     "best_performance_each_year": "1972: R64 at Hilversum",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1538,7 +1538,7 @@
     "best_performance_lifetime": "R32 at New Delhi",
     "best_performance_each_year": "1973: R32 at New Delhi",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1559,7 +1559,7 @@
     "best_performance_lifetime": "R32 at Bombay",
     "best_performance_each_year": "1974: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1580,7 +1580,7 @@
     "best_performance_lifetime": "R32 at Bangalore",
     "best_performance_each_year": "1976: R32 at Bangalore",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1601,7 +1601,7 @@
     "best_performance_lifetime": "R32 at Bombay",
     "best_performance_each_year": "1979: R32 at Bombay",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1622,7 +1622,7 @@
     "best_performance_lifetime": "R32 at Mumbai",
     "best_performance_each_year": "2006: R32 at Mumbai",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false
@@ -1643,7 +1643,7 @@
     "best_performance_lifetime": "R32 at Pune",
     "best_performance_each_year": "2023: R32 at Pune",
     "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": NaN,
+    "best_rank": null,
     "top100_wins": 0,
     "titles_total": 0,
     "is_gs_qf_plus": false

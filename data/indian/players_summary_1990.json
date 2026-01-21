@@ -411,7 +411,7 @@
     "wins": 1,
     "losses": 2,
     "win_pct": 33.33,
-    "best_rank": NaN
+    "best_rank": null
   },
   {
     "id": "KH77",
@@ -551,7 +551,7 @@
     "wins": 0,
     "losses": 2,
     "win_pct": 0.0,
-    "best_rank": NaN
+    "best_rank": null
   },
   {
     "id": "N260",
@@ -611,7 +611,7 @@
     "wins": 0,
     "losses": 1,
     "win_pct": 0.0,
-    "best_rank": NaN
+    "best_rank": null
   },
   {
     "id": "SG28",
@@ -748,7 +748,7 @@
     "wins": 0,
     "losses": 1,
     "win_pct": 0.0,
-    "best_rank": NaN
+    "best_rank": null
   },
   {
     "id": "VA48",

@@ -21,6 +21,21 @@ def safe_str(x):
     return None if pd.isna(x) else str(x)
 
 
+def clean_for_json(obj):
+    """Recursively replace NaN with None for JSON serialization"""
+    if isinstance(obj, dict):
+        return {k: clean_for_json(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_for_json(x) for x in obj]
+    elif isinstance(obj, float) and np.isnan(obj):
+        return None
+    elif isinstance(obj, (np.integer, np.floating)):
+        if np.isnan(obj):
+            return None
+        return obj.item()
+    return obj
+
+
 def get_best_performance_from_group(group, round_order):
     # Determine best performance (highest round) from a group of appearances
     # group is a DataFrame with 'round' and 'tourney_name'
@@ -210,7 +225,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     # Save players_summary.json
     with open(f"{output_dir}/players_summary.json", 'w') as f:
-        json.dump(players_summary, f, indent=2)
+        json.dump(clean_for_json(players_summary), f, indent=2)
     print(f"✓ Saved: players_summary.json ({len(players_summary)} players)")
 
     # --- Players time series (players per year) ---
@@ -223,7 +238,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
         ts.append({'year': int(y), 'country_unique_players': int(country_unique), 'global_unique_players': int(global_players), 'ratio': round(country_unique / global_players if global_players>0 else 0, 4)})
 
     with open(f"{output_dir}/players_time_series.json", 'w') as f:
-        json.dump(ts, f, indent=2)
+        json.dump(clean_for_json(ts), f, indent=2)
     print(f"✓ Saved: players_time_series.json ({len(ts)} years)")
 
     # --- Win/Loss by year ---
@@ -237,7 +252,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     win_loss_list = wl.to_dict('records')
     with open(f"{output_dir}/win_loss_by_year.json", 'w') as f:
-        json.dump(win_loss_list, f, indent=2)
+        json.dump(clean_for_json(win_loss_list), f, indent=2)
     print(f"✓ Saved: win_loss_by_year.json ({len(win_loss_list)} years)")
 
     # --- Tournament participation by level ---
@@ -258,9 +273,9 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
         global_part_list.append(d)
 
     with open(f"{output_dir}/tournament_participation_country.json", 'w') as f:
-        json.dump(country_part_list, f, indent=2)
+        json.dump(clean_for_json(country_part_list), f, indent=2)
     with open(f"{output_dir}/tournament_participation_global.json", 'w') as f:
-        json.dump(global_part_list, f, indent=2)
+        json.dump(clean_for_json(global_part_list), f, indent=2)
     print(f"✓ Saved: tournament participation by level (country & global)")
 
     # --- Sample matches for interactive visualization ---
@@ -270,13 +285,13 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     sample_records = matches_sample.to_dict('records')
     with open(f"{output_dir}/indian_matches.json", 'w') as f:
-        json.dump(sample_records, f, indent=2)
+        json.dump(clean_for_json(sample_records), f, indent=2)
     print(f"✓ Saved: indian_matches.json ({len(sample_records)} matches)")
 
     # --- Notable players (top 10 by matches_played) ---
     notable = sorted(players_summary, key=lambda x: x['matches_played'], reverse=True)[:20]
     with open(f"{output_dir}/notable_players.json", 'w') as f:
-        json.dump(notable, f, indent=2)
+        json.dump(clean_for_json(notable), f, indent=2)
     print(f"✓ Saved: notable_players.json ({len(notable)} players)")
 
     # --- Additional datasets for deeper analysis ---
@@ -329,7 +344,7 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
         })
 
     with open(f"{output_dir}/player_milestones.json", 'w') as f:
-        json.dump(milestones, f, indent=2)
+        json.dump(clean_for_json(milestones), f, indent=2)
     print(f"✓ Saved: player_milestones.json ({len(milestones)} players)")
 
     # Head-to-head vs top50 opponents (match-level top-ranked opponents at time of match)
@@ -360,24 +375,24 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
         })
 
     with open(f"{output_dir}/head_to_head_top50.json", 'w') as f:
-        json.dump(h2h_top50, f, indent=2)
+        json.dump(clean_for_json(h2h_top50), f, indent=2)
     print(f"✓ Saved: head_to_head_top50.json ({len(h2h_top50)} players)")
 
     # Surface performance per player
     surface_perf = []
     surfaces = ['Hard','Clay','Grass']
     for pid in player_ids:
-        wins = df[(df['winner_id'].astype(str) == pid)].groupby('surface').size().to_dict()
-        matches = df[(df['winner_id'].astype(str) == pid) | (df['loser_id'].astype(str) == pid)].groupby('surface').size().to_dict()
+        wins_s = df[(df['winner_id'].astype(str) == pid)].groupby('surface').size().to_dict()
+        matches_s = df[(df['winner_id'].astype(str) == pid) | (df['loser_id'].astype(str) == pid)].groupby('surface').size().to_dict()
         perf = {'id': pid, 'name': next((p['name'] for p in players_summary if p['id'] == pid), None), 'surface_stats': {}}
         for s in surfaces:
-            w = int(wins.get(s, 0))
-            m = int(matches.get(s, 0))
+            w = int(wins_s.get(s, 0))
+            m = int(matches_s.get(s, 0))
             perf['surface_stats'][s] = {'wins': w, 'matches': m, 'win_pct': round((w / m * 100) if m>0 else 0, 2)}
         surface_perf.append(perf)
 
     with open(f"{output_dir}/surface_performance_by_player.json", 'w') as f:
-        json.dump(surface_perf, f, indent=2)
+        json.dump(clean_for_json(surface_perf), f, indent=2)
     print(f"✓ Saved: surface_performance_by_player.json ({len(surface_perf)} players)")
 
     # Yearly best rank trajectory for each player (best rank observed per year from appearances)
@@ -391,23 +406,23 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
             rank_traj.append({'id': pid, 'name': next((p['name'] for p in players_summary if p['id'] == pid), None), 'rank_trajectory': traj})
 
     with open(f"{output_dir}/player_yearly_rank.json", 'w') as f:
-        json.dump(rank_traj, f, indent=2)
+        json.dump(clean_for_json(rank_traj), f, indent=2)
     print(f"✓ Saved: player_yearly_rank.json ({len(rank_traj)} players)")
 
     # Career lengths for Indian players (precision using dates)
-    career_lengths = []
+    career_lengths_data = []
     for pid in player_ids:
         p_matches = df[(df['winner_id'].astype(str) == pid) | (df['loser_id'].astype(str) == pid)].copy()
         if p_matches.empty:
             continue
         p_matches['tourney_date_dt'] = pd.to_datetime(p_matches['tourney_date'].astype(str), format='%Y%m%d', errors='coerce')
-        start = p_matches['tourney_date_dt'].min(); end = p_matches['tourney_date_dt'].max()
-        length_years = round(((end - start).days/365.25), 2) if pd.notna(start) and pd.notna(end) else None
-        career_lengths.append({'id': pid, 'name': next((p['name'] for p in players_summary if p['id'] == pid), None), 'career_start': str(start.date()) if pd.notna(start) else None, 'career_end': str(end.date()) if pd.notna(end) else None, 'career_length_years': length_years})
+        start_c = p_matches['tourney_date_dt'].min(); end_c = p_matches['tourney_date_dt'].max()
+        length_years_c = round(((end_c - start_c).days/365.25), 2) if pd.notna(start_c) and pd.notna(end_c) else None
+        career_lengths_data.append({'id': pid, 'name': next((p['name'] for p in players_summary if p['id'] == pid), None), 'career_start': str(start_c.date()) if pd.notna(start_c) else None, 'career_end': str(end_c.date()) if pd.notna(end_c) else None, 'career_length_years': length_years_c})
 
     with open(f"{output_dir}/career_lengths_indian.json", 'w') as f:
-        json.dump(career_lengths, f, indent=2)
-    print(f"✓ Saved: career_lengths_indian.json ({len(career_lengths)} players)")
+        json.dump(clean_for_json(career_lengths_data), f, indent=2)
+    print(f"✓ Saved: career_lengths_indian.json ({len(career_lengths_data)} players)")
 
     # --- Create 1990-limited subset files for backward compatibility with older visualizations ---
     df_1990 = df_all[df_all['year'] >= 1990].copy()
@@ -423,10 +438,10 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     # minimal fields: years, matches_played, wins, losses, best_rank
     match_counts_90 = appearances_90.groupby('id').size().reset_index(name='matches_played')
-    wins_90 = country_matches_1990[country_matches_1990['winner_ioc'] == country_code].copy()
-    wins_count_90 = wins_90.groupby(wins_90['winner_id'].astype(str)).size().reset_index(name='wins').rename(columns={'winner_id':'id'})
-    losses_90 = country_matches_1990[country_matches_1990['loser_ioc'] == country_code].copy()
-    losses_count_90 = losses_90.groupby(losses_90['loser_id'].astype(str)).size().reset_index(name='losses').rename(columns={'loser_id':'id'})
+    wins_90_df = country_matches_1990[country_matches_1990['winner_ioc'] == country_code].copy()
+    wins_count_90 = wins_90_df.groupby(wins_90_df['winner_id'].astype(str)).size().reset_index(name='wins').rename(columns={'winner_id':'id'})
+    losses_90_df = country_matches_1990[country_matches_1990['loser_ioc'] == country_code].copy()
+    losses_count_90 = losses_90_df.groupby(losses_90_df['loser_id'].astype(str)).size().reset_index(name='losses').rename(columns={'loser_id':'id'})
 
     best_ranks_90 = appearances_90.groupby('id')['rank'].min().reset_index().rename(columns={'rank':'best_rank'})
 
@@ -463,20 +478,20 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
         })
 
     with open(f"{output_dir}/players_summary_1990.json", 'w') as f:
-        json.dump(players_summary_90, f, indent=2)
+        json.dump(clean_for_json(players_summary_90), f, indent=2)
     print(f"✓ Saved: players_summary_1990.json ({len(players_summary_90)} players)")
 
     # players_time_series_1990
     years_1990 = sorted(df_1990['year'].unique().tolist())
     ts_90 = []
     for y in years_1990:
-        country_players = country_matches_1990[country_matches_1990['year'] == y]
-        country_unique = pd.concat([country_players['winner_id'], country_players['loser_id']]).astype(str).nunique()
-        global_players = pd.concat([df_1990[df_1990['year'] == y]['winner_id'], df_1990[df_1990['year'] == y]['loser_id']]).astype(str).nunique()
-        ts_90.append({'year': int(y), 'country_unique_players': int(country_unique), 'global_unique_players': int(global_players), 'ratio': round(country_unique / global_players if global_players>0 else 0, 4)})
+        country_players_90 = country_matches_1990[country_matches_1990['year'] == y]
+        country_unique_90 = pd.concat([country_players_90['winner_id'], country_players_90['loser_id']]).astype(str).nunique()
+        global_players_90 = pd.concat([df_1990[df_1990['year'] == y]['winner_id'], df_1990[df_1990['year'] == y]['loser_id']]).astype(str).nunique()
+        ts_90.append({'year': int(y), 'country_unique_players': int(country_unique_90), 'global_unique_players': int(global_players_90), 'ratio': round(country_unique_90 / global_players_90 if global_players_90>0 else 0, 4)})
 
     with open(f"{output_dir}/players_time_series_1990.json", 'w') as f:
-        json.dump(ts_90, f, indent=2)
+        json.dump(clean_for_json(ts_90), f, indent=2)
     print(f"✓ Saved: players_time_series_1990.json ({len(ts_90)} years)")
 
     # indian matches 1990
@@ -484,12 +499,12 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
     matches_sample_90['tourney_date'] = matches_sample_90['tourney_date'].astype(str)
     sample_records_90 = matches_sample_90.to_dict('records')
     with open(f"{output_dir}/indian_matches_1990.json", 'w') as f:
-        json.dump(sample_records_90, f, indent=2)
+        json.dump(clean_for_json(sample_records_90), f, indent=2)
     print(f"✓ Saved: indian_matches_1990.json ({len(sample_records_90)} matches)")
 
     notable_90 = sorted(players_summary_90, key=lambda x: x['matches_played'], reverse=True)[:20]
     with open(f"{output_dir}/notable_players_1990.json", 'w') as f:
-        json.dump(notable_90, f, indent=2)
+        json.dump(clean_for_json(notable_90), f, indent=2)
     print(f"✓ Saved: notable_players_1990.json ({len(notable_90)} players)")
 
     print("\nIndian Players aggregation complete")
