@@ -1,0 +1,30 @@
+[
+    {
+        "Player_Name": "Ken Rosewall",
+        "Age_First_GS": 18.2,
+        "Year_First_GS": 1953,
+        "Matches_Before_First_GS": 50,
+        "Note": "Won 1953 Australian Championships (Amateur Era)"
+    },
+    {
+        "Player_Name": "Rod Laver",
+        "Age_First_GS": 21.5,
+        "Year_First_GS": 1960,
+        "Matches_Before_First_GS": 150,
+        "Note": "Won 1960 Australian Championships (Amateur Era)"
+    },
+    {
+        "Player_Name": "Arthur Ashe",
+        "Age_First_GS": 25.0,
+        "Year_First_GS": 1968,
+        "Matches_Before_First_GS": 300,
+        "Note": "Won 1968 US Open (First Open Era Slam)"
+    },
+    {
+        "Player_Name": "John Newcombe",
+        "Age_First_GS": 23.0,
+        "Year_First_GS": 1967,
+        "Matches_Before_First_GS": 200,
+        "Note": "Won 1967 Wimbledon (Amateur Era)"
+    }
+]
