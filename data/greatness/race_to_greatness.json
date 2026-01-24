@@ -11,6 +11,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-02-19"
                 },
                 {
@@ -21,6 +22,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-05-21"
                 },
                 {
@@ -31,6 +33,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-08-20"
                 },
                 {
@@ -41,6 +44,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-11-19"
                 },
                 {
@@ -51,6 +55,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2005-02-19"
                 },
                 {
@@ -61,6 +66,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2005-05-21"
                 },
                 {
@@ -71,6 +77,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2005-08-20"
                 },
                 {
@@ -81,6 +88,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2005-11-20"
                 },
                 {
@@ -91,6 +99,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2006-02-19"
                 },
                 {
@@ -101,6 +110,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2006-05-21"
                 },
                 {
@@ -111,6 +121,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2006-08-21"
                 },
                 {
@@ -121,6 +132,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2006-11-20"
                 },
                 {
@@ -131,6 +143,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2007-02-19"
                 },
                 {
@@ -141,6 +154,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2007-05-22"
                 },
                 {
@@ -151,6 +165,7 @@
                     "gs": 0,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2007-08-21"
                 },
                 {
@@ -161,6 +176,7 @@
                     "gs": 0,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2007-11-20"
                 },
                 {
@@ -171,6 +187,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "2008-02-19"
                 },
                 {
@@ -181,6 +198,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "2008-05-21"
                 },
                 {
@@ -191,6 +209,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "2008-08-20"
                 },
                 {
@@ -201,6 +220,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "2008-11-19"
                 },
                 {
@@ -211,6 +231,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "2009-02-19"
                 },
                 {
@@ -221,6 +242,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "2009-05-21"
                 },
                 {
@@ -231,6 +253,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "2009-08-20"
                 },
                 {
@@ -241,6 +264,7 @@
                     "gs": 1,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2009-11-20"
                 },
                 {
@@ -251,6 +275,7 @@
                     "gs": 1,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2010-02-19"
                 },
                 {
@@ -261,6 +286,7 @@
                     "gs": 1,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2010-05-21"
                 },
                 {
@@ -271,6 +297,7 @@
                     "gs": 1,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2010-08-21"
                 },
                 {
@@ -281,6 +308,7 @@
                     "gs": 1,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2010-11-20"
                 },
                 {
@@ -291,6 +319,7 @@
                     "gs": 2,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 8,
                     "date": "2011-02-19"
                 },
                 {
@@ -301,6 +330,7 @@
                     "gs": 2,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 12,
                     "date": "2011-05-22"
                 },
                 {
@@ -311,6 +341,7 @@
                     "gs": 3,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 14,
                     "date": "2011-08-21"
                 },
                 {
@@ -321,6 +352,7 @@
                     "gs": 4,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 15,
                     "date": "2011-11-20"
                 },
                 {
@@ -331,6 +363,7 @@
                     "gs": 5,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 16,
                     "date": "2012-02-19"
                 },
                 {
@@ -341,6 +374,7 @@
                     "gs": 5,
                     "masters": 11,
                     "finals": 1,
+                    "big_titles": 17,
                     "date": "2012-05-21"
                 },
                 {
@@ -351,6 +385,7 @@
                     "gs": 5,
                     "masters": 12,
                     "finals": 1,
+                    "big_titles": 18,
                     "date": "2012-08-20"
                 },
                 {
@@ -361,6 +396,7 @@
                     "gs": 5,
                     "masters": 13,
                     "finals": 2,
+                    "big_titles": 20,
                     "date": "2012-11-19"
                 },
                 {
@@ -371,6 +407,7 @@
                     "gs": 6,
                     "masters": 13,
                     "finals": 2,
+                    "big_titles": 21,
                     "date": "2013-02-19"
                 },
                 {
@@ -381,6 +418,7 @@
                     "gs": 6,
                     "masters": 14,
                     "finals": 2,
+                    "big_titles": 22,
                     "date": "2013-05-21"
                 },
                 {
@@ -391,6 +429,7 @@
                     "gs": 6,
                     "masters": 14,
                     "finals": 2,
+                    "big_titles": 22,
                     "date": "2013-08-20"
                 },
                 {
@@ -401,6 +440,7 @@
                     "gs": 6,
                     "masters": 16,
                     "finals": 3,
+                    "big_titles": 25,
                     "date": "2013-11-20"
                 },
                 {
@@ -411,6 +451,7 @@
                     "gs": 6,
                     "masters": 16,
                     "finals": 3,
+                    "big_titles": 25,
                     "date": "2014-02-19"
                 },
                 {
@@ -421,6 +462,7 @@
                     "gs": 6,
                     "masters": 19,
                     "finals": 3,
+                    "big_titles": 28,
                     "date": "2014-05-21"
                 },
                 {
@@ -431,6 +473,7 @@
                     "gs": 7,
                     "masters": 19,
                     "finals": 3,
+                    "big_titles": 29,
                     "date": "2014-08-21"
                 },
                 {
@@ -441,6 +484,7 @@
                     "gs": 7,
                     "masters": 20,
                     "finals": 4,
+                    "big_titles": 31,
                     "date": "2014-11-20"
                 },
                 {
@@ -451,6 +495,7 @@
                     "gs": 8,
                     "masters": 20,
                     "finals": 4,
+                    "big_titles": 32,
                     "date": "2015-02-19"
                 },
                 {
@@ -461,6 +506,7 @@
                     "gs": 8,
                     "masters": 24,
                     "finals": 4,
+                    "big_titles": 36,
                     "date": "2015-05-22"
                 },
                 {
@@ -471,6 +517,7 @@
                     "gs": 9,
                     "masters": 24,
                     "finals": 4,
+                    "big_titles": 37,
                     "date": "2015-08-21"
                 },
                 {
@@ -481,6 +528,7 @@
                     "gs": 10,
                     "masters": 26,
                     "finals": 5,
+                    "big_titles": 41,
                     "date": "2015-11-20"
                 },
                 {
@@ -491,6 +539,7 @@
                     "gs": 11,
                     "masters": 26,
                     "finals": 5,
+                    "big_titles": 42,
                     "date": "2016-02-19"
                 },
                 {
@@ -501,6 +550,7 @@
                     "gs": 11,
                     "masters": 29,
                     "finals": 5,
+                    "big_titles": 45,
                     "date": "2016-05-21"
                 },
                 {
@@ -511,6 +561,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2016-08-20"
                 },
                 {
@@ -521,6 +572,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2016-11-19"
                 },
                 {
@@ -531,6 +583,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2017-02-19"
                 },
                 {
@@ -541,6 +594,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2017-05-21"
                 },
                 {
@@ -551,6 +605,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2017-08-20"
                 },
                 {
@@ -561,6 +616,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2017-11-20"
                 },
                 {
@@ -571,6 +627,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2018-02-19"
                 },
                 {
@@ -581,6 +638,7 @@
                     "gs": 12,
                     "masters": 30,
                     "finals": 5,
+                    "big_titles": 47,
                     "date": "2018-05-21"
                 },
                 {
@@ -591,6 +649,7 @@
                     "gs": 13,
                     "masters": 31,
                     "finals": 5,
+                    "big_titles": 49,
                     "date": "2018-08-21"
                 },
                 {
@@ -601,6 +660,7 @@
                     "gs": 14,
                     "masters": 32,
                     "finals": 5,
+                    "big_titles": 51,
                     "date": "2018-11-20"
                 },
                 {
@@ -611,6 +671,7 @@
                     "gs": 15,
                     "masters": 32,
                     "finals": 5,
+                    "big_titles": 52,
                     "date": "2019-02-19"
                 },
                 {
@@ -621,6 +682,7 @@
                     "gs": 15,
                     "masters": 33,
                     "finals": 5,
+                    "big_titles": 53,
                     "date": "2019-05-22"
                 },
                 {
@@ -631,6 +693,7 @@
                     "gs": 16,
                     "masters": 33,
                     "finals": 5,
+                    "big_titles": 54,
                     "date": "2019-08-21"
                 },
                 {
@@ -641,6 +704,7 @@
                     "gs": 16,
                     "masters": 34,
                     "finals": 5,
+                    "big_titles": 55,
                     "date": "2019-11-20"
                 },
                 {
@@ -651,6 +715,7 @@
                     "gs": 17,
                     "masters": 34,
                     "finals": 5,
+                    "big_titles": 56,
                     "date": "2020-02-19"
                 },
                 {
@@ -661,6 +726,7 @@
                     "gs": 17,
                     "masters": 34,
                     "finals": 5,
+                    "big_titles": 56,
                     "date": "2020-05-21"
                 },
                 {
@@ -671,6 +737,7 @@
                     "gs": 17,
                     "masters": 34,
                     "finals": 5,
+                    "big_titles": 56,
                     "date": "2020-08-20"
                 },
                 {
@@ -681,6 +748,7 @@
                     "gs": 17,
                     "masters": 36,
                     "finals": 5,
+                    "big_titles": 58,
                     "date": "2020-11-19"
                 },
                 {
@@ -691,6 +759,7 @@
                     "gs": 18,
                     "masters": 36,
                     "finals": 5,
+                    "big_titles": 59,
                     "date": "2021-02-19"
                 },
                 {
@@ -701,6 +770,7 @@
                     "gs": 18,
                     "masters": 36,
                     "finals": 5,
+                    "big_titles": 59,
                     "date": "2021-05-21"
                 },
                 {
@@ -711,6 +781,7 @@
                     "gs": 20,
                     "masters": 36,
                     "finals": 5,
+                    "big_titles": 61,
                     "date": "2021-08-20"
                 },
                 {
@@ -721,6 +792,7 @@
                     "gs": 20,
                     "masters": 37,
                     "finals": 5,
+                    "big_titles": 62,
                     "date": "2021-11-20"
                 },
                 {
@@ -731,6 +803,7 @@
                     "gs": 20,
                     "masters": 37,
                     "finals": 5,
+                    "big_titles": 62,
                     "date": "2022-02-19"
                 },
                 {
@@ -741,6 +814,7 @@
                     "gs": 20,
                     "masters": 38,
                     "finals": 5,
+                    "big_titles": 63,
                     "date": "2022-05-21"
                 },
                 {
@@ -751,6 +825,7 @@
                     "gs": 21,
                     "masters": 38,
                     "finals": 5,
+                    "big_titles": 64,
                     "date": "2022-08-21"
                 },
                 {
@@ -761,6 +836,7 @@
                     "gs": 21,
                     "masters": 38,
                     "finals": 6,
+                    "big_titles": 65,
                     "date": "2022-11-20"
                 },
                 {
@@ -771,6 +847,7 @@
                     "gs": 22,
                     "masters": 38,
                     "finals": 6,
+                    "big_titles": 66,
                     "date": "2023-02-19"
                 },
                 {
@@ -781,6 +858,7 @@
                     "gs": 22,
                     "masters": 38,
                     "finals": 6,
+                    "big_titles": 66,
                     "date": "2023-05-22"
                 },
                 {
@@ -791,6 +869,7 @@
                     "gs": 23,
                     "masters": 39,
                     "finals": 6,
+                    "big_titles": 68,
                     "date": "2023-08-21"
                 },
                 {
@@ -801,6 +880,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2023-11-20"
                 },
                 {
@@ -811,6 +891,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2024-02-19"
                 },
                 {
@@ -821,6 +902,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2024-05-21"
                 },
                 {
@@ -831,6 +913,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2024-08-20"
                 },
                 {
@@ -841,6 +924,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2024-11-19"
                 },
                 {
@@ -851,6 +935,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2025-02-19"
                 },
                 {
@@ -861,6 +946,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2025-05-21"
                 },
                 {
@@ -871,6 +957,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2025-08-20"
                 },
                 {
@@ -881,6 +968,7 @@
                     "gs": 24,
                     "masters": 40,
                     "finals": 7,
+                    "big_titles": 71,
                     "date": "2025-11-03"
                 }
             ],
@@ -944,6 +1032,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1998-05-08"
                 },
                 {
@@ -954,6 +1043,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1998-08-08"
                 },
                 {
@@ -964,6 +1054,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1998-11-07"
                 },
                 {
@@ -974,6 +1065,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1999-02-06"
                 },
                 {
@@ -984,6 +1076,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1999-05-09"
                 },
                 {
@@ -994,6 +1087,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1999-08-08"
                 },
                 {
@@ -1004,6 +1098,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1999-11-07"
                 },
                 {
@@ -1014,6 +1109,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2000-02-07"
                 },
                 {
@@ -1024,6 +1120,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2000-05-08"
                 },
                 {
@@ -1034,6 +1131,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2000-08-07"
                 },
                 {
@@ -1044,6 +1142,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2000-11-07"
                 },
                 {
@@ -1054,6 +1153,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2001-02-06"
                 },
                 {
@@ -1064,6 +1164,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2001-05-08"
                 },
                 {
@@ -1074,6 +1175,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2001-08-08"
                 },
                 {
@@ -1084,6 +1186,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2001-11-07"
                 },
                 {
@@ -1094,6 +1197,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-02-06"
                 },
                 {
@@ -1104,6 +1208,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-05-08"
                 },
                 {
@@ -1114,6 +1219,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2002-08-08"
                 },
                 {
@@ -1124,6 +1230,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2002-11-07"
                 },
                 {
@@ -1134,6 +1241,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2003-02-06"
                 },
                 {
@@ -1144,6 +1252,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2003-05-09"
                 },
                 {
@@ -1154,6 +1263,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2003-08-08"
                 },
                 {
@@ -1164,6 +1274,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2003-11-07"
                 },
                 {
@@ -1174,6 +1285,7 @@
                     "gs": 2,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "2004-02-07"
                 },
                 {
@@ -1184,6 +1296,7 @@
                     "gs": 2,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "2004-05-08"
                 },
                 {
@@ -1194,6 +1307,7 @@
                     "gs": 3,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 8,
                     "date": "2004-08-07"
                 },
                 {
@@ -1204,6 +1318,7 @@
                     "gs": 4,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 9,
                     "date": "2004-11-07"
                 },
                 {
@@ -1214,6 +1329,7 @@
                     "gs": 4,
                     "masters": 4,
                     "finals": 2,
+                    "big_titles": 10,
                     "date": "2005-02-06"
                 },
                 {
@@ -1224,6 +1340,7 @@
                     "gs": 4,
                     "masters": 6,
                     "finals": 2,
+                    "big_titles": 12,
                     "date": "2005-05-08"
                 },
                 {
@@ -1234,6 +1351,7 @@
                     "gs": 5,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 14,
                     "date": "2005-08-08"
                 },
                 {
@@ -1244,6 +1362,7 @@
                     "gs": 6,
                     "masters": 8,
                     "finals": 2,
+                    "big_titles": 16,
                     "date": "2005-11-07"
                 },
                 {
@@ -1254,6 +1373,7 @@
                     "gs": 7,
                     "masters": 8,
                     "finals": 2,
+                    "big_titles": 17,
                     "date": "2006-02-06"
                 },
                 {
@@ -1264,6 +1384,7 @@
                     "gs": 7,
                     "masters": 10,
                     "finals": 2,
+                    "big_titles": 19,
                     "date": "2006-05-08"
                 },
                 {
@@ -1274,6 +1395,7 @@
                     "gs": 8,
                     "masters": 11,
                     "finals": 2,
+                    "big_titles": 21,
                     "date": "2006-08-08"
                 },
                 {
@@ -1284,6 +1406,7 @@
                     "gs": 9,
                     "masters": 12,
                     "finals": 2,
+                    "big_titles": 23,
                     "date": "2006-11-07"
                 },
                 {
@@ -1294,6 +1417,7 @@
                     "gs": 10,
                     "masters": 12,
                     "finals": 3,
+                    "big_titles": 25,
                     "date": "2007-02-06"
                 },
                 {
@@ -1304,6 +1428,7 @@
                     "gs": 10,
                     "masters": 12,
                     "finals": 3,
+                    "big_titles": 25,
                     "date": "2007-05-09"
                 },
                 {
@@ -1314,6 +1439,7 @@
                     "gs": 11,
                     "masters": 13,
                     "finals": 3,
+                    "big_titles": 27,
                     "date": "2007-08-08"
                 },
                 {
@@ -1324,6 +1450,7 @@
                     "gs": 12,
                     "masters": 14,
                     "finals": 3,
+                    "big_titles": 29,
                     "date": "2007-11-07"
                 },
                 {
@@ -1334,6 +1461,7 @@
                     "gs": 12,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 30,
                     "date": "2008-02-07"
                 },
                 {
@@ -1344,6 +1472,7 @@
                     "gs": 12,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 30,
                     "date": "2008-05-08"
                 },
                 {
@@ -1354,6 +1483,7 @@
                     "gs": 12,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 30,
                     "date": "2008-08-07"
                 },
                 {
@@ -1364,6 +1494,7 @@
                     "gs": 13,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 31,
                     "date": "2008-11-07"
                 },
                 {
@@ -1374,6 +1505,7 @@
                     "gs": 13,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 31,
                     "date": "2009-02-06"
                 },
                 {
@@ -1384,6 +1516,7 @@
                     "gs": 13,
                     "masters": 14,
                     "finals": 4,
+                    "big_titles": 31,
                     "date": "2009-05-08"
                 },
                 {
@@ -1394,6 +1527,7 @@
                     "gs": 15,
                     "masters": 15,
                     "finals": 4,
+                    "big_titles": 34,
                     "date": "2009-08-08"
                 },
                 {
@@ -1404,6 +1538,7 @@
                     "gs": 15,
                     "masters": 16,
                     "finals": 4,
+                    "big_titles": 35,
                     "date": "2009-11-07"
                 },
                 {
@@ -1414,6 +1549,7 @@
                     "gs": 16,
                     "masters": 16,
                     "finals": 4,
+                    "big_titles": 36,
                     "date": "2010-02-06"
                 },
                 {
@@ -1424,6 +1560,7 @@
                     "gs": 16,
                     "masters": 16,
                     "finals": 4,
+                    "big_titles": 36,
                     "date": "2010-05-08"
                 },
                 {
@@ -1434,6 +1571,7 @@
                     "gs": 16,
                     "masters": 16,
                     "finals": 4,
+                    "big_titles": 36,
                     "date": "2010-08-08"
                 },
                 {
@@ -1444,6 +1582,7 @@
                     "gs": 16,
                     "masters": 17,
                     "finals": 4,
+                    "big_titles": 37,
                     "date": "2010-11-07"
                 },
                 {
@@ -1454,6 +1593,7 @@
                     "gs": 16,
                     "masters": 17,
                     "finals": 5,
+                    "big_titles": 38,
                     "date": "2011-02-06"
                 },
                 {
@@ -1464,6 +1604,7 @@
                     "gs": 16,
                     "masters": 17,
                     "finals": 5,
+                    "big_titles": 38,
                     "date": "2011-05-09"
                 },
                 {
@@ -1474,6 +1615,7 @@
                     "gs": 16,
                     "masters": 17,
                     "finals": 5,
+                    "big_titles": 38,
                     "date": "2011-08-08"
                 },
                 {
@@ -1484,6 +1626,7 @@
                     "gs": 16,
                     "masters": 18,
                     "finals": 5,
+                    "big_titles": 39,
                     "date": "2011-11-07"
                 },
                 {
@@ -1494,6 +1637,7 @@
                     "gs": 16,
                     "masters": 18,
                     "finals": 6,
+                    "big_titles": 40,
                     "date": "2012-02-07"
                 },
                 {
@@ -1504,6 +1648,7 @@
                     "gs": 16,
                     "masters": 20,
                     "finals": 6,
+                    "big_titles": 42,
                     "date": "2012-05-08"
                 },
                 {
@@ -1514,6 +1659,7 @@
                     "gs": 17,
                     "masters": 20,
                     "finals": 6,
+                    "big_titles": 43,
                     "date": "2012-08-07"
                 },
                 {
@@ -1524,6 +1670,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2012-11-07"
                 },
                 {
@@ -1534,6 +1681,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2013-02-06"
                 },
                 {
@@ -1544,6 +1692,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2013-05-08"
                 },
                 {
@@ -1554,6 +1703,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2013-08-08"
                 },
                 {
@@ -1564,6 +1714,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2013-11-07"
                 },
                 {
@@ -1574,6 +1725,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2014-02-06"
                 },
                 {
@@ -1584,6 +1736,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2014-05-08"
                 },
                 {
@@ -1594,6 +1747,7 @@
                     "gs": 17,
                     "masters": 21,
                     "finals": 6,
+                    "big_titles": 44,
                     "date": "2014-08-08"
                 },
                 {
@@ -1604,6 +1758,7 @@
                     "gs": 17,
                     "masters": 23,
                     "finals": 6,
+                    "big_titles": 46,
                     "date": "2014-11-07"
                 },
                 {
@@ -1614,6 +1769,7 @@
                     "gs": 17,
                     "masters": 23,
                     "finals": 6,
+                    "big_titles": 46,
                     "date": "2015-02-06"
                 },
                 {
@@ -1624,6 +1780,7 @@
                     "gs": 17,
                     "masters": 23,
                     "finals": 6,
+                    "big_titles": 46,
                     "date": "2015-05-09"
                 },
                 {
@@ -1634,6 +1791,7 @@
                     "gs": 17,
                     "masters": 23,
                     "finals": 6,
+                    "big_titles": 46,
                     "date": "2015-08-08"
                 },
                 {
@@ -1644,6 +1802,7 @@
                     "gs": 17,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 47,
                     "date": "2015-11-07"
                 },
                 {
@@ -1654,6 +1813,7 @@
                     "gs": 17,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 47,
                     "date": "2016-02-07"
                 },
                 {
@@ -1664,6 +1824,7 @@
                     "gs": 17,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 47,
                     "date": "2016-05-08"
                 },
                 {
@@ -1674,6 +1835,7 @@
                     "gs": 17,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 47,
                     "date": "2016-08-07"
                 },
                 {
@@ -1684,6 +1846,7 @@
                     "gs": 17,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 47,
                     "date": "2016-11-07"
                 },
                 {
@@ -1694,6 +1857,7 @@
                     "gs": 18,
                     "masters": 24,
                     "finals": 6,
+                    "big_titles": 48,
                     "date": "2017-02-06"
                 },
                 {
@@ -1704,6 +1868,7 @@
                     "gs": 18,
                     "masters": 26,
                     "finals": 6,
+                    "big_titles": 50,
                     "date": "2017-05-08"
                 },
                 {
@@ -1714,6 +1879,7 @@
                     "gs": 19,
                     "masters": 26,
                     "finals": 6,
+                    "big_titles": 51,
                     "date": "2017-08-08"
                 },
                 {
@@ -1724,6 +1890,7 @@
                     "gs": 19,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 52,
                     "date": "2017-11-07"
                 },
                 {
@@ -1734,6 +1901,7 @@
                     "gs": 20,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 53,
                     "date": "2018-02-06"
                 },
                 {
@@ -1744,6 +1912,7 @@
                     "gs": 20,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 53,
                     "date": "2018-05-08"
                 },
                 {
@@ -1754,6 +1923,7 @@
                     "gs": 20,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 53,
                     "date": "2018-08-08"
                 },
                 {
@@ -1764,6 +1934,7 @@
                     "gs": 20,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 53,
                     "date": "2018-11-07"
                 },
                 {
@@ -1774,6 +1945,7 @@
                     "gs": 20,
                     "masters": 27,
                     "finals": 6,
+                    "big_titles": 53,
                     "date": "2019-02-06"
                 },
                 {
@@ -1784,6 +1956,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2019-05-09"
                 },
                 {
@@ -1794,6 +1967,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2019-08-08"
                 },
                 {
@@ -1804,6 +1978,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2019-11-07"
                 },
                 {
@@ -1814,6 +1989,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2020-02-07"
                 },
                 {
@@ -1824,6 +2000,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2020-05-08"
                 },
                 {
@@ -1834,6 +2011,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2020-08-07"
                 },
                 {
@@ -1844,6 +2022,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2020-11-07"
                 },
                 {
@@ -1854,6 +2033,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2021-02-06"
                 },
                 {
@@ -1864,6 +2044,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2021-05-08"
                 },
                 {
@@ -1874,6 +2055,7 @@
                     "gs": 20,
                     "masters": 28,
                     "finals": 6,
+                    "big_titles": 54,
                     "date": "2021-06-28"
                 }
             ],
@@ -1937,6 +2119,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-03-03"
                 },
                 {
@@ -1947,6 +2130,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-06-03"
                 },
                 {
@@ -1957,6 +2141,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-09-02"
                 },
                 {
@@ -1967,6 +2152,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2002-12-02"
                 },
                 {
@@ -1977,6 +2163,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2003-03-03"
                 },
                 {
@@ -1987,6 +2174,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2003-06-03"
                 },
                 {
@@ -1997,6 +2185,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2003-09-02"
                 },
                 {
@@ -2007,6 +2196,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2003-12-02"
                 },
                 {
@@ -2017,6 +2207,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-03-03"
                 },
                 {
@@ -2027,6 +2218,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-06-02"
                 },
                 {
@@ -2037,6 +2229,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-09-01"
                 },
                 {
@@ -2047,6 +2240,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2004-12-02"
                 },
                 {
@@ -2057,6 +2251,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2005-03-03"
                 },
                 {
@@ -2067,6 +2262,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "2005-06-02"
                 },
                 {
@@ -2077,6 +2273,7 @@
                     "gs": 1,
                     "masters": 3,
                     "finals": 0,
+                    "big_titles": 4,
                     "date": "2005-09-02"
                 },
                 {
@@ -2087,6 +2284,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "2005-12-02"
                 },
                 {
@@ -2097,6 +2295,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "2006-03-03"
                 },
                 {
@@ -2107,6 +2306,7 @@
                     "gs": 2,
                     "masters": 6,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "2006-06-03"
                 },
                 {
@@ -2117,6 +2317,7 @@
                     "gs": 2,
                     "masters": 6,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "2006-09-02"
                 },
                 {
@@ -2127,6 +2328,7 @@
                     "gs": 2,
                     "masters": 6,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "2006-12-02"
                 },
                 {
@@ -2137,6 +2339,7 @@
                     "gs": 2,
                     "masters": 6,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "2007-03-03"
                 },
                 {
@@ -2147,6 +2350,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 0,
+                    "big_titles": 12,
                     "date": "2007-06-03"
                 },
                 {
@@ -2157,6 +2361,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 0,
+                    "big_titles": 12,
                     "date": "2007-09-02"
                 },
                 {
@@ -2167,6 +2372,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 0,
+                    "big_titles": 12,
                     "date": "2007-12-02"
                 },
                 {
@@ -2177,6 +2383,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 0,
+                    "big_titles": 12,
                     "date": "2008-03-03"
                 },
                 {
@@ -2187,6 +2394,7 @@
                     "gs": 4,
                     "masters": 11,
                     "finals": 0,
+                    "big_titles": 15,
                     "date": "2008-06-02"
                 },
                 {
@@ -2197,6 +2405,7 @@
                     "gs": 5,
                     "masters": 12,
                     "finals": 0,
+                    "big_titles": 17,
                     "date": "2008-09-01"
                 },
                 {
@@ -2207,6 +2416,7 @@
                     "gs": 5,
                     "masters": 12,
                     "finals": 0,
+                    "big_titles": 17,
                     "date": "2008-12-02"
                 },
                 {
@@ -2217,6 +2427,7 @@
                     "gs": 6,
                     "masters": 12,
                     "finals": 0,
+                    "big_titles": 18,
                     "date": "2009-03-03"
                 },
                 {
@@ -2227,6 +2438,7 @@
                     "gs": 6,
                     "masters": 15,
                     "finals": 0,
+                    "big_titles": 21,
                     "date": "2009-06-02"
                 },
                 {
@@ -2237,6 +2449,7 @@
                     "gs": 6,
                     "masters": 15,
                     "finals": 0,
+                    "big_titles": 21,
                     "date": "2009-09-02"
                 },
                 {
@@ -2247,6 +2460,7 @@
                     "gs": 6,
                     "masters": 15,
                     "finals": 0,
+                    "big_titles": 21,
                     "date": "2009-12-02"
                 },
                 {
@@ -2257,6 +2471,7 @@
                     "gs": 6,
                     "masters": 15,
                     "finals": 0,
+                    "big_titles": 21,
                     "date": "2010-03-03"
                 },
                 {
@@ -2267,6 +2482,7 @@
                     "gs": 7,
                     "masters": 18,
                     "finals": 0,
+                    "big_titles": 25,
                     "date": "2010-06-03"
                 },
                 {
@@ -2277,6 +2493,7 @@
                     "gs": 9,
                     "masters": 18,
                     "finals": 0,
+                    "big_titles": 27,
                     "date": "2010-09-02"
                 },
                 {
@@ -2287,6 +2504,7 @@
                     "gs": 9,
                     "masters": 18,
                     "finals": 0,
+                    "big_titles": 27,
                     "date": "2010-12-02"
                 },
                 {
@@ -2297,6 +2515,7 @@
                     "gs": 9,
                     "masters": 18,
                     "finals": 0,
+                    "big_titles": 27,
                     "date": "2011-03-03"
                 },
                 {
@@ -2307,6 +2526,7 @@
                     "gs": 10,
                     "masters": 19,
                     "finals": 0,
+                    "big_titles": 29,
                     "date": "2011-06-03"
                 },
                 {
@@ -2317,6 +2537,7 @@
                     "gs": 10,
                     "masters": 19,
                     "finals": 0,
+                    "big_titles": 29,
                     "date": "2011-09-02"
                 },
                 {
@@ -2327,6 +2548,7 @@
                     "gs": 10,
                     "masters": 19,
                     "finals": 0,
+                    "big_titles": 29,
                     "date": "2011-12-02"
                 },
                 {
@@ -2337,6 +2559,7 @@
                     "gs": 10,
                     "masters": 19,
                     "finals": 0,
+                    "big_titles": 29,
                     "date": "2012-03-03"
                 },
                 {
@@ -2347,6 +2570,7 @@
                     "gs": 11,
                     "masters": 21,
                     "finals": 0,
+                    "big_titles": 32,
                     "date": "2012-06-02"
                 },
                 {
@@ -2357,6 +2581,7 @@
                     "gs": 11,
                     "masters": 21,
                     "finals": 0,
+                    "big_titles": 32,
                     "date": "2012-09-01"
                 },
                 {
@@ -2367,6 +2592,7 @@
                     "gs": 11,
                     "masters": 21,
                     "finals": 0,
+                    "big_titles": 32,
                     "date": "2012-12-02"
                 },
                 {
@@ -2377,6 +2603,7 @@
                     "gs": 11,
                     "masters": 21,
                     "finals": 0,
+                    "big_titles": 32,
                     "date": "2013-03-03"
                 },
                 {
@@ -2387,6 +2614,7 @@
                     "gs": 12,
                     "masters": 24,
                     "finals": 0,
+                    "big_titles": 36,
                     "date": "2013-06-02"
                 },
                 {
@@ -2397,6 +2625,7 @@
                     "gs": 13,
                     "masters": 26,
                     "finals": 0,
+                    "big_titles": 39,
                     "date": "2013-09-02"
                 },
                 {
@@ -2407,6 +2636,7 @@
                     "gs": 13,
                     "masters": 26,
                     "finals": 0,
+                    "big_titles": 39,
                     "date": "2013-12-02"
                 },
                 {
@@ -2417,6 +2647,7 @@
                     "gs": 13,
                     "masters": 26,
                     "finals": 0,
+                    "big_titles": 39,
                     "date": "2014-03-03"
                 },
                 {
@@ -2427,6 +2658,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2014-06-03"
                 },
                 {
@@ -2437,6 +2669,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2014-09-02"
                 },
                 {
@@ -2447,6 +2680,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2014-12-02"
                 },
                 {
@@ -2457,6 +2691,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2015-03-03"
                 },
                 {
@@ -2467,6 +2702,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2015-06-03"
                 },
                 {
@@ -2477,6 +2713,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2015-09-02"
                 },
                 {
@@ -2487,6 +2724,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2015-12-02"
                 },
                 {
@@ -2497,6 +2735,7 @@
                     "gs": 14,
                     "masters": 27,
                     "finals": 0,
+                    "big_titles": 41,
                     "date": "2016-03-03"
                 },
                 {
@@ -2507,6 +2746,7 @@
                     "gs": 14,
                     "masters": 28,
                     "finals": 0,
+                    "big_titles": 42,
                     "date": "2016-06-02"
                 },
                 {
@@ -2517,6 +2757,7 @@
                     "gs": 14,
                     "masters": 28,
                     "finals": 0,
+                    "big_titles": 42,
                     "date": "2016-09-01"
                 },
                 {
@@ -2527,6 +2768,7 @@
                     "gs": 14,
                     "masters": 28,
                     "finals": 0,
+                    "big_titles": 42,
                     "date": "2016-12-02"
                 },
                 {
@@ -2537,6 +2779,7 @@
                     "gs": 14,
                     "masters": 28,
                     "finals": 0,
+                    "big_titles": 42,
                     "date": "2017-03-03"
                 },
                 {
@@ -2547,6 +2790,7 @@
                     "gs": 15,
                     "masters": 30,
                     "finals": 0,
+                    "big_titles": 45,
                     "date": "2017-06-02"
                 },
                 {
@@ -2557,6 +2801,7 @@
                     "gs": 16,
                     "masters": 30,
                     "finals": 0,
+                    "big_titles": 46,
                     "date": "2017-09-02"
                 },
                 {
@@ -2567,6 +2812,7 @@
                     "gs": 16,
                     "masters": 30,
                     "finals": 0,
+                    "big_titles": 46,
                     "date": "2017-12-02"
                 },
                 {
@@ -2577,6 +2823,7 @@
                     "gs": 16,
                     "masters": 30,
                     "finals": 0,
+                    "big_titles": 46,
                     "date": "2018-03-03"
                 },
                 {
@@ -2587,6 +2834,7 @@
                     "gs": 17,
                     "masters": 32,
                     "finals": 0,
+                    "big_titles": 49,
                     "date": "2018-06-03"
                 },
                 {
@@ -2597,6 +2845,7 @@
                     "gs": 17,
                     "masters": 33,
                     "finals": 0,
+                    "big_titles": 50,
                     "date": "2018-09-02"
                 },
                 {
@@ -2607,6 +2856,7 @@
                     "gs": 17,
                     "masters": 33,
                     "finals": 0,
+                    "big_titles": 50,
                     "date": "2018-12-02"
                 },
                 {
@@ -2617,6 +2867,7 @@
                     "gs": 17,
                     "masters": 33,
                     "finals": 0,
+                    "big_titles": 50,
                     "date": "2019-03-03"
                 },
                 {
@@ -2627,6 +2878,7 @@
                     "gs": 18,
                     "masters": 34,
                     "finals": 0,
+                    "big_titles": 52,
                     "date": "2019-06-03"
                 },
                 {
@@ -2637,6 +2889,7 @@
                     "gs": 19,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 54,
                     "date": "2019-09-02"
                 },
                 {
@@ -2647,6 +2900,7 @@
                     "gs": 19,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 54,
                     "date": "2019-12-02"
                 },
                 {
@@ -2657,6 +2911,7 @@
                     "gs": 19,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 54,
                     "date": "2020-03-03"
                 },
                 {
@@ -2667,6 +2922,7 @@
                     "gs": 19,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 54,
                     "date": "2020-06-02"
                 },
                 {
@@ -2677,6 +2933,7 @@
                     "gs": 19,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 54,
                     "date": "2020-09-01"
                 },
                 {
@@ -2687,6 +2944,7 @@
                     "gs": 20,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 55,
                     "date": "2020-12-02"
                 },
                 {
@@ -2697,6 +2955,7 @@
                     "gs": 20,
                     "masters": 35,
                     "finals": 0,
+                    "big_titles": 55,
                     "date": "2021-03-03"
                 },
                 {
@@ -2707,6 +2966,7 @@
                     "gs": 20,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 56,
                     "date": "2021-06-02"
                 },
                 {
@@ -2717,6 +2977,7 @@
                     "gs": 20,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 56,
                     "date": "2021-09-02"
                 },
                 {
@@ -2727,6 +2988,7 @@
                     "gs": 20,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 56,
                     "date": "2021-12-02"
                 },
                 {
@@ -2737,6 +2999,7 @@
                     "gs": 21,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 57,
                     "date": "2022-03-03"
                 },
                 {
@@ -2747,6 +3010,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2022-06-03"
                 },
                 {
@@ -2757,6 +3021,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2022-09-02"
                 },
                 {
@@ -2767,6 +3032,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2022-12-02"
                 },
                 {
@@ -2777,6 +3043,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2023-03-03"
                 },
                 {
@@ -2787,6 +3054,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2023-06-03"
                 },
                 {
@@ -2797,6 +3065,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2023-09-02"
                 },
                 {
@@ -2807,6 +3076,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2023-12-02"
                 },
                 {
@@ -2817,6 +3087,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2024-03-03"
                 },
                 {
@@ -2827,6 +3098,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2024-06-02"
                 },
                 {
@@ -2837,6 +3109,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2024-09-01"
                 },
                 {
@@ -2847,6 +3120,7 @@
                     "gs": 22,
                     "masters": 36,
                     "finals": 0,
+                    "big_titles": 58,
                     "date": "2024-11-19"
                 }
             ],
@@ -2910,6 +3184,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1971-09-06"
                 },
                 {
@@ -2920,6 +3195,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1971-12-06"
                 },
                 {
@@ -2930,6 +3206,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1972-03-06"
                 },
                 {
@@ -2940,6 +3217,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1972-06-06"
                 },
                 {
@@ -2950,6 +3228,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1972-09-05"
                 },
                 {
@@ -2960,6 +3239,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1972-12-05"
                 },
                 {
@@ -2970,6 +3250,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1973-03-06"
                 },
                 {
@@ -2980,6 +3261,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1973-06-06"
                 },
                 {
@@ -2990,6 +3272,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1973-09-05"
                 },
                 {
@@ -3000,6 +3283,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1973-12-05"
                 },
                 {
@@ -3010,6 +3294,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1974-03-07"
                 },
                 {
@@ -3020,6 +3305,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1974-06-06"
                 },
                 {
@@ -3030,6 +3316,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1974-09-05"
                 },
                 {
@@ -3040,6 +3327,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1974-12-06"
                 },
                 {
@@ -3050,6 +3338,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1975-03-07"
                 },
                 {
@@ -3060,6 +3349,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "1975-06-06"
                 },
                 {
@@ -3070,6 +3360,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "1975-09-06"
                 },
                 {
@@ -3080,6 +3371,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "1975-12-06"
                 },
                 {
@@ -3090,6 +3382,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "1976-03-06"
                 },
                 {
@@ -3100,6 +3393,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "1976-06-06"
                 },
                 {
@@ -3110,6 +3404,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "1976-09-05"
                 },
                 {
@@ -3120,6 +3415,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "1976-12-05"
                 },
                 {
@@ -3130,6 +3426,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "1977-03-06"
                 },
                 {
@@ -3140,6 +3437,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "1977-06-06"
                 },
                 {
@@ -3150,6 +3448,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 4,
                     "date": "1977-09-05"
                 },
                 {
@@ -3160,6 +3459,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 4,
                     "date": "1977-12-05"
                 },
                 {
@@ -3170,6 +3470,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 4,
                     "date": "1978-03-07"
                 },
                 {
@@ -3180,6 +3481,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "1978-06-06"
                 },
                 {
@@ -3190,6 +3492,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "1978-09-05"
                 },
                 {
@@ -3200,6 +3503,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "1978-12-06"
                 },
                 {
@@ -3210,6 +3514,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "1979-03-07"
                 },
                 {
@@ -3220,6 +3525,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 7,
                     "date": "1979-06-06"
                 },
                 {
@@ -3230,6 +3536,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "1979-09-06"
                 },
                 {
@@ -3240,6 +3547,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 8,
                     "date": "1979-12-06"
                 },
                 {
@@ -3250,6 +3558,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 9,
                     "date": "1980-03-06"
                 },
                 {
@@ -3260,6 +3569,7 @@
                     "gs": 9,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 10,
                     "date": "1980-06-06"
                 },
                 {
@@ -3270,6 +3580,7 @@
                     "gs": 10,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1980-09-05"
                 },
                 {
@@ -3280,6 +3591,7 @@
                     "gs": 10,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1980-12-05"
                 },
                 {
@@ -3290,6 +3602,7 @@
                     "gs": 10,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 12,
                     "date": "1981-03-06"
                 },
                 {
@@ -3300,6 +3613,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1981-06-06"
                 },
                 {
@@ -3310,6 +3624,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1981-09-05"
                 },
                 {
@@ -3320,6 +3635,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1981-12-05"
                 },
                 {
@@ -3330,6 +3646,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1982-03-07"
                 },
                 {
@@ -3340,6 +3657,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1982-06-06"
                 },
                 {
@@ -3350,6 +3668,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1982-09-05"
                 },
                 {
@@ -3360,6 +3679,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1982-12-06"
                 },
                 {
@@ -3370,6 +3690,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1983-03-07"
                 },
                 {
@@ -3380,6 +3701,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1983-06-06"
                 },
                 {
@@ -3390,6 +3712,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1983-09-06"
                 },
                 {
@@ -3400,6 +3723,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1983-12-06"
                 },
                 {
@@ -3410,6 +3734,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1984-03-06"
                 },
                 {
@@ -3420,6 +3745,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1984-06-06"
                 },
                 {
@@ -3430,6 +3756,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1984-09-05"
                 },
                 {
@@ -3440,6 +3767,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1984-12-05"
                 },
                 {
@@ -3450,6 +3778,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1985-03-06"
                 },
                 {
@@ -3460,6 +3789,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1985-06-06"
                 },
                 {
@@ -3470,6 +3800,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1985-09-05"
                 },
                 {
@@ -3480,6 +3811,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1985-12-05"
                 },
                 {
@@ -3490,6 +3822,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1986-03-07"
                 },
                 {
@@ -3500,6 +3833,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1986-06-06"
                 },
                 {
@@ -3510,6 +3844,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1986-09-05"
                 },
                 {
@@ -3520,6 +3855,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1986-12-06"
                 },
                 {
@@ -3530,6 +3866,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1987-03-07"
                 },
                 {
@@ -3540,6 +3877,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1987-06-06"
                 },
                 {
@@ -3550,6 +3888,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1987-09-06"
                 },
                 {
@@ -3560,6 +3899,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1987-12-06"
                 },
                 {
@@ -3570,6 +3910,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1988-03-06"
                 },
                 {
@@ -3580,6 +3921,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1988-06-06"
                 },
                 {
@@ -3590,6 +3932,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1988-09-05"
                 },
                 {
@@ -3600,6 +3943,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1988-12-05"
                 },
                 {
@@ -3610,6 +3954,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1989-03-06"
                 },
                 {
@@ -3620,6 +3965,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1989-06-06"
                 },
                 {
@@ -3630,6 +3976,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1989-09-05"
                 },
                 {
@@ -3640,6 +3987,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1989-12-05"
                 },
                 {
@@ -3650,6 +3998,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1990-03-07"
                 },
                 {
@@ -3660,6 +4009,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1990-06-06"
                 },
                 {
@@ -3670,6 +4020,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1990-09-05"
                 },
                 {
@@ -3680,6 +4031,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1990-12-06"
                 },
                 {
@@ -3690,6 +4042,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1991-03-07"
                 },
                 {
@@ -3700,6 +4053,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1991-06-06"
                 },
                 {
@@ -3710,6 +4064,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1991-09-06"
                 },
                 {
@@ -3720,6 +4075,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1991-12-06"
                 },
                 {
@@ -3730,6 +4086,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1992-03-06"
                 },
                 {
@@ -3740,6 +4097,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1992-06-06"
                 },
                 {
@@ -3750,6 +4108,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1992-09-05"
                 },
                 {
@@ -3760,6 +4119,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1992-12-05"
                 },
                 {
@@ -3770,6 +4130,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1993-03-06"
                 },
                 {
@@ -3780,6 +4141,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1993-06-06"
                 },
                 {
@@ -3790,6 +4152,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1993-09-05"
                 },
                 {
@@ -3800,6 +4163,7 @@
                     "gs": 11,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1993-11-08"
                 }
             ],
@@ -3856,6 +4220,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-02-10"
                 },
                 {
@@ -3866,6 +4231,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-05-11"
                 },
                 {
@@ -3876,6 +4242,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-08-11"
                 },
                 {
@@ -3886,6 +4253,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-11-10"
                 },
                 {
@@ -3896,6 +4264,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-02-09"
                 },
                 {
@@ -3906,6 +4275,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-05-12"
                 },
                 {
@@ -3916,6 +4286,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-08-11"
                 },
                 {
@@ -3926,6 +4297,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-11-10"
                 },
                 {
@@ -3936,6 +4308,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1990-02-10"
                 },
                 {
@@ -3946,6 +4319,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1990-05-12"
                 },
                 {
@@ -3956,6 +4330,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1990-08-11"
                 },
                 {
@@ -3966,6 +4341,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1990-11-11"
                 },
                 {
@@ -3976,6 +4352,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1991-02-10"
                 },
                 {
@@ -3986,6 +4363,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1991-05-12"
                 },
                 {
@@ -3996,6 +4374,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1991-08-12"
                 },
                 {
@@ -4006,6 +4385,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1991-11-11"
                 },
                 {
@@ -4016,6 +4396,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1992-02-10"
                 },
                 {
@@ -4026,6 +4407,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1992-05-11"
                 },
                 {
@@ -4036,6 +4418,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1992-08-11"
                 },
                 {
@@ -4046,6 +4429,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1992-11-10"
                 },
                 {
@@ -4056,6 +4440,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1993-02-09"
                 },
                 {
@@ -4066,6 +4451,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1993-05-12"
                 },
                 {
@@ -4076,6 +4462,7 @@
                     "gs": 2,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1993-08-11"
                 },
                 {
@@ -4086,6 +4473,7 @@
                     "gs": 3,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "1993-11-10"
                 },
                 {
@@ -4096,6 +4484,7 @@
                     "gs": 4,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "1994-02-10"
                 },
                 {
@@ -4106,6 +4495,7 @@
                     "gs": 4,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 10,
                     "date": "1994-05-12"
                 },
                 {
@@ -4116,6 +4506,7 @@
                     "gs": 5,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1994-08-11"
                 },
                 {
@@ -4126,6 +4517,7 @@
                     "gs": 5,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1994-11-11"
                 },
                 {
@@ -4136,6 +4528,7 @@
                     "gs": 5,
                     "masters": 5,
                     "finals": 2,
+                    "big_titles": 12,
                     "date": "1995-02-10"
                 },
                 {
@@ -4146,6 +4539,7 @@
                     "gs": 5,
                     "masters": 6,
                     "finals": 2,
+                    "big_titles": 13,
                     "date": "1995-05-12"
                 },
                 {
@@ -4156,6 +4550,7 @@
                     "gs": 6,
                     "masters": 6,
                     "finals": 2,
+                    "big_titles": 14,
                     "date": "1995-08-12"
                 },
                 {
@@ -4166,6 +4561,7 @@
                     "gs": 7,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 16,
                     "date": "1995-11-11"
                 },
                 {
@@ -4176,6 +4572,7 @@
                     "gs": 7,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 16,
                     "date": "1996-02-10"
                 },
                 {
@@ -4186,6 +4583,7 @@
                     "gs": 7,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 16,
                     "date": "1996-05-11"
                 },
                 {
@@ -4196,6 +4594,7 @@
                     "gs": 7,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 16,
                     "date": "1996-08-11"
                 },
                 {
@@ -4206,6 +4605,7 @@
                     "gs": 8,
                     "masters": 7,
                     "finals": 2,
+                    "big_titles": 17,
                     "date": "1996-11-10"
                 },
                 {
@@ -4216,6 +4616,7 @@
                     "gs": 9,
                     "masters": 7,
                     "finals": 3,
+                    "big_titles": 19,
                     "date": "1997-02-09"
                 },
                 {
@@ -4226,6 +4627,7 @@
                     "gs": 9,
                     "masters": 7,
                     "finals": 3,
+                    "big_titles": 19,
                     "date": "1997-05-12"
                 },
                 {
@@ -4236,6 +4638,7 @@
                     "gs": 10,
                     "masters": 8,
                     "finals": 3,
+                    "big_titles": 21,
                     "date": "1997-08-11"
                 },
                 {
@@ -4246,6 +4649,7 @@
                     "gs": 10,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 23,
                     "date": "1997-11-10"
                 },
                 {
@@ -4256,6 +4660,7 @@
                     "gs": 10,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 23,
                     "date": "1998-02-10"
                 },
                 {
@@ -4266,6 +4671,7 @@
                     "gs": 10,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 23,
                     "date": "1998-05-12"
                 },
                 {
@@ -4276,6 +4682,7 @@
                     "gs": 11,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 24,
                     "date": "1998-08-11"
                 },
                 {
@@ -4286,6 +4693,7 @@
                     "gs": 11,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 24,
                     "date": "1998-11-11"
                 },
                 {
@@ -4296,6 +4704,7 @@
                     "gs": 11,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 24,
                     "date": "1999-02-10"
                 },
                 {
@@ -4306,6 +4715,7 @@
                     "gs": 11,
                     "masters": 9,
                     "finals": 4,
+                    "big_titles": 24,
                     "date": "1999-05-12"
                 },
                 {
@@ -4316,6 +4726,7 @@
                     "gs": 12,
                     "masters": 10,
                     "finals": 4,
+                    "big_titles": 26,
                     "date": "1999-08-12"
                 },
                 {
@@ -4326,6 +4737,7 @@
                     "gs": 12,
                     "masters": 10,
                     "finals": 4,
+                    "big_titles": 26,
                     "date": "1999-11-11"
                 },
                 {
@@ -4336,6 +4748,7 @@
                     "gs": 12,
                     "masters": 10,
                     "finals": 5,
+                    "big_titles": 27,
                     "date": "2000-02-10"
                 },
                 {
@@ -4346,6 +4759,7 @@
                     "gs": 12,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 28,
                     "date": "2000-05-11"
                 },
                 {
@@ -4356,6 +4770,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2000-08-11"
                 },
                 {
@@ -4366,6 +4781,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2000-11-10"
                 },
                 {
@@ -4376,6 +4792,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2001-02-09"
                 },
                 {
@@ -4386,6 +4803,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2001-05-12"
                 },
                 {
@@ -4396,6 +4814,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2001-08-11"
                 },
                 {
@@ -4406,6 +4825,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2001-11-10"
                 },
                 {
@@ -4416,6 +4836,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2002-02-10"
                 },
                 {
@@ -4426,6 +4847,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2002-05-12"
                 },
                 {
@@ -4436,6 +4858,7 @@
                     "gs": 13,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 29,
                     "date": "2002-08-11"
                 },
                 {
@@ -4446,6 +4869,7 @@
                     "gs": 14,
                     "masters": 11,
                     "finals": 5,
+                    "big_titles": 30,
                     "date": "2002-08-26"
                 }
             ],
@@ -4509,6 +4933,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1976-08-16"
                 },
                 {
@@ -4519,6 +4944,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1976-11-16"
                 },
                 {
@@ -4529,6 +4955,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1977-02-15"
                 },
                 {
@@ -4539,6 +4966,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1977-05-17"
                 },
                 {
@@ -4549,6 +4977,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1977-08-17"
                 },
                 {
@@ -4559,6 +4988,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1977-11-16"
                 },
                 {
@@ -4569,6 +4999,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-02-15"
                 },
                 {
@@ -4579,6 +5010,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-05-18"
                 },
                 {
@@ -4589,6 +5021,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-08-17"
                 },
                 {
@@ -4599,6 +5032,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-11-16"
                 },
                 {
@@ -4609,6 +5043,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1979-02-16"
                 },
                 {
@@ -4619,6 +5054,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1979-05-18"
                 },
                 {
@@ -4629,6 +5065,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1979-08-17"
                 },
                 {
@@ -4639,6 +5076,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1979-11-16"
                 },
                 {
@@ -4649,6 +5087,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1980-02-16"
                 },
                 {
@@ -4659,6 +5098,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1980-05-17"
                 },
                 {
@@ -4669,6 +5109,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1980-08-16"
                 },
                 {
@@ -4679,6 +5120,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1980-11-16"
                 },
                 {
@@ -4689,6 +5131,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1981-02-15"
                 },
                 {
@@ -4699,6 +5142,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 3,
                     "date": "1981-05-17"
                 },
                 {
@@ -4709,6 +5153,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1981-08-17"
                 },
                 {
@@ -4719,6 +5164,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1981-11-16"
                 },
                 {
@@ -4729,6 +5175,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1982-02-15"
                 },
                 {
@@ -4739,6 +5186,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1982-05-18"
                 },
                 {
@@ -4749,6 +5197,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1982-08-17"
                 },
                 {
@@ -4759,6 +5208,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1982-11-16"
                 },
                 {
@@ -4769,6 +5219,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1983-02-16"
                 },
                 {
@@ -4779,6 +5230,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1983-05-18"
                 },
                 {
@@ -4789,6 +5241,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "1983-08-17"
                 },
                 {
@@ -4799,6 +5252,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "1983-11-16"
                 },
                 {
@@ -4809,6 +5263,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 7,
                     "date": "1984-02-16"
                 },
                 {
@@ -4819,6 +5274,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 7,
                     "date": "1984-05-17"
                 },
                 {
@@ -4829,6 +5285,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 8,
                     "date": "1984-08-16"
                 },
                 {
@@ -4839,6 +5296,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 9,
                     "date": "1984-11-16"
                 },
                 {
@@ -4849,6 +5307,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1985-02-15"
                 },
                 {
@@ -4859,6 +5318,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1985-05-17"
                 },
                 {
@@ -4869,6 +5329,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1985-08-17"
                 },
                 {
@@ -4879,6 +5340,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1985-11-16"
                 },
                 {
@@ -4889,6 +5351,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1986-02-15"
                 },
                 {
@@ -4899,6 +5362,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1986-05-18"
                 },
                 {
@@ -4909,6 +5373,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1986-08-17"
                 },
                 {
@@ -4919,6 +5384,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1986-11-16"
                 },
                 {
@@ -4929,6 +5395,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1987-02-16"
                 },
                 {
@@ -4939,6 +5406,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1987-05-18"
                 },
                 {
@@ -4949,6 +5417,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1987-08-17"
                 },
                 {
@@ -4959,6 +5428,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1987-11-16"
                 },
                 {
@@ -4969,6 +5439,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1988-02-16"
                 },
                 {
@@ -4979,6 +5450,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1988-05-17"
                 },
                 {
@@ -4989,6 +5461,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1988-08-16"
                 },
                 {
@@ -4999,6 +5472,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1988-11-16"
                 },
                 {
@@ -5009,6 +5483,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1989-02-15"
                 },
                 {
@@ -5019,6 +5494,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1989-05-17"
                 },
                 {
@@ -5029,6 +5505,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1989-08-17"
                 },
                 {
@@ -5039,6 +5516,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1989-11-16"
                 },
                 {
@@ -5049,6 +5527,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1990-02-15"
                 },
                 {
@@ -5059,6 +5538,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1990-05-18"
                 },
                 {
@@ -5069,6 +5549,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1990-08-17"
                 },
                 {
@@ -5079,6 +5560,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1990-11-16"
                 },
                 {
@@ -5089,6 +5571,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1991-02-16"
                 },
                 {
@@ -5099,6 +5582,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1991-05-18"
                 },
                 {
@@ -5109,6 +5593,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1991-08-17"
                 },
                 {
@@ -5119,6 +5604,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1991-11-16"
                 },
                 {
@@ -5129,6 +5615,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1992-02-16"
                 },
                 {
@@ -5139,6 +5626,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1992-05-17"
                 },
                 {
@@ -5149,6 +5637,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1992-08-16"
                 },
                 {
@@ -5159,6 +5648,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1992-11-16"
                 },
                 {
@@ -5169,6 +5659,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1993-02-15"
                 },
                 {
@@ -5179,6 +5670,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1993-05-17"
                 },
                 {
@@ -5189,6 +5681,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1993-08-17"
                 },
                 {
@@ -5199,6 +5692,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1993-11-16"
                 },
                 {
@@ -5209,6 +5703,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1994-02-15"
                 },
                 {
@@ -5219,6 +5714,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 10,
                     "date": "1994-02-21"
                 }
             ],
@@ -5275,6 +5771,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-03-07"
                 },
                 {
@@ -5285,6 +5782,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-06-06"
                 },
                 {
@@ -5295,6 +5793,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-09-06"
                 },
                 {
@@ -5305,6 +5804,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1978-12-06"
                 },
                 {
@@ -5315,6 +5815,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1979-03-07"
                 },
                 {
@@ -5325,6 +5826,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1979-06-07"
                 },
                 {
@@ -5335,6 +5837,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1979-09-06"
                 },
                 {
@@ -5345,6 +5848,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1979-12-06"
                 },
                 {
@@ -5355,6 +5859,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1980-03-07"
                 },
                 {
@@ -5365,6 +5870,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1980-06-06"
                 },
                 {
@@ -5375,6 +5881,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1980-09-05"
                 },
                 {
@@ -5385,6 +5892,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1980-12-05"
                 },
                 {
@@ -5395,6 +5903,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1981-03-07"
                 },
                 {
@@ -5405,6 +5914,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1981-06-06"
                 },
                 {
@@ -5415,6 +5925,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1981-09-05"
                 },
                 {
@@ -5425,6 +5936,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1981-12-06"
                 },
                 {
@@ -5435,6 +5947,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1982-03-07"
                 },
                 {
@@ -5445,6 +5958,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1982-06-06"
                 },
                 {
@@ -5455,6 +5969,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1982-09-06"
                 },
                 {
@@ -5465,6 +5980,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 1,
+                    "big_titles": 1,
                     "date": "1982-12-06"
                 },
                 {
@@ -5475,6 +5991,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 2,
                     "date": "1983-03-07"
                 },
                 {
@@ -5485,6 +6002,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 2,
                     "date": "1983-06-07"
                 },
                 {
@@ -5495,6 +6013,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 2,
                     "date": "1983-09-06"
                 },
                 {
@@ -5505,6 +6024,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 2,
                     "date": "1983-12-06"
                 },
                 {
@@ -5515,6 +6035,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 2,
                     "date": "1984-03-07"
                 },
                 {
@@ -5525,6 +6046,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 3,
                     "date": "1984-06-06"
                 },
                 {
@@ -5535,6 +6057,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 3,
                     "date": "1984-09-05"
                 },
                 {
@@ -5545,6 +6068,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 3,
                     "date": "1984-12-05"
                 },
                 {
@@ -5555,6 +6079,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 3,
                     "date": "1985-03-07"
                 },
                 {
@@ -5565,6 +6090,7 @@
                     "gs": 1,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 3,
                     "date": "1985-06-06"
                 },
                 {
@@ -5575,6 +6101,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 4,
                     "date": "1985-09-05"
                 },
                 {
@@ -5585,6 +6112,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 2,
+                    "big_titles": 4,
                     "date": "1985-12-06"
                 },
                 {
@@ -5595,6 +6123,7 @@
                     "gs": 2,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 5,
                     "date": "1986-03-07"
                 },
                 {
@@ -5605,6 +6134,7 @@
                     "gs": 3,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 6,
                     "date": "1986-06-06"
                 },
                 {
@@ -5615,6 +6145,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 3,
+                    "big_titles": 7,
                     "date": "1986-09-06"
                 },
                 {
@@ -5625,6 +6156,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 4,
+                    "big_titles": 8,
                     "date": "1986-12-06"
                 },
                 {
@@ -5635,6 +6167,7 @@
                     "gs": 4,
                     "masters": 0,
                     "finals": 4,
+                    "big_titles": 8,
                     "date": "1987-03-07"
                 },
                 {
@@ -5645,6 +6178,7 @@
                     "gs": 5,
                     "masters": 0,
                     "finals": 4,
+                    "big_titles": 9,
                     "date": "1987-06-07"
                 },
                 {
@@ -5655,6 +6189,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 4,
+                    "big_titles": 10,
                     "date": "1987-09-06"
                 },
                 {
@@ -5665,6 +6200,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 11,
                     "date": "1987-12-06"
                 },
                 {
@@ -5675,6 +6211,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 11,
                     "date": "1988-03-07"
                 },
                 {
@@ -5685,6 +6222,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 11,
                     "date": "1988-06-06"
                 },
                 {
@@ -5695,6 +6233,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 11,
                     "date": "1988-09-05"
                 },
                 {
@@ -5705,6 +6244,7 @@
                     "gs": 6,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 11,
                     "date": "1988-12-05"
                 },
                 {
@@ -5715,6 +6255,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 12,
                     "date": "1989-03-07"
                 },
                 {
@@ -5725,6 +6266,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 12,
                     "date": "1989-06-06"
                 },
                 {
@@ -5735,6 +6277,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 12,
                     "date": "1989-09-05"
                 },
                 {
@@ -5745,6 +6288,7 @@
                     "gs": 7,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 12,
                     "date": "1989-12-06"
                 },
                 {
@@ -5755,6 +6299,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1990-03-07"
                 },
                 {
@@ -5765,6 +6310,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1990-06-06"
                 },
                 {
@@ -5775,6 +6321,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1990-09-06"
                 },
                 {
@@ -5785,6 +6332,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1990-12-06"
                 },
                 {
@@ -5795,6 +6343,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1991-03-07"
                 },
                 {
@@ -5805,6 +6354,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1991-06-07"
                 },
                 {
@@ -5815,6 +6365,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1991-09-06"
                 },
                 {
@@ -5825,6 +6376,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1991-12-06"
                 },
                 {
@@ -5835,6 +6387,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1992-03-07"
                 },
                 {
@@ -5845,6 +6398,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1992-06-06"
                 },
                 {
@@ -5855,6 +6409,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1992-09-05"
                 },
                 {
@@ -5865,6 +6420,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1992-12-05"
                 },
                 {
@@ -5875,6 +6431,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1993-03-07"
                 },
                 {
@@ -5885,6 +6442,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1993-06-06"
                 },
                 {
@@ -5895,6 +6453,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1993-09-05"
                 },
                 {
@@ -5905,6 +6464,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1993-12-06"
                 },
                 {
@@ -5915,6 +6475,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1994-03-07"
                 },
                 {
@@ -5925,6 +6486,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1994-06-06"
                 },
                 {
@@ -5935,6 +6497,7 @@
                     "gs": 8,
                     "masters": 0,
                     "finals": 5,
+                    "big_titles": 13,
                     "date": "1994-08-29"
                 }
             ],
@@ -5991,6 +6554,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1986-01-27"
                 },
                 {
@@ -6001,6 +6565,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1986-04-29"
                 },
                 {
@@ -6011,6 +6576,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1986-07-29"
                 },
                 {
@@ -6021,6 +6587,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1986-10-28"
                 },
                 {
@@ -6031,6 +6598,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1987-01-27"
                 },
                 {
@@ -6041,6 +6609,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1987-04-29"
                 },
                 {
@@ -6051,6 +6620,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1987-07-29"
                 },
                 {
@@ -6061,6 +6631,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1987-10-28"
                 },
                 {
@@ -6071,6 +6642,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-01-28"
                 },
                 {
@@ -6081,6 +6653,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-04-28"
                 },
                 {
@@ -6091,6 +6664,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-07-28"
                 },
                 {
@@ -6101,6 +6675,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1988-10-28"
                 },
                 {
@@ -6111,6 +6686,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-01-27"
                 },
                 {
@@ -6121,6 +6697,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-04-28"
                 },
                 {
@@ -6131,6 +6708,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-07-29"
                 },
                 {
@@ -6141,6 +6719,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1989-10-28"
                 },
                 {
@@ -6151,6 +6730,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "1990-01-27"
                 },
                 {
@@ -6161,6 +6741,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1990-04-29"
                 },
                 {
@@ -6171,6 +6752,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1990-07-29"
                 },
                 {
@@ -6181,6 +6763,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "1990-10-28"
                 },
                 {
@@ -6191,6 +6774,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1991-01-27"
                 },
                 {
@@ -6201,6 +6785,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1991-04-29"
                 },
                 {
@@ -6211,6 +6796,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1991-07-29"
                 },
                 {
@@ -6221,6 +6807,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1991-10-28"
                 },
                 {
@@ -6231,6 +6818,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1992-01-28"
                 },
                 {
@@ -6241,6 +6829,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 1,
+                    "big_titles": 2,
                     "date": "1992-04-28"
                 },
                 {
@@ -6251,6 +6840,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1992-07-28"
                 },
                 {
@@ -6261,6 +6851,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1992-10-28"
                 },
                 {
@@ -6271,6 +6862,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1993-01-27"
                 },
                 {
@@ -6281,6 +6873,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1993-04-28"
                 },
                 {
@@ -6291,6 +6884,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1993-07-29"
                 },
                 {
@@ -6301,6 +6895,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1993-10-28"
                 },
                 {
@@ -6311,6 +6906,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1994-01-27"
                 },
                 {
@@ -6321,6 +6917,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 1,
+                    "big_titles": 4,
                     "date": "1994-04-29"
                 },
                 {
@@ -6331,6 +6928,7 @@
                     "gs": 1,
                     "masters": 3,
                     "finals": 1,
+                    "big_titles": 5,
                     "date": "1994-07-29"
                 },
                 {
@@ -6341,6 +6939,7 @@
                     "gs": 2,
                     "masters": 3,
                     "finals": 1,
+                    "big_titles": 6,
                     "date": "1994-10-28"
                 },
                 {
@@ -6351,6 +6950,7 @@
                     "gs": 3,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 8,
                     "date": "1995-01-27"
                 },
                 {
@@ -6361,6 +6961,7 @@
                     "gs": 3,
                     "masters": 5,
                     "finals": 1,
+                    "big_titles": 9,
                     "date": "1995-04-29"
                 },
                 {
@@ -6371,6 +6972,7 @@
                     "gs": 3,
                     "masters": 6,
                     "finals": 1,
+                    "big_titles": 10,
                     "date": "1995-07-29"
                 },
                 {
@@ -6381,6 +6983,7 @@
                     "gs": 3,
                     "masters": 7,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1995-10-28"
                 },
                 {
@@ -6391,6 +6994,7 @@
                     "gs": 3,
                     "masters": 7,
                     "finals": 1,
+                    "big_titles": 11,
                     "date": "1996-01-28"
                 },
                 {
@@ -6401,6 +7005,7 @@
                     "gs": 3,
                     "masters": 8,
                     "finals": 1,
+                    "big_titles": 12,
                     "date": "1996-04-28"
                 },
                 {
@@ -6411,6 +7016,7 @@
                     "gs": 3,
                     "masters": 8,
                     "finals": 1,
+                    "big_titles": 12,
                     "date": "1996-07-28"
                 },
                 {
@@ -6421,6 +7027,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1996-10-28"
                 },
                 {
@@ -6431,6 +7038,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1997-01-27"
                 },
                 {
@@ -6441,6 +7049,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1997-04-28"
                 },
                 {
@@ -6451,6 +7060,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1997-07-29"
                 },
                 {
@@ -6461,6 +7071,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1997-10-28"
                 },
                 {
@@ -6471,6 +7082,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1998-01-27"
                 },
                 {
@@ -6481,6 +7093,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1998-04-29"
                 },
                 {
@@ -6491,6 +7104,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1998-07-29"
                 },
                 {
@@ -6501,6 +7115,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1998-10-28"
                 },
                 {
@@ -6511,6 +7126,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1999-01-27"
                 },
                 {
@@ -6521,6 +7137,7 @@
                     "gs": 3,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 13,
                     "date": "1999-04-29"
                 },
                 {
@@ -6531,6 +7148,7 @@
                     "gs": 4,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 14,
                     "date": "1999-07-29"
                 },
                 {
@@ -6541,6 +7159,7 @@
                     "gs": 5,
                     "masters": 9,
                     "finals": 1,
+                    "big_titles": 15,
                     "date": "1999-10-28"
                 },
                 {
@@ -6551,6 +7170,7 @@
                     "gs": 6,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 17,
                     "date": "2000-01-28"
                 },
                 {
@@ -6561,6 +7181,7 @@
                     "gs": 6,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 17,
                     "date": "2000-04-28"
                 },
                 {
@@ -6571,6 +7192,7 @@
                     "gs": 6,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 17,
                     "date": "2000-07-28"
                 },
                 {
@@ -6581,6 +7203,7 @@
                     "gs": 6,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 17,
                     "date": "2000-10-28"
                 },
                 {
@@ -6591,6 +7214,7 @@
                     "gs": 7,
                     "masters": 10,
                     "finals": 1,
+                    "big_titles": 18,
                     "date": "2001-01-27"
                 },
                 {
@@ -6601,6 +7225,7 @@
                     "gs": 7,
                     "masters": 12,
                     "finals": 1,
+                    "big_titles": 20,
                     "date": "2001-04-28"
                 },
                 {
@@ -6611,6 +7236,7 @@
                     "gs": 7,
                     "masters": 12,
                     "finals": 1,
+                    "big_titles": 20,
                     "date": "2001-07-29"
                 },
                 {
@@ -6621,6 +7247,7 @@
                     "gs": 7,
                     "masters": 12,
                     "finals": 1,
+                    "big_titles": 20,
                     "date": "2001-10-28"
                 },
                 {
@@ -6631,6 +7258,7 @@
                     "gs": 7,
                     "masters": 12,
                     "finals": 1,
+                    "big_titles": 20,
                     "date": "2002-01-27"
                 },
                 {
@@ -6641,6 +7269,7 @@
                     "gs": 7,
                     "masters": 13,
                     "finals": 1,
+                    "big_titles": 21,
                     "date": "2002-04-29"
                 },
                 {
@@ -6651,6 +7280,7 @@
                     "gs": 7,
                     "masters": 14,
                     "finals": 1,
+                    "big_titles": 22,
                     "date": "2002-07-29"
                 },
                 {
@@ -6661,6 +7291,7 @@
                     "gs": 7,
                     "masters": 15,
                     "finals": 1,
+                    "big_titles": 23,
                     "date": "2002-10-28"
                 },
                 {
@@ -6671,6 +7302,7 @@
                     "gs": 8,
                     "masters": 15,
                     "finals": 1,
+                    "big_titles": 24,
                     "date": "2003-01-27"
                 },
                 {
@@ -6681,6 +7313,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2003-04-29"
                 },
                 {
@@ -6691,6 +7324,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2003-07-29"
                 },
                 {
@@ -6701,6 +7335,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2003-10-28"
                 },
                 {
@@ -6711,6 +7346,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2004-01-28"
                 },
                 {
@@ -6721,6 +7357,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2004-04-28"
                 },
                 {
@@ -6731,6 +7368,7 @@
                     "gs": 8,
                     "masters": 16,
                     "finals": 1,
+                    "big_titles": 25,
                     "date": "2004-07-28"
                 },
                 {
@@ -6741,6 +7379,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2004-10-28"
                 },
                 {
@@ -6751,6 +7390,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2005-01-27"
                 },
                 {
@@ -6761,6 +7401,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2005-04-28"
                 },
                 {
@@ -6771,6 +7412,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2005-07-29"
                 },
                 {
@@ -6781,6 +7423,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2005-10-28"
                 },
                 {
@@ -6791,6 +7434,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2006-01-27"
                 },
                 {
@@ -6801,6 +7445,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2006-04-29"
                 },
                 {
@@ -6811,6 +7456,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2006-07-29"
                 },
                 {
@@ -6821,6 +7467,7 @@
                     "gs": 8,
                     "masters": 17,
                     "finals": 1,
+                    "big_titles": 26,
                     "date": "2006-08-28"
                 }
             ],
@@ -6884,6 +7531,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-02-02"
                 },
                 {
@@ -6894,6 +7542,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-05-04"
                 },
                 {
@@ -6904,6 +7553,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-08-03"
                 },
                 {
@@ -6914,6 +7564,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-11-02"
                 },
                 {
@@ -6924,6 +7575,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-02-02"
                 },
                 {
@@ -6934,6 +7586,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-05-04"
                 },
                 {
@@ -6944,6 +7597,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-08-03"
                 },
                 {
@@ -6954,6 +7608,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-11-03"
                 },
                 {
@@ -6964,6 +7619,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2022-02-02"
                 },
                 {
@@ -6974,6 +7630,7 @@
                     "gs": 0,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2022-05-04"
                 },
                 {
@@ -6984,6 +7641,7 @@
                     "gs": 0,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2022-08-04"
                 },
                 {
@@ -6994,6 +7652,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "2022-11-03"
                 },
                 {
@@ -7004,6 +7663,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "2023-02-02"
                 },
                 {
@@ -7014,6 +7674,7 @@
                     "gs": 1,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 5,
                     "date": "2023-05-05"
                 },
                 {
@@ -7024,6 +7685,7 @@
                     "gs": 2,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "2023-08-04"
                 },
                 {
@@ -7034,6 +7696,7 @@
                     "gs": 2,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "2023-11-03"
                 },
                 {
@@ -7044,6 +7707,7 @@
                     "gs": 2,
                     "masters": 4,
                     "finals": 0,
+                    "big_titles": 6,
                     "date": "2024-02-02"
                 },
                 {
@@ -7054,6 +7718,7 @@
                     "gs": 2,
                     "masters": 5,
                     "finals": 0,
+                    "big_titles": 7,
                     "date": "2024-05-04"
                 },
                 {
@@ -7064,6 +7729,7 @@
                     "gs": 4,
                     "masters": 5,
                     "finals": 0,
+                    "big_titles": 9,
                     "date": "2024-08-03"
                 },
                 {
@@ -7074,6 +7740,7 @@
                     "gs": 4,
                     "masters": 5,
                     "finals": 0,
+                    "big_titles": 9,
                     "date": "2024-11-02"
                 },
                 {
@@ -7084,6 +7751,7 @@
                     "gs": 4,
                     "masters": 5,
                     "finals": 0,
+                    "big_titles": 9,
                     "date": "2025-02-02"
                 },
                 {
@@ -7094,6 +7762,7 @@
                     "gs": 4,
                     "masters": 6,
                     "finals": 0,
+                    "big_titles": 10,
                     "date": "2025-05-04"
                 },
                 {
@@ -7104,6 +7773,7 @@
                     "gs": 5,
                     "masters": 7,
                     "finals": 0,
+                    "big_titles": 12,
                     "date": "2025-08-03"
                 },
                 {
@@ -7114,6 +7784,7 @@
                     "gs": 6,
                     "masters": 8,
                     "finals": 0,
+                    "big_titles": 14,
                     "date": "2025-11-03"
                 },
                 {
@@ -7124,6 +7795,7 @@
                     "gs": 6,
                     "masters": 8,
                     "finals": 0,
+                    "big_titles": 14,
                     "date": "2025-11-10"
                 }
             ],
@@ -7187,6 +7859,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2019-02-14"
                 },
                 {
@@ -7197,6 +7870,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2019-05-17"
                 },
                 {
@@ -7207,6 +7881,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2019-08-16"
                 },
                 {
@@ -7217,6 +7892,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2019-11-15"
                 },
                 {
@@ -7227,6 +7903,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-02-15"
                 },
                 {
@@ -7237,6 +7914,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-05-16"
                 },
                 {
@@ -7247,6 +7925,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-08-15"
                 },
                 {
@@ -7257,6 +7936,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2020-11-15"
                 },
                 {
@@ -7267,6 +7947,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-02-14"
                 },
                 {
@@ -7277,6 +7958,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-05-16"
                 },
                 {
@@ -7287,6 +7969,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-08-16"
                 },
                 {
@@ -7297,6 +7980,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2021-11-15"
                 },
                 {
@@ -7307,6 +7991,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2022-02-14"
                 },
                 {
@@ -7317,6 +8002,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2022-05-16"
                 },
                 {
@@ -7327,6 +8013,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2022-08-16"
                 },
                 {
@@ -7337,6 +8024,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2022-11-15"
                 },
                 {
@@ -7347,6 +8035,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2023-02-14"
                 },
                 {
@@ -7357,6 +8046,7 @@
                     "gs": 0,
                     "masters": 0,
                     "finals": 0,
+                    "big_titles": 0,
                     "date": "2023-05-17"
                 },
                 {
@@ -7367,6 +8057,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2023-08-16"
                 },
                 {
@@ -7377,6 +8068,7 @@
                     "gs": 0,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 1,
                     "date": "2023-11-15"
                 },
                 {
@@ -7387,6 +8079,7 @@
                     "gs": 1,
                     "masters": 1,
                     "finals": 0,
+                    "big_titles": 2,
                     "date": "2024-02-15"
                 },
                 {
@@ -7397,6 +8090,7 @@
                     "gs": 1,
                     "masters": 2,
                     "finals": 0,
+                    "big_titles": 3,
                     "date": "2024-05-16"
                 },
                 {
@@ -7407,6 +8101,7 @@
                     "gs": 1,
                     "masters": 3,
                     "finals": 0,
+                    "big_titles": 4,
                     "date": "2024-08-15"
                 },
                 {
@@ -7417,6 +8112,7 @@
                     "gs": 2,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 7,
                     "date": "2024-11-15"
                 },
                 {
@@ -7427,6 +8123,7 @@
                     "gs": 3,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 8,
                     "date": "2025-02-14"
                 },
                 {
@@ -7437,6 +8134,7 @@
                     "gs": 3,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 8,
                     "date": "2025-05-16"
                 },
                 {
@@ -7447,6 +8145,7 @@
                     "gs": 4,
                     "masters": 4,
                     "finals": 1,
+                    "big_titles": 9,
                     "date": "2025-08-16"
                 },
                 {
@@ -7457,6 +8156,7 @@
                     "gs": 4,
                     "masters": 5,
                     "finals": 2,
+                    "big_titles": 11,
                     "date": "2025-11-10"
                 }
             ],

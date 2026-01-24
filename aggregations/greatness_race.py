@@ -117,6 +117,7 @@ def process_player_career(player_name, dob_str, matches_df):
                 "gs": cum_gs,
                 "masters": cum_masters,
                 "finals": cum_finals,
+                "big_titles": cum_gs + cum_masters + cum_finals,
                 "date": hook_date.strftime('%Y-%m-%d')
             })
             
@@ -221,6 +222,7 @@ def process_player_career(player_name, dob_str, matches_df):
             "gs": cum_gs,
             "masters": cum_masters,
             "finals": cum_finals,
+            "big_titles": cum_gs + cum_masters + cum_finals,
             "date": p_matches['tourney_date'].iloc[-1].strftime('%Y-%m-%d')
         })
 
