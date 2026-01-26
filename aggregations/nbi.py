@@ -17,8 +17,8 @@ import os
 NBI_WEIGHTS = {
     'avg_set_margin': 0.25,      # Close sets matter most
     'tiebreak_count': 0.12,      # Tiebreaks add drama
-    'lead_changes': 0.18,        # Momentum swings
-    'comeback': 0.22,            # Coming from behind
+    'lead_changes': 0.20,        # Momentum swings (UP FROM 0.18)
+    'comeback': 0.20,            # Coming from behind (DOWN FROM 0.22)
     'bp_saved_ratio': 0.07,      # Break point drama
     'final_set_tiebreak': 0.06,  # Final set tiebreak
     'duration_score': 0.10       # Epic length
@@ -217,17 +217,28 @@ def calculate_nbi(df_enriched):
         row['tiebreaks_count'] = new_tiebreak_count
         row['comeback_score'] = new_comeback
         
+        # 4. Pendulum Bonus (3+ Lead Changes in a 5-set match)
+        # Rewards the "pendulum" rhythm of classics (e.g. W-L-W-L-W)
+        if len(sets) == 5 and row['lead_changes'] >= 3:
+            row['lead_changes'] = row['lead_changes'] + 1 
+            
         return row
 
     gs_df = gs_df.apply(refined_metrics, axis=1)
     
     # 4. Titan Bonus (Rank Check)
-    # If both players top 10 (rank <= 10), apply bonus later during NBI calc
-    # We will assume winner_rank/loser_rank exist. If not, skip.
+    # Enhanced "Elite Titan" bonus for Top 5 clashes (generational peaks)
     try:
-        gs_df['titan_bonus'] = ((gs_df['winner_rank'] <= 10) & (gs_df['loser_rank'] <= 10)).astype(int)
+        gs_df['titan_multiplier'] = 1.0
+        # Elite Titan (Both Top 5) -> 15% bonus
+        elite_mask = (gs_df['winner_rank'] <= 5) & (gs_df['loser_rank'] <= 5)
+        gs_df.loc[elite_mask, 'titan_multiplier'] = 1.15
+        
+        # Standard Titan (Both Top 10, but not Elite) -> 10% bonus
+        standard_mask = (gs_df['winner_rank'] <= 10) & (gs_df['loser_rank'] <= 10) & (~elite_mask)
+        gs_df.loc[standard_mask, 'titan_multiplier'] = 1.10
     except KeyError:
-        gs_df['titan_bonus'] = 0    
+        gs_df['titan_multiplier'] = 1.0
 
     
     # Normalize features (0-1 scale)
@@ -257,8 +268,8 @@ def calculate_nbi(df_enriched):
         NBI_WEIGHTS['duration_score'] * gs_df['duration_score_norm']
     )
     
-    # Apply Titan Bonus (1.1x multiplier for Top 10 clashes)
-    gs_df['NBI'] = base_nbi * (1 + (0.10 * gs_df['titan_bonus']))
+    # Apply Titan/Elite Multiplier
+    gs_df['NBI'] = base_nbi * gs_df['titan_multiplier']
     
     # Sort by NBI
     nailbiters = gs_df.sort_values('NBI', ascending=False).reset_index(drop=True)
