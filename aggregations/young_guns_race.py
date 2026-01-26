@@ -69,6 +69,14 @@ def process_player_career(player_name, dob_str, matches_df):
     cum_atp250 = 0
     cum_atp_main_wins = 0 # ATP level wins (250+)
     
+    # Advanced Metrics
+    cum_top5_wins = 0
+    cum_top5_matches = 0
+    cum_top10_wins = 0
+    cum_top10_matches = 0
+    cum_top30_wins = 0
+    cum_top30_matches = 0
+    
     has_first_win = False
     has_first_title = False
     has_top_100 = False
@@ -87,15 +95,26 @@ def process_player_career(player_name, dob_str, matches_df):
         while match_age >= current_hook_age:
             hook_date = dob + pd.Timedelta(days=int(current_hook_age * 365.25))
             
+            # Calculate percentages for the current snapshot
+            def get_pct(wins, total):
+                return round((wins / total * 100), 1) if total > 0 else 0.0
+
             trajectory.append({
                 "age": float(f"{current_hook_age:.2f}"),
                 "wins": cum_wins,
                 "atp_main_wins": cum_atp_main_wins,
+                "win_pct": get_pct(cum_wins, cum_matches),
                 "titles": cum_titles,
                 "gs": cum_gs,
                 "masters": cum_masters,
                 "atp500": cum_atp500,
                 "atp250": cum_atp250,
+                "top5_wins": cum_top5_wins,
+                "top5_win_pct": get_pct(cum_top5_wins, cum_top5_matches),
+                "top10_wins": cum_top10_wins,
+                "top10_win_pct": get_pct(cum_top10_wins, cum_top10_matches),
+                "top30_wins": cum_top30_wins,
+                "top30_win_pct": get_pct(cum_top30_wins, cum_top30_matches),
                 "date": hook_date.strftime('%Y-%m-%d')
             })
             
@@ -104,7 +123,23 @@ def process_player_career(player_name, dob_str, matches_df):
         is_winner = (match['winner_name'] == player_name)
         cum_matches += 1
         
-        # Ranking Milestones
+        # Determine opponent rank category
+        opp_rank = match.get('loser_rank') if is_winner else match.get('winner_rank')
+        try:
+            opp_rank = float(opp_rank)
+            if not pd.isna(opp_rank) and opp_rank > 0:
+                if opp_rank <= 5:
+                    cum_top5_matches += 1
+                    if is_winner: cum_top5_wins += 1
+                if opp_rank <= 10:
+                    cum_top10_matches += 1
+                    if is_winner: cum_top10_wins += 1
+                if opp_rank <= 30:
+                    cum_top30_matches += 1
+                    if is_winner: cum_top30_wins += 1
+        except: pass
+
+        # Ranking Milestones (Player's own rank)
         player_rank = match.get('winner_rank') if is_winner else match.get('loser_rank')
         try:
             player_rank = float(player_rank)
@@ -150,11 +185,6 @@ def process_player_career(player_name, dob_str, matches_df):
                 elif match['tourney_level'] == 'M':
                     cum_masters += 1
                 elif match['tourney_level'] == 'A':
-                    # Heuristic: Simple approach for 500/250 if not specified
-                    # In many datasets level 'A' is generic ATP. 
-                    # If we had tourney_id or similar we could be more precise.
-                    # For now Let's look at winner_rank of opponent or tourney_name if needed.
-                    # But often match['tourney_name'] contains "500" or "250".
                     name_lower = match['tourney_name'].lower()
                     if '500' in name_lower:
                         cum_atp500 += 1
@@ -172,15 +202,26 @@ def process_player_career(player_name, dob_str, matches_df):
 
     # Final point
     actual_last_age = calculate_age_decimal(dob, p_matches['tourney_date'].iloc[-1])
+    
+    def get_pct(wins, total):
+        return round((wins / total * 100), 1) if total > 0 else 0.0
+
     trajectory.append({
         "age": float(f"{actual_last_age:.2f}"),
         "wins": cum_wins,
         "atp_main_wins": cum_atp_main_wins,
+        "win_pct": get_pct(cum_wins, cum_matches),
         "titles": cum_titles,
         "gs": cum_gs,
         "masters": cum_masters,
         "atp500": cum_atp500,
         "atp250": cum_atp250,
+        "top5_wins": cum_top5_wins,
+        "top5_win_pct": get_pct(cum_top5_wins, cum_top5_matches),
+        "top10_wins": cum_top10_wins,
+        "top10_win_pct": get_pct(cum_top10_wins, cum_top10_matches),
+        "top30_wins": cum_top30_wins,
+        "top30_win_pct": get_pct(cum_top30_wins, cum_top30_matches),
         "date": p_matches['tourney_date'].iloc[-1].strftime('%Y-%m-%d')
     })
 
@@ -191,7 +232,9 @@ def process_player_career(player_name, dob_str, matches_df):
         "current_stats": {
             "wins": cum_wins,
             "atp_main_wins": cum_atp_main_wins,
+            "win_pct": get_pct(cum_wins, cum_matches),
             "titles": cum_titles,
+            "top10_wins": cum_top10_wins,
             "age": actual_last_age
         }
     }
