@@ -245,7 +245,7 @@ Run individual modules:
 ```bash
 python -m aggregations.nbi
 python -m aggregations.gsdi
-python -m aggregations.stantheman
+python -m aggregations.gs_breakthrough
 ```
 
 ---

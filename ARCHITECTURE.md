@@ -225,7 +225,7 @@ Pre-calculated H2H records for every player pair:
 |--------|-------|--------|---------|
 | **nbi.py** | matches_enriched | gs_nailbiters.json | Drama scores for GS Finals/SF |
 | **gsdi.py** | matches_enriched | gs_dominance_rankings.json | Most dominant GS campaigns |
-| **stantheman.py** | player_metrics | gs_breakthrough_comparison.csv | Breakthrough analysis |
+| **gs_breakthrough.py** | player_metrics | gs_breakthrough_comparison.csv | Breakthrough analysis |
 | **network_graph.py** | matches_enriched + player_metrics | 7 network JSON files | Player matchup networks |
 | **global_evolution.py** | atp_matches_base | 4 timeline JSON files | Geographic trends |
 | **career_longevity.py** | atp_matches_base | 6 survival JSON files | Career survival analysis |

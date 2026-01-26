@@ -12,7 +12,7 @@ from datetime import datetime
 # Import aggregation modules
 from aggregations.nbi import generate_nbi_aggregation
 from aggregations.gsdi import generate_gsdi_aggregation
-from aggregations.stantheman import generate_breakthrough_aggregation
+from aggregations.gs_breakthrough import generate_breakthrough_aggregation
 from aggregations.global_evolution import generate_global_evolution_aggregation
 from aggregations.network_graph import generate_network_aggregation
 from aggregations.career_longevity import generate_career_longevity_aggregation
