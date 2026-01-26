@@ -404,8 +404,8 @@ class TennisETL:
         # Convert to DataFrame and save
         if breakthrough_data:
             df_breakthrough = pd.DataFrame(breakthrough_data[:50])
-            os.makedirs(f"{self.output_dir}/stantheman", exist_ok=True)
-            df_breakthrough.to_csv(f"{self.output_dir}/stantheman/gs_breakthrough_comparison.csv", index=False)
+            os.makedirs(f"{self.output_dir}/gs-breakthrough", exist_ok=True)
+            df_breakthrough.to_csv(f"{self.output_dir}/gs-breakthrough/gs_breakthrough_comparison.csv", index=False)
             print(f"✓ Generated breakthrough data for {len(df_breakthrough)} players")
         else:
             print("✗ No breakthrough data generated")
@@ -552,7 +552,7 @@ class TennisETL:
             print("  • nbi/gs_nailbiters.csv")
             print("  • nbi/iconic_gs_matches.json")
             print("  • gsdi/gs_dominance_rankings.json")
-            print("  • stantheman/gs_breakthrough_comparison.csv")
+            print("  • gs-breakthrough/gs_breakthrough_comparison.csv")
             print("  • globaltop100evolution/country_code_mapping.json")
             print("  • globaltop100evolution/tennis_country_profiles.json")
             print("  • globaltop100evolution/global_timeline_dataset.json")

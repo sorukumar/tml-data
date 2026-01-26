@@ -73,7 +73,7 @@ def calculate_breakthrough_comparison(player_metrics_df):
 # SAVE OUTPUTS
 # =============================================================================
 
-def save_breakthrough_data(breakthrough_data, output_dir="data/stantheman"):
+def save_breakthrough_data(breakthrough_data, output_dir="data/gs-breakthrough"):
     """Save breakthrough comparison data"""
     os.makedirs(output_dir, exist_ok=True)
     
@@ -87,7 +87,7 @@ def save_breakthrough_data(breakthrough_data, output_dir="data/stantheman"):
 
 
 def generate_breakthrough_aggregation(player_metrics_path="data/base/player_metrics.parquet",
-                                       output_dir="data/stantheman"):
+                                       output_dir="data/gs-breakthrough"):
     """
     Generate breakthrough analysis from player metrics
     """

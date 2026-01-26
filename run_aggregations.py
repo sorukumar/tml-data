@@ -99,7 +99,7 @@ def run_all_aggregations(matches_enriched_path="data/base/matches_enriched.parqu
     print("    └── iconic_gs_matches.json")
     print("  data/gsdi/")
     print("    └── gs_dominance_rankings.json")
-    print("  data/stantheman/")
+    print("\n  data/gs-breakthrough/")
     print("    └── gs_breakthrough_comparison.csv")
     print("  data/globaltop100evolution/")
     print("    ├── country_code_mapping.json")

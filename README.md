@@ -35,7 +35,7 @@ Automated tennis data pipeline that fetches, processes, and aggregates ATP match
 ### **Analysis Datasets** (JSON/CSV for visualizations)
 - **NBI** (Nailbiter Index) - 535 dramatic GS Finals/SF ranked by drama
 - **GSDI** (Grand Slam Dominance Index) - 227 most dominant GS campaigns
-- **StanTheMan** - 58 GS champions' breakthrough analysis
+- **gs-breakthrough** - 58 GS champions' breakthrough analysis
 - **Network Graphs** - 7 player matchup networks with rich metadata
 - **Global Evolution** - Geographic diversity trends over time
 - **Career Longevity** - Survival analysis of tennis careers
@@ -141,7 +141,7 @@ data/base/
 ### **Analysis Outputs** (JSON/CSV)
 - `data/nbi/` - Nailbiter Index (3 files)
 - `data/gsdi/` - Grand Slam Dominance Index (1 file)
-- `data/stantheman/` - Breakthrough analysis (1 file)
+- `data/gs-breakthrough/` - Breakthrough analysis (1 file)
 - `data/network/` - Network graphs (7 files)
 - `data/globaltop100evolution/` - Global trends (4 files)
 - `data/career_longevity/` - Survival analysis (6 files)
@@ -218,8 +218,8 @@ Manual trigger: **Actions** tab → **Update Tennis Data** → **Run workflow**
 All [TennisAnalytics](https://github.com/sorukumar/TennisAnalytics) visualizations fetch data directly from this repository:
 
 ```javascript
-// Example: StanTheMan visualization
-d3.csv("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/stantheman/gs_breakthrough_comparison.csv")
+// Example: gs-breakthrough visualization
+d3.csv("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/gs-breakthrough/gs_breakthrough_comparison.csv")
   .then(data => {
     // Render visualization
   });
@@ -235,7 +235,7 @@ d3.csv("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/stanthema
 |--------|--------|-------------|
 | **NBI** | `gs_nailbiters.json` | Drama scores for 535 GS Finals/SF |
 | **GSDI** | `gs_dominance_rankings.json` | 227 most dominant GS campaigns |
-| **StanTheMan** | `gs_breakthrough_comparison.csv` | 58 GS champions' paths to first title |
+| **gs-breakthrough** | `gs_breakthrough_comparison.csv` | 58 GS champions' paths to first title |
 | **Network** | 7 JSON files | Player matchup networks with metadata |
 | **Global Evolution** | 4 JSON files | Geographic diversity trends |
 | **Career Longevity** | 6 JSON files | Career length survival analysis |

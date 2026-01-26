@@ -29,7 +29,7 @@ TML-Data uses a **3-tier architecture** that separates data fetching, aggregatio
 │ TIER 3: Analysis Outputs                                    │
 │ • NBI (Nailbiter Index) - Drama scores                      │
 │ • GSDI (Grand Slam Dominance Index) - Dominance rankings    │
-│ • StanTheMan - Breakthrough analysis                         │
+│ • gs-breakthrough - Breakthrough analysis                    │
 │ • Network Graphs - Player matchup networks (7 datasets)     │
 │ • Global Evolution - Geographic trends                       │
 │ • Career Longevity - Survival analysis                       │
@@ -61,7 +61,7 @@ python build_base_metrics.py
 python run_aggregations.py
 # → data/nbi/gs_nailbiters.json (535 matches)
 # → data/gsdi/gs_dominance_rankings.json (227 campaigns)
-# → data/stantheman/gs_breakthrough_comparison.csv (58 champions)
+# → data/gs-breakthrough/gs_breakthrough_comparison.csv (58 champions)
 # → data/network/*.json (7 network datasets)
 # → data/globaltop100evolution/*.json (4 timeline datasets)
 # → data/career_longevity/*.json (6 survival datasets)
@@ -273,7 +273,7 @@ GSDI = 0.32×(Sets Won %) + 0.25×(Games Won %) + 0.23×(Points Won %) +
 
 ---
 
-### **3. StanTheMan (Breakthrough Analysis)**
+### **3. gs-breakthrough (Breakthrough Analysis)**
 
 Analyzes how many matches players competed in before winning their first Grand Slam.
 
@@ -426,7 +426,7 @@ All TennisAnalytics visualizations fetch data via GitHub raw URLs:
 
 ```javascript
 // StanTheMan
-d3.csv("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/stantheman/gs_breakthrough_comparison.csv")
+d3.csv("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/gs-breakthrough/gs_breakthrough_comparison.csv")
 
 // NBI
 fetch("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/nbi/gs_nailbiters.json")
@@ -514,7 +514,7 @@ tml-data/
     │   └── head_to_head_matrix.json # H2H records (112K matchups)
     ├── nbi/                        # Nailbiter Index outputs
     ├── gsdi/                       # Dominance rankings
-    ├── stantheman/                 # Breakthrough analysis
+    ├── gs-breakthrough/            # Breakthrough analysis
     ├── network/                    # Network graphs (7 files)
     ├── globaltop100evolution/      # Global trends (4 files)
     ├── career_longevity/           # Survival analysis (6 files)
