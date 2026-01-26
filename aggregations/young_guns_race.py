@@ -74,8 +74,21 @@ def process_player_career(player_name, dob_str, matches_df):
     cum_top5_matches = 0
     cum_top10_wins = 0
     cum_top10_matches = 0
+    cum_top20_wins = 0
+    cum_top20_matches = 0
     cum_top30_wins = 0
     cum_top30_matches = 0
+    cum_top50_wins = 0
+    cum_top50_matches = 0
+    
+    # Surface Stats
+    cum_hard_wins = 0
+    cum_clay_wins = 0
+    cum_grass_wins = 0
+    
+    # Clutch Stats (Deciding Sets)
+    cum_deciding_sets_won = 0
+    cum_deciding_sets_played = 0
     
     latest_rank = 1000 # Default start rank
     
@@ -113,12 +126,13 @@ def process_player_career(player_name, dob_str, matches_df):
                 "masters": cum_masters,
                 "atp500": cum_atp500,
                 "atp250": cum_atp250,
-                "top5_wins": cum_top5_wins,
-                "top5_win_pct": get_pct(cum_top5_wins, cum_top5_matches),
                 "top10_wins": cum_top10_wins,
-                "top10_win_pct": get_pct(cum_top10_wins, cum_top10_matches),
-                "top30_wins": cum_top30_wins,
-                "top30_win_pct": get_pct(cum_top30_wins, cum_top30_matches),
+                "top20_wins": cum_top20_wins,
+                "top50_wins": cum_top50_wins,
+                "hard_wins": cum_hard_wins,
+                "clay_wins": cum_clay_wins,
+                "grass_wins": cum_grass_wins,
+                "clutch_win_pct": get_pct(cum_deciding_sets_won, cum_deciding_sets_played),
                 "date": hook_date.strftime('%Y-%m-%d')
             })
             
@@ -149,10 +163,36 @@ def process_player_career(player_name, dob_str, matches_df):
                 if opp_rank <= 10:
                     cum_top10_matches += 1
                     if is_winner: cum_top10_wins += 1
+                if opp_rank <= 20:
+                    cum_top20_matches += 1
+                    if is_winner: cum_top20_wins += 1
                 if opp_rank <= 30:
                     cum_top30_matches += 1
                     if is_winner: cum_top30_wins += 1
+                if opp_rank <= 50:
+                    cum_top50_matches += 1
+                    if is_winner: cum_top50_wins += 1
         except: pass
+
+        # Deciding Set logic
+        # best_of is typically 3 or 5
+        # Deciding set played if sets_won + sets_lost == best_of
+        try:
+            best_of = int(match.get('best_of', 0))
+            w_sets = int(match.get('winner_sets', 0))
+            l_sets = int(match.get('loser_sets', 0))
+            if (w_sets + l_sets) == best_of:
+                cum_deciding_sets_played += 1
+                if is_winner:
+                    cum_deciding_sets_won += 1
+        except: pass
+
+        # Surface Wins
+        if is_winner:
+            surface = str(match.get('surface', '')).lower()
+            if 'hard' in surface: cum_hard_wins += 1
+            elif 'clay' in surface: cum_clay_wins += 1
+            elif 'grass' in surface: cum_grass_wins += 1
 
         # Ranking Milestones (Player's own rank)
         player_rank = match.get('winner_rank') if is_winner else match.get('loser_rank')
@@ -233,12 +273,13 @@ def process_player_career(player_name, dob_str, matches_df):
         "masters": cum_masters,
         "atp500": cum_atp500,
         "atp250": cum_atp250,
-        "top5_wins": cum_top5_wins,
-        "top5_win_pct": get_pct(cum_top5_wins, cum_top5_matches),
         "top10_wins": cum_top10_wins,
-        "top10_win_pct": get_pct(cum_top10_wins, cum_top10_matches),
-        "top30_wins": cum_top30_wins,
-        "top30_win_pct": get_pct(cum_top30_wins, cum_top30_matches),
+        "top20_wins": cum_top20_wins,
+        "top50_wins": cum_top50_wins,
+        "hard_wins": cum_hard_wins,
+        "clay_wins": cum_clay_wins,
+        "grass_wins": cum_grass_wins,
+        "clutch_win_pct": get_pct(cum_deciding_sets_won, cum_deciding_sets_played),
         "date": p_matches['tourney_date'].iloc[-1].strftime('%Y-%m-%d')
     })
 
@@ -253,6 +294,8 @@ def process_player_career(player_name, dob_str, matches_df):
             "titles": cum_titles,
             "rank": latest_rank,
             "top10_wins": cum_top10_wins,
+            "top50_wins": cum_top50_wins,
+            "clutch_win_pct": get_pct(cum_deciding_sets_won, cum_deciding_sets_played),
             "age": actual_last_age
         }
     }
