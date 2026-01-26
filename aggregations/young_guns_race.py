@@ -77,6 +77,9 @@ def process_player_career(player_name, dob_str, matches_df):
     cum_top30_wins = 0
     cum_top30_matches = 0
     
+    latest_rank = 1000 # Default start rank
+    
+    has_first_match = False
     has_first_win = False
     has_first_title = False
     has_top_100 = False
@@ -105,6 +108,7 @@ def process_player_career(player_name, dob_str, matches_df):
                 "atp_main_wins": cum_atp_main_wins,
                 "win_pct": get_pct(cum_wins, cum_matches),
                 "titles": cum_titles,
+                "rank": latest_rank,
                 "gs": cum_gs,
                 "masters": cum_masters,
                 "atp500": cum_atp500,
@@ -123,6 +127,17 @@ def process_player_career(player_name, dob_str, matches_df):
         is_winner = (match['winner_name'] == player_name)
         cum_matches += 1
         
+        # Update career start milestone
+        if not has_first_match:
+            has_first_match = True
+            milestones.append({
+                "type": "Career Start",
+                "name": "First ATP Match",
+                "age": match_age,
+                "date": match_date.strftime('%Y-%m-%d'),
+                "extra_info": f"vs {match['loser_name'] if is_winner else match['winner_name']}"
+            })
+
         # Determine opponent rank category
         opp_rank = match.get('loser_rank') if is_winner else match.get('winner_rank')
         try:
@@ -144,6 +159,7 @@ def process_player_career(player_name, dob_str, matches_df):
         try:
             player_rank = float(player_rank)
             if not pd.isna(player_rank) and player_rank > 0:
+                latest_rank = int(player_rank)
                 if player_rank <= 100 and not has_top_100:
                     has_top_100 = True
                     milestones.append({
@@ -212,6 +228,7 @@ def process_player_career(player_name, dob_str, matches_df):
         "atp_main_wins": cum_atp_main_wins,
         "win_pct": get_pct(cum_wins, cum_matches),
         "titles": cum_titles,
+        "rank": latest_rank,
         "gs": cum_gs,
         "masters": cum_masters,
         "atp500": cum_atp500,
@@ -234,6 +251,7 @@ def process_player_career(player_name, dob_str, matches_df):
             "atp_main_wins": cum_atp_main_wins,
             "win_pct": get_pct(cum_wins, cum_matches),
             "titles": cum_titles,
+            "rank": latest_rank,
             "top10_wins": cum_top10_wins,
             "age": actual_last_age
         }
