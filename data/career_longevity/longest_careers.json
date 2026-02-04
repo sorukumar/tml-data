@@ -127,11 +127,11 @@
   },
   {
     "player_name": "Stan Wawrinka",
-    "career_length_years": 22.52,
+    "career_length_years": 22.55,
     "career_start": "2003-07-07",
-    "career_end": "2026-01-11",
-    "total_matches": 970,
-    "wins": 586,
+    "career_end": "2026-01-24",
+    "total_matches": 972,
+    "wins": 588,
     "best_rank": 3.0
   },
   {
@@ -153,6 +153,15 @@
     "best_rank": 1.0
   },
   {
+    "player_name": "Novak Djokovic",
+    "career_length_years": 21.82,
+    "career_start": "2004-04-09",
+    "career_end": "2026-02-01",
+    "total_matches": 1409,
+    "wins": 1175,
+    "best_rank": 1.0
+  },
+  {
     "player_name": "Harold Solomon",
     "career_length_years": 21.58,
     "career_start": "1969-08-16",
@@ -162,20 +171,11 @@
     "best_rank": 6.0
   },
   {
-    "player_name": "Novak Djokovic",
-    "career_length_years": 21.57,
-    "career_start": "2004-04-09",
-    "career_end": "2025-11-03",
-    "total_matches": 1413,
-    "wins": 1178,
-    "best_rank": 1.0
-  },
-  {
     "player_name": "Gael Monfils",
-    "career_length_years": 21.26,
+    "career_length_years": 21.28,
     "career_start": "2004-10-11",
-    "career_end": "2026-01-13",
-    "total_matches": 945,
+    "career_end": "2026-01-20",
+    "total_matches": 944,
     "wins": 585,
     "best_rank": 6.0
   },
@@ -244,11 +244,11 @@
   },
   {
     "player_name": "Marin Cilic",
-    "career_length_years": 20.45,
+    "career_length_years": 20.5,
     "career_start": "2005-07-25",
-    "career_end": "2026-01-07",
-    "total_matches": 956,
-    "wins": 601,
+    "career_end": "2026-01-24",
+    "total_matches": 954,
+    "wins": 602,
     "best_rank": 3.0
   },
   {
@@ -522,15 +522,6 @@
     "best_rank": 35.0
   },
   {
-    "player_name": "Kei Nishikori",
-    "career_length_years": 18.06,
-    "career_start": "2007-07-16",
-    "career_end": "2025-08-07",
-    "total_matches": 691,
-    "wins": 454,
-    "best_rank": 4.0
-  },
-  {
     "player_name": "Gilles Simon",
     "career_length_years": 18.05,
     "career_start": "2004-10-11",
@@ -585,6 +576,15 @@
     "best_rank": 10.0
   },
   {
+    "player_name": "Kei Nishikori",
+    "career_length_years": 17.84,
+    "career_start": "2007-07-16",
+    "career_end": "2025-05-19",
+    "total_matches": 690,
+    "wins": 454,
+    "best_rank": 4.0
+  },
+  {
     "player_name": "John Alexander",
     "career_length_years": 17.83,
     "career_start": "1968-02-08",
@@ -631,19 +631,19 @@
   },
   {
     "player_name": "Adrian Mannarino",
-    "career_length_years": 17.63,
+    "career_length_years": 17.65,
     "career_start": "2008-05-25",
-    "career_end": "2026-01-12",
-    "total_matches": 678,
-    "wins": 317,
+    "career_end": "2026-01-19",
+    "total_matches": 666,
+    "wins": 309,
     "best_rank": 17.0
   },
   {
     "player_name": "Grigor Dimitrov",
-    "career_length_years": 17.57,
+    "career_length_years": 17.6,
     "career_start": "2008-06-15",
-    "career_end": "2026-01-08",
-    "total_matches": 788,
+    "career_end": "2026-01-20",
+    "total_matches": 789,
     "wins": 483,
     "best_rank": 3.0
   },

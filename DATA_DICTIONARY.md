@@ -1,18 +1,18 @@
 # Data Dictionary
 
 **Complete schema reference for all TML-Data outputs**  
-*Last Updated: January 17, 2026*
+*Last Updated: February 4, 2026*
 
 ---
 
 ## 📊 Base Metrics Tables
 
-### **1. player_metrics.pkl / player_metrics.csv**
+### **1. player_metrics.parquet**
 
-**Dimensions**: 7,534 players × 52 columns  
-**Format**: Pickle (binary) and CSV  
-**Update Frequency**: Weekly  
-**Source**: Aggregated from atp_matches_base.pkl
+**Dimensions**: ~7,500 players × 52 columns  
+**Format**: Parquet (zstd compression)  
+**Update Frequency**: Monthly (1st of month)  
+**Source**: Aggregated from `atp_matches_raw.parquet`
 
 #### Column Reference
 
@@ -94,9 +94,7 @@
 import pandas as pd
 
 # Load player metrics
-players = pd.read_pickle("data/base/player_metrics.pkl")
-# or
-players = pd.read_csv("data/base/player_metrics.csv")
+players = pd.read_parquet("data/base/player_metrics.parquet")
 
 # Get all Grand Slam champions
 champions = players[players['has_gs_title'] == True]
@@ -110,16 +108,16 @@ big3 = players[players['player_name'].isin(['Roger Federer', 'Rafael Nadal', 'No
 
 ---
 
-### **2. matches_enriched.pkl**
+### **2. matches_enriched.parquet**
 
-**Dimensions**: 197,911 matches × 75 columns  
-**Format**: Pickle (binary)  
-**Update Frequency**: Weekly  
-**Source**: atp_matches_base.pkl + enrichments
+**Dimensions**: ~198,000 matches × 75 columns  
+**Format**: Parquet (zstd compression)  
+**Update Frequency**: Monthly (1st of month)  
+**Source**: `atp_matches_raw.parquet` + enrichment logic
 
 #### Original TML-Database Columns (50)
 
-Standard Jeff Sackmann ATP match data schema - see [TML-Database documentation](https://github.com/Tennismylife/TML-Database)
+Standard Jeff Sackmann ATP match data schema, now supplemented by monthly updates from the Tennismylife Stats Portal (2026+).
 
 #### Enriched Columns (25)
 
@@ -163,7 +161,7 @@ Standard Jeff Sackmann ATP match data schema - see [TML-Database documentation](
 import pandas as pd
 
 # Load enriched matches
-matches = pd.read_pickle("data/base/matches_enriched.pkl")
+matches = pd.read_parquet("data/base/matches_enriched.parquet")
 
 # Get Grand Slam finals
 gs_finals = matches[(matches['is_grand_slam'] == True) & (matches['round'] == 'F')]
@@ -177,12 +175,12 @@ print(matches[['winner_name', 'loser_name', 'winner_sets', 'loser_sets', 'winner
 
 ---
 
-### **3. head_to_head_matrix.json**
+### **3. head_to_head.parquet**
 
-**Dimensions**: 112,435 unique matchups  
-**Format**: JSON  
-**Update Frequency**: Weekly  
-**Key Format**: "Player1|Player2" (alphabetically sorted)
+**Dimensions**: ~112,000 unique matchups  
+**Format**: Parquet (zstd compression)  
+**Update Frequency**: Monthly (1st of month)  
+**Key Format**: Pairwise comparison of Player 1 vs Player 2 (alphabetically sorted)
 
 #### Schema
 

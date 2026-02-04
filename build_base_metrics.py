@@ -32,7 +32,9 @@ if __name__ == "__main__":
     except FileNotFoundError as e:
         print(f"\n❌ ERROR: Base data file not found")
         print(f"   {e}")
-        print("\nPlease run first: python fetch_base_data.py")
+        print("\nPlease run fresh data collection first:")
+        print("  python fetch_2026.py")
+        print("  python merge_2026.py")
         sys.exit(1)
     except Exception as e:
         print(f"\n❌ ERROR: Failed to build base metrics")

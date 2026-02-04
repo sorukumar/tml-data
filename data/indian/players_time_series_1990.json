@@ -211,14 +211,14 @@
   },
   {
     "year": 2025,
-    "country_unique_players": 15,
-    "global_unique_players": 454,
-    "ratio": 0.033
+    "country_unique_players": 14,
+    "global_unique_players": 449,
+    "ratio": 0.0312
   },
   {
     "year": 2026,
     "country_unique_players": 0,
-    "global_unique_players": 97,
+    "global_unique_players": 135,
     "ratio": 0.0
   }
 ]

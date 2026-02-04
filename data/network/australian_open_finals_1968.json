@@ -1424,38 +1424,38 @@
     {
       "name": "Novak Djokovic",
       "decade": 2010,
-      "active_span": "16 years (08-23)",
+      "active_span": "19 years (08-26)",
       "country": "SRB",
       "matches_won": 10,
-      "matches_played": 10,
-      "win_pct": 100.0,
+      "matches_played": 11,
+      "win_pct": 90.91,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 1413,
-      "career_win_pct": 83.37,
+      "career_total_matches": 1409,
+      "career_win_pct": 83.39,
       "gs_titles": 24,
       "peak_ranking": 1,
       "top_5_wins": 8,
-      "top_5_matches": 8,
-      "top_5_win_pct": 100.0,
+      "top_5_matches": 9,
+      "top_5_win_pct": 88.89,
       "was_top_5": true,
-      "unique_opponents": 6,
+      "unique_opponents": 7,
       "surface_wins": {
         "Hard": 10
       },
       "surface_matches": {
-        "Hard": 10
+        "Hard": 11
       },
       "surface_win_pcts": {
-        "Hard": 100.0
+        "Hard": 90.91
       },
       "tourney_wins": {
         "Australian Open": 10
       },
       "tourney_matches": {
-        "Australian Open": 10
+        "Australian Open": 11
       },
       "tourney_win_pcts": {
-        "Australian Open": 100.0
+        "Australian Open": 90.91
       }
     },
     {
@@ -1562,8 +1562,8 @@
       "matches_played": 1,
       "win_pct": 100.0,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 970,
-      "career_win_pct": 60.41,
+      "career_total_matches": 972,
+      "career_win_pct": 60.49,
       "gs_titles": 3,
       "peak_ranking": 3,
       "top_5_wins": 1,
@@ -1599,8 +1599,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 956,
-      "career_win_pct": 62.87,
+      "career_total_matches": 954,
+      "career_win_pct": 63.1,
       "gs_titles": 1,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -1657,8 +1657,8 @@
       "matches_played": 3,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 610,
-      "career_win_pct": 70.49,
+      "career_total_matches": 601,
+      "career_win_pct": 70.72,
       "gs_titles": 1,
       "peak_ranking": 1,
       "top_5_wins": 0,
@@ -1686,8 +1686,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 558,
-      "career_win_pct": 67.03,
+      "career_total_matches": 555,
+      "career_win_pct": 67.21,
       "gs_titles": 0,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -1715,8 +1715,8 @@
       "matches_played": 2,
       "win_pct": 100.0,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 417,
-      "career_win_pct": 78.18,
+      "career_total_matches": 406,
+      "career_win_pct": 77.59,
       "gs_titles": 4,
       "peak_ranking": 1,
       "top_5_wins": 2,
@@ -1752,8 +1752,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 748,
-      "career_win_pct": 69.92,
+      "career_total_matches": 739,
+      "career_win_pct": 70.23,
       "gs_titles": 0,
       "peak_ranking": 2,
       "top_5_wins": 0,
@@ -1771,6 +1771,43 @@
         "Australian Open": 1
       },
       "tourney_win_pcts": {}
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "decade": 2020,
+      "active_span": "1 year (26)",
+      "country": "ESP",
+      "matches_won": 1,
+      "matches_played": 1,
+      "win_pct": 100.0,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 336,
+      "career_win_pct": 80.95,
+      "gs_titles": 7,
+      "peak_ranking": 1,
+      "top_5_wins": 1,
+      "top_5_matches": 1,
+      "top_5_win_pct": 100.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {
+        "Hard": 1
+      },
+      "surface_matches": {
+        "Hard": 1
+      },
+      "surface_win_pcts": {
+        "Hard": 100.0
+      },
+      "tourney_wins": {
+        "Australian Open": 1
+      },
+      "tourney_matches": {
+        "Australian Open": 1
+      },
+      "tourney_win_pcts": {
+        "Australian Open": 100.0
+      }
     }
   ],
   "edges": [
@@ -2977,15 +3014,40 @@
           "Australian Open": 1
         }
       }
+    },
+    {
+      "player1": "Carlos Alcaraz",
+      "player2": "Novak Djokovic",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Hard": 1
+      },
+      "tourney_breakdown": {
+        "Australian Open": 1
+      },
+      "surface_wins": {
+        "Carlos Alcaraz": {
+          "Hard": 1
+        },
+        "Novak Djokovic": {}
+      },
+      "tourney_wins": {
+        "Carlos Alcaraz": {
+          "Australian Open": 1
+        },
+        "Novak Djokovic": {}
+      }
     }
   ],
   "metadata": {
-    "total_matches": 55,
-    "total_players": 54,
-    "total_matchups": 48,
+    "total_matches": 56,
+    "total_players": 55,
+    "total_matchups": 49,
     "year_range": {
       "min": 1969,
-      "max": 2025
+      "max": 2026
     }
   }
 }

@@ -16,7 +16,7 @@ Automated tennis data pipeline that fetches, processes, and aggregates ATP match
 - 📊 **197,911 matches** (1968-2025) with 7,534 unique players
 - ⚡ **Base metrics layer** - Pre-calculated player/match statistics (7x faster)
 - 📦 **Parquet storage** - Compact, fast, portable intermediate files (~80% smaller)
-- 🔄 **Weekly updates** - Automated via GitHub Actions
+- 🔄 **Monthly updates** - Automated via GitHub Actions (1st of month)
 - 📈 **7 analysis modules** - NBI, GSDI, Network Graphs, and more
 - 🌐 **Direct integration** - TennisAnalytics fetches via GitHub raw URLs
 
@@ -83,7 +83,8 @@ cd tml-data
 pip install -r requirements.txt
 
 # Run the complete pipeline
-python fetch_base_data.py         # Step 1: Fetch raw data → Parquet (2-3 min)
+python fetch_2026.py             # Step 1a: Fetch latest CSV (audit log)
+python merge_2026.py             # Step 1b: Merge into Master Parquet database
 python build_base_metrics.py      # Step 2: Build base metrics → Parquet (30s)
 python run_aggregations.py        # Step 3: Generate analyses → JSON/CSV (25s)
 ```
@@ -96,9 +97,10 @@ python run_aggregations.py        # Step 3: Generate analyses → JSON/CSV (25s)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ TIER 1: Raw Data Source                                     │
-│ • TML-Database (Jeff Sackmann's ATP data, 1968-2025)        │
-│ • Fetched weekly, saved as Parquet (~15 MB)                 │
+│ TIER 1: Raw Data Source (Hybrid)                            │
+│ • Historical: Sackmann ATP archive (1968-2025)              │
+│ • Fresh: Tennismylife Stats Portal (2026+)                  │
+│ • Fetched monthly, saved as Parquet (~15 MB)                 │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
@@ -147,7 +149,7 @@ data/base/
 - `data/career_longevity/` - Survival analysis (6 files)
 - `data/indian/` - India-specific (9 files)
 
-**Total**: 35+ JSON/CSV files, updated weekly
+**Total**: 35+ JSON/CSV files, updated monthly
 
 ---
 
@@ -203,11 +205,11 @@ print(rivalry)
 
 ## 🔄 Automated Updates
 
-GitHub Actions runs every **Monday at 00:00 UTC**:
-1. Fetches latest data from TML-Database
-2. Rebuilds base metrics
-3. Regenerates all analyses
-4. Commits and pushes updates
+GitHub Actions runs on the **1st of every month at 00:00 UTC**:
+1. Fetches latest matches from Tennismylife Stats Portal
+2. Safely merges them into the master archive
+3. Rebuilds base metrics and all analysis products
+4. Commits and pushes updates automatically
 
 Manual trigger: **Actions** tab → **Update Tennis Data** → **Run workflow**
 
@@ -268,7 +270,7 @@ python -m aggregations.gs_breakthrough
 - **H2H Matchups**: 112,435
 - **Analysis Files**: 35+
 - **Pipeline Speed**: ~3-4 minutes (complete)
-- **Update Frequency**: Weekly (automated)
+- **Update Frequency**: Monthly (automated)
 
 ---
 
@@ -284,8 +286,9 @@ Issues and pull requests welcome! Please:
 ## 📝 Data Attribution
 
 Raw match data sourced from:
-- [TML-Database](https://github.com/Tennismylife/TML-Database) (Jeff Sackmann's ATP data)
-- [Tennis Mylife Community](https://tennismylife.com)
+- [TML-Database](https://github.com/Tennismylife/TML-Database) (Jeff Sackmann's archive)
+- [Tennismylife Stats Portal](http://stats.tennismylife.org/tennis-match-database) (Live updates)
+- [Tennismylife Community](https://tennismylife.com)
 
 ---
 
@@ -306,6 +309,6 @@ The source data from TML-Database is subject to its own license terms.
 
 ---
 
-**Last Updated**: January 17, 2026  
-**Architecture Version**: 2.0 (Base Metrics)  
+**Last Updated**: February 4, 2026  
+**Architecture Version**: 3.0 (Modular Pipeline)  
 **Python**: 3.11+

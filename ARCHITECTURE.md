@@ -1,7 +1,7 @@
 # TML-Data Architecture
 
 **Complete system architecture for tennis data aggregation pipeline**  
-*Last Updated: January 17, 2026*
+*Last Updated: February 4, 2026*
 
 ---
 
@@ -11,17 +11,18 @@ TML-Data uses a **3-tier architecture** that separates data fetching, aggregatio
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ TIER 1: Raw Data Source                                     │
-│ • TML-Database (Jeff Sackmann's ATP data, 1968-2025)        │
-│ • 197,911 matches, 7,534 unique players                     │
-│ • Updated weekly via GitHub Actions                          │
+│ TIER 1: Raw Data Source (Hybrid)                            │
+│ • Historical: Sackmann ATP archive (1968-2025)              │
+│ • Fresh: Tennismylife Stats Portal (2026+)                  │
+│ • ~198,000 matches, 7,500+ players                          │
+│ • Updated monthly via GitHub Actions                        │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ TIER 2: Base Metrics Layer (NEW!)                           │
-│ • player_metrics.pkl - 7,534 players × 52 career stats      │
-│ • matches_enriched.pkl - 197,911 matches with parsed scores │
-│ • head_to_head_matrix.json - 112,435 matchup records        │
+│ TIER 2: Base Metrics Layer                                  │
+│ • player_metrics.parquet - Career stats (compact)           │
+│ • matches_enriched.parquet - Enriched scores (compact)      │
+│ • head_to_head.parquet - Matchup records (compact)          │
 │ • Pre-calculated once, consumed by all analyses             │
 └─────────────────────────────────────────────────────────────┘
                               ↓
@@ -44,37 +45,35 @@ TML-Data uses a **3-tier architecture** that separates data fetching, aggregatio
 ### **Complete Workflow**
 
 ```bash
-# Step 1: Fetch raw data from TML-Database
-python fetch_base_data.py
-# → data/base/atp_matches_base.pkl (197,911 matches)
-# → data/base/atp_matches_base.csv
-# → data/base/metadata.json
+# Step 1: Fetch and Merge (Modular 2-part process)
+# 1a. Download latest results
+python fetch_2026.py
+# → data/raw/2026.csv (Source of truth log)
 
-# Step 2: Build base metrics (NEW - 30 seconds)
+# 1b. Safe Upsert into Master archive
+python merge_2026.py
+# → data/base/atp_matches_raw.parquet (Cumulative store)
+
+# Step 2: Build base metrics (30 seconds)
 python build_base_metrics.py
-# → data/base/player_metrics.pkl (7,534 players × 52 columns)
-# → data/base/player_metrics.csv
-# → data/base/matches_enriched.pkl (197,911 matches × 75 columns)
-# → data/base/head_to_head_matrix.json (112,435 matchups)
+# → data/base/player_metrics.parquet
+# → data/base/matches_enriched.parquet
+# → data/base/head_to_head.parquet
 
 # Step 3: Generate all analysis outputs (25 seconds)
 python run_aggregations.py
-# → data/nbi/gs_nailbiters.json (535 matches)
-# → data/gsdi/gs_dominance_rankings.json (227 campaigns)
-# → data/gs-breakthrough/gs_breakthrough_comparison.csv (58 champions)
-# → data/network/*.json (7 network datasets)
-# → data/globaltop100evolution/*.json (4 timeline datasets)
-# → data/career_longevity/*.json (6 survival datasets)
-# → data/indian/*.json (9 India-specific datasets)
+# → data/nbi/gs_nailbiters.json
+# → data/gsdi/gs_dominance_rankings.json
+# ...and 30+ other data products
 ```
 
 ### **Automated Updates**
 
-GitHub Actions runs every Monday at 00:00 UTC:
-1. Fetches latest TML-Database data
-2. Rebuilds base metrics
-3. Regenerates all analyses
-4. Commits and pushes to main branch
+GitHub Actions runs on the **1st of every month** at 00:00 UTC:
+1. **Fetch**: Downloads latest 2026 matches.
+2. **Merge**: Safely upserts them into the master Parquet (handling duplicates/corrections).
+3. **Analyze**: Rebuilds the entire metrics layer and all visualization datasets.
+4. **Deploy**: Commits and pushes all `data/` updates to the main branch.
 
 ---
 

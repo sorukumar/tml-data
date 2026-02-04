@@ -845,8 +845,8 @@
     "surface_stats": {
       "Hard": {
         "wins": 1,
-        "matches": 2,
-        "win_pct": 50.0
+        "matches": 1,
+        "win_pct": 100.0
       },
       "Clay": {
         "wins": 0,

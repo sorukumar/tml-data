@@ -23,11 +23,14 @@
 /Users/saurabhkumar/Desktop/Work/github/
 │
 ├── tml-data/                          # Data Pipeline Repository
-│   ├── fetch_base_data.py             # Step 1: Download raw data
-│   ├── build_base_metrics.py          # Step 2: Build base metrics ⭐ NEW
+│   ├── fetch_2026.py                  # Step 1a: Download latest CSV
+│   ├── merge_2026.py                  # Step 1b: Merge into Master Parquet
+│   ├── build_base_metrics.py          # Step 2: Build base metrics
 │   ├── run_aggregations.py            # Step 3: Run all analyses
-│   ├── etl_pipeline.py                # Old monolithic script (deprecated)
+│   ├── process_pipeline.py            # Full automation runner
 │   ├── requirements.txt               # Python dependencies
+│   ├── legacy_scripts/                # Archived/unused scripts
+│   │   └── fetch_base_data.py         # Original GitHub fetcher
 │   │
 │   ├── aggregations/                  # Analysis modules
 │   │   ├── __init__.py
@@ -42,13 +45,13 @@
 │   │   └── indian_players.py          # India-specific
 │   │
 │   ├── data/                          # Generated outputs
-│   │   ├── base/                      # Base metrics ⭐ NEW
-│   │   │   ├── atp_matches_base.pkl   # Raw data (197K matches)
-│   │   │   ├── atp_matches_base.csv   # CSV format
-│   │   │   ├── player_metrics.pkl     # Player stats (7,534 × 52)
-│   │   │   ├── player_metrics.csv     # CSV format
-│   │   │   ├── matches_enriched.pkl   # Enriched matches (197K × 75)
-│   │   │   └── head_to_head_matrix.json # H2H records (112K matchups)
+│   │   ├── base/                      # Base metrics
+│   │   │   ├── atp_matches_raw.parquet # Master data archive
+│   │   │   ├── player_metrics.parquet # Player stats
+│   │   │   ├── matches_enriched.parquet # Enriched matches
+│   │   │   └── head_to_head.parquet   # H2H records
+│   │   ├── raw/                       # Source of truth logs
+│   │   │   └── 2026.csv               # Latest fetched results
 │   │   ├── nbi/                       # Nailbiter Index outputs
 │   │   ├── gsdi/                      # Dominance rankings
 │   │   ├── stantheman/                # Breakthrough analysis
@@ -115,26 +118,28 @@
 ```bash
 cd /Users/saurabhkumar/Desktop/Work/github/tml-data
 
-# Step 1: Fetch latest raw data from TML-Database
-/opt/anaconda3/bin/python fetch_base_data.py
-# Output: data/base/atp_matches_base.pkl (197,911 matches)
-# Time: ~2-3 minutes (downloads CSVs from GitHub)
+# Step 1: Fetch and Merge (Modular 2-part process)
+# 1a. Download latest results
+/opt/anaconda3/bin/python fetch_2026.py
+# Output: data/raw/2026.csv (Source of truth log)
 
-# Step 2: Build base metrics ⭐ NEW STEP
+# 1b. Safe Upsert into Master archive
+/opt/anaconda3/bin/python merge_2026.py
+# Output: data/base/atp_matches_raw.parquet (Cumulative store)
+
+# Step 2: Build base metrics
 /opt/anaconda3/bin/python build_base_metrics.py
-# Output:
-#   - data/base/player_metrics.pkl (7,534 players × 52 columns)
-#   - data/base/player_metrics.csv
-#   - data/base/matches_enriched.pkl (197,911 matches × 75 columns)
-#   - data/base/head_to_head_matrix.json (112,435 matchups)
+# Output: data/base/player_metrics.parquet, matches_enriched.parquet, head_to_head.parquet
 # Time: ~30 seconds
 
 # Step 3: Generate all analysis outputs
 /opt/anaconda3/bin/python run_aggregations.py
 # Output: All data/* folders populated (35+ files)
-# Time: ~25 seconds (7x faster than old approach!)
+# Time: ~25 seconds
 
-# Total pipeline: ~3-4 minutes
+# Total pipeline: ~3-4 minutes (Complete)
+# Or run all in one go:
+/opt/anaconda3/bin/python process_pipeline.py
 ```
 
 ### **2. Publish Updates**
@@ -290,32 +295,27 @@ requests >= 2.31.0
 
 ```bash
 # Verify files exist
-ls -lh data/base/
+ls -lh data/base/*.parquet
 
 # Expected output:
-# atp_matches_base.pkl       (~25 MB)
-# atp_matches_base.csv       (~55 MB)
-# player_metrics.pkl         (~2 MB)
-# player_metrics.csv         (~1 MB)
-# matches_enriched.pkl       (~35 MB)
-# head_to_head_matrix.json   (~45 MB)
+# atp_matches_raw.parquet     (~15 MB)
+# player_metrics.parquet      (~1 MB)
+# matches_enriched.parquet    (~20 MB)
+# head_to_head.parquet        (~5 MB)
 ```
 
 ### **Quick Python Check**
 
 ```python
 import pandas as pd
-import json
 
-# Load base metrics
-players = pd.read_pickle("data/base/player_metrics.pkl")
-matches = pd.read_pickle("data/base/matches_enriched.pkl")
+# Load base metrics (Parquet - fast!)
+players = pd.read_parquet("data/base/player_metrics.parquet")
+matches = pd.read_parquet("data/base/matches_enriched.parquet")
+h2h = pd.read_parquet("data/base/head_to_head.parquet")
 
 print(f"Players: {len(players):,} × {len(players.columns)} columns")
 print(f"Matches: {len(matches):,} × {len(matches.columns)} columns")
-
-with open("data/base/head_to_head_matrix.json") as f:
-    h2h = json.load(f)
 print(f"H2H Matchups: {len(h2h):,}")
 
 # Should see:
@@ -454,6 +454,6 @@ When starting a new conversation about this project:
 
 ---
 
-**Last Updated**: January 17, 2026  
+**Last Updated**: February 4, 2026  
 **Environment**: macOS, Python 3.11+ (Anaconda)  
 **Workspace**: `/Users/saurabhkumar/Desktop/Work/github/`

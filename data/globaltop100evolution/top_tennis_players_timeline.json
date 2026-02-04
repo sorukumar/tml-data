@@ -4750,11 +4750,11 @@
         "unique_atp_player": 14
       },
       "USA": {
-        "ever_in_top100": 27,
+        "ever_in_top100": 25,
         "ever_in_top10": 1,
         "top_player": "Taylor Fritz",
         "top_rank": 4,
-        "unique_atp_player": 27
+        "unique_atp_player": 25
       },
       "NZL": {
         "ever_in_top100": 2,
@@ -4785,11 +4785,11 @@
         "unique_atp_player": 4
       },
       "JPN": {
-        "ever_in_top100": 6,
+        "ever_in_top100": 4,
         "ever_in_top10": 0,
         "top_player": "Kei Nishikori",
         "top_rank": 62,
-        "unique_atp_player": 6
+        "unique_atp_player": 4
       },
       "CHI": {
         "ever_in_top100": 5,
@@ -4841,11 +4841,11 @@
         "unique_atp_player": 8
       },
       "ESP": {
-        "ever_in_top100": 11,
+        "ever_in_top100": 10,
         "ever_in_top10": 1,
         "top_player": "Carlos Alcaraz",
         "top_rank": 1,
-        "unique_atp_player": 11
+        "unique_atp_player": 10
       },
       "NED": {
         "ever_in_top100": 3,
@@ -4869,16 +4869,16 @@
         "unique_atp_player": 5
       },
       "ITA": {
-        "ever_in_top100": 15,
+        "ever_in_top100": 14,
         "ever_in_top10": 1,
         "top_player": "Jannik Sinner",
         "top_rank": 1,
-        "unique_atp_player": 15
+        "unique_atp_player": 14
       },
       "CZE": {
         "ever_in_top100": 6,
         "ever_in_top10": 0,
-        "top_player": "Jakub Mensik",
+        "top_player": "Jiri Lehecka",
         "top_rank": 16,
         "unique_atp_player": 6
       },
@@ -4897,11 +4897,11 @@
         "unique_atp_player": 3
       },
       "FRA": {
-        "ever_in_top100": 26,
+        "ever_in_top100": 25,
         "ever_in_top10": 0,
         "top_player": "Ugo Humbert",
         "top_rank": 14,
-        "unique_atp_player": 26
+        "unique_atp_player": 25
       },
       "CRO": {
         "ever_in_top100": 3,
@@ -4925,11 +4925,11 @@
         "unique_atp_player": 3
       },
       "SUI": {
-        "ever_in_top100": 5,
+        "ever_in_top100": 4,
         "ever_in_top10": 0,
         "top_player": "Jerome Kym",
         "top_rank": 154,
-        "unique_atp_player": 5
+        "unique_atp_player": 4
       },
       "BEL": {
         "ever_in_top100": 5,
@@ -4963,7 +4963,7 @@
         "ever_in_top100": 5,
         "ever_in_top10": 1,
         "top_player": "Novak Djokovic",
-        "top_rank": 4,
+        "top_rank": 5,
         "unique_atp_player": 5
       },
       "ARG": {
@@ -5058,11 +5058,11 @@
         "unique_atp_player": 2
       },
       "CHN": {
-        "ever_in_top100": 7,
+        "ever_in_top100": 6,
         "ever_in_top10": 0,
         "top_player": "Zhizhen Zhang",
         "top_rank": 50,
-        "unique_atp_player": 7
+        "unique_atp_player": 6
       },
       "HKG": {
         "ever_in_top100": 1,
@@ -5215,7 +5215,7 @@
         "ever_in_top100": 1,
         "ever_in_top10": 0,
         "top_player": "Damir Dzumhur",
-        "top_rank": 54,
+        "top_rank": 58,
         "unique_atp_player": 1
       },
       "JAM": {
