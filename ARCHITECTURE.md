@@ -34,6 +34,8 @@ TML-Data uses a **3-tier architecture** that separates data fetching, aggregatio
 │ • Network Graphs - Player matchup networks (7 datasets)     │
 │ • Global Evolution - Geographic trends                       │
 │ • Career Longevity - Survival analysis                       │
+│ • Greatness Race - Career trajectories (Big 3 + Alcaraz)     │
+│ • Young Guns - Next-gen breakthrough tracking                │
 │ • Indian Players - India-specific datasets                   │
 └─────────────────────────────────────────────────────────────┘
 ```

@@ -17,6 +17,8 @@ from aggregations.global_evolution import generate_global_evolution_aggregation
 from aggregations.network_graph import generate_network_aggregation
 from aggregations.career_longevity import generate_career_longevity_aggregation
 from aggregations.indian_players import generate_indian_datasets
+from aggregations.greatness_race import generate_greatness_data
+from aggregations.young_guns_race import generate_young_guns_data
 
 
 def run_all_aggregations(matches_enriched_path="data/base/matches_enriched.parquet",
@@ -61,6 +63,8 @@ def run_all_aggregations(matches_enriched_path="data/base/matches_enriched.parqu
         ("Global Top 100 Evolution", lambda: generate_global_evolution_aggregation(base_data_path)),
         ("Career Longevity & Survival Analysis", lambda: generate_career_longevity_aggregation(base_data_path)),
         ("Indian Players Data", lambda: generate_indian_datasets(base_data_path)),
+        ("Greatness Race Trajectories", lambda: generate_greatness_data(matches_enriched_path)),
+        ("Young Guns Evolution", lambda: generate_young_guns_data(matches_enriched_path)),
     ]
     
     # Run each aggregation
@@ -101,6 +105,9 @@ def run_all_aggregations(matches_enriched_path="data/base/matches_enriched.parqu
     print("    └── gs_dominance_rankings.json")
     print("\n  data/gs-breakthrough/")
     print("    └── gs_breakthrough_comparison.csv")
+    print("\n  data/greatness/")
+    print("    ├── race_to_greatness.json")
+    print("    └── young_guns_race.json")
     print("  data/globaltop100evolution/")
     print("    ├── country_code_mapping.json")
     print("    ├── tennis_country_profiles.json")

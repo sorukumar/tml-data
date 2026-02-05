@@ -17,7 +17,7 @@ Automated tennis data pipeline that fetches, processes, and aggregates ATP match
 - ⚡ **Base metrics layer** - Pre-calculated player/match statistics (7x faster)
 - 📦 **Parquet storage** - Compact, fast, portable intermediate files (~80% smaller)
 - 🔄 **Monthly updates** - Automated via GitHub Actions (1st of month)
-- 📈 **7 analysis modules** - NBI, GSDI, Network Graphs, and more
+- 📈 **9 analysis modules** - NBI, GSDI, Greatness Race, Network Graphs, and more
 - 🌐 **Direct integration** - TennisAnalytics fetches via GitHub raw URLs
 
 ---
@@ -39,6 +39,8 @@ Automated tennis data pipeline that fetches, processes, and aggregates ATP match
 - **Network Graphs** - 7 player matchup networks with rich metadata
 - **Global Evolution** - Geographic diversity trends over time
 - **Career Longevity** - Survival analysis of tennis careers
+- **Greatness Race** - Career trajectory comparisons (Djoker/Nadal/Fed/Alcaraz/Sinner)
+- **Young Guns** - Breakthrough evolution of next-gen stars
 - **Indian Players** - India-specific datasets
 
 ---
