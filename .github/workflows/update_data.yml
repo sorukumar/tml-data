@@ -2,8 +2,9 @@ name: Update Tennis Data
 
 on:
   # Run every Monday at 00:00 UTC
+  # Run every 1st of the month at 00:00 UTC
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: '0 0 1 * *'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -29,9 +30,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run ETL pipeline
-        run: |
-          python etl_pipeline.py
+      - name: 1. Fetch Source CSV
+        run: python fetch_2026.py
+      
+      - name: 2. Merge into Master Database
+        run: python merge_2026.py
+      
+      - name: 3. Run Analysis Pipeline
+        run: python process_pipeline.py
       
       - name: Check for changes
         id: git-check
