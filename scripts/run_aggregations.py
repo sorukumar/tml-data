@@ -9,6 +9,9 @@ import sys
 import os
 from datetime import datetime
 
+# Add project root to path so 'aggregations' can be imported
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 # Import aggregation modules
 from aggregations.nbi import generate_nbi_aggregation
 from aggregations.gsdi import generate_gsdi_aggregation

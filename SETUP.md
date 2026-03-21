@@ -22,12 +22,12 @@
 ```
 /Users/saurabhkumar/Desktop/Work/github/
 │
-├── tml-data/                          # Data Pipeline Repository
+├── scripts/                          # Data Pipeline Repository
 │   ├── fetch_2026.py                  # Step 1a: Download latest CSV
 │   ├── merge_2026.py                  # Step 1b: Merge into Master Parquet
 │   ├── build_base_metrics.py          # Step 2: Build base metrics
 │   ├── run_aggregations.py            # Step 3: Run all analyses
-│   ├── process_pipeline.py            # Full automation runner
+│   └── process_pipeline.py            # Full automation runner
 │   ├── requirements.txt               # Python dependencies
 │   ├── legacy_scripts/                # Archived/unused scripts
 │   │   └── fetch_base_data.py         # Original GitHub fetcher
@@ -120,26 +120,26 @@ cd /Users/saurabhkumar/Desktop/Work/github/tml-data
 
 # Step 1: Fetch and Merge (Modular 2-part process)
 # 1a. Download latest results
-/opt/anaconda3/bin/python fetch_2026.py
+/opt/anaconda3/bin/python scripts/fetch_2026.py
 # Output: data/raw/2026.csv (Source of truth log)
 
 # 1b. Safe Upsert into Master archive
-/opt/anaconda3/bin/python merge_2026.py
+/opt/anaconda3/bin/python scripts/merge_2026.py
 # Output: data/base/atp_matches_raw.parquet (Cumulative store)
 
 # Step 2: Build base metrics
-/opt/anaconda3/bin/python build_base_metrics.py
+/opt/anaconda3/bin/python scripts/build_base_metrics.py
 # Output: data/base/player_metrics.parquet, matches_enriched.parquet, head_to_head.parquet
 # Time: ~30 seconds
 
 # Step 3: Generate all analysis outputs
-/opt/anaconda3/bin/python run_aggregations.py
+/opt/anaconda3/bin/python scripts/run_aggregations.py
 # Output: All data/* folders populated (35+ files)
 # Time: ~25 seconds
 
 # Total pipeline: ~3-4 minutes (Complete)
 # Or run all in one go:
-/opt/anaconda3/bin/python process_pipeline.py
+/opt/anaconda3/bin/python scripts/process_pipeline.py
 ```
 
 ### **2. Publish Updates**
@@ -254,10 +254,10 @@ cd /Users/saurabhkumar/Desktop/Work/github/tml-data
 
 ```bash
 # If you modify base_metrics.py logic
-/opt/anaconda3/bin/python build_base_metrics.py
+/opt/anaconda3/bin/python scripts/build_base_metrics.py
 
 # Then regenerate all analyses
-/opt/anaconda3/bin/python run_aggregations.py
+/opt/anaconda3/bin/python scripts/run_aggregations.py
 ```
 
 ---
@@ -403,12 +403,13 @@ git push origin main
 ```bash
 # Full pipeline (tml-data)
 cd ~/Desktop/Work/github/tml-data
-/opt/anaconda3/bin/python fetch_base_data.py && \
-/opt/anaconda3/bin/python build_base_metrics.py && \
-/opt/anaconda3/bin/python run_aggregations.py
+/opt/anaconda3/bin/python scripts/fetch_2026.py && \
+/opt/anaconda3/bin/python scripts/merge_2026.py && \
+/opt/anaconda3/bin/python scripts/build_base_metrics.py && \
+/opt/anaconda3/bin/python scripts/run_aggregations.py
 
 # Rebuild base metrics only
-/opt/anaconda3/bin/python build_base_metrics.py
+/opt/anaconda3/bin/python scripts/build_base_metrics.py
 
 # Run single analysis
 /opt/anaconda3/bin/python -m aggregations.nbi

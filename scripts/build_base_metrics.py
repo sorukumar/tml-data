@@ -8,8 +8,8 @@ Run this before running aggregation scripts
 import sys
 import os
 
-# Add aggregations directory to path
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'aggregations'))
+# Add project root to path so 'aggregations' can be imported
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from aggregations.base_metrics import generate_base_metrics
 
@@ -27,14 +27,14 @@ if __name__ == "__main__":
         
         print("\n✅ SUCCESS: Base metrics generated successfully")
         print("\nNext step: Run aggregations with:")
-        print("  python run_aggregations.py")
+        print("  python scripts/run_aggregations.py")
         
     except FileNotFoundError as e:
         print(f"\n❌ ERROR: Base data file not found")
         print(f"   {e}")
         print("\nPlease run fresh data collection first:")
-        print("  python fetch_2026.py")
-        print("  python merge_2026.py")
+        print("  python scripts/fetch_2026.py")
+        print("  python scripts/merge_2026.py")
         sys.exit(1)
     except Exception as e:
         print(f"\n❌ ERROR: Failed to build base metrics")

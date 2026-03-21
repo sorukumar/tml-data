@@ -49,21 +49,21 @@ TML-Data uses a **3-tier architecture** that separates data fetching, aggregatio
 ```bash
 # Step 1: Fetch and Merge (Modular 2-part process)
 # 1a. Download latest results
-python fetch_2026.py
+python scripts/fetch_2026.py
 # → data/raw/2026.csv (Source of truth log)
 
 # 1b. Safe Upsert into Master archive
-python merge_2026.py
+python scripts/merge_2026.py
 # → data/base/atp_matches_raw.parquet (Cumulative store)
 
 # Step 2: Build base metrics (30 seconds)
-python build_base_metrics.py
+python scripts/build_base_metrics.py
 # → data/base/player_metrics.parquet
 # → data/base/matches_enriched.parquet
 # → data/base/head_to_head.parquet
 
 # Step 3: Generate all analysis outputs (25 seconds)
-python run_aggregations.py
+python scripts/run_aggregations.py
 # → data/nbi/gs_nailbiters.json
 # → data/gsdi/gs_dominance_rankings.json
 # ...and 30+ other data products
@@ -445,9 +445,9 @@ fetch("https://raw.githubusercontent.com/sorukumar/tml-data/main/data/network/gr
 ```bash
 # 1. Generate/update data in tml-data
 cd /Users/saurabhkumar/Desktop/Work/github/tml-data
-python fetch_base_data.py
-python build_base_metrics.py
-python run_aggregations.py
+python scripts/fetch_2026.py
+python scripts/build_base_metrics.py
+python scripts/run_aggregations.py
 
 # 2. Commit and push
 git add data/
@@ -491,16 +491,19 @@ All analyses use `aggregations/shared_utils.py`:
 
 ```
 tml-data/
-├── fetch_base_data.py              # Step 1: Fetch raw data
-├── build_base_metrics.py           # Step 2: Build base metrics ⭐ NEW
-├── run_aggregations.py             # Step 3: Run all analyses
+├── scripts/
+│   ├── fetch_2026.py               # Step 1a: Download latest CSV
+│   ├── merge_2026.py               # Step 1b: Merge into Master Parquet
+│   ├── build_base_metrics.py       # Step 2: Build base metrics ⭐ NEW
+│   ├── run_aggregations.py         # Step 3: Run all analyses
+│   └── process_pipeline.py         # Full automation runner
 ├── requirements.txt
 ├── aggregations/
 │   ├── base_metrics.py             # Base metrics builder ⭐ NEW
 │   ├── shared_utils.py             # Common utilities ⭐ NEW
 │   ├── nbi.py                      # Nailbiter Index
 │   ├── gsdi.py                     # Grand Slam Dominance Index
-│   ├── stantheman.py               # Breakthrough Analysis
+│   ├── gs_breakthrough.py          # Breakthrough Analysis
 │   ├── network_graph.py            # Network datasets
 │   ├── global_evolution.py         # Geographic trends
 │   ├── career_longevity.py         # Survival analysis
@@ -579,10 +582,10 @@ aggregations = [
 
 ```bash
 # Run standalone
-python -m aggregations.my_analysis
+python -m scripts.run_aggregations
 
 # Run with all aggregations
-python run_aggregations.py
+python scripts/run_aggregations.py
 ```
 
 ---
@@ -657,7 +660,7 @@ python build_base_metrics.py
 ### **Analysis fails**
 ```bash
 # Check base metrics exist
-ls -lh data/base/player_metrics.pkl data/base/matches_enriched.pkl
+ls -lh data/base/player_metrics.parquet data/base/matches_enriched.parquet
 
 # Run individual analysis
 python -m aggregations.nbi

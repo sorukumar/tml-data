@@ -5,10 +5,13 @@ Rebuilds base metrics and regenerates all aggregations.
 """
 import subprocess
 import sys
+import os
 
 def run_script(script_name):
-    print(f"\n>>> Running {script_name}...")
-    result = subprocess.run([sys.executable, script_name], capture_output=False)
+    # Ensure we look in the same directory as this script
+    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), script_name)
+    print(f"\n>>> Running {script_name} from {script_path}...")
+    result = subprocess.run([sys.executable, script_path], capture_output=False)
     if result.returncode != 0:
         print(f"❌ Error: {script_name} failed with exit code {result.returncode}")
         return False
