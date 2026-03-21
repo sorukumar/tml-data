@@ -30,13 +30,13 @@ jobs:
           pip install -r requirements.txt
       
       - name: 1. Fetch Source CSV
-        run: python fetch_2026.py
+        run: python scripts/fetch_2026.py
       
       - name: 2. Merge into Master Database
-        run: python merge_2026.py
+        run: python scripts/merge_2026.py
       
       - name: 3. Run Analysis Pipeline
-        run: python process_pipeline.py
+        run: python scripts/process_pipeline.py
       
       - name: Check for changes
         id: git-check
