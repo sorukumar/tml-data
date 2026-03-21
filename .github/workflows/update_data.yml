@@ -1,7 +1,6 @@
 name: Update Tennis Data
 
 on:
-  # Run every Monday at 00:00 UTC
   # Run every 1st of the month at 00:00 UTC
   schedule:
     - cron: '0 0 1 * *'
