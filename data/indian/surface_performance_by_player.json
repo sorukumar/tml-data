@@ -719,8 +719,8 @@
     "surface_stats": {
       "Hard": {
         "wins": 9,
-        "matches": 32,
-        "win_pct": 28.12
+        "matches": 34,
+        "win_pct": 26.47
       },
       "Clay": {
         "wins": 6,
@@ -844,8 +844,8 @@
     "name": "Dhakshineswar Suresh",
     "surface_stats": {
       "Hard": {
-        "wins": 1,
-        "matches": 1,
+        "wins": 3,
+        "matches": 3,
         "win_pct": 100.0
       },
       "Clay": {

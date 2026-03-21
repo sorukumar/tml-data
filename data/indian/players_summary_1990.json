@@ -371,15 +371,16 @@
       2022,
       2023,
       2024,
-      2025
+      2025,
+      2026
     ],
-    "years_played": 9,
+    "years_played": 10,
     "min_year": 2016,
-    "max_year": 2025,
-    "matches_played": 53,
+    "max_year": 2026,
+    "matches_played": 55,
     "wins": 15,
-    "losses": 38,
-    "win_pct": 28.3,
+    "losses": 40,
+    "win_pct": 27.27,
     "best_rank": 68.0
   },
   {
@@ -464,16 +465,17 @@
     "id": "S0DE",
     "name": "Dhakshineswar Suresh",
     "years": [
-      2025
+      2025,
+      2026
     ],
-    "years_played": 1,
+    "years_played": 2,
     "min_year": 2025,
-    "max_year": 2025,
-    "matches_played": 1,
-    "wins": 1,
+    "max_year": 2026,
+    "matches_played": 3,
+    "wins": 3,
     "losses": 0,
     "win_pct": 100.0,
-    "best_rank": 626.0
+    "best_rank": 465.0
   },
   {
     "id": "A022",

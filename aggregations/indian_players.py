@@ -141,8 +141,8 @@ def generate_indian_datasets(base_data_path="data/base/atp_matches_raw.parquet",
 
     # Build best_performance_each_year mapping and matches_by_year
     bp_year_map = best_performance_year.copy()
-    bp_year_map['best_performance_each_year'] = bp_year_map.apply(lambda r: f"{int(r['year'])}: {safe_str(r['best_round'])} at {safe_str(r['best_tourney'])}" if pd.notna(r['best_round']) else None, axis=1)
-    bp_agg = bp_year_map.groupby('id').agg({'best_performance_each_year': lambda x: ', '.join(filter(None, x)), 'year': lambda x: sorted(set(x))}).reset_index()
+    bp_year_map['best_performance_each_year'] = bp_year_map.apply(lambda r: f"{int(r['year'])}: {str(r['best_round'])} at {str(r['best_tourney'])}" if pd.notna(r['best_round']) else None, axis=1)
+    bp_agg = bp_year_map.groupby('id').agg({'best_performance_each_year': lambda x: ', '.join([str(v) for v in x if pd.notna(v)]), 'year': lambda x: sorted(set(x))}).reset_index()
     bp_agg.rename(columns={'year':'years_detail'}, inplace=True)
 
     players = players.merge(bp_agg[['id','best_performance_each_year']], on='id', how='left')

@@ -676,7 +676,7 @@ Check `.github/workflows/update_data.yml` and Actions tab logs.
 - **H2H Records**: 112,435 unique matchups
 - **Analysis Outputs**: 35+ JSON/CSV files across 7 modules
 - **Pipeline Speed**: ~55 seconds total (3-5 minutes including data fetch)
-- **Update Frequency**: Weekly (every Monday at 00:00 UTC)
+- **Update Frequency**: Monthly (every 1st of the month at 00:00 UTC)
 
 ---
 
