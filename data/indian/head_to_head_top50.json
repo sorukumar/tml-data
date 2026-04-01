@@ -184,19 +184,19 @@
       },
       {
         "date": "19800219",
-        "opponent": "Eddie Dibbs",
-        "opponent_rank": 10,
-        "tournament": "WCT Invitational",
-        "round": "RR",
-        "score": "6-2 6-1"
-      },
-      {
-        "date": "19800219",
         "opponent": "Jimmy Connors",
         "opponent_rank": 3,
         "tournament": "WCT Invitational",
         "round": "RR",
         "score": "6-3 6-2"
+      },
+      {
+        "date": "19800219",
+        "opponent": "Eddie Dibbs",
+        "opponent_rank": 10,
+        "tournament": "WCT Invitational",
+        "round": "RR",
+        "score": "6-2 6-1"
       },
       {
         "date": "19800324",

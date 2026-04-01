@@ -663,6 +663,26 @@
     "peak_year": 2004
   },
   {
+    "player": "Yevgeny Kafelnikov",
+    "country": "RUS",
+    "years_active": [
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003
+    ],
+    "total_titles": 613,
+    "peak_year": 1996
+  },
+  {
     "player": "Richard Gasquet",
     "country": "FRA",
     "years_active": [
@@ -693,26 +713,6 @@
     ],
     "total_titles": 613,
     "peak_year": 2007
-  },
-  {
-    "player": "Yevgeny Kafelnikov",
-    "country": "RUS",
-    "years_active": [
-      1992,
-      1993,
-      1994,
-      1995,
-      1996,
-      1997,
-      1998,
-      1999,
-      2000,
-      2001,
-      2002,
-      2003
-    ],
-    "total_titles": 613,
-    "peak_year": 1996
   },
   {
     "player": "Marin Cilic",
