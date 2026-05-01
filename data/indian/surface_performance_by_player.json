@@ -724,8 +724,8 @@
       },
       "Clay": {
         "wins": 6,
-        "matches": 20,
-        "win_pct": 30.0
+        "matches": 21,
+        "win_pct": 28.57
       },
       "Grass": {
         "wins": 0,

@@ -1,18 +1,18 @@
 {
   "less_than_50": {
     "label": "Less than 50 matches",
-    "count": 6313,
-    "percentage": 83.21
+    "count": 6310,
+    "percentage": 83.17
   },
   "50_to_200": {
     "label": "50-200 matches",
-    "count": 660,
-    "percentage": 8.7
+    "count": 662,
+    "percentage": 8.73
   },
   "200_to_500": {
     "label": "200-500 matches",
-    "count": 405,
-    "percentage": 5.34
+    "count": 406,
+    "percentage": 5.35
   },
   "500_to_1000": {
     "label": "500-1000 matches",

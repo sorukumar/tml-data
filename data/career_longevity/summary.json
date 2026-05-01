@@ -2,11 +2,11 @@
   "total_players": 7587,
   "avg_career_length_years": 3.95,
   "median_career_length_years": 2.01,
-  "avg_total_matches": 52.24,
+  "avg_total_matches": 52.32,
   "median_total_matches": 4.0,
-  "players_less_than_2_years": 3772,
-  "percentage_less_than_2_years": 49.72,
-  "players_10_plus_years": 1029,
-  "percentage_10_plus_years": 13.56,
-  "generation_date": "2026-04-01"
+  "players_less_than_2_years": 3769,
+  "percentage_less_than_2_years": 49.68,
+  "players_10_plus_years": 1030,
+  "percentage_10_plus_years": 13.58,
+  "generation_date": "2026-05-01"
 }

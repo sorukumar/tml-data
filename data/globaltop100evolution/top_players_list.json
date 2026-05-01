@@ -740,7 +740,7 @@
       2025,
       2026
     ],
-    "total_titles": 605,
+    "total_titles": 608,
     "peak_year": 2014
   },
   {
@@ -899,7 +899,7 @@
       2025,
       2026
     ],
-    "total_titles": 587,
+    "total_titles": 588,
     "peak_year": 2010
   },
   {
@@ -1190,6 +1190,27 @@
     "peak_year": 2006
   },
   {
+    "player": "Alexander Zverev",
+    "country": "GER",
+    "years_active": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_titles": 534,
+    "peak_year": 2024
+  },
+  {
     "player": "Andres Gomez",
     "country": "ECU",
     "years_active": [
@@ -1236,26 +1257,5 @@
     ],
     "total_titles": 525,
     "peak_year": 1982
-  },
-  {
-    "player": "Alexander Zverev",
-    "country": "GER",
-    "years_active": [
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "total_titles": 524,
-    "peak_year": 2024
   }
 ]

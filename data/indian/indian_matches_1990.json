@@ -11633,5 +11633,18 @@
     "winner_rank": 88.0,
     "loser_rank": 281.0,
     "minutes": 172.0
+  },
+  {
+    "tourney_date": "20260413",
+    "tourney_name": "Munich",
+    "tourney_level": "500",
+    "surface": "Clay",
+    "round": "R32",
+    "winner_name": "Francisco Cerundolo",
+    "loser_name": "Sumit Nagal",
+    "score": "6-2 6-2",
+    "winner_rank": 19.0,
+    "loser_rank": 292.0,
+    "minutes": 80.0
   }
 ]
