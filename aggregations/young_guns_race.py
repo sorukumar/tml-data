@@ -22,7 +22,8 @@ TARGET_PLAYERS = {
     "Jannik Sinner": "2001-08-16",
     "Joao Fonseca": "2006-08-21",
     "Jakub Mensik": "2005-09-01",
-    "Learner Tien": "2005-12-02"
+    "Learner Tien": "2005-12-02",
+    "Rafael Jodar": "2006-09-17"
 }
 
 OUTPUT_DIR = "data/greatness"
