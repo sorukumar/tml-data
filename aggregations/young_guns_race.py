@@ -39,6 +39,22 @@ def calculate_age_decimal(dob, dateval):
     delta = dateval - dob
     return delta.days / 365.25
 
+
+ROUND_ORDER = {
+    "RR": 1,
+    "R128": 2,
+    "R64": 3,
+    "R32": 4,
+    "R16": 5,
+    "QF": 6,
+    "SF": 7,
+    "F": 8
+}
+
+
+def round_rank(round_code):
+    return ROUND_ORDER.get(str(round_code), 0)
+
 def process_player_career(player_name, dob_str, matches_df):
     """Process a single player's career with quarterly aggregation and enhanced metrics"""
     
@@ -90,6 +106,12 @@ def process_player_career(player_name, dob_str, matches_df):
     # Clutch Stats (Deciding Sets)
     cum_deciding_sets_won = 0
     cum_deciding_sets_played = 0
+
+    # Big-tournament depth (Slams + Masters): cumulative times reaching each stage
+    cum_big_r4 = 0
+    cum_big_qf = 0
+    cum_big_sf = 0
+    cum_big_f = 0
     
     latest_rank = 1000 # Default start rank
     
@@ -98,6 +120,26 @@ def process_player_career(player_name, dob_str, matches_df):
     has_first_title = False
     has_top_100 = False
     has_top_50 = False
+
+    # Build per-tournament depth events for Slams + Masters.
+    # We apply these on tournament end date while iterating chronological matches.
+    big_stage_events = {}
+    big_stage = p_matches[p_matches['tourney_level'].isin(['G', 'M'])].copy()
+    if not big_stage.empty:
+        for _, grp in big_stage.groupby(['tourney_date', 'tourney_name', 'tourney_level'], dropna=False):
+            rounds = grp['round'].fillna('').astype(str).tolist()
+            max_round_rank = max([round_rank(r) for r in rounds] + [0])
+            if max_round_rank == 0:
+                continue
+
+            event_date = grp['tourney_date'].max()
+            contrib = {
+                "r4": 1 if max_round_rank >= round_rank("R16") else 0,
+                "qf": 1 if max_round_rank >= round_rank("QF") else 0,
+                "sf": 1 if max_round_rank >= round_rank("SF") else 0,
+                "f": 1 if max_round_rank >= round_rank("F") else 0,
+            }
+            big_stage_events.setdefault(event_date, []).append(contrib)
     
     # Quarterly Hook Setup
     first_match_date = p_matches['tourney_date'].iloc[0]
@@ -108,6 +150,15 @@ def process_player_career(player_name, dob_str, matches_df):
     for _, match in p_matches.iterrows():
         match_date = match['tourney_date']
         match_age = calculate_age_decimal(dob, match_date)
+
+        # Apply completed big-event depth contributions on this date.
+        if match_date in big_stage_events:
+            for c in big_stage_events[match_date]:
+                cum_big_r4 += c["r4"]
+                cum_big_qf += c["qf"]
+                cum_big_sf += c["sf"]
+                cum_big_f += c["f"]
+            del big_stage_events[match_date]
         
         while match_age >= current_hook_age:
             hook_date = dob + pd.Timedelta(days=int(current_hook_age * 365.25))
@@ -133,6 +184,10 @@ def process_player_career(player_name, dob_str, matches_df):
                 "hard_wins": cum_hard_wins,
                 "clay_wins": cum_clay_wins,
                 "grass_wins": cum_grass_wins,
+                "big_r4": cum_big_r4,
+                "big_qf": cum_big_qf,
+                "big_sf": cum_big_sf,
+                "big_f": cum_big_f,
                 "clutch_win_pct": get_pct(cum_deciding_sets_won, cum_deciding_sets_played),
                 "date": hook_date.strftime('%Y-%m-%d')
             })
@@ -280,6 +335,10 @@ def process_player_career(player_name, dob_str, matches_df):
         "hard_wins": cum_hard_wins,
         "clay_wins": cum_clay_wins,
         "grass_wins": cum_grass_wins,
+        "big_r4": cum_big_r4,
+        "big_qf": cum_big_qf,
+        "big_sf": cum_big_sf,
+        "big_f": cum_big_f,
         "clutch_win_pct": get_pct(cum_deciding_sets_won, cum_deciding_sets_played),
         "date": p_matches['tourney_date'].iloc[-1].strftime('%Y-%m-%d')
     })
