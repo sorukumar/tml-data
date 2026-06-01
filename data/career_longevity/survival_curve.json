@@ -2,43 +2,43 @@
   "timeline": [
     {
       "years": 0,
-      "players_remaining": 7587,
+      "players_remaining": 7589,
       "survival_probability": 100.0
     },
     {
       "years": 1,
-      "players_remaining": 4460,
-      "survival_probability": 58.78
+      "players_remaining": 4462,
+      "survival_probability": 58.8
     },
     {
       "years": 2,
-      "players_remaining": 3818,
-      "survival_probability": 50.32
+      "players_remaining": 3820,
+      "survival_probability": 50.34
     },
     {
       "years": 3,
-      "players_remaining": 3324,
+      "players_remaining": 3325,
       "survival_probability": 43.81
     },
     {
       "years": 4,
-      "players_remaining": 2913,
-      "survival_probability": 38.39
+      "players_remaining": 2916,
+      "survival_probability": 38.42
     },
     {
       "years": 5,
-      "players_remaining": 2492,
+      "players_remaining": 2493,
       "survival_probability": 32.85
     },
     {
       "years": 6,
       "players_remaining": 2156,
-      "survival_probability": 28.42
+      "survival_probability": 28.41
     },
     {
       "years": 7,
-      "players_remaining": 1849,
-      "survival_probability": 24.37
+      "players_remaining": 1851,
+      "survival_probability": 24.39
     },
     {
       "years": 8,
@@ -47,23 +47,23 @@
     },
     {
       "years": 9,
-      "players_remaining": 1255,
-      "survival_probability": 16.54
+      "players_remaining": 1257,
+      "survival_probability": 16.56
     },
     {
       "years": 10,
-      "players_remaining": 1030,
-      "survival_probability": 13.58
+      "players_remaining": 1032,
+      "survival_probability": 13.6
     },
     {
       "years": 12,
-      "players_remaining": 639,
-      "survival_probability": 8.42
+      "players_remaining": 640,
+      "survival_probability": 8.43
     },
     {
       "years": 15,
-      "players_remaining": 221,
-      "survival_probability": 2.91
+      "players_remaining": 222,
+      "survival_probability": 2.93
     },
     {
       "years": 18,
@@ -86,5 +86,5 @@
       "survival_probability": 0.0
     }
   ],
-  "total_players": 7587
+  "total_players": 7589
 }
