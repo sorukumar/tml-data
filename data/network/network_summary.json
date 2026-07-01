@@ -1,8 +1,8 @@
 {
   "grand_slam_finals_1968": {
-    "players": 112,
-    "matches": 229,
-    "matchups": 154
+    "players": 113,
+    "matches": 230,
+    "matchups": 155
   },
   "individual_slams_1968": {
     "australian_open": {
@@ -19,9 +19,9 @@
     }
   },
   "tennis_legends_rivalries_1968": {
-    "players": 4305,
-    "matches": 151505,
-    "matchups": 73066,
+    "players": 4307,
+    "matches": 151725,
+    "matchups": 73169,
     "min_matches_threshold": 100,
     "peak_ranking_threshold": 30,
     "min_h2h_matches": 5

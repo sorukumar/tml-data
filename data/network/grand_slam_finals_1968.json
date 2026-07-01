@@ -3237,8 +3237,8 @@
       "matches_played": 38,
       "win_pct": 63.16,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 1413,
-      "career_win_pct": 83.3,
+      "career_total_matches": 1416,
+      "career_win_pct": 83.26,
       "gs_titles": 24,
       "peak_ranking": 1,
       "top_5_wins": 19,
@@ -3488,8 +3488,8 @@
       "matches_played": 4,
       "win_pct": 75.0,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 982,
-      "career_win_pct": 60.29,
+      "career_total_matches": 983,
+      "career_win_pct": 60.22,
       "gs_titles": 3,
       "peak_ranking": 3,
       "top_5_wins": 3,
@@ -3534,8 +3534,8 @@
       "matches_played": 3,
       "win_pct": 33.33,
       "win_pct_category": "40% or below",
-      "career_total_matches": 970,
-      "career_win_pct": 62.89,
+      "career_total_matches": 975,
+      "career_win_pct": 62.77,
       "gs_titles": 1,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -3703,8 +3703,8 @@
       "matches_played": 6,
       "win_pct": 16.67,
       "win_pct_category": "40% or below",
-      "career_total_matches": 626,
-      "career_win_pct": 70.77,
+      "career_total_matches": 633,
+      "career_win_pct": 70.62,
       "gs_titles": 1,
       "peak_ranking": 1,
       "top_5_wins": 1,
@@ -3735,34 +3735,42 @@
     {
       "name": "Alexander Zverev",
       "decade": 2020,
-      "active_span": "6 years (20-25)",
+      "active_span": "7 years (20-26)",
       "country": "GER",
-      "matches_won": 0,
-      "matches_played": 3,
-      "win_pct": 0.0,
+      "matches_won": 1,
+      "matches_played": 4,
+      "win_pct": 25.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 768,
-      "career_win_pct": 70.44,
-      "gs_titles": 0,
+      "career_total_matches": 779,
+      "career_win_pct": 70.73,
+      "gs_titles": 1,
       "peak_ranking": 2,
       "top_5_wins": 0,
       "top_5_matches": 3,
       "top_5_win_pct": 0.0,
       "was_top_5": true,
-      "unique_opponents": 3,
-      "surface_wins": {},
-      "surface_matches": {
-        "Hard": 2,
+      "unique_opponents": 4,
+      "surface_wins": {
         "Clay": 1
       },
-      "surface_win_pcts": {},
-      "tourney_wins": {},
+      "surface_matches": {
+        "Hard": 2,
+        "Clay": 2
+      },
+      "surface_win_pcts": {
+        "Clay": 50.0
+      },
+      "tourney_wins": {
+        "Roland Garros": 1
+      },
       "tourney_matches": {
         "US Open": 1,
-        "Roland Garros": 1,
+        "Roland Garros": 2,
         "Australian Open": 1
       },
-      "tourney_win_pcts": {}
+      "tourney_win_pcts": {
+        "Roland Garros": 50.0
+      }
     },
     {
       "name": "Stefanos Tsitsipas",
@@ -3773,8 +3781,8 @@
       "matches_played": 2,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 576,
-      "career_win_pct": 66.67,
+      "career_total_matches": 579,
+      "career_win_pct": 66.49,
       "gs_titles": 0,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -3804,8 +3812,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 341,
-      "career_win_pct": 63.93,
+      "career_total_matches": 346,
+      "career_win_pct": 64.16,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 0,
@@ -3833,8 +3841,8 @@
       "matches_played": 3,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 480,
-      "career_win_pct": 65.42,
+      "career_total_matches": 484,
+      "career_win_pct": 65.5,
       "gs_titles": 0,
       "peak_ranking": 2,
       "top_5_wins": 0,
@@ -3864,8 +3872,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 334,
-      "career_win_pct": 63.17,
+      "career_total_matches": 337,
+      "career_win_pct": 62.91,
       "gs_titles": 0,
       "peak_ranking": 13,
       "top_5_wins": 0,
@@ -3945,8 +3953,8 @@
       "matches_played": 6,
       "win_pct": 66.67,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 438,
-      "career_win_pct": 79.0,
+      "career_total_matches": 440,
+      "career_win_pct": 78.86,
       "gs_titles": 4,
       "peak_ranking": 1,
       "top_5_wins": 3,
@@ -3993,8 +4001,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 558,
-      "career_win_pct": 60.57,
+      "career_total_matches": 568,
+      "career_win_pct": 60.74,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 0,
@@ -4010,6 +4018,35 @@
       "tourney_wins": {},
       "tourney_matches": {
         "US Open": 1
+      },
+      "tourney_win_pcts": {}
+    },
+    {
+      "name": "Flavio Cobolli",
+      "decade": 2020,
+      "active_span": "1 year (26)",
+      "country": "ITA",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 170,
+      "career_win_pct": 56.47,
+      "gs_titles": 0,
+      "peak_ranking": 10,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": false,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Clay": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Roland Garros": 1
       },
       "tourney_win_pcts": {}
     }
@@ -8043,12 +8080,37 @@
           "Wimbledon": 1
         }
       }
+    },
+    {
+      "player1": "Alexander Zverev",
+      "player2": "Flavio Cobolli",
+      "total_matches": 1,
+      "player1_wins": 1,
+      "player2_wins": 0,
+      "surface_breakdown": {
+        "Clay": 1
+      },
+      "tourney_breakdown": {
+        "Roland Garros": 1
+      },
+      "surface_wins": {
+        "Alexander Zverev": {
+          "Clay": 1
+        },
+        "Flavio Cobolli": {}
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {
+          "Roland Garros": 1
+        },
+        "Flavio Cobolli": {}
+      }
     }
   ],
   "metadata": {
-    "total_matches": 229,
-    "total_players": 112,
-    "total_matchups": 154,
+    "total_matches": 230,
+    "total_players": 113,
+    "total_matchups": 155,
     "year_range": {
       "min": 1968,
       "max": 2026

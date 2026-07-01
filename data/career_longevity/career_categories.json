@@ -1,44 +1,44 @@
 {
   "less_than_1_year": {
     "label": "Less than 1 year",
-    "count": 3127,
+    "count": 3129,
     "min_years": 0,
     "max_years": 1,
-    "percentage": 41.2
+    "percentage": 41.19
   },
   "1_to_2_years": {
     "label": "1-2 years",
-    "count": 642,
+    "count": 643,
     "min_years": 1,
     "max_years": 2,
     "percentage": 8.46
   },
   "2_to_5_years": {
     "label": "2-5 years",
-    "count": 1327,
+    "count": 1329,
     "min_years": 2,
     "max_years": 5,
-    "percentage": 17.49
+    "percentage": 17.5
   },
   "5_to_10_years": {
     "label": "5-10 years",
-    "count": 1461,
+    "count": 1462,
     "min_years": 5,
     "max_years": 10,
     "percentage": 19.25
   },
   "10_to_15_years": {
     "label": "10-15 years",
-    "count": 810,
+    "count": 811,
     "min_years": 10,
     "max_years": 15,
-    "percentage": 10.67
+    "percentage": 10.68
   },
   "15_plus_years": {
     "label": "15+ years",
     "count": 222,
     "min_years": 15,
     "max_years": null,
-    "percentage": 2.93
+    "percentage": 2.92
   }
 }

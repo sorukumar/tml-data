@@ -109,10 +109,10 @@
   },
   {
     "player_name": "Stan Wawrinka",
-    "career_length_years": 22.87,
+    "career_length_years": 22.88,
     "career_start": "2003-07-07",
-    "career_end": "2026-05-20",
-    "total_matches": 982,
+    "career_end": "2026-05-25",
+    "total_matches": 983,
     "wins": 592,
     "best_rank": 3.0
   },
@@ -136,11 +136,11 @@
   },
   {
     "player_name": "Novak Djokovic",
-    "career_length_years": 22.08,
+    "career_length_years": 22.14,
     "career_start": "2004-04-09",
-    "career_end": "2026-05-08",
-    "total_matches": 1413,
-    "wins": 1177,
+    "career_end": "2026-05-29",
+    "total_matches": 1416,
+    "wins": 1179,
     "best_rank": 1.0
   },
   {
@@ -162,21 +162,21 @@
     "best_rank": 1.0
   },
   {
+    "player_name": "Gael Monfils",
+    "career_length_years": 21.62,
+    "career_start": "2004-10-11",
+    "career_end": "2026-05-26",
+    "total_matches": 952,
+    "wins": 588,
+    "best_rank": 6.0
+  },
+  {
     "player_name": "Harold Solomon",
     "career_length_years": 21.58,
     "career_start": "1969-08-16",
     "career_end": "1991-03-15",
     "total_matches": 932,
     "wins": 592,
-    "best_rank": 6.0
-  },
-  {
-    "player_name": "Gael Monfils",
-    "career_length_years": 21.53,
-    "career_start": "2004-10-11",
-    "career_end": "2026-04-23",
-    "total_matches": 951,
-    "wins": 588,
     "best_rank": 6.0
   },
   {
@@ -208,11 +208,11 @@
   },
   {
     "player_name": "Marin Cilic",
-    "career_length_years": 20.79,
+    "career_length_years": 20.89,
     "career_start": "2005-07-25",
-    "career_end": "2026-05-09",
-    "total_matches": 970,
-    "wins": 610,
+    "career_end": "2026-06-16",
+    "total_matches": 975,
+    "wins": 612,
     "best_rank": 3.0
   },
   {
@@ -522,6 +522,15 @@
     "best_rank": 35.0
   },
   {
+    "player_name": "Adrian Mannarino",
+    "career_length_years": 18.08,
+    "career_start": "2008-05-25",
+    "career_end": "2026-06-22",
+    "total_matches": 691,
+    "wins": 319,
+    "best_rank": 17.0
+  },
+  {
     "player_name": "Gilles Simon",
     "career_length_years": 18.05,
     "career_start": "2004-10-11",
@@ -531,6 +540,15 @@
     "best_rank": 7.0
   },
   {
+    "player_name": "Grigor Dimitrov",
+    "career_length_years": 18.03,
+    "career_start": "2008-06-15",
+    "career_end": "2026-06-25",
+    "total_matches": 799,
+    "wins": 486,
+    "best_rank": 3.0
+  },
+  {
     "player_name": "Ricardo Mena",
     "career_length_years": 18.03,
     "career_start": "1990-03-30",
@@ -538,15 +556,6 @@
     "total_matches": 30,
     "wins": 15,
     "best_rank": 285.0
-  },
-  {
-    "player_name": "Adrian Mannarino",
-    "career_length_years": 17.98,
-    "career_start": "2008-05-25",
-    "career_end": "2026-05-19",
-    "total_matches": 683,
-    "wins": 315,
-    "best_rank": 17.0
   },
   {
     "player_name": "Anoosha Shahgholi",
@@ -583,15 +592,6 @@
     "total_matches": 485,
     "wins": 246,
     "best_rank": 10.0
-  },
-  {
-    "player_name": "Grigor Dimitrov",
-    "career_length_years": 17.85,
-    "career_start": "2008-06-15",
-    "career_end": "2026-04-23",
-    "total_matches": 796,
-    "wins": 484,
-    "best_rank": 3.0
   },
   {
     "player_name": "Kei Nishikori",
