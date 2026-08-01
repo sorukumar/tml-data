@@ -253,7 +253,7 @@
     "date": "19800623",
     "score": "1-6 7-5 6-3 6-7 8-6",
     "duration": 198,
-    "NBI": 0.742,
+    "NBI": 0.743,
     "NBI_100": 79.7,
     "drama_tags": "comeback, tiebreaks, momentum, bp drama",
     "raw_stats": {
@@ -261,7 +261,7 @@
       "tiebreak_count": 4,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -356,7 +356,7 @@
       "tiebreak_count": 4,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -394,7 +394,7 @@
       "tiebreak_count": 5,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -489,7 +489,7 @@
       "tiebreak_count": 1,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -508,7 +508,7 @@
       "tiebreak_count": 1,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -527,7 +527,7 @@
       "tiebreak_count": 2,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -538,15 +538,15 @@
     "date": "19730625",
     "score": "8-9 9-7 5-7 6-4 7-5",
     "duration": 241,
-    "NBI": 0.699,
-    "NBI_100": 75.0,
+    "NBI": 0.7,
+    "NBI_100": 75.1,
     "drama_tags": "comeback, tiebreaks, momentum, bp drama",
     "raw_stats": {
       "avg_set_margin": 1.75,
       "tiebreak_count": 5,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -622,7 +622,7 @@
       "tiebreak_count": 4,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -660,7 +660,7 @@
       "tiebreak_count": 3,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -698,7 +698,7 @@
       "tiebreak_count": 2,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -755,7 +755,7 @@
       "tiebreak_count": 2,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -812,7 +812,7 @@
       "tiebreak_count": 3,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -831,7 +831,7 @@
       "tiebreak_count": 2,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -869,7 +869,7 @@
       "tiebreak_count": 3,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -881,14 +881,14 @@
     "score": "3-6 6-4 4-6 7-6 6-2",
     "duration": 206,
     "NBI": 0.634,
-    "NBI_100": 68.0,
+    "NBI_100": 68.1,
     "drama_tags": "comeback, momentum, bp drama",
     "raw_stats": {
       "avg_set_margin": 2.0,
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -926,26 +926,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Steve Denton def. Henry Pfister",
-    "tourney": "Australian Open",
-    "round": "SF",
-    "date": "19811224",
-    "score": "7-6 6-7 6-1 3-6 6-3",
-    "duration": 183,
-    "NBI": 0.632,
-    "NBI_100": 67.9,
-    "drama_tags": "comeback, tiebreaks, momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.0,
-      "tiebreak_count": 2,
-      "lead_changes": 5,
-      "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -964,7 +945,26 @@
       "tiebreak_count": 2,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Steve Denton def. Henry Pfister",
+    "tourney": "Australian Open",
+    "round": "SF",
+    "date": "19811224",
+    "score": "7-6 6-7 6-1 3-6 6-3",
+    "duration": 183,
+    "NBI": 0.632,
+    "NBI_100": 67.9,
+    "drama_tags": "comeback, tiebreaks, momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 5,
+      "comeback": 2,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1021,7 +1021,7 @@
       "tiebreak_count": 1,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1097,7 +1097,7 @@
       "tiebreak_count": 2,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1108,7 +1108,7 @@
     "date": "19800826",
     "score": "6-4 5-7 0-6 6-3 7-6",
     "duration": 187,
-    "NBI": 0.618,
+    "NBI": 0.619,
     "NBI_100": 66.4,
     "drama_tags": "comeback, tiebreaks, momentum, bp drama",
     "raw_stats": {
@@ -1116,7 +1116,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1249,7 +1249,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1306,7 +1306,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1325,7 +1325,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1363,7 +1363,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1374,7 +1374,7 @@
     "date": "19850827",
     "score": "3-6 6-4 4-6 6-3 6-3",
     "duration": 176,
-    "NBI": 0.59,
+    "NBI": 0.591,
     "NBI_100": 63.4,
     "drama_tags": "comeback, momentum, bp drama",
     "raw_stats": {
@@ -1382,7 +1382,7 @@
       "tiebreak_count": 0,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1401,7 +1401,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1558,6 +1558,25 @@
     }
   },
   {
+    "match": "Ken Rosewall def. Stan Smith",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19740624",
+    "score": "6-8 4-6 9-8 6-1 6-3",
+    "duration": 205,
+    "NBI": 0.58,
+    "NBI_100": 62.3,
+    "drama_tags": "comeback, tiebreaks, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 1,
+      "comeback": 4,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Jannik Sinner def. Daniil Medvedev",
     "tourney": "Australian Open",
     "round": "F",
@@ -1577,25 +1596,6 @@
     }
   },
   {
-    "match": "Ken Rosewall def. Stan Smith",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19740624",
-    "score": "6-8 4-6 9-8 6-1 6-3",
-    "duration": 205,
-    "NBI": 0.58,
-    "NBI_100": 62.3,
-    "drama_tags": "comeback, tiebreaks, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.0,
-      "tiebreak_count": 2,
-      "lead_changes": 1,
-      "comeback": 4,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Tony Roche def. John Newcombe",
     "tourney": "US Open",
     "round": "SF",
@@ -1610,7 +1610,7 @@
       "tiebreak_count": 2,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1629,7 +1629,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1686,7 +1686,7 @@
       "tiebreak_count": 2,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1705,7 +1705,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1762,7 +1762,7 @@
       "tiebreak_count": 0,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1800,7 +1800,7 @@
       "tiebreak_count": 2,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1819,7 +1819,7 @@
       "tiebreak_count": 0,
       "lead_changes": 5,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1914,7 +1914,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1933,7 +1933,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -1952,7 +1952,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2009,7 +2009,7 @@
       "tiebreak_count": 4,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2028,7 +2028,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2066,7 +2066,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2085,7 +2085,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2104,7 +2104,7 @@
       "tiebreak_count": 4,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2123,7 +2123,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2256,7 +2256,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2324,7 +2324,7 @@
     "date": "19860826",
     "score": "4-6 6-3 6-4 3-6 6-3",
     "duration": 176,
-    "NBI": 0.513,
+    "NBI": 0.514,
     "NBI_100": 55.1,
     "drama_tags": "comeback, momentum, bp drama",
     "raw_stats": {
@@ -2332,7 +2332,7 @@
       "tiebreak_count": 0,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2408,7 +2408,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2446,7 +2446,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2484,7 +2484,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2560,7 +2560,7 @@
       "tiebreak_count": 1,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2685,7 +2685,7 @@
     "date": "19740603",
     "score": "2-6 6-7 6-0 6-1 6-1",
     "duration": 168,
-    "NBI": 0.488,
+    "NBI": 0.489,
     "NBI_100": 52.4,
     "drama_tags": "comeback, bp drama",
     "raw_stats": {
@@ -2693,7 +2693,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2712,7 +2712,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2723,7 +2723,7 @@
     "date": "19720522",
     "score": "4-6 6-3 6-1 2-6 6-3",
     "duration": 177,
-    "NBI": 0.485,
+    "NBI": 0.486,
     "NBI_100": 52.1,
     "drama_tags": "comeback, momentum, bp drama",
     "raw_stats": {
@@ -2731,7 +2731,7 @@
       "tiebreak_count": 0,
       "lead_changes": 4,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2752,6 +2752,25 @@
       "comeback": 0,
       "bp_saved_ratio": 0.733,
       "bp_total": 15.0
+    }
+  },
+  {
+    "match": "Jannik Sinner def. Alexander Zverev",
+    "tourney": "Wimbledon",
+    "round": "F",
+    "date": "20260712",
+    "score": "6-7(7) 7-6(2) 6-3 6-4",
+    "duration": 226,
+    "NBI": 0.483,
+    "NBI_100": 51.8,
+    "drama_tags": "tiebreaks, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 1.75,
+      "tiebreak_count": 2,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.667,
+      "bp_total": 6.0
     }
   },
   {
@@ -2845,7 +2864,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2902,7 +2921,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -2932,7 +2951,7 @@
     "date": "19870112",
     "score": "7-6 5-7 7-6 6-4",
     "duration": 172,
-    "NBI": 0.476,
+    "NBI": 0.477,
     "NBI_100": 51.1,
     "drama_tags": "tiebreaks, momentum, bp drama",
     "raw_stats": {
@@ -2940,7 +2959,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3054,7 +3073,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3092,7 +3111,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3122,7 +3141,7 @@
     "date": "19680624",
     "score": "9-7 8-10 6-4 8-6",
     "duration": 208,
-    "NBI": 0.464,
+    "NBI": 0.465,
     "NBI_100": 49.8,
     "drama_tags": "tiebreaks, momentum, bp drama",
     "raw_stats": {
@@ -3130,7 +3149,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3206,7 +3225,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3225,7 +3244,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3358,7 +3377,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3434,7 +3453,7 @@
       "tiebreak_count": 3,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3491,7 +3510,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3510,7 +3529,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3529,7 +3548,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3700,7 +3719,7 @@
       "tiebreak_count": 3,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3757,7 +3776,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3776,7 +3795,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3814,7 +3833,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3852,7 +3871,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 4,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -3985,7 +4004,7 @@
       "tiebreak_count": 3,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4099,7 +4118,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 2,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4175,7 +4194,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4332,6 +4351,25 @@
     }
   },
   {
+    "match": "John Newcombe def. Jan Kodes",
+    "tourney": "US Open",
+    "round": "F",
+    "date": "19730829",
+    "score": "6-4 1-6 4-6 6-2 6-3",
+    "duration": 158,
+    "NBI": 0.413,
+    "NBI_100": 44.3,
+    "drama_tags": "comeback, momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 2,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Roger Federer def. Andy Murray",
     "tourney": "Wimbledon",
     "round": "F",
@@ -4351,25 +4389,6 @@
     }
   },
   {
-    "match": "John Newcombe def. Jan Kodes",
-    "tourney": "US Open",
-    "round": "F",
-    "date": "19730829",
-    "score": "6-4 1-6 4-6 6-2 6-3",
-    "duration": 158,
-    "NBI": 0.413,
-    "NBI_100": 44.3,
-    "drama_tags": "comeback, momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 2,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Victor Pecci def. Jimmy Connors",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -4384,7 +4403,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4403,7 +4422,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4433,7 +4452,7 @@
     "date": "19870112",
     "score": "6-3 6-4 3-6 5-7 6-3",
     "duration": 176,
-    "NBI": 0.407,
+    "NBI": 0.408,
     "NBI_100": 43.7,
     "drama_tags": "momentum, bp drama",
     "raw_stats": {
@@ -4441,7 +4460,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4465,6 +4484,25 @@
     }
   },
   {
+    "match": "Stan Smith def. Tom Okker",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19710901",
+    "score": "7-6 6-3 3-6 2-6 6-3",
+    "duration": 172,
+    "NBI": 0.406,
+    "NBI_100": 43.6,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.5,
+      "tiebreak_count": 1,
+      "lead_changes": 2,
+      "comeback": 1,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Andy Murray def. Jo-Wilfried Tsonga",
     "tourney": "Wimbledon",
     "round": "SF",
@@ -4481,25 +4519,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.7,
       "bp_total": 20.0
-    }
-  },
-  {
-    "match": "Stan Smith def. Tom Okker",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19710901",
-    "score": "7-6 6-3 3-6 2-6 6-3",
-    "duration": 172,
-    "NBI": 0.406,
-    "NBI_100": 43.6,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.5,
-      "tiebreak_count": 1,
-      "lead_changes": 2,
-      "comeback": 1,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -4593,7 +4612,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4612,7 +4631,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4631,7 +4650,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4650,7 +4669,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 1,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4669,7 +4688,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4807,6 +4826,25 @@
     }
   },
   {
+    "match": "Boris Becker def. Henri Leconte",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19860623",
+    "score": "6-2 6-4 6-7 6-3",
+    "duration": 144,
+    "NBI": 0.395,
+    "NBI_100": 42.4,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.5,
+      "tiebreak_count": 1,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Roger Federer def. Tomas Berdych",
     "tourney": "Wimbledon",
     "round": "SF",
@@ -4823,25 +4861,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.8,
       "bp_total": 15.0
-    }
-  },
-  {
-    "match": "Boris Becker def. Henri Leconte",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19860623",
-    "score": "6-2 6-4 6-7 6-3",
-    "duration": 144,
-    "NBI": 0.395,
-    "NBI_100": 42.3,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.5,
-      "tiebreak_count": 1,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -4864,25 +4883,6 @@
     }
   },
   {
-    "match": "Jimmy Connors def. Phil Dent",
-    "tourney": "Australian Open",
-    "round": "F",
-    "date": "19731226",
-    "score": "7-6 6-4 4-6 6-3",
-    "duration": 151,
-    "NBI": 0.39,
-    "NBI_100": 41.9,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.0,
-      "tiebreak_count": 1,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Rod Laver def. John Newcombe",
     "tourney": "Wimbledon",
     "round": "F",
@@ -4897,7 +4897,26 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Jimmy Connors def. Phil Dent",
+    "tourney": "Australian Open",
+    "round": "F",
+    "date": "19731226",
+    "score": "7-6 6-4 4-6 6-3",
+    "duration": 151,
+    "NBI": 0.39,
+    "NBI_100": 41.9,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 1,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -4916,7 +4935,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5011,7 +5030,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5087,7 +5106,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5163,7 +5182,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5182,7 +5201,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5239,7 +5258,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5301,25 +5320,6 @@
     }
   },
   {
-    "match": "Mats Wilander def. Kevin Curren",
-    "tourney": "Australian Open",
-    "round": "F",
-    "date": "19841126",
-    "score": "6-7 6-4 7-6 6-2",
-    "duration": 158,
-    "NBI": 0.378,
-    "NBI_100": 40.5,
-    "drama_tags": "tiebreaks, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.0,
-      "tiebreak_count": 2,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Brian Teacher def. Peter McNamara",
     "tourney": "Australian Open",
     "round": "SF",
@@ -5334,7 +5334,26 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Mats Wilander def. Kevin Curren",
+    "tourney": "Australian Open",
+    "round": "F",
+    "date": "19841126",
+    "score": "6-7 6-4 7-6 6-2",
+    "duration": 158,
+    "NBI": 0.378,
+    "NBI_100": 40.5,
+    "drama_tags": "tiebreaks, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 2,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5372,7 +5391,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5543,7 +5562,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5657,7 +5676,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5676,7 +5695,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5688,14 +5707,14 @@
     "score": "8-6 6-2 2-6 7-5",
     "duration": 173,
     "NBI": 0.368,
-    "NBI_100": 39.4,
+    "NBI_100": 39.5,
     "drama_tags": "tiebreaks, momentum, bp drama",
     "raw_stats": {
       "avg_set_margin": 3.0,
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5733,7 +5752,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5828,7 +5847,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5840,14 +5859,14 @@
     "score": "6-2 7-5 7-6",
     "duration": 135,
     "NBI": 0.362,
-    "NBI_100": 38.8,
+    "NBI_100": 38.9,
     "drama_tags": "tiebreaks, bp drama",
     "raw_stats": {
       "avg_set_margin": 2.33,
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5904,7 +5923,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -5923,7 +5942,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6056,7 +6075,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6099,6 +6118,25 @@
     }
   },
   {
+    "match": "Mikael Pernfors def. Henri Leconte",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19860526",
+    "score": "2-6 7-5 7-6 6-3",
+    "duration": 173,
+    "NBI": 0.356,
+    "NBI_100": 38.2,
+    "drama_tags": "tiebreaks, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.5,
+      "tiebreak_count": 2,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Novak Djokovic def. Carlos Alcaraz",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -6115,25 +6153,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.625,
       "bp_total": 24.0
-    }
-  },
-  {
-    "match": "Mikael Pernfors def. Henri Leconte",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19860526",
-    "score": "2-6 7-5 7-6 6-3",
-    "duration": 173,
-    "NBI": 0.356,
-    "NBI_100": 38.2,
-    "drama_tags": "tiebreaks, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.5,
-      "tiebreak_count": 2,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -6189,7 +6208,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6213,25 +6232,6 @@
     }
   },
   {
-    "match": "Bjorn Borg def. Adriano Panatta",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19750604",
-    "score": "6-4 1-6 7-5 6-4",
-    "duration": 160,
-    "NBI": 0.352,
-    "NBI_100": 37.8,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 1,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Bjorn Borg def. Victor Pecci",
     "tourney": "Roland Garros",
     "round": "F",
@@ -6246,7 +6246,26 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Bjorn Borg def. Adriano Panatta",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19750604",
+    "score": "6-4 1-6 7-5 6-4",
+    "duration": 160,
+    "NBI": 0.352,
+    "NBI_100": 37.8,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 1,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6284,7 +6303,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6303,7 +6322,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6341,7 +6360,7 @@
       "tiebreak_count": 2,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6398,7 +6417,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6417,7 +6436,7 @@
       "tiebreak_count": 2,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6474,7 +6493,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6588,7 +6607,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6664,7 +6683,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6740,7 +6759,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6759,7 +6778,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6854,7 +6873,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6935,32 +6954,13 @@
     }
   },
   {
-    "match": "John Newcombe def. Ray Ruffels",
-    "tourney": "Australian Open",
-    "round": "SF",
-    "date": "19751226",
-    "score": "6-4 6-4 7-6",
-    "duration": 118,
-    "NBI": 0.332,
-    "NBI_100": 35.7,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 1.67,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Jimmy Connors def. John Alexander",
     "tourney": "Australian Open",
     "round": "SF",
     "date": "19731226",
     "score": "7-6 6-4 6-4",
     "duration": 118,
-    "NBI": 0.332,
+    "NBI": 0.333,
     "NBI_100": 35.7,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -6968,7 +6968,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -6979,7 +6979,7 @@
     "date": "19710307",
     "score": "6-4 6-4 7-6",
     "duration": 118,
-    "NBI": 0.332,
+    "NBI": 0.333,
     "NBI_100": 35.7,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -6987,7 +6987,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John Newcombe def. Ray Ruffels",
+    "tourney": "Australian Open",
+    "round": "SF",
+    "date": "19751226",
+    "score": "6-4 6-4 7-6",
+    "duration": 118,
+    "NBI": 0.333,
+    "NBI_100": 35.7,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 1.67,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7025,7 +7044,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7044,8 +7063,27 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Jannik Sinner def. Novak Djokovic",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "20260710",
+    "score": "6-4 6-4 6-4",
+    "duration": 127,
+    "NBI": 0.331,
+    "NBI_100": 35.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.786,
+      "bp_total": 14.0
     }
   },
   {
@@ -7120,7 +7158,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7139,7 +7177,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7158,7 +7196,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7215,7 +7253,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7272,7 +7310,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7359,7 +7397,7 @@
     "date": "19810525",
     "score": "6-4 6-4 7-5",
     "duration": 131,
-    "NBI": 0.321,
+    "NBI": 0.322,
     "NBI_100": 34.5,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -7367,7 +7405,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7405,7 +7443,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7443,7 +7481,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7462,7 +7500,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7473,7 +7511,7 @@
     "date": "19860623",
     "score": "6-4 6-3 7-5",
     "duration": 111,
-    "NBI": 0.319,
+    "NBI": 0.32,
     "NBI_100": 34.3,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -7481,7 +7519,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7519,26 +7557,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Brian Teacher def. Kim Warwick",
-    "tourney": "Australian Open",
-    "round": "F",
-    "date": "19801226",
-    "score": "7-5 7-6 6-2",
-    "duration": 118,
-    "NBI": 0.319,
-    "NBI_100": 34.2,
-    "drama_tags": "tiebreaks, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.33,
-      "tiebreak_count": 2,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7557,7 +7576,26 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Brian Teacher def. Kim Warwick",
+    "tourney": "Australian Open",
+    "round": "F",
+    "date": "19801226",
+    "score": "7-5 7-6 6-2",
+    "duration": 118,
+    "NBI": 0.319,
+    "NBI_100": 34.2,
+    "drama_tags": "tiebreaks, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.33,
+      "tiebreak_count": 2,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7638,6 +7676,44 @@
     }
   },
   {
+    "match": "Ken Rosewall def. Roger Taylor",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19700622",
+    "score": "6-3 4-6 6-3 6-3",
+    "duration": 133,
+    "NBI": 0.316,
+    "NBI_100": 33.9,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Alex Metreveli def. Sandy Mayer",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19730625",
+    "score": "6-3 3-6 6-3 6-4",
+    "duration": 133,
+    "NBI": 0.316,
+    "NBI_100": 33.9,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Novak Djokovic def. Roger Federer",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -7657,44 +7733,6 @@
     }
   },
   {
-    "match": "Ken Rosewall def. Roger Taylor",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19700622",
-    "score": "6-3 4-6 6-3 6-3",
-    "duration": 133,
-    "NBI": 0.316,
-    "NBI_100": 33.9,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Alex Metreveli def. Sandy Mayer",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19730625",
-    "score": "6-3 3-6 6-3 6-4",
-    "duration": 133,
-    "NBI": 0.316,
-    "NBI_100": 33.9,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Andres Gomez def. Thomas Muster",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -7709,7 +7747,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7771,11 +7809,11 @@
     }
   },
   {
-    "match": "John McEnroe def. Vitas Gerulaitis",
+    "match": "Ivan Lendl def. Stefan Edberg",
     "tourney": "US Open",
-    "round": "F",
-    "date": "19790828",
-    "score": "7-5 6-3 6-3",
+    "round": "SF",
+    "date": "19860826",
+    "score": "7-6 6-2 6-3",
     "duration": 112,
     "NBI": 0.313,
     "NBI_100": 33.6,
@@ -7785,7 +7823,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7804,45 +7842,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Ivan Lendl def. Stefan Edberg",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19860826",
-    "score": "7-6 6-2 6-3",
-    "duration": 112,
-    "NBI": 0.313,
-    "NBI_100": 33.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.67,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "John McEnroe def. Jimmy Connors",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19790828",
-    "score": "6-3 6-3 7-5",
-    "duration": 112,
-    "NBI": 0.313,
-    "NBI_100": 33.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.67,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7861,7 +7861,45 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John McEnroe def. Vitas Gerulaitis",
+    "tourney": "US Open",
+    "round": "F",
+    "date": "19790828",
+    "score": "7-5 6-3 6-3",
+    "duration": 112,
+    "NBI": 0.313,
+    "NBI_100": 33.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.67,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John McEnroe def. Jimmy Connors",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19790828",
+    "score": "6-3 6-3 7-5",
+    "duration": 112,
+    "NBI": 0.313,
+    "NBI_100": 33.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.67,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7891,7 +7929,7 @@
     "date": "19711227",
     "score": "7-6 6-1 3-6 6-2",
     "duration": 133,
-    "NBI": 0.311,
+    "NBI": 0.312,
     "NBI_100": 33.4,
     "drama_tags": "momentum, bp drama",
     "raw_stats": {
@@ -7899,7 +7937,7 @@
       "tiebreak_count": 1,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7910,7 +7948,7 @@
     "date": "19840625",
     "score": "6-3 7-6 6-4",
     "duration": 115,
-    "NBI": 0.311,
+    "NBI": 0.312,
     "NBI_100": 33.4,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -7918,7 +7956,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -7975,7 +8013,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8013,7 +8051,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8051,7 +8089,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8075,25 +8113,6 @@
     }
   },
   {
-    "match": "Stan Smith def. Jan Kodes",
-    "tourney": "US Open",
-    "round": "F",
-    "date": "19710901",
-    "score": "3-6 6-3 6-2 7-6",
-    "duration": 140,
-    "NBI": 0.303,
-    "NBI_100": 32.5,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 1,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Boris Becker def. Anders Jarryd",
     "tourney": "Wimbledon",
     "round": "SF",
@@ -8108,7 +8127,26 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Stan Smith def. Jan Kodes",
+    "tourney": "US Open",
+    "round": "F",
+    "date": "19710901",
+    "score": "3-6 6-3 6-2 7-6",
+    "duration": 140,
+    "NBI": 0.303,
+    "NBI_100": 32.5,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 1,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8132,6 +8170,25 @@
     }
   },
   {
+    "match": "Pete Sampras def. John McEnroe",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19900827",
+    "score": "6-2 6-4 3-6 6-3",
+    "duration": 135,
+    "NBI": 0.303,
+    "NBI_100": 32.5,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Novak Djokovic def. Ernests Gulbis",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -8148,25 +8205,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.588,
       "bp_total": 17.0
-    }
-  },
-  {
-    "match": "Pete Sampras def. John McEnroe",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19900827",
-    "score": "6-2 6-4 3-6 6-3",
-    "duration": 135,
-    "NBI": 0.302,
-    "NBI_100": 32.4,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -8284,25 +8322,6 @@
     }
   },
   {
-    "match": "Guillermo Vilas def. John Alexander",
-    "tourney": "Australian Open-1",
-    "round": "SF",
-    "date": "19770101",
-    "score": "6-4 1-6 6-3 6-4",
-    "duration": 129,
-    "NBI": 0.3,
-    "NBI_100": 32.2,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Roscoe Tanner def. Ken Rosewall",
     "tourney": "Australian Open-1",
     "round": "SF",
@@ -8317,7 +8336,26 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Guillermo Vilas def. John Alexander",
+    "tourney": "Australian Open-1",
+    "round": "SF",
+    "date": "19770101",
+    "score": "6-4 1-6 6-3 6-4",
+    "duration": 129,
+    "NBI": 0.3,
+    "NBI_100": 32.2,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8455,6 +8493,25 @@
     }
   },
   {
+    "match": "Jimmy Connors def. Guillermo Vilas",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19820831",
+    "score": "6-1 3-6 6-2 6-3",
+    "duration": 123,
+    "NBI": 0.293,
+    "NBI_100": 31.5,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.75,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Mark Philippoussis def. Sebastien Grosjean",
     "tourney": "Wimbledon",
     "round": "SF",
@@ -8474,32 +8531,13 @@
     }
   },
   {
-    "match": "Jimmy Connors def. Guillermo Vilas",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19820831",
-    "score": "6-1 3-6 6-2 6-3",
-    "duration": 123,
-    "NBI": 0.293,
-    "NBI_100": 31.4,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.75,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Andre Agassi def. Jonas Svensson",
     "tourney": "Roland Garros",
     "round": "SF",
     "date": "19900528",
     "score": "6-1 6-4 3-6 6-3",
     "duration": 144,
-    "NBI": 0.292,
+    "NBI": 0.293,
     "NBI_100": 31.4,
     "drama_tags": "momentum, bp drama",
     "raw_stats": {
@@ -8507,7 +8545,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8569,11 +8607,11 @@
     }
   },
   {
-    "match": "Stefan Edberg def. Wally Masur",
+    "match": "Rod Laver def. Andres Gimeno",
     "tourney": "Australian Open",
-    "round": "SF",
-    "date": "19870112",
-    "score": "6-2 6-4 7-6",
+    "round": "F",
+    "date": "19690120",
+    "score": "6-3 6-4 7-5",
     "duration": 111,
     "NBI": 0.29,
     "NBI_100": 31.2,
@@ -8583,7 +8621,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8602,35 +8640,16 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
   {
-    "match": "Rod Laver def. Andres Gimeno",
-    "tourney": "Australian Open",
-    "round": "F",
-    "date": "19690120",
-    "score": "6-3 6-4 7-5",
-    "duration": 111,
-    "NBI": 0.29,
-    "NBI_100": 31.2,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.33,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "John Newcombe def. Patrick Proisy",
+    "match": "Stefan Edberg def. Wally Masur",
     "tourney": "Australian Open",
     "round": "SF",
-    "date": "19721226",
-    "score": "7-6 6-4 6-2",
+    "date": "19870112",
+    "score": "6-2 6-4 7-6",
     "duration": 111,
     "NBI": 0.29,
     "NBI_100": 31.2,
@@ -8640,7 +8659,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8659,7 +8678,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John Newcombe def. Patrick Proisy",
+    "tourney": "Australian Open",
+    "round": "SF",
+    "date": "19721226",
+    "score": "7-6 6-4 6-2",
+    "duration": 111,
+    "NBI": 0.29,
+    "NBI_100": 31.2,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8671,14 +8709,14 @@
     "score": "3-6 6-4 6-2 6-2",
     "duration": 144,
     "NBI": 0.29,
-    "NBI_100": 31.1,
+    "NBI_100": 31.2,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.25,
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8716,7 +8754,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8735,7 +8773,45 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ilie Nastase def. Tom Gorman",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19720830",
+    "score": "4-6 7-6 6-2 6-1",
+    "duration": 136,
+    "NBI": 0.287,
+    "NBI_100": 30.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 1,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Stan Smith def. Jan Kodes",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19720626",
+    "score": "3-6 6-4 6-1 7-5",
+    "duration": 136,
+    "NBI": 0.287,
+    "NBI_100": 30.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 1,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8756,44 +8832,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.643,
       "bp_total": 14.0
-    }
-  },
-  {
-    "match": "Stan Smith def. Jan Kodes",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19720626",
-    "score": "3-6 6-4 6-1 7-5",
-    "duration": 136,
-    "NBI": 0.287,
-    "NBI_100": 30.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 1,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Ilie Nastase def. Tom Gorman",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19720830",
-    "score": "4-6 7-6 6-2 6-1",
-    "duration": 136,
-    "NBI": 0.287,
-    "NBI_100": 30.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 1,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -8854,25 +8892,6 @@
     }
   },
   {
-    "match": "Stefan Edberg def. Ivan Lendl",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19900625",
-    "score": "6-1 7-6 6-3",
-    "duration": 104,
-    "NBI": 0.286,
-    "NBI_100": 30.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Boris Becker def. Stefan Edberg",
     "tourney": "Wimbledon",
     "round": "F",
@@ -8880,14 +8899,33 @@
     "score": "6-0 7-6 6-4",
     "duration": 104,
     "NBI": 0.286,
-    "NBI_100": 30.6,
+    "NBI_100": 30.7,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.0,
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Stefan Edberg def. Ivan Lendl",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19900625",
+    "score": "6-1 7-6 6-3",
+    "duration": 104,
+    "NBI": 0.286,
+    "NBI_100": 30.7,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -8908,6 +8946,25 @@
       "comeback": 0,
       "bp_saved_ratio": 0.7,
       "bp_total": 20.0
+    }
+  },
+  {
+    "match": "Alexander Zverev def. Arthur Fery",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "20260710",
+    "score": "7-6(0) 6-2 6-4",
+    "duration": 135,
+    "NBI": 0.285,
+    "NBI_100": 30.6,
+    "drama_tags": "standard",
+    "raw_stats": {
+      "avg_set_margin": 2.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.444,
+      "bp_total": 9.0
     }
   },
   {
@@ -8982,7 +9039,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9001,7 +9058,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9139,25 +9196,6 @@
     }
   },
   {
-    "match": "Henri Leconte def. Jonas Svensson",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19880523",
-    "score": "7-6 6-2 6-3",
-    "duration": 123,
-    "NBI": 0.279,
-    "NBI_100": 29.9,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.67,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Jan Kodes def. Zeljko Franulovic",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -9172,7 +9210,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Henri Leconte def. Jonas Svensson",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19880523",
+    "score": "7-6 6-2 6-3",
+    "duration": 123,
+    "NBI": 0.279,
+    "NBI_100": 29.9,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.67,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9191,7 +9248,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9229,7 +9286,7 @@
       "tiebreak_count": 2,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9253,6 +9310,25 @@
     }
   },
   {
+    "match": "Jimmy Connors def. Dick Stockton",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19740624",
+    "score": "4-6 6-2 6-3 6-4",
+    "duration": 133,
+    "NBI": 0.276,
+    "NBI_100": 29.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.75,
+      "tiebreak_count": 0,
+      "lead_changes": 1,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
     "match": "Carlos Moya def. Felix Mantilla",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -9269,25 +9345,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.385,
       "bp_total": 13.0
-    }
-  },
-  {
-    "match": "Jimmy Connors def. Dick Stockton",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19740624",
-    "score": "4-6 6-2 6-3 6-4",
-    "duration": 133,
-    "NBI": 0.276,
-    "NBI_100": 29.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.75,
-      "tiebreak_count": 0,
-      "lead_changes": 1,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -9324,7 +9381,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9400,7 +9457,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9419,7 +9476,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9438,7 +9495,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9457,7 +9514,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9507,14 +9564,14 @@
     "score": "6-4 6-3 6-3",
     "duration": 100,
     "NBI": 0.265,
-    "NBI_100": 28.4,
+    "NBI_100": 28.5,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 2.67,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9533,7 +9590,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9545,14 +9602,14 @@
     "score": "1-6 7-6 6-0 6-4",
     "duration": 148,
     "NBI": 0.264,
-    "NBI_100": 28.3,
+    "NBI_100": 28.4,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.5,
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9571,26 +9628,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Ilie Nastase def. Manuel Orantes",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19720626",
-    "score": "6-3 6-4 6-4",
-    "duration": 104,
-    "NBI": 0.262,
-    "NBI_100": 28.1,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 2.33,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9609,7 +9647,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ilie Nastase def. Manuel Orantes",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19720626",
+    "score": "6-3 6-4 6-4",
+    "duration": 104,
+    "NBI": 0.262,
+    "NBI_100": 28.1,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 2.33,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9647,7 +9704,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9666,7 +9723,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9842,32 +9899,13 @@
     }
   },
   {
-    "match": "Patrick Proisy def. Manuel Orantes",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19720522",
-    "score": "6-3 7-5 6-2",
-    "duration": 119,
-    "NBI": 0.257,
-    "NBI_100": 27.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Guillermo Vilas def. Harold Solomon",
     "tourney": "US Open",
     "round": "SF",
     "date": "19770831",
     "score": "6-2 7-6 6-2",
     "duration": 119,
-    "NBI": 0.257,
+    "NBI": 0.258,
     "NBI_100": 27.6,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -9875,7 +9913,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Patrick Proisy def. Manuel Orantes",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19720522",
+    "score": "6-3 7-5 6-2",
+    "duration": 119,
+    "NBI": 0.258,
+    "NBI_100": 27.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9886,7 +9943,7 @@
     "date": "19820524",
     "score": "6-1 6-3 7-6",
     "duration": 119,
-    "NBI": 0.257,
+    "NBI": 0.258,
     "NBI_100": 27.6,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -9894,7 +9951,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9913,7 +9970,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -9951,7 +10008,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10001,14 +10058,14 @@
     "score": "6-1 6-4 6-4",
     "duration": 97,
     "NBI": 0.253,
-    "NBI_100": 27.1,
+    "NBI_100": 27.2,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.0,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10027,7 +10084,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10046,7 +10103,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10065,7 +10122,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10084,7 +10141,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10141,7 +10198,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10179,7 +10236,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10229,14 +10286,14 @@
     "score": "6-1 7-6 6-3",
     "duration": 104,
     "NBI": 0.248,
-    "NBI_100": 26.6,
+    "NBI_100": 26.7,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.0,
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10274,7 +10331,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10312,7 +10369,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10331,7 +10388,7 @@
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10388,7 +10445,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ken Rosewall def. Rod Laver",
+    "tourney": "Roland Garros",
+    "round": "F",
+    "date": "19680527",
+    "score": "6-3 6-1 2-6 6-2",
+    "duration": 131,
+    "NBI": 0.244,
+    "NBI_100": 26.2,
+    "drama_tags": "momentum, bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 2,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10409,25 +10485,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.25,
       "bp_total": 8.0
-    }
-  },
-  {
-    "match": "Ken Rosewall def. Rod Laver",
-    "tourney": "Roland Garros",
-    "round": "F",
-    "date": "19680527",
-    "score": "6-3 6-1 2-6 6-2",
-    "duration": 131,
-    "NBI": 0.244,
-    "NBI_100": 26.2,
-    "drama_tags": "momentum, bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 2,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -10464,7 +10521,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10502,7 +10559,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10540,7 +10597,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10635,7 +10692,7 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10646,7 +10703,7 @@
     "date": "19690526",
     "score": "4-6 6-0 6-2 6-4",
     "duration": 140,
-    "NBI": 0.236,
+    "NBI": 0.237,
     "NBI_100": 25.4,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -10654,7 +10711,7 @@
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10673,7 +10730,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10703,7 +10760,7 @@
     "date": "19840828",
     "score": "6-3 6-4 6-1",
     "duration": 97,
-    "NBI": 0.231,
+    "NBI": 0.232,
     "NBI_100": 24.8,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -10711,7 +10768,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10722,7 +10779,7 @@
     "date": "19780829",
     "score": "6-4 6-2 6-2",
     "duration": 97,
-    "NBI": 0.231,
+    "NBI": 0.232,
     "NBI_100": 24.8,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -10730,7 +10787,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10780,14 +10837,14 @@
     "score": "2-6 6-2 9-7 6-0",
     "duration": 136,
     "NBI": 0.231,
-    "NBI_100": 24.7,
+    "NBI_100": 24.8,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 4.0,
       "tiebreak_count": 1,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10811,25 +10868,6 @@
     }
   },
   {
-    "match": "Jimmy Connors def. John McEnroe",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19780829",
-    "score": "6-2 6-2 7-5",
-    "duration": 105,
-    "NBI": 0.23,
-    "NBI_100": 24.7,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.33,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Miloslav Mecir Sr. def. Jan Gunnarsson",
     "tourney": "Australian Open",
     "round": "SF",
@@ -10844,7 +10882,26 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Jimmy Connors def. John McEnroe",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19780829",
+    "score": "6-2 6-2 7-5",
+    "duration": 105,
+    "NBI": 0.23,
+    "NBI_100": 24.7,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10893,7 +10950,7 @@
     "date": "19860526",
     "score": "6-3 6-2 6-4",
     "duration": 111,
-    "NBI": 0.228,
+    "NBI": 0.229,
     "NBI_100": 24.5,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -10901,7 +10958,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10912,7 +10969,7 @@
     "date": "19730521",
     "score": "6-4 6-3 6-2",
     "duration": 111,
-    "NBI": 0.228,
+    "NBI": 0.229,
     "NBI_100": 24.5,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -10920,7 +10977,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10939,7 +10996,64 @@
       "tiebreak_count": 0,
       "lead_changes": 2,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Tony Roche def. Cliff Richey",
+    "tourney": "US Open",
+    "round": "SF",
+    "date": "19700902",
+    "score": "6-2 7-6 6-1",
+    "duration": 100,
+    "NBI": 0.227,
+    "NBI_100": 24.4,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Mats Wilander def. Slobodan Zivojinovic",
+    "tourney": "Australian Open",
+    "round": "SF",
+    "date": "19851125",
+    "score": "7-5 6-1 6-3",
+    "duration": 100,
+    "NBI": 0.227,
+    "NBI_100": 24.4,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ken Rosewall def. Arthur Ashe",
+    "tourney": "Australian Open",
+    "round": "F",
+    "date": "19710307",
+    "score": "6-1 7-5 6-3",
+    "duration": 100,
+    "NBI": 0.227,
+    "NBI_100": 24.4,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.33,
+      "tiebreak_count": 1,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -10979,63 +11093,6 @@
       "comeback": 0,
       "bp_saved_ratio": 0.5,
       "bp_total": 22.0
-    }
-  },
-  {
-    "match": "Tony Roche def. Cliff Richey",
-    "tourney": "US Open",
-    "round": "SF",
-    "date": "19700902",
-    "score": "6-2 7-6 6-1",
-    "duration": 100,
-    "NBI": 0.227,
-    "NBI_100": 24.4,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.33,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Mats Wilander def. Slobodan Zivojinovic",
-    "tourney": "Australian Open",
-    "round": "SF",
-    "date": "19851125",
-    "score": "7-5 6-1 6-3",
-    "duration": 100,
-    "NBI": 0.227,
-    "NBI_100": 24.4,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.33,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Ken Rosewall def. Arthur Ashe",
-    "tourney": "Australian Open",
-    "round": "F",
-    "date": "19710307",
-    "score": "6-1 7-5 6-3",
-    "duration": 100,
-    "NBI": 0.227,
-    "NBI_100": 24.4,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.33,
-      "tiebreak_count": 1,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
     }
   },
   {
@@ -11178,7 +11235,7 @@
     "date": "19900827",
     "score": "6-4 6-3 6-2",
     "duration": 101,
-    "NBI": 0.222,
+    "NBI": 0.223,
     "NBI_100": 23.9,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -11186,7 +11243,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11197,7 +11254,7 @@
     "date": "19870901",
     "score": "6-4 6-2 6-2",
     "duration": 97,
-    "NBI": 0.221,
+    "NBI": 0.222,
     "NBI_100": 23.8,
     "drama_tags": "bp drama",
     "raw_stats": {
@@ -11205,7 +11262,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11236,33 +11293,14 @@
     "score": "4-6 6-3 6-1 6-1",
     "duration": 135,
     "NBI": 0.22,
-    "NBI_100": 23.6,
+    "NBI_100": 23.7,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.75,
       "tiebreak_count": 0,
       "lead_changes": 1,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Pat Cash def. Jimmy Connors",
-    "tourney": "Wimbledon",
-    "round": "SF",
-    "date": "19870622",
-    "score": "6-4 6-4 6-1",
-    "duration": 97,
-    "NBI": 0.22,
-    "NBI_100": 23.6,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11281,7 +11319,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11300,7 +11338,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Pat Cash def. Jimmy Connors",
+    "tourney": "Wimbledon",
+    "round": "SF",
+    "date": "19870622",
+    "score": "6-4 6-4 6-1",
+    "duration": 97,
+    "NBI": 0.22,
+    "NBI_100": 23.6,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11357,7 +11414,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11414,7 +11471,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11433,7 +11490,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11452,7 +11509,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11509,7 +11566,7 @@
       "tiebreak_count": 1,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11533,25 +11590,6 @@
     }
   },
   {
-    "match": "Ilie Nastase def. Tom Gorman",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19730521",
-    "score": "6-3 6-4 6-1",
-    "duration": 107,
-    "NBI": 0.207,
-    "NBI_100": 22.2,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 3.33,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Guillermo Vilas def. Dick Stockton",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -11566,7 +11604,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ilie Nastase def. Tom Gorman",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19730521",
+    "score": "6-3 6-4 6-1",
+    "duration": 107,
+    "NBI": 0.207,
+    "NBI_100": 22.2,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 3.33,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11616,14 +11673,14 @@
     "score": "6-2 6-3 6-2",
     "duration": 90,
     "NBI": 0.205,
-    "NBI_100": 21.9,
+    "NBI_100": 22.0,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.67,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11635,14 +11692,14 @@
     "score": "6-2 6-2 6-3",
     "duration": 90,
     "NBI": 0.205,
-    "NBI_100": 21.9,
+    "NBI_100": 22.0,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.67,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11749,14 +11806,14 @@
     "score": "6-3 6-3 6-2",
     "duration": 93,
     "NBI": 0.199,
-    "NBI_100": 21.3,
+    "NBI_100": 21.4,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.33,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11768,14 +11825,14 @@
     "score": "6-4 6-3 6-1",
     "duration": 93,
     "NBI": 0.199,
-    "NBI_100": 21.3,
+    "NBI_100": 21.4,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.33,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11908,7 +11965,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11965,7 +12022,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -11989,22 +12046,22 @@
     }
   },
   {
-    "match": "Novak Djokovic def. Dominic Thiem",
-    "tourney": "Roland Garros",
+    "match": "Jimmy Connors def. Bill Scanlon",
+    "tourney": "US Open",
     "round": "SF",
-    "date": "20160523",
-    "score": "6-2 6-1 6-4",
-    "duration": 108,
+    "date": "19830830",
+    "score": "6-2 6-3 6-2",
+    "duration": 93,
     "NBI": 0.18,
     "NBI_100": 19.3,
-    "drama_tags": "standard",
+    "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 3.67,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.588,
-      "bp_total": 17.0
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
     }
   },
   {
@@ -12022,27 +12079,27 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
   {
-    "match": "Jimmy Connors def. Bill Scanlon",
-    "tourney": "US Open",
+    "match": "Novak Djokovic def. Dominic Thiem",
+    "tourney": "Roland Garros",
     "round": "SF",
-    "date": "19830830",
-    "score": "6-2 6-3 6-2",
-    "duration": 93,
+    "date": "20160523",
+    "score": "6-2 6-1 6-4",
+    "duration": 108,
     "NBI": 0.18,
     "NBI_100": 19.3,
-    "drama_tags": "bp drama",
+    "drama_tags": "standard",
     "raw_stats": {
       "avg_set_margin": 3.67,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
+      "bp_saved_ratio": 0.588,
+      "bp_total": 17.0
     }
   },
   {
@@ -12079,7 +12136,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12166,15 +12223,15 @@
     "date": "19780529",
     "score": "6-1 6-1 6-3",
     "duration": 94,
-    "NBI": 0.164,
-    "NBI_100": 17.6,
+    "NBI": 0.165,
+    "NBI_100": 17.7,
     "drama_tags": "bp drama",
     "raw_stats": {
       "avg_set_margin": 4.33,
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12193,7 +12250,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12212,7 +12269,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12256,25 +12313,6 @@
   },
   {
     "match": "Ivan Lendl def. Miloslav Mecir Sr.",
-    "tourney": "US Open",
-    "round": "F",
-    "date": "19860826",
-    "score": "6-4 6-2 6-0",
-    "duration": 90,
-    "NBI": 0.159,
-    "NBI_100": 17.1,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Ivan Lendl def. Miloslav Mecir Sr.",
     "tourney": "Australian Open",
     "round": "F",
     "date": "19890116",
@@ -12288,7 +12326,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Ivan Lendl def. Miloslav Mecir Sr.",
+    "tourney": "US Open",
+    "round": "F",
+    "date": "19860826",
+    "score": "6-4 6-2 6-0",
+    "duration": 90,
+    "NBI": 0.159,
+    "NBI_100": 17.1,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12307,83 +12364,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Guillermo Vilas def. Henry Pfister",
-    "tourney": "Australian Open",
-    "round": "SF",
-    "date": "19781225",
-    "score": "6-2 6-0 6-4",
-    "duration": 86,
-    "NBI": 0.157,
-    "NBI_100": 16.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "John Lloyd def. Bob Giltinan",
-    "tourney": "Australian Open-2",
-    "round": "SF",
-    "date": "19771219",
-    "score": "6-4 6-2 6-0",
-    "duration": 86,
-    "NBI": 0.157,
-    "NBI_100": 16.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "John McEnroe def. Chris Lewis",
-    "tourney": "Wimbledon",
-    "round": "F",
-    "date": "19830620",
-    "score": "6-2 6-2 6-2",
-    "duration": 86,
-    "NBI": 0.157,
-    "NBI_100": 16.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Jimmy Connors def. Ken Rosewall",
-    "tourney": "Wimbledon",
-    "round": "F",
-    "date": "19740624",
-    "score": "6-1 6-1 6-4",
-    "duration": 86,
-    "NBI": 0.157,
-    "NBI_100": 16.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 4.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12402,7 +12383,83 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John Lloyd def. Bob Giltinan",
+    "tourney": "Australian Open-2",
+    "round": "SF",
+    "date": "19771219",
+    "score": "6-4 6-2 6-0",
+    "duration": 86,
+    "NBI": 0.157,
+    "NBI_100": 16.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Jimmy Connors def. Ken Rosewall",
+    "tourney": "Wimbledon",
+    "round": "F",
+    "date": "19740624",
+    "score": "6-1 6-1 6-4",
+    "duration": 86,
+    "NBI": 0.157,
+    "NBI_100": 16.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Guillermo Vilas def. Henry Pfister",
+    "tourney": "Australian Open",
+    "round": "SF",
+    "date": "19781225",
+    "score": "6-2 6-0 6-4",
+    "duration": 86,
+    "NBI": 0.157,
+    "NBI_100": 16.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "John McEnroe def. Chris Lewis",
+    "tourney": "Wimbledon",
+    "round": "F",
+    "date": "19830620",
+    "score": "6-2 6-2 6-2",
+    "duration": 86,
+    "NBI": 0.157,
+    "NBI_100": 16.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 4.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12478,7 +12535,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12573,7 +12630,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12592,7 +12649,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12611,7 +12668,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12668,26 +12725,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
-    "match": "Bjorn Borg def. Vitas Gerulaitis",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19790528",
-    "score": "6-2 6-1 6-0",
-    "duration": 86,
-    "NBI": 0.115,
-    "NBI_100": 12.4,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 5.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12706,7 +12744,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Bjorn Borg def. Vitas Gerulaitis",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19790528",
+    "score": "6-2 6-1 6-0",
+    "duration": 86,
+    "NBI": 0.115,
+    "NBI_100": 12.4,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 5.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12749,25 +12806,6 @@
     }
   },
   {
-    "match": "Yannick Noah def. Christophe Roger-Vasselin",
-    "tourney": "Roland Garros",
-    "round": "SF",
-    "date": "19830523",
-    "score": "6-3 6-0 6-0",
-    "duration": 86,
-    "NBI": 0.1,
-    "NBI_100": 10.8,
-    "drama_tags": "bp drama",
-    "raw_stats": {
-      "avg_set_margin": 5.0,
-      "tiebreak_count": 0,
-      "lead_changes": 0,
-      "comeback": 0,
-      "bp_saved_ratio": 0.699,
-      "bp_total": 0.0
-    }
-  },
-  {
     "match": "Ivan Lendl def. Johan Kriek",
     "tourney": "Roland Garros",
     "round": "SF",
@@ -12782,7 +12820,26 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
+      "bp_total": 0.0
+    }
+  },
+  {
+    "match": "Yannick Noah def. Christophe Roger-Vasselin",
+    "tourney": "Roland Garros",
+    "round": "SF",
+    "date": "19830523",
+    "score": "6-3 6-0 6-0",
+    "duration": 86,
+    "NBI": 0.1,
+    "NBI_100": 10.8,
+    "drama_tags": "bp drama",
+    "raw_stats": {
+      "avg_set_margin": 5.0,
+      "tiebreak_count": 0,
+      "lead_changes": 0,
+      "comeback": 0,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12858,7 +12915,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12896,7 +12953,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   },
@@ -12934,7 +12991,7 @@
       "tiebreak_count": 0,
       "lead_changes": 0,
       "comeback": 0,
-      "bp_saved_ratio": 0.699,
+      "bp_saved_ratio": 0.7,
       "bp_total": 0.0
     }
   }

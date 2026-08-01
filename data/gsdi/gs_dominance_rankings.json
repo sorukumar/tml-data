@@ -4629,6 +4629,32 @@
   },
   {
     "rank": 179,
+    "player": "Jannik Sinner",
+    "tournament": "Wimbledon",
+    "year": 2026,
+    "dominance_score": 69.25,
+    "sets_won": 21,
+    "sets_won_pct": 87.5,
+    "games_won_pct": 58.3,
+    "points_won_pct": 55.0,
+    "pct_top30_opponents": 28.6,
+    "speed_score": 81.8,
+    "avg_match_minutes": 163.6,
+    "top5_wins": 1,
+    "perfect_campaign": false,
+    "sets_lost": 3,
+    "matches_won": 7,
+    "score_breakdown": {
+      "sets": 28.0,
+      "games": 14.6,
+      "points": 12.6,
+      "opponent": 2.9,
+      "speed": 8.2,
+      "bonus": 3
+    }
+  },
+  {
+    "rank": 180,
     "player": "Rafael Nadal",
     "tournament": "US Open",
     "year": 2017,
@@ -4654,7 +4680,7 @@
     }
   },
   {
-    "rank": 180,
+    "rank": 181,
     "player": "Novak Djokovic",
     "tournament": "Wimbledon",
     "year": 2014,
@@ -4680,7 +4706,7 @@
     }
   },
   {
-    "rank": 181,
+    "rank": 182,
     "player": "Marat Safin",
     "tournament": "US Open",
     "year": 2000,
@@ -4706,7 +4732,7 @@
     }
   },
   {
-    "rank": 182,
+    "rank": 183,
     "player": "Rafael Nadal",
     "tournament": "Australian Open",
     "year": 2022,
@@ -4732,7 +4758,7 @@
     }
   },
   {
-    "rank": 183,
+    "rank": 184,
     "player": "Yevgeny Kafelnikov",
     "tournament": "Australian Open",
     "year": 1999,
@@ -4758,7 +4784,7 @@
     }
   },
   {
-    "rank": 184,
+    "rank": 185,
     "player": "Johan Kriek",
     "tournament": "Australian Open",
     "year": 1981,
@@ -4784,7 +4810,7 @@
     }
   },
   {
-    "rank": 185,
+    "rank": 186,
     "player": "Alexander Zverev",
     "tournament": "Roland Garros",
     "year": 2026,
@@ -4810,7 +4836,7 @@
     }
   },
   {
-    "rank": 186,
+    "rank": 187,
     "player": "Pete Sampras",
     "tournament": "Wimbledon",
     "year": 1995,
@@ -4836,7 +4862,7 @@
     }
   },
   {
-    "rank": 187,
+    "rank": 188,
     "player": "Gaston Gaudio",
     "tournament": "Roland Garros",
     "year": 2004,
@@ -4862,7 +4888,7 @@
     }
   },
   {
-    "rank": 188,
+    "rank": 189,
     "player": "Ken Rosewall",
     "tournament": "US Open",
     "year": 1970,
@@ -4888,7 +4914,7 @@
     }
   },
   {
-    "rank": 189,
+    "rank": 190,
     "player": "Roger Federer",
     "tournament": "Roland Garros",
     "year": 2009,
@@ -4914,7 +4940,7 @@
     }
   },
   {
-    "rank": 190,
+    "rank": 191,
     "player": "Jimmy Connors",
     "tournament": "Wimbledon",
     "year": 1974,
@@ -4940,7 +4966,7 @@
     }
   },
   {
-    "rank": 191,
+    "rank": 192,
     "player": "Albert Costa",
     "tournament": "Roland Garros",
     "year": 2002,
@@ -4966,7 +4992,7 @@
     }
   },
   {
-    "rank": 192,
+    "rank": 193,
     "player": "Goran Ivanisevic",
     "tournament": "Wimbledon",
     "year": 2001,
@@ -4992,7 +5018,7 @@
     }
   },
   {
-    "rank": 193,
+    "rank": 194,
     "player": "Jan Kodes",
     "tournament": "Roland Garros",
     "year": 1970,
@@ -5018,7 +5044,7 @@
     }
   },
   {
-    "rank": 194,
+    "rank": 195,
     "player": "Boris Becker",
     "tournament": "Australian Open",
     "year": 1991,
@@ -5044,7 +5070,7 @@
     }
   },
   {
-    "rank": 195,
+    "rank": 196,
     "player": "Roger Federer",
     "tournament": "Wimbledon",
     "year": 2009,
@@ -5070,7 +5096,7 @@
     }
   },
   {
-    "rank": 196,
+    "rank": 197,
     "player": "Johan Kriek",
     "tournament": "Australian Open",
     "year": 1982,
@@ -5096,7 +5122,7 @@
     }
   },
   {
-    "rank": 197,
+    "rank": 198,
     "player": "Boris Becker",
     "tournament": "Wimbledon",
     "year": 1985,
@@ -5122,7 +5148,7 @@
     }
   },
   {
-    "rank": 198,
+    "rank": 199,
     "player": "John Newcombe",
     "tournament": "Wimbledon",
     "year": 1971,
@@ -5148,7 +5174,7 @@
     }
   },
   {
-    "rank": 199,
+    "rank": 200,
     "player": "Rod Laver",
     "tournament": "Roland Garros",
     "year": 1969,
@@ -5174,7 +5200,7 @@
     }
   },
   {
-    "rank": 200,
+    "rank": 201,
     "player": "Mats Wilander",
     "tournament": "Australian Open",
     "year": 1984,
@@ -5200,7 +5226,7 @@
     }
   },
   {
-    "rank": 201,
+    "rank": 202,
     "player": "Novak Djokovic",
     "tournament": "Wimbledon",
     "year": 2022,
@@ -5226,7 +5252,7 @@
     }
   },
   {
-    "rank": 202,
+    "rank": 203,
     "player": "Arthur Ashe",
     "tournament": "Australian Open",
     "year": 1970,
@@ -5252,7 +5278,7 @@
     }
   },
   {
-    "rank": 203,
+    "rank": 204,
     "player": "Andre Agassi",
     "tournament": "Roland Garros",
     "year": 1999,
@@ -5278,7 +5304,7 @@
     }
   },
   {
-    "rank": 204,
+    "rank": 205,
     "player": "John Newcombe",
     "tournament": "Australian Open",
     "year": 1974,
@@ -5304,7 +5330,7 @@
     }
   },
   {
-    "rank": 205,
+    "rank": 206,
     "player": "Jan Kodes",
     "tournament": "Roland Garros",
     "year": 1971,
@@ -5330,7 +5356,7 @@
     }
   },
   {
-    "rank": 206,
+    "rank": 207,
     "player": "John Newcombe",
     "tournament": "Wimbledon",
     "year": 1970,
@@ -5356,7 +5382,7 @@
     }
   },
   {
-    "rank": 207,
+    "rank": 208,
     "player": "Pete Sampras",
     "tournament": "Wimbledon",
     "year": 2000,
@@ -5382,7 +5408,7 @@
     }
   },
   {
-    "rank": 208,
+    "rank": 209,
     "player": "Mark Edmondson",
     "tournament": "Australian Open",
     "year": 1975,
@@ -5408,7 +5434,7 @@
     }
   },
   {
-    "rank": 209,
+    "rank": 210,
     "player": "Stan Wawrinka",
     "tournament": "US Open",
     "year": 2016,
@@ -5434,7 +5460,7 @@
     }
   },
   {
-    "rank": 210,
+    "rank": 211,
     "player": "Ken Rosewall",
     "tournament": "Roland Garros",
     "year": 1968,
@@ -5460,7 +5486,7 @@
     }
   },
   {
-    "rank": 211,
+    "rank": 212,
     "player": "Rod Laver",
     "tournament": "US Open",
     "year": 1969,
@@ -5486,7 +5512,7 @@
     }
   },
   {
-    "rank": 212,
+    "rank": 213,
     "player": "Guillermo Vilas",
     "tournament": "Australian Open",
     "year": 1979,
@@ -5512,7 +5538,7 @@
     }
   },
   {
-    "rank": 213,
+    "rank": 214,
     "player": "Brian Teacher",
     "tournament": "Australian Open",
     "year": 1980,
@@ -5538,7 +5564,7 @@
     }
   },
   {
-    "rank": 214,
+    "rank": 215,
     "player": "Jimmy Connors",
     "tournament": "Australian Open",
     "year": 1973,
@@ -5564,7 +5590,7 @@
     }
   },
   {
-    "rank": 215,
+    "rank": 216,
     "player": "Stan Smith",
     "tournament": "US Open",
     "year": 1971,
@@ -5590,7 +5616,7 @@
     }
   },
   {
-    "rank": 216,
+    "rank": 217,
     "player": "Rod Laver",
     "tournament": "Wimbledon",
     "year": 1968,
@@ -5616,7 +5642,7 @@
     }
   },
   {
-    "rank": 217,
+    "rank": 218,
     "player": "Guillermo Vilas",
     "tournament": "Australian Open",
     "year": 1978,
@@ -5642,7 +5668,7 @@
     }
   },
   {
-    "rank": 218,
+    "rank": 219,
     "player": "Bjorn Borg",
     "tournament": "Roland Garros",
     "year": 1974,
@@ -5668,7 +5694,7 @@
     }
   },
   {
-    "rank": 219,
+    "rank": 220,
     "player": "Thomas Johansson",
     "tournament": "Australian Open",
     "year": 2002,
@@ -5694,7 +5720,7 @@
     }
   },
   {
-    "rank": 220,
+    "rank": 221,
     "player": "Andres Gimeno",
     "tournament": "Roland Garros",
     "year": 1972,
@@ -5720,7 +5746,7 @@
     }
   },
   {
-    "rank": 221,
+    "rank": 222,
     "player": "Arthur Ashe",
     "tournament": "US Open",
     "year": 1968,
@@ -5746,7 +5772,7 @@
     }
   },
   {
-    "rank": 222,
+    "rank": 223,
     "player": "Jan Kodes",
     "tournament": "Wimbledon",
     "year": 1973,
@@ -5772,7 +5798,7 @@
     }
   },
   {
-    "rank": 223,
+    "rank": 224,
     "player": "Carlos Alcaraz",
     "tournament": "US Open",
     "year": 2022,
@@ -5798,7 +5824,7 @@
     }
   },
   {
-    "rank": 224,
+    "rank": 225,
     "player": "Stan Smith",
     "tournament": "Wimbledon",
     "year": 1972,
@@ -5824,7 +5850,7 @@
     }
   },
   {
-    "rank": 225,
+    "rank": 226,
     "player": "Rod Laver",
     "tournament": "Wimbledon",
     "year": 1969,
@@ -5850,7 +5876,7 @@
     }
   },
   {
-    "rank": 226,
+    "rank": 227,
     "player": "Stefan Edberg",
     "tournament": "Wimbledon",
     "year": 1988,
@@ -5876,7 +5902,7 @@
     }
   },
   {
-    "rank": 227,
+    "rank": 228,
     "player": "Carlos Alcaraz",
     "tournament": "Roland Garros",
     "year": 2025,
@@ -5902,7 +5928,7 @@
     }
   },
   {
-    "rank": 228,
+    "rank": 229,
     "player": "Rod Laver",
     "tournament": "Australian Open",
     "year": 1969,
@@ -5928,7 +5954,7 @@
     }
   },
   {
-    "rank": 229,
+    "rank": 230,
     "player": "Ilie Nastase",
     "tournament": "US Open",
     "year": 1972,

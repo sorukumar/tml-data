@@ -93,7 +93,7 @@
       2025,
       2026
     ],
-    "total_titles": 1179,
+    "total_titles": 1184,
     "peak_year": 2015
   },
   {
@@ -1074,6 +1074,27 @@
     "peak_year": 2009
   },
   {
+    "player": "Alexander Zverev",
+    "country": "GER",
+    "years_active": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_titles": 557,
+    "peak_year": 2024
+  },
+  {
     "player": "Raul Ramirez",
     "country": "MEX",
     "years_active": [
@@ -1094,27 +1115,6 @@
     ],
     "total_titles": 553,
     "peak_year": 1976
-  },
-  {
-    "player": "Alexander Zverev",
-    "country": "GER",
-    "years_active": [
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "total_titles": 551,
-    "peak_year": 2024
   },
   {
     "player": "Ken Rosewall",

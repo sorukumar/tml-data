@@ -1,7 +1,7 @@
 {
   "grand_slam_finals_1968": {
     "players": 113,
-    "matches": 230,
+    "matches": 231,
     "matchups": 155
   },
   "individual_slams_1968": {
@@ -19,9 +19,9 @@
     }
   },
   "tennis_legends_rivalries_1968": {
-    "players": 4307,
-    "matches": 151725,
-    "matchups": 73169,
+    "players": 4315,
+    "matches": 151889,
+    "matchups": 73252,
     "min_matches_threshold": 100,
     "peak_ranking_threshold": 30,
     "min_h2h_matches": 5

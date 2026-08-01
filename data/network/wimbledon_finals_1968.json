@@ -1176,7 +1176,7 @@
       "matches_played": 10,
       "win_pct": 70.0,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 1416,
+      "career_total_matches": 1422,
       "career_win_pct": 83.26,
       "gs_titles": 24,
       "peak_ranking": 1,
@@ -1279,8 +1279,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 975,
-      "career_win_pct": 62.77,
+      "career_total_matches": 976,
+      "career_win_pct": 62.7,
       "gs_titles": 1,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -1337,8 +1337,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 346,
-      "career_win_pct": 64.16,
+      "career_total_matches": 349,
+      "career_win_pct": 64.18,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 0,
@@ -1426,39 +1426,68 @@
     {
       "name": "Jannik Sinner",
       "decade": 2020,
-      "active_span": "1 year (25)",
+      "active_span": "2 years (25-26)",
       "country": "ITA",
-      "matches_won": 1,
-      "matches_played": 1,
+      "matches_won": 2,
+      "matches_played": 2,
       "win_pct": 100.0,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 440,
-      "career_win_pct": 78.86,
-      "gs_titles": 4,
+      "career_total_matches": 447,
+      "career_win_pct": 79.19,
+      "gs_titles": 5,
       "peak_ranking": 1,
-      "top_5_wins": 1,
-      "top_5_matches": 1,
+      "top_5_wins": 2,
+      "top_5_matches": 2,
       "top_5_win_pct": 100.0,
       "was_top_5": true,
-      "unique_opponents": 1,
+      "unique_opponents": 2,
       "surface_wins": {
-        "Grass": 1
+        "Grass": 2
       },
       "surface_matches": {
-        "Grass": 1
+        "Grass": 2
       },
       "surface_win_pcts": {
         "Grass": 100.0
       },
       "tourney_wins": {
-        "Wimbledon": 1
+        "Wimbledon": 2
       },
       "tourney_matches": {
-        "Wimbledon": 1
+        "Wimbledon": 2
       },
       "tourney_win_pcts": {
         "Wimbledon": 100.0
       }
+    },
+    {
+      "name": "Alexander Zverev",
+      "decade": 2020,
+      "active_span": "1 year (26)",
+      "country": "GER",
+      "matches_won": 0,
+      "matches_played": 1,
+      "win_pct": 0.0,
+      "win_pct_category": "40% or below",
+      "career_total_matches": 786,
+      "career_win_pct": 70.87,
+      "gs_titles": 1,
+      "peak_ranking": 2,
+      "top_5_wins": 0,
+      "top_5_matches": 1,
+      "top_5_win_pct": 0.0,
+      "was_top_5": true,
+      "unique_opponents": 1,
+      "surface_wins": {},
+      "surface_matches": {
+        "Grass": 1
+      },
+      "surface_win_pcts": {},
+      "tourney_wins": {},
+      "tourney_matches": {
+        "Wimbledon": 1
+      },
+      "tourney_win_pcts": {}
     }
   ],
   "edges": [
@@ -2577,15 +2606,40 @@
           "Wimbledon": 1
         }
       }
+    },
+    {
+      "player1": "Alexander Zverev",
+      "player2": "Jannik Sinner",
+      "total_matches": 1,
+      "player1_wins": 0,
+      "player2_wins": 1,
+      "surface_breakdown": {
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1
+      },
+      "surface_wins": {
+        "Alexander Zverev": {},
+        "Jannik Sinner": {
+          "Grass": 1
+        }
+      },
+      "tourney_wins": {
+        "Alexander Zverev": {},
+        "Jannik Sinner": {
+          "Wimbledon": 1
+        }
+      }
     }
   ],
   "metadata": {
-    "total_matches": 57,
-    "total_players": 44,
-    "total_matchups": 44,
+    "total_matches": 58,
+    "total_players": 45,
+    "total_matchups": 45,
     "year_range": {
       "min": 1968,
-      "max": 2025
+      "max": 2026
     }
   }
 }

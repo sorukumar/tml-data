@@ -3237,7 +3237,7 @@
       "matches_played": 38,
       "win_pct": 63.16,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 1416,
+      "career_total_matches": 1422,
       "career_win_pct": 83.26,
       "gs_titles": 24,
       "peak_ranking": 1,
@@ -3488,8 +3488,8 @@
       "matches_played": 4,
       "win_pct": 75.0,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 983,
-      "career_win_pct": 60.22,
+      "career_total_matches": 986,
+      "career_win_pct": 60.04,
       "gs_titles": 3,
       "peak_ranking": 3,
       "top_5_wins": 3,
@@ -3534,8 +3534,8 @@
       "matches_played": 3,
       "win_pct": 33.33,
       "win_pct_category": "40% or below",
-      "career_total_matches": 975,
-      "career_win_pct": 62.77,
+      "career_total_matches": 976,
+      "career_win_pct": 62.7,
       "gs_titles": 1,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -3703,8 +3703,8 @@
       "matches_played": 6,
       "win_pct": 16.67,
       "win_pct_category": "40% or below",
-      "career_total_matches": 633,
-      "career_win_pct": 70.62,
+      "career_total_matches": 636,
+      "career_win_pct": 70.6,
       "gs_titles": 1,
       "peak_ranking": 1,
       "top_5_wins": 1,
@@ -3738,15 +3738,15 @@
       "active_span": "7 years (20-26)",
       "country": "GER",
       "matches_won": 1,
-      "matches_played": 4,
-      "win_pct": 25.0,
+      "matches_played": 5,
+      "win_pct": 20.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 779,
-      "career_win_pct": 70.73,
+      "career_total_matches": 786,
+      "career_win_pct": 70.87,
       "gs_titles": 1,
       "peak_ranking": 2,
       "top_5_wins": 0,
-      "top_5_matches": 3,
+      "top_5_matches": 4,
       "top_5_win_pct": 0.0,
       "was_top_5": true,
       "unique_opponents": 4,
@@ -3755,7 +3755,8 @@
       },
       "surface_matches": {
         "Hard": 2,
-        "Clay": 2
+        "Clay": 2,
+        "Grass": 1
       },
       "surface_win_pcts": {
         "Clay": 50.0
@@ -3766,7 +3767,8 @@
       "tourney_matches": {
         "US Open": 1,
         "Roland Garros": 2,
-        "Australian Open": 1
+        "Australian Open": 1,
+        "Wimbledon": 1
       },
       "tourney_win_pcts": {
         "Roland Garros": 50.0
@@ -3781,8 +3783,8 @@
       "matches_played": 2,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 579,
-      "career_win_pct": 66.49,
+      "career_total_matches": 586,
+      "career_win_pct": 66.72,
       "gs_titles": 0,
       "peak_ranking": 3,
       "top_5_wins": 0,
@@ -3812,8 +3814,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 346,
-      "career_win_pct": 64.16,
+      "career_total_matches": 349,
+      "career_win_pct": 64.18,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 0,
@@ -3841,8 +3843,8 @@
       "matches_played": 3,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 484,
-      "career_win_pct": 65.5,
+      "career_total_matches": 487,
+      "career_win_pct": 65.3,
       "gs_titles": 0,
       "peak_ranking": 2,
       "top_5_wins": 0,
@@ -3947,29 +3949,29 @@
     {
       "name": "Jannik Sinner",
       "decade": 2020,
-      "active_span": "2 years (24-25)",
+      "active_span": "3 years (24-26)",
       "country": "ITA",
-      "matches_won": 4,
-      "matches_played": 6,
-      "win_pct": 66.67,
-      "win_pct_category": "61% - 70%",
-      "career_total_matches": 440,
-      "career_win_pct": 78.86,
-      "gs_titles": 4,
+      "matches_won": 5,
+      "matches_played": 7,
+      "win_pct": 71.43,
+      "win_pct_category": "Above 70%",
+      "career_total_matches": 447,
+      "career_win_pct": 79.19,
+      "gs_titles": 5,
       "peak_ranking": 1,
-      "top_5_wins": 3,
-      "top_5_matches": 5,
-      "top_5_win_pct": 60.0,
+      "top_5_wins": 4,
+      "top_5_matches": 6,
+      "top_5_win_pct": 66.67,
       "was_top_5": true,
       "unique_opponents": 4,
       "surface_wins": {
         "Hard": 3,
-        "Grass": 1
+        "Grass": 2
       },
       "surface_matches": {
         "Hard": 4,
         "Clay": 1,
-        "Grass": 1
+        "Grass": 2
       },
       "surface_win_pcts": {
         "Hard": 75.0,
@@ -3978,13 +3980,13 @@
       "tourney_wins": {
         "Australian Open": 2,
         "US Open": 1,
-        "Wimbledon": 1
+        "Wimbledon": 2
       },
       "tourney_matches": {
         "Australian Open": 2,
         "US Open": 2,
         "Roland Garros": 1,
-        "Wimbledon": 1
+        "Wimbledon": 2
       },
       "tourney_win_pcts": {
         "Australian Open": 100.0,
@@ -4001,8 +4003,8 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 568,
-      "career_win_pct": 60.74,
+      "career_total_matches": 573,
+      "career_win_pct": 60.91,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 0,
@@ -4030,10 +4032,10 @@
       "matches_played": 1,
       "win_pct": 0.0,
       "win_pct_category": "40% or below",
-      "career_total_matches": 170,
-      "career_win_pct": 56.47,
+      "career_total_matches": 176,
+      "career_win_pct": 56.82,
       "gs_titles": 0,
-      "peak_ranking": 10,
+      "peak_ranking": 9,
       "top_5_wins": 0,
       "top_5_matches": 1,
       "top_5_win_pct": 0.0,
@@ -8024,25 +8026,29 @@
     {
       "player1": "Alexander Zverev",
       "player2": "Jannik Sinner",
-      "total_matches": 1,
+      "total_matches": 2,
       "player1_wins": 0,
-      "player2_wins": 1,
+      "player2_wins": 2,
       "surface_breakdown": {
-        "Hard": 1
+        "Hard": 1,
+        "Grass": 1
       },
       "tourney_breakdown": {
-        "Australian Open": 1
+        "Australian Open": 1,
+        "Wimbledon": 1
       },
       "surface_wins": {
         "Alexander Zverev": {},
         "Jannik Sinner": {
-          "Hard": 1
+          "Hard": 1,
+          "Grass": 1
         }
       },
       "tourney_wins": {
         "Alexander Zverev": {},
         "Jannik Sinner": {
-          "Australian Open": 1
+          "Australian Open": 1,
+          "Wimbledon": 1
         }
       }
     },
@@ -8108,7 +8114,7 @@
     }
   ],
   "metadata": {
-    "total_matches": 230,
+    "total_matches": 231,
     "total_players": 113,
     "total_matchups": 155,
     "year_range": {
