@@ -155,6 +155,60 @@ data/base/
 
 ---
 
+## 🎾 Optional Source: Point-by-Point Tape
+
+Everything above is **match-level**: one row per match with a parsed final score.
+An optional, opt-in fetcher can add a second grain — the **point-by-point tape** of
+a match (every recorded score state, the server, tiebreak flag, and the provider's
+per-point win probability) — from the [Live Tennis API](https://livetennisapi.com),
+covering **January 2023 onward**.
+
+This is useful where a final score is currently doing the work of in-match detail:
+NBI, for example, infers drama from the end state because the end state is all the
+TML layer holds. A tape lets that be measured instead of inferred.
+
+**It is entirely optional.** Without `LIVETENNISAPI_KEY` in the environment the
+script prints a notice, writes nothing and exits 0. Nothing in the existing
+pipeline reads its output, the monthly workflow is unchanged, and no new
+dependency is added (`requests`, `pandas` and `pyarrow` are already required).
+
+```bash
+export LIVETENNISAPI_KEY=...     # https://livetennisapi.com
+
+# Completed matches for a month, with each match's tape coverage
+python scripts/fetch_livetennisapi.py --from 2026-07-01 --to 2026-07-31
+
+# ...and the actual tapes for the first 200 of them (one request per match)
+python scripts/fetch_livetennisapi.py --from 2026-07-01 --to 2026-07-31 --tapes 200
+
+# Offline parsing checks — no key and no network needed
+python scripts/fetch_livetennisapi.py --selftest
+```
+
+Output lands in `data/livetennisapi/`:
+
+| File | Description |
+|------|-------------|
+| `history_matches.parquet` | One row per completed match + its tape coverage |
+| `tape_points.parquet` | One row per tape row (only written with `--tapes`) |
+| `metadata.json` | Provenance: range, counts, coverage histogram |
+
+**Two things to know before using the data:**
+
+1. **It is not joined to TML.** The files keep the provider's own match and player
+   ids and are deliberately *not* merged into `data/base/`. Fuzzy-matching player
+   names across two tennis providers is wrong often enough that a name-joined
+   dataset would quietly corrupt the aggregations that read `data/base/`. A join
+   should be an explicit, reviewed crosswalk (like `mcp_player_crosswalk.parquet`),
+   not a side effect of a fetch.
+2. **Check `tape_coverage` before treating a tape as complete.** It records how the
+   rows were obtained — watched live (`from_start`, `partial`) or expanded after the
+   fact (`reconstructed`, `reconstructed_partial`). `reconstructed_partial` is known
+   *not* to cover the whole match. Rows expanded after the fact carry a null
+   `timestamp` and null model fields; nothing is filled in to hide that.
+
+---
+
 ## 🔧 Usage Examples
 
 ### **Get Grand Slam Champions**
@@ -291,6 +345,9 @@ Raw match data sourced from:
 - [TML-Database](https://github.com/Tennismylife/TML-Database) (Jeff Sackmann's archive)
 - [Tennismylife Stats Portal](http://stats.tennismylife.org/tennis-match-database) (Live updates)
 - [Tennismylife Community](https://tennismylife.com)
+
+Optional, opt-in only (nothing is fetched unless you configure a key):
+- [Live Tennis API](https://livetennisapi.com) — point-by-point match tape, 2023+
 
 ---
 
