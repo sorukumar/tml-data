@@ -471,11 +471,11 @@
     "years_played": 2,
     "min_year": 2025,
     "max_year": 2026,
-    "matches_played": 3,
-    "wins": 3,
-    "losses": 0,
-    "win_pct": 100.0,
-    "best_rank": 465.0
+    "matches_played": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_pct": 80.0,
+    "best_rank": 394.0
   },
   {
     "id": "A022",

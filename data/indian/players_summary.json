@@ -861,6 +861,28 @@
     "is_gs_qf_plus": false
   },
   {
+    "id": "S0DE",
+    "name": "Dhakshineswar Suresh",
+    "years": [
+      2025,
+      2026
+    ],
+    "years_played": 2,
+    "min_year": 2025,
+    "max_year": 2026,
+    "matches_played": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_pct": 80.0,
+    "best_performance_lifetime": "R32 at Winston-Salem",
+    "best_performance_each_year": "2026: R32 at Winston-Salem",
+    "best_grand_slam_performance": "No Grand Slam Matches",
+    "best_rank": 394.0,
+    "top100_wins": 2,
+    "titles_total": 0,
+    "is_gs_qf_plus": false
+  },
+  {
     "id": "B107",
     "name": "Nandan Bal",
     "years": [
@@ -992,28 +1014,6 @@
     "best_grand_slam_performance": "No Grand Slam Matches",
     "best_rank": 1001.0,
     "top100_wins": 0,
-    "titles_total": 0,
-    "is_gs_qf_plus": false
-  },
-  {
-    "id": "S0DE",
-    "name": "Dhakshineswar Suresh",
-    "years": [
-      2025,
-      2026
-    ],
-    "years_played": 2,
-    "min_year": 2025,
-    "max_year": 2026,
-    "matches_played": 3,
-    "wins": 3,
-    "losses": 0,
-    "win_pct": 100.0,
-    "best_performance_lifetime": null,
-    "best_performance_each_year": "",
-    "best_grand_slam_performance": "No Grand Slam Matches",
-    "best_rank": 465.0,
-    "top100_wins": 1,
     "titles_total": 0,
     "is_gs_qf_plus": false
   },

@@ -87755,18 +87755,18 @@
       "active_span": "23 years (04-26)",
       "country": "SRB",
       "matches_won": 1184,
-      "matches_played": 1422,
-      "win_pct": 83.26,
+      "matches_played": 1423,
+      "win_pct": 83.2,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 1422,
-      "career_win_pct": 83.26,
+      "career_total_matches": 1423,
+      "career_win_pct": 83.2,
       "gs_titles": 24,
       "peak_ranking": 1,
       "top_5_wins": 128,
       "top_5_matches": 213,
       "top_5_win_pct": 60.09,
       "was_top_5": true,
-      "unique_opponents": 335,
+      "unique_opponents": 336,
       "surface_wins": {
         "Carpet": 9,
         "Clay": 302,
@@ -87776,14 +87776,14 @@
       "surface_matches": {
         "Carpet": 13,
         "Clay": 377,
-        "Hard": 879,
+        "Hard": 880,
         "Grass": 153
       },
       "surface_win_pcts": {
         "Carpet": 69.23,
         "Clay": 80.11,
         "Grass": 85.62,
-        "Hard": 84.41
+        "Hard": 84.32
       },
       "tourney_wins": {
         "Davis Cup G2 R1: SCG vs LAT": 1,
@@ -87884,7 +87884,7 @@
         "Davis Cup G1 R2: SCG vs BEL": 2,
         "Roland Garros": 123,
         "Wimbledon": 122,
-        "Cincinnati Masters": 57,
+        "Cincinnati Masters": 58,
         "US Open": 105,
         "Lyon": 2,
         "Paris Masters": 61,
@@ -87986,7 +87986,7 @@
         "Hamburg Masters": 66.67,
         "'s-Hertogenbosch": 50.0,
         "Amersfoort": 100.0,
-        "Cincinnati Masters": 78.95,
+        "Cincinnati Masters": 77.59,
         "Davis Cup WG PO: SUI vs SCG": 50.0,
         "Metz": 100.0,
         "Vienna": 80.0,
@@ -88860,33 +88860,33 @@
       "decade": 2010,
       "active_span": "23 years (04-26)",
       "country": "FRA",
-      "matches_won": 588,
-      "matches_played": 952,
-      "win_pct": 61.76,
+      "matches_won": 589,
+      "matches_played": 955,
+      "win_pct": 61.68,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 952,
-      "career_win_pct": 61.76,
+      "career_total_matches": 955,
+      "career_win_pct": 61.68,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 17,
       "top_5_matches": 77,
       "top_5_win_pct": 22.08,
       "was_top_5": false,
-      "unique_opponents": 342,
+      "unique_opponents": 345,
       "surface_wins": {
-        "Hard": 395,
+        "Hard": 396,
         "Carpet": 6,
         "Grass": 47,
         "Clay": 140
       },
       "surface_matches": {
-        "Hard": 613,
+        "Hard": 616,
         "Carpet": 10,
         "Clay": 245,
         "Grass": 84
       },
       "surface_win_pcts": {
-        "Hard": 64.44,
+        "Hard": 64.29,
         "Carpet": 60.0,
         "Grass": 55.95,
         "Clay": 57.14
@@ -88926,7 +88926,7 @@
         "Madrid Masters": 16,
         "Rotterdam": 22,
         "Acapulco": 5,
-        "Canada Masters": 24,
+        "Canada Masters": 25,
         "Kuala Lumpur": 2,
         "Tokyo": 10,
         "Shanghai Masters": 11,
@@ -88988,7 +88988,7 @@
         "Bastad": 2,
         "Stuttgart": 17,
         "Sopot": 5,
-        "Cincinnati Masters": 29,
+        "Cincinnati Masters": 30,
         "New Haven": 4,
         "US Open": 49,
         "Bucharest": 13,
@@ -89010,7 +89010,7 @@
         "Valencia": 11,
         "Munich": 5,
         "Casablanca": 2,
-        "Canada Masters": 38,
+        "Canada Masters": 40,
         "Beijing Olympics": 4,
         "Bangkok": 9,
         "Vienna": 27,
@@ -89078,7 +89078,7 @@
         "Wimbledon": 58.82,
         "Bastad": 50.0,
         "Sopot": 100.0,
-        "Cincinnati Masters": 55.17,
+        "Cincinnati Masters": 53.33,
         "Lyon": 55.56,
         "Barcelona": 50.0,
         "Estoril": 42.86,
@@ -89102,7 +89102,7 @@
         "Madrid Masters": 51.61,
         "Rotterdam": 73.33,
         "Acapulco": 71.43,
-        "Canada Masters": 63.16,
+        "Canada Masters": 62.5,
         "Kuala Lumpur": 66.67,
         "Tokyo": 71.43,
         "Shanghai Masters": 61.11,
@@ -89945,35 +89945,35 @@
       "decade": 2010,
       "active_span": "22 years (05-26)",
       "country": "CRO",
-      "matches_won": 612,
-      "matches_played": 976,
-      "win_pct": 62.7,
+      "matches_won": 613,
+      "matches_played": 979,
+      "win_pct": 62.61,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 976,
-      "career_win_pct": 62.7,
+      "career_total_matches": 979,
+      "career_win_pct": 62.61,
       "gs_titles": 1,
       "peak_ranking": 3,
       "top_5_wins": 13,
       "top_5_matches": 82,
       "top_5_win_pct": 15.85,
       "was_top_5": true,
-      "unique_opponents": 318,
+      "unique_opponents": 320,
       "surface_wins": {
         "Carpet": 4,
         "Clay": 142,
-        "Hard": 381,
+        "Hard": 382,
         "Grass": 85
       },
       "surface_matches": {
         "Clay": 240,
         "Carpet": 9,
         "Grass": 123,
-        "Hard": 604
+        "Hard": 607
       },
       "surface_win_pcts": {
         "Carpet": 44.44,
         "Clay": 59.17,
-        "Hard": 63.08,
+        "Hard": 62.93,
         "Grass": 69.11
       },
       "tourney_wins": {
@@ -89997,7 +89997,7 @@
         "Roland Garros": 31,
         "Nottingham": 3,
         "Wimbledon": 34,
-        "Canada Masters": 15,
+        "Canada Masters": 16,
         "Beijing Olympics": 1,
         "New Haven": 5,
         "US Open": 41,
@@ -90103,8 +90103,8 @@
         "Rome Masters": 34,
         "Hamburg Masters": 1,
         "Nottingham": 4,
-        "Canada Masters": 27,
-        "Cincinnati Masters": 31,
+        "Canada Masters": 29,
+        "Cincinnati Masters": 32,
         "Beijing Olympics": 2,
         "New Haven": 5,
         "US Open": 54,
@@ -90207,7 +90207,7 @@
         "Roland Garros": 63.27,
         "Nottingham": 75.0,
         "Wimbledon": 68.0,
-        "Canada Masters": 55.56,
+        "Canada Masters": 55.17,
         "Beijing Olympics": 50.0,
         "New Haven": 100.0,
         "US Open": 75.93,
@@ -90218,7 +90218,7 @@
         "Monte Carlo Masters": 53.57,
         "Rome Masters": 55.88,
         "Davis Cup WG QF: CRO vs USA": 100.0,
-        "Cincinnati Masters": 61.29,
+        "Cincinnati Masters": 59.38,
         "Vienna": 62.5,
         "Basel": 62.5,
         "Davis Cup WG R1: CRO vs ECU": 100.0,
@@ -92919,42 +92919,42 @@
     {
       "name": "Kei Nishikori",
       "decade": 2010,
-      "active_span": "19 years (07-25)",
+      "active_span": "20 years (07-26)",
       "country": "JPN",
-      "matches_won": 454,
-      "matches_played": 690,
-      "win_pct": 65.8,
+      "matches_won": 455,
+      "matches_played": 692,
+      "win_pct": 65.75,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 690,
-      "career_win_pct": 65.8,
+      "career_total_matches": 692,
+      "career_win_pct": 65.75,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 18,
       "top_5_matches": 70,
       "top_5_win_pct": 25.71,
       "was_top_5": true,
-      "unique_opponents": 251,
+      "unique_opponents": 252,
       "surface_wins": {
-        "Hard": 302,
+        "Hard": 303,
         "Grass": 42,
         "Carpet": 1,
         "Clay": 109
       },
       "surface_matches": {
-        "Hard": 456,
+        "Hard": 458,
         "Grass": 71,
         "Clay": 162,
         "Carpet": 1
       },
       "surface_win_pcts": {
-        "Hard": 66.23,
+        "Hard": 66.16,
         "Grass": 59.15,
         "Carpet": 100.0,
         "Clay": 67.28
       },
       "tourney_wins": {
         "Indianapolis": 2,
-        "Washington": 18,
+        "Washington": 19,
         "Delray Beach": 9,
         "San Jose": 3,
         "Davis Cup G1 R2: IND vs JPN": 1,
@@ -93016,7 +93016,7 @@
       "tourney_matches": {
         "Los Angeles": 1,
         "Indianapolis": 3,
-        "Washington": 25,
+        "Washington": 27,
         "Beijing": 1,
         "Tokyo": 33,
         "Delray Beach": 14,
@@ -93090,7 +93090,7 @@
       },
       "tourney_win_pcts": {
         "Indianapolis": 66.67,
-        "Washington": 72.0,
+        "Washington": 70.37,
         "Delray Beach": 64.29,
         "San Jose": 50.0,
         "Davis Cup G1 R2: IND vs JPN": 50.0,
@@ -94503,31 +94503,31 @@
       "decade": 2010,
       "active_span": "19 years (08-26)",
       "country": "FRA",
-      "matches_won": 320,
-      "matches_played": 693,
-      "win_pct": 46.18,
+      "matches_won": 321,
+      "matches_played": 698,
+      "win_pct": 45.99,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 693,
-      "career_win_pct": 46.18,
+      "career_total_matches": 698,
+      "career_win_pct": 45.99,
       "gs_titles": 0,
       "peak_ranking": 17,
       "top_5_wins": 3,
       "top_5_matches": 24,
       "top_5_win_pct": 12.5,
       "was_top_5": false,
-      "unique_opponents": 296,
+      "unique_opponents": 298,
       "surface_wins": {
-        "Hard": 225,
+        "Hard": 226,
         "Clay": 17,
         "Grass": 78
       },
       "surface_matches": {
         "Clay": 85,
-        "Hard": 473,
+        "Hard": 478,
         "Grass": 135
       },
       "surface_win_pcts": {
-        "Hard": 47.57,
+        "Hard": 47.28,
         "Clay": 20.0,
         "Grass": 57.78
       },
@@ -94562,7 +94562,7 @@
         "Basel": 3,
         "Sofia": 9,
         "Acapulco": 4,
-        "Washington": 3,
+        "Washington": 4,
         "Atlanta": 3,
         "Chengdu": 3,
         "Beijing": 2,
@@ -94621,15 +94621,15 @@
         "Queen's Club": 23,
         "'s-Hertogenbosch": 31,
         "Hamburg": 2,
-        "Canada Masters": 16,
-        "Winston-Salem": 11,
+        "Canada Masters": 17,
+        "Winston-Salem": 12,
         "Stockholm": 10,
         "St. Petersburg": 10,
         "Marseille": 1,
         "Dubai": 2,
         "Newport": 20,
         "Bogota": 8,
-        "Cincinnati Masters": 17,
+        "Cincinnati Masters": 18,
         "Kuala Lumpur": 3,
         "Moscow": 17,
         "Basel": 11,
@@ -94647,7 +94647,7 @@
         "Sydney": 6,
         "Sofia": 15,
         "Istanbul": 1,
-        "Washington": 8,
+        "Washington": 10,
         "Los Cabos": 5,
         "Chengdu": 6,
         "Antalya": 11,
@@ -94710,7 +94710,7 @@
         "Miami Masters": 53.85,
         "Dusseldorf": 50.0,
         "Roland Garros": 15.0,
-        "Winston-Salem": 63.64,
+        "Winston-Salem": 58.33,
         "Stockholm": 40.0,
         "Indian Wells Masters": 47.83,
         "Geneva": 28.57,
@@ -94720,15 +94720,15 @@
         "Basel": 27.27,
         "Sofia": 60.0,
         "Acapulco": 26.67,
-        "Washington": 37.5,
+        "Washington": 40.0,
         "Atlanta": 42.86,
         "Chengdu": 50.0,
         "Beijing": 40.0,
         "Monte Carlo Masters": 25.0,
         "Antalya": 72.73,
         "Los Cabos": 40.0,
-        "Canada Masters": 43.75,
-        "Cincinnati Masters": 47.06,
+        "Canada Masters": 41.18,
+        "Cincinnati Masters": 44.44,
         "Tokyo": 57.14,
         "Moscow": 70.59,
         "Sydney": 33.33,
@@ -95178,18 +95178,18 @@
       "active_span": "19 years (08-26)",
       "country": "BUL",
       "matches_won": 490,
-      "matches_played": 805,
-      "win_pct": 60.87,
+      "matches_played": 806,
+      "win_pct": 60.79,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 805,
-      "career_win_pct": 60.87,
+      "career_total_matches": 806,
+      "career_win_pct": 60.79,
       "gs_titles": 0,
       "peak_ranking": 3,
       "top_5_wins": 20,
       "top_5_matches": 79,
       "top_5_win_pct": 25.32,
       "was_top_5": true,
-      "unique_opponents": 276,
+      "unique_opponents": 277,
       "surface_wins": {
         "Hard": 325,
         "Carpet": 2,
@@ -95198,12 +95198,12 @@
       },
       "surface_matches": {
         "Grass": 91,
-        "Hard": 527,
+        "Hard": 528,
         "Carpet": 2,
         "Clay": 185
       },
       "surface_win_pcts": {
-        "Hard": 61.67,
+        "Hard": 61.55,
         "Carpet": 100.0,
         "Grass": 60.44,
         "Clay": 58.38
@@ -95292,7 +95292,7 @@
         "Atlanta": 2,
         "Los Angeles": 2,
         "Washington": 18,
-        "Cincinnati Masters": 30,
+        "Cincinnati Masters": 31,
         "Winston-Salem": 3,
         "US Open": 36,
         "Metz": 1,
@@ -95357,7 +95357,7 @@
         "Newport": 50.0,
         "Los Angeles": 50.0,
         "Washington": 55.56,
-        "Cincinnati Masters": 60.0,
+        "Cincinnati Masters": 58.06,
         "Winston-Salem": 33.33,
         "Bangkok": 60.0,
         "Shanghai Masters": 60.0,
@@ -95632,33 +95632,33 @@
     {
       "name": "Bernard Tomic",
       "decade": 2010,
-      "active_span": "17 years (09-25)",
+      "active_span": "18 years (09-26)",
       "country": "AUS",
-      "matches_won": 187,
-      "matches_played": 374,
-      "win_pct": 50.0,
-      "win_pct_category": "41% - 50%",
-      "career_total_matches": 374,
-      "career_win_pct": 50.0,
+      "matches_won": 189,
+      "matches_played": 377,
+      "win_pct": 50.13,
+      "win_pct_category": "51% - 60%",
+      "career_total_matches": 377,
+      "career_win_pct": 50.13,
       "gs_titles": 0,
       "peak_ranking": 17,
       "top_5_wins": 1,
       "top_5_matches": 25,
       "top_5_win_pct": 4.0,
       "was_top_5": false,
-      "unique_opponents": 180,
+      "unique_opponents": 183,
       "surface_wins": {
-        "Hard": 127,
+        "Hard": 129,
         "Grass": 39,
         "Clay": 21
       },
       "surface_matches": {
-        "Hard": 237,
+        "Hard": 240,
         "Clay": 65,
         "Grass": 72
       },
       "surface_win_pcts": {
-        "Hard": 53.59,
+        "Hard": 53.75,
         "Grass": 54.17,
         "Clay": 32.31
       },
@@ -95715,7 +95715,8 @@
         "Houston": 1,
         "Antalya": 2,
         "Atlanta": 2,
-        "Mallorca": 1
+        "Mallorca": 1,
+        "Los Cabos": 2
       },
       "tourney_matches": {
         "Brisbane": 15,
@@ -95774,7 +95775,7 @@
         "Bucharest": 1,
         "Istanbul": 5,
         "'s-Hertogenbosch": 6,
-        "Los Cabos": 1,
+        "Los Cabos": 4,
         "Davis Cup WG PO: AUS vs SVK": 1,
         "Shenzhen": 2,
         "Chengdu": 6,
@@ -95844,7 +95845,8 @@
         "Houston": 50.0,
         "Antalya": 66.67,
         "Atlanta": 66.67,
-        "Mallorca": 50.0
+        "Mallorca": 50.0,
+        "Los Cabos": 50.0
       }
     },
     {
@@ -98114,32 +98116,32 @@
       "decade": 2010,
       "active_span": "16 years (11-26)",
       "country": "ESP",
-      "matches_won": 294,
-      "matches_played": 539,
-      "win_pct": 54.55,
+      "matches_won": 295,
+      "matches_played": 543,
+      "win_pct": 54.33,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 539,
-      "career_win_pct": 54.55,
+      "career_total_matches": 543,
+      "career_win_pct": 54.33,
       "gs_titles": 0,
       "peak_ranking": 10,
       "top_5_wins": 4,
       "top_5_matches": 32,
       "top_5_win_pct": 12.5,
       "was_top_5": false,
-      "unique_opponents": 238,
+      "unique_opponents": 241,
       "surface_wins": {
         "Clay": 123,
-        "Hard": 164,
+        "Hard": 165,
         "Grass": 7
       },
       "surface_matches": {
         "Clay": 223,
-        "Hard": 294,
+        "Hard": 298,
         "Grass": 22
       },
       "surface_win_pcts": {
         "Clay": 55.16,
-        "Hard": 55.78,
+        "Hard": 55.37,
         "Grass": 31.82
       },
       "tourney_wins": {
@@ -98181,7 +98183,7 @@
         "Rio De Janeiro": 5,
         "Rome Masters": 6,
         "Canada Masters": 10,
-        "Cincinnati Masters": 12,
+        "Cincinnati Masters": 13,
         "Vienna": 4,
         "Miami Masters": 5,
         "Hamburg": 10,
@@ -98235,7 +98237,7 @@
         "Hamburg": 14,
         "Umag": 9,
         "Kitzbuhel": 3,
-        "Winston-Salem": 23,
+        "Winston-Salem": 24,
         "US Open": 31,
         "Sao Paulo": 9,
         "Nice": 2,
@@ -98249,7 +98251,7 @@
         "Geneva": 3,
         "Davis Cup G1 R2: ESP vs ROU": 1,
         "Los Cabos": 4,
-        "Cincinnati Masters": 20,
+        "Cincinnati Masters": 22,
         "Chengdu": 6,
         "Beijing": 5,
         "Shanghai Masters": 6,
@@ -98259,7 +98261,7 @@
         "Davis Cup WG R1: ESP vs CRO": 2,
         "Rio De Janeiro": 7,
         "Davis Cup WG QF: SRB vs ESP": 1,
-        "Canada Masters": 14,
+        "Canada Masters": 15,
         "Vienna": 8,
         "ATP Finals": 2,
         "Davis Cup WG SF: FRA vs ESP": 1,
@@ -98314,7 +98316,7 @@
         "Nice": 50.0,
         "Roland Garros": 61.76,
         "Gstaad": 66.67,
-        "Winston-Salem": 73.91,
+        "Winston-Salem": 70.83,
         "Quito": 50.0,
         "Sao Paulo": 66.67,
         "Indian Wells Masters": 50.0,
@@ -98333,8 +98335,8 @@
         "Buenos Aires": 28.57,
         "Rio De Janeiro": 71.43,
         "Rome Masters": 40.0,
-        "Canada Masters": 71.43,
-        "Cincinnati Masters": 60.0,
+        "Canada Masters": 66.67,
+        "Cincinnati Masters": 59.09,
         "Vienna": 50.0,
         "Miami Masters": 45.45,
         "Hamburg": 71.43,
@@ -99380,33 +99382,33 @@
       "decade": 2010,
       "active_span": "14 years (13-26)",
       "country": "GER",
-      "matches_won": 248,
-      "matches_played": 528,
-      "win_pct": 46.97,
+      "matches_won": 249,
+      "matches_played": 531,
+      "win_pct": 46.89,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 528,
-      "career_win_pct": 46.97,
+      "career_total_matches": 531,
+      "career_win_pct": 46.89,
       "gs_titles": 0,
       "peak_ranking": 21,
       "top_5_wins": 5,
       "top_5_matches": 30,
       "top_5_win_pct": 16.67,
       "was_top_5": false,
-      "unique_opponents": 240,
+      "unique_opponents": 241,
       "surface_wins": {
         "Grass": 34,
         "Clay": 86,
-        "Hard": 128
+        "Hard": 129
       },
       "surface_matches": {
         "Clay": 171,
         "Grass": 71,
-        "Hard": 286
+        "Hard": 289
       },
       "surface_win_pcts": {
         "Grass": 47.89,
         "Clay": 50.29,
-        "Hard": 44.76
+        "Hard": 44.64
       },
       "tourney_wins": {
         "Wimbledon": 13,
@@ -99449,7 +99451,7 @@
         "Sofia": 5,
         "Halle": 5,
         "Canada Masters": 1,
-        "Cincinnati Masters": 5,
+        "Cincinnati Masters": 6,
         "Davis Cup Finals RR: ARG vs GER": 1,
         "ATP Cup": 5,
         "Adelaide": 1,
@@ -99527,8 +99529,8 @@
         "Brisbane": 1,
         "Sofia": 9,
         "Washington": 1,
-        "Canada Masters": 3,
-        "Cincinnati Masters": 9,
+        "Canada Masters": 4,
+        "Cincinnati Masters": 11,
         "Davis Cup Finals RR: ARG vs GER": 1,
         "Davis Cup Finals RR: GER vs CHI": 1,
         "Davis Cup Finals QF: GBR vs GER": 2,
@@ -99603,8 +99605,8 @@
         "Basel": 57.14,
         "Sofia": 55.56,
         "Halle": 29.41,
-        "Canada Masters": 33.33,
-        "Cincinnati Masters": 55.56,
+        "Canada Masters": 25.0,
+        "Cincinnati Masters": 54.55,
         "Davis Cup Finals RR: ARG vs GER": 100.0,
         "ATP Cup": 55.56,
         "Adelaide": 50.0,
@@ -100138,12 +100140,12 @@
       "decade": 2020,
       "active_span": "14 years (13-26)",
       "country": "GER",
-      "matches_won": 557,
-      "matches_played": 786,
-      "win_pct": 70.87,
+      "matches_won": 559,
+      "matches_played": 790,
+      "win_pct": 70.76,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 786,
-      "career_win_pct": 70.87,
+      "career_total_matches": 790,
+      "career_win_pct": 70.76,
       "gs_titles": 1,
       "peak_ranking": 2,
       "top_5_wins": 27,
@@ -100153,17 +100155,17 @@
       "unique_opponents": 246,
       "surface_wins": {
         "Clay": 189,
-        "Hard": 314,
+        "Hard": 316,
         "Grass": 54
       },
       "surface_matches": {
         "Clay": 255,
-        "Hard": 452,
+        "Hard": 456,
         "Grass": 79
       },
       "surface_win_pcts": {
         "Clay": 74.12,
-        "Hard": 69.47,
+        "Hard": 69.3,
         "Grass": 68.35
       },
       "tourney_wins": {
@@ -100212,7 +100214,7 @@
         "Cologne 2": 4,
         "ATP Cup": 3,
         "Tokyo Olympics": 6,
-        "Cincinnati Masters": 12,
+        "Cincinnati Masters": 14,
         "Davis Cup QLS R1: GER vs BRA": 2,
         "Davis Cup QLS R1: GER vs SUI": 1,
         "Dubai": 3,
@@ -100243,7 +100245,7 @@
         "Wimbledon": 32,
         "Bastad": 7,
         "Washington": 18,
-        "Cincinnati Masters": 20,
+        "Cincinnati Masters": 23,
         "US Open": 35,
         "Metz": 1,
         "Kuala Lumpur": 1,
@@ -100257,7 +100259,7 @@
         "Rome Masters": 37,
         "Nice": 5,
         "Roland Garros": 55,
-        "Canada Masters": 22,
+        "Canada Masters": 23,
         "St. Petersburg": 5,
         "Beijing": 17,
         "Shanghai Masters": 18,
@@ -100323,7 +100325,7 @@
         "Davis Cup WG R1: BEL vs GER": 50.0,
         "Madrid Masters": 81.08,
         "'s-Hertogenbosch": 66.67,
-        "Canada Masters": 72.73,
+        "Canada Masters": 69.57,
         "Laver Cup": 77.78,
         "Shenzhen": 50.0,
         "Vienna": 78.95,
@@ -100341,7 +100343,7 @@
         "Cologne 2": 100.0,
         "ATP Cup": 33.33,
         "Tokyo Olympics": 100.0,
-        "Cincinnati Masters": 60.0,
+        "Cincinnati Masters": 60.87,
         "Davis Cup QLS R1: GER vs BRA": 100.0,
         "Davis Cup QLS R1: GER vs SUI": 50.0,
         "Dubai": 60.0,
@@ -100974,30 +100976,30 @@
       "active_span": "14 years (13-26)",
       "country": "RUS",
       "matches_won": 327,
-      "matches_played": 563,
-      "win_pct": 58.08,
+      "matches_played": 566,
+      "win_pct": 57.77,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 563,
-      "career_win_pct": 58.08,
+      "career_total_matches": 566,
+      "career_win_pct": 57.77,
       "gs_titles": 0,
       "peak_ranking": 8,
       "top_5_wins": 5,
       "top_5_matches": 40,
       "top_5_win_pct": 12.5,
       "was_top_5": false,
-      "unique_opponents": 231,
+      "unique_opponents": 233,
       "surface_wins": {
         "Hard": 208,
         "Clay": 85,
         "Grass": 34
       },
       "surface_matches": {
-        "Hard": 363,
+        "Hard": 366,
         "Clay": 146,
         "Grass": 54
       },
       "surface_win_pcts": {
-        "Hard": 57.3,
+        "Hard": 56.83,
         "Clay": 58.22,
         "Grass": 62.96
       },
@@ -101086,8 +101088,8 @@
         "Halle": 19,
         "Wimbledon": 25,
         "Hamburg": 10,
-        "Canada Masters": 23,
-        "Cincinnati Masters": 16,
+        "Canada Masters": 24,
+        "Cincinnati Masters": 17,
         "Davis Cup WG PO: RUS vs HUN": 2,
         "Beijing": 12,
         "Shanghai Masters": 8,
@@ -101122,7 +101124,8 @@
         "Hangzhou": 1,
         "Almaty": 5,
         "Geneva": 2,
-        "Monte Carlo": 1
+        "Monte Carlo": 1,
+        "Los Cabos": 1
       },
       "tourney_win_pcts": {
         "St. Petersburg": 40.0,
@@ -101144,7 +101147,7 @@
         "Wimbledon": 72.0,
         "Bastad": 33.33,
         "Hamburg": 60.0,
-        "Cincinnati Masters": 56.25,
+        "Cincinnati Masters": 52.94,
         "Davis Cup WG PO: RUS vs HUN": 50.0,
         "Beijing": 58.33,
         "Next Gen Finals": 33.33,
@@ -101153,7 +101156,7 @@
         "Marseille": 61.54,
         "Dubai": 44.44,
         "Miami Masters": 50.0,
-        "Canada Masters": 69.57,
+        "Canada Masters": 66.67,
         "Davis Cup G1 R2: RUS vs BLR": 100.0,
         "Shanghai Masters": 37.5,
         "Paris Masters": 69.23,
@@ -101959,12 +101962,12 @@
       "decade": 2020,
       "active_span": "13 years (14-26)",
       "country": "USA",
-      "matches_won": 263,
-      "matches_played": 486,
-      "win_pct": 54.12,
+      "matches_won": 268,
+      "matches_played": 494,
+      "win_pct": 54.25,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 486,
-      "career_win_pct": 54.12,
+      "career_total_matches": 494,
+      "career_win_pct": 54.25,
       "gs_titles": 0,
       "peak_ranking": 10,
       "top_5_wins": 5,
@@ -101973,17 +101976,17 @@
       "was_top_5": false,
       "unique_opponents": 204,
       "surface_wins": {
-        "Hard": 178,
+        "Hard": 183,
         "Grass": 33,
         "Clay": 52
       },
       "surface_matches": {
-        "Hard": 329,
+        "Hard": 337,
         "Clay": 102,
         "Grass": 55
       },
       "surface_win_pcts": {
-        "Hard": 54.1,
+        "Hard": 54.3,
         "Grass": 60.0,
         "Clay": 50.98
       },
@@ -101993,7 +101996,7 @@
         "Australian Open": 13,
         "Miami Masters": 17,
         "Wimbledon": 15,
-        "Cincinnati Masters": 11,
+        "Cincinnati Masters": 15,
         "Shanghai Masters": 2,
         "Antwerp": 4,
         "New York": 2,
@@ -102004,7 +102007,7 @@
         "Queen's Club": 5,
         "Atlanta": 4,
         "Washington": 11,
-        "Canada Masters": 7,
+        "Canada Masters": 8,
         "US Open": 22,
         "Tokyo": 5,
         "Paris Masters": 4,
@@ -102038,7 +102041,7 @@
         "Halle": 5
       },
       "tourney_matches": {
-        "Washington": 20,
+        "Washington": 21,
         "Nice": 1,
         "Roland Garros": 22,
         "Atlanta": 10,
@@ -102053,8 +102056,8 @@
         "Eastbourne": 3,
         "Wimbledon": 24,
         "Los Cabos": 1,
-        "Canada Masters": 14,
-        "Cincinnati Masters": 19,
+        "Canada Masters": 16,
+        "Cincinnati Masters": 24,
         "Laver Cup": 7,
         "Shanghai Masters": 7,
         "Antwerp": 9,
@@ -102111,7 +102114,7 @@
         "Australian Open": 56.52,
         "Miami Masters": 65.38,
         "Wimbledon": 62.5,
-        "Cincinnati Masters": 57.89,
+        "Cincinnati Masters": 62.5,
         "Shanghai Masters": 28.57,
         "Antwerp": 44.44,
         "New York": 66.67,
@@ -102121,7 +102124,7 @@
         "Geneva": 50.0,
         "Queen's Club": 41.67,
         "Atlanta": 40.0,
-        "Washington": 55.0,
+        "Washington": 52.38,
         "Canada Masters": 50.0,
         "US Open": 68.75,
         "Tokyo": 55.56,
@@ -102363,12 +102366,12 @@
       "decade": 2020,
       "active_span": "13 years (14-26)",
       "country": "RUS",
-      "matches_won": 393,
-      "matches_played": 612,
-      "win_pct": 64.22,
+      "matches_won": 394,
+      "matches_played": 615,
+      "win_pct": 64.07,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 612,
-      "career_win_pct": 64.22,
+      "career_total_matches": 615,
+      "career_win_pct": 64.07,
       "gs_titles": 0,
       "peak_ranking": 5,
       "top_5_wins": 13,
@@ -102377,17 +102380,17 @@
       "was_top_5": true,
       "unique_opponents": 218,
       "surface_wins": {
-        "Hard": 266,
+        "Hard": 267,
         "Clay": 104,
         "Grass": 23
       },
       "surface_matches": {
-        "Hard": 419,
+        "Hard": 422,
         "Clay": 156,
         "Grass": 37
       },
       "surface_win_pcts": {
-        "Hard": 63.48,
+        "Hard": 63.27,
         "Clay": 66.67,
         "Grass": 62.16
       },
@@ -102424,7 +102427,7 @@
         "Marseille": 6,
         "Indian Wells Masters": 9,
         "Hamburg": 15,
-        "Cincinnati Masters": 10,
+        "Cincinnati Masters": 11,
         "Winston Salem": 3,
         "Moscow": 5,
         "Davis Cup Finals RR: CRO vs RUS": 1,
@@ -102499,8 +102502,8 @@
         "Indian Wells Masters": 17,
         "Davis Cup G1 R2: AUT vs RUS": 1,
         "Washington": 13,
-        "Canada Masters": 14,
-        "Cincinnati Masters": 17,
+        "Canada Masters": 15,
+        "Cincinnati Masters": 19,
         "Next Gen ATP Finals": 5,
         "Sydney": 2,
         "Winston Salem": 4,
@@ -102571,7 +102574,7 @@
         "Marseille": 75.0,
         "Indian Wells Masters": 52.94,
         "Hamburg": 75.0,
-        "Cincinnati Masters": 58.82,
+        "Cincinnati Masters": 57.89,
         "Winston Salem": 75.0,
         "Moscow": 50.0,
         "Davis Cup Finals RR: CRO vs RUS": 100.0,
@@ -102586,7 +102589,7 @@
         "Tour Finals": 30.77,
         "ATP Cup": 100.0,
         "Madrid Masters": 70.59,
-        "Canada Masters": 57.14,
+        "Canada Masters": 53.33,
         "Laver Cup": 50.0,
         "San Diego": 66.67,
         "Davis Cup Finals RR: RTF vs ECU": 100.0,
@@ -102612,32 +102615,32 @@
       "decade": 2020,
       "active_span": "12 years (15-26)",
       "country": "USA",
-      "matches_won": 349,
-      "matches_played": 573,
-      "win_pct": 60.91,
+      "matches_won": 357,
+      "matches_played": 583,
+      "win_pct": 61.23,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 573,
-      "career_win_pct": 60.91,
+      "career_total_matches": 583,
+      "career_win_pct": 61.23,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 13,
       "top_5_matches": 45,
       "top_5_win_pct": 28.89,
       "was_top_5": true,
-      "unique_opponents": 229,
+      "unique_opponents": 231,
       "surface_wins": {
         "Grass": 57,
-        "Hard": 237,
+        "Hard": 245,
         "Clay": 55
       },
       "surface_matches": {
         "Grass": 85,
-        "Hard": 390,
+        "Hard": 400,
         "Clay": 98
       },
       "surface_win_pcts": {
         "Grass": 67.06,
-        "Hard": 60.77,
+        "Hard": 61.25,
         "Clay": 56.12
       },
       "tourney_wins": {
@@ -102647,7 +102650,7 @@
         "Miami Masters": 15,
         "Nice": 1,
         "Stuttgart": 9,
-        "Washington": 7,
+        "Washington": 12,
         "Atlanta": 13,
         "Winston-Salem": 5,
         "Shanghai Masters": 8,
@@ -102677,7 +102680,7 @@
         "Davis Cup Finals RR: USA vs ITA": 1,
         "ATP Cup": 3,
         "Davis Cup QLS R1: USA vs UZB": 1,
-        "Cincinnati Masters": 7,
+        "Cincinnati Masters": 10,
         "Murray River Open": 1,
         "Doha": 3,
         "Dubai": 1,
@@ -102718,10 +102721,10 @@
         "Stuttgart": 13,
         "Halle": 7,
         "Wimbledon": 32,
-        "Washington": 12,
-        "Canada Masters": 15,
+        "Washington": 17,
+        "Canada Masters": 16,
         "Atlanta": 18,
-        "Cincinnati Masters": 14,
+        "Cincinnati Masters": 18,
         "Winston-Salem": 8,
         "US Open": 25,
         "Tokyo": 12,
@@ -102785,7 +102788,7 @@
         "Miami Masters": 60.0,
         "Nice": 50.0,
         "Stuttgart": 69.23,
-        "Washington": 58.33,
+        "Washington": 70.59,
         "Atlanta": 72.22,
         "Winston-Salem": 62.5,
         "Shanghai Masters": 61.54,
@@ -102815,7 +102818,7 @@
         "Davis Cup Finals RR: USA vs ITA": 100.0,
         "ATP Cup": 50.0,
         "Davis Cup QLS R1: USA vs UZB": 100.0,
-        "Cincinnati Masters": 50.0,
+        "Cincinnati Masters": 55.56,
         "Murray River Open": 50.0,
         "Doha": 75.0,
         "Dubai": 50.0,
@@ -102825,7 +102828,7 @@
         "Stockholm": 25.0,
         "Dallas": 66.67,
         "Davis Cup QLS R1: USA vs COL": 100.0,
-        "Canada Masters": 53.33,
+        "Canada Masters": 50.0,
         "Davis Cup Finals RR: USA vs KAZ": 100.0,
         "Tokyo": 50.0,
         "Vienna": 33.33,
@@ -102961,41 +102964,41 @@
       "decade": 2020,
       "active_span": "12 years (15-26)",
       "country": "USA",
-      "matches_won": 235,
-      "matches_played": 385,
-      "win_pct": 61.04,
+      "matches_won": 239,
+      "matches_played": 392,
+      "win_pct": 60.97,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 385,
-      "career_win_pct": 61.04,
+      "career_total_matches": 392,
+      "career_win_pct": 60.97,
       "gs_titles": 0,
       "peak_ranking": 9,
-      "top_5_wins": 7,
-      "top_5_matches": 24,
-      "top_5_win_pct": 29.17,
+      "top_5_wins": 8,
+      "top_5_matches": 25,
+      "top_5_win_pct": 32.0,
       "was_top_5": false,
-      "unique_opponents": 173,
+      "unique_opponents": 175,
       "surface_wins": {
         "Clay": 49,
-        "Hard": 155,
+        "Hard": 159,
         "Grass": 31
       },
       "surface_matches": {
-        "Hard": 254,
+        "Hard": 261,
         "Clay": 84,
         "Grass": 47
       },
       "surface_win_pcts": {
         "Clay": 58.33,
-        "Hard": 61.02,
+        "Hard": 60.92,
         "Grass": 65.96
       },
       "tourney_wins": {
         "Houston": 8,
         "Atlanta": 4,
         "Washington": 5,
-        "Cincinnati Masters": 5,
+        "Cincinnati Masters": 8,
         "Winston-Salem": 1,
-        "Canada Masters": 10,
+        "Canada Masters": 11,
         "Adelaide": 8,
         "Australian Open": 18,
         "Delray Beach": 12,
@@ -103046,12 +103049,12 @@
         "Miami Masters": 15,
         "Houston": 12,
         "Atlanta": 6,
-        "Washington": 10,
-        "Cincinnati Masters": 11,
+        "Washington": 11,
+        "Cincinnati Masters": 15,
         "Winston-Salem": 2,
         "Roland Garros": 19,
         "'s-Hertogenbosch": 4,
-        "Canada Masters": 15,
+        "Canada Masters": 17,
         "Adelaide": 12,
         "Australian Open": 25,
         "New York": 1,
@@ -103106,10 +103109,10 @@
       "tourney_win_pcts": {
         "Houston": 66.67,
         "Atlanta": 66.67,
-        "Washington": 50.0,
-        "Cincinnati Masters": 45.45,
+        "Washington": 45.45,
+        "Cincinnati Masters": 53.33,
         "Winston-Salem": 50.0,
-        "Canada Masters": 66.67,
+        "Canada Masters": 64.71,
         "Adelaide": 66.67,
         "Australian Open": 72.0,
         "Delray Beach": 66.67,
@@ -103159,31 +103162,31 @@
       "decade": 2020,
       "active_span": "11 years (16-26)",
       "country": "NOR",
-      "matches_won": 318,
-      "matches_played": 487,
-      "win_pct": 65.3,
+      "matches_won": 319,
+      "matches_played": 490,
+      "win_pct": 65.1,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 487,
-      "career_win_pct": 65.3,
+      "career_total_matches": 490,
+      "career_win_pct": 65.1,
       "gs_titles": 0,
       "peak_ranking": 2,
       "top_5_wins": 7,
       "top_5_matches": 29,
       "top_5_win_pct": 24.14,
       "was_top_5": true,
-      "unique_opponents": 201,
+      "unique_opponents": 202,
       "surface_wins": {
-        "Hard": 135,
+        "Hard": 136,
         "Clay": 178,
         "Grass": 5
       },
       "surface_matches": {
-        "Hard": 233,
+        "Hard": 236,
         "Clay": 241,
         "Grass": 13
       },
       "surface_win_pcts": {
-        "Hard": 57.94,
+        "Hard": 57.63,
         "Clay": 73.86,
         "Grass": 38.46
       },
@@ -103221,7 +103224,7 @@
         "Geneva": 16,
         "Mallorca": 2,
         "Gstaad": 10,
-        "Canada Masters": 9,
+        "Canada Masters": 10,
         "Cincinnati Masters": 2,
         "Davis Cup WG1 R1: UZB vs NOR": 2,
         "Laver Cup": 3,
@@ -103279,7 +103282,7 @@
         "Rome Masters": 28,
         "Wimbledon": 9,
         "Kitzbuhel": 8,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 9,
         "Winston Salem": 2,
         "Davis Cup G2 R1: NOR vs GEO": 2,
         "St. Petersburg": 3,
@@ -103300,7 +103303,7 @@
         "Geneva": 18,
         "Mallorca": 3,
         "Gstaad": 12,
-        "Canada Masters": 14,
+        "Canada Masters": 16,
         "Davis Cup WG1 R1: UZB vs NOR": 2,
         "Laver Cup": 4,
         "San Diego": 4,
@@ -103362,8 +103365,8 @@
         "Geneva": 88.89,
         "Mallorca": 66.67,
         "Gstaad": 83.33,
-        "Canada Masters": 64.29,
-        "Cincinnati Masters": 25.0,
+        "Canada Masters": 62.5,
+        "Cincinnati Masters": 22.22,
         "Davis Cup WG1 R1: UZB vs NOR": 100.0,
         "Laver Cup": 75.0,
         "San Diego": 100.0,
@@ -103400,32 +103403,32 @@
       "decade": 2020,
       "active_span": "11 years (16-26)",
       "country": "POL",
-      "matches_won": 239,
-      "matches_played": 405,
-      "win_pct": 59.01,
+      "matches_won": 242,
+      "matches_played": 410,
+      "win_pct": 59.02,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 405,
-      "career_win_pct": 59.01,
+      "career_total_matches": 410,
+      "career_win_pct": 59.02,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 11,
       "top_5_matches": 30,
       "top_5_win_pct": 36.67,
       "was_top_5": false,
-      "unique_opponents": 174,
+      "unique_opponents": 176,
       "surface_wins": {
-        "Hard": 161,
+        "Hard": 164,
         "Clay": 48,
         "Grass": 30
       },
       "surface_matches": {
-        "Hard": 270,
+        "Hard": 275,
         "Clay": 85,
         "nan": 2,
         "Grass": 48
       },
       "surface_win_pcts": {
-        "Hard": 59.63,
+        "Hard": 59.64,
         "Clay": 56.47,
         "Grass": 62.5
       },
@@ -103444,7 +103447,7 @@
         "Madrid Masters": 9,
         "Eastbourne": 2,
         "Wimbledon": 14,
-        "Canada Masters": 12,
+        "Canada Masters": 14,
         "Winston Salem": 5,
         "Shanghai Masters": 8,
         "ATP Cup": 6,
@@ -103459,7 +103462,7 @@
         "Rotterdam": 7,
         "Monte Carlo Masters": 8,
         "Tokyo Olympics": 1,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 9,
         "Metz": 6,
         "San Diego": 1,
         "Paris Masters": 7,
@@ -103486,7 +103489,7 @@
         "Wimbledon": 21,
         "Atlanta": 1,
         "Washington": 6,
-        "Cincinnati Masters": 15,
+        "Cincinnati Masters": 17,
         "US Open": 13,
         "Davis Cup G2 R3: ROU vs POL": 2,
         "Shanghai Masters": 10,
@@ -103503,7 +103506,7 @@
         "Lyon": 1,
         "Halle": 16,
         "Eastbourne": 3,
-        "Canada Masters": 17,
+        "Canada Masters": 20,
         "Winston Salem": 5,
         "Metz": 8,
         "Tokyo": 4,
@@ -103547,7 +103550,7 @@
         "Madrid Masters": 56.25,
         "Eastbourne": 66.67,
         "Wimbledon": 66.67,
-        "Canada Masters": 70.59,
+        "Canada Masters": 70.0,
         "Winston Salem": 100.0,
         "Shanghai Masters": 80.0,
         "ATP Cup": 85.71,
@@ -103562,7 +103565,7 @@
         "Rotterdam": 50.0,
         "Monte Carlo Masters": 61.54,
         "Tokyo Olympics": 50.0,
-        "Cincinnati Masters": 53.33,
+        "Cincinnati Masters": 52.94,
         "Metz": 75.0,
         "San Diego": 50.0,
         "Paris Masters": 53.85,
@@ -103752,12 +103755,12 @@
       "decade": 2020,
       "active_span": "11 years (16-26)",
       "country": "ITA",
-      "matches_won": 174,
-      "matches_played": 363,
-      "win_pct": 47.93,
+      "matches_won": 177,
+      "matches_played": 369,
+      "win_pct": 47.97,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 363,
-      "career_win_pct": 47.93,
+      "career_total_matches": 369,
+      "career_win_pct": 47.97,
       "gs_titles": 0,
       "peak_ranking": 21,
       "top_5_wins": 2,
@@ -103766,17 +103769,17 @@
       "was_top_5": false,
       "unique_opponents": 173,
       "surface_wins": {
-        "Hard": 88,
+        "Hard": 91,
         "Clay": 57,
         "Grass": 29
       },
       "surface_matches": {
         "Clay": 121,
-        "Hard": 189,
+        "Hard": 195,
         "Grass": 53
       },
       "surface_win_pcts": {
-        "Hard": 46.56,
+        "Hard": 46.67,
         "Clay": 47.11,
         "Grass": 54.72
       },
@@ -103806,7 +103809,7 @@
         "Eastbourne": 6,
         "Wimbledon": 11,
         "Tokyo Olympics": 1,
-        "Cincinnati Masters": 3,
+        "Cincinnati Masters": 4,
         "San Diego": 2,
         "Davis Cup Finals RR: USA vs ITA": 1,
         "Davis Cup Finals RR: ITA vs COL": 1,
@@ -103814,7 +103817,7 @@
         "Rio de Janeiro": 1,
         "Barcelona": 2,
         "Stuttgart": 3,
-        "Winston-Salem": 6,
+        "Winston-Salem": 8,
         "Sofia": 1,
         "Davis Cup Finals QF: ITA vs USA": 1,
         "Davis Cup Finals SF: ITA vs CAN": 1,
@@ -103856,7 +103859,7 @@
         "Antalya": 5,
         "Gstaad": 5,
         "Kitzbuhel": 5,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 10,
         "Winston Salem": 2,
         "Metz": 18,
         "Tokyo": 1,
@@ -103877,7 +103880,7 @@
         "Queen's Club": 2,
         "Eastbourne": 11,
         "Tokyo Olympics": 2,
-        "Canada Masters": 6,
+        "Canada Masters": 7,
         "San Diego": 3,
         "Indian Wells Masters": 6,
         "Davis Cup Finals RR: USA vs ITA": 1,
@@ -103890,7 +103893,7 @@
         "Barcelona": 4,
         "Madrid Masters": 7,
         "Stuttgart": 6,
-        "Winston-Salem": 7,
+        "Winston-Salem": 10,
         "Sofia": 2,
         "Florence": 1,
         "Naples": 1,
@@ -103942,7 +103945,7 @@
         "Eastbourne": 54.55,
         "Wimbledon": 57.89,
         "Tokyo Olympics": 50.0,
-        "Cincinnati Masters": 37.5,
+        "Cincinnati Masters": 40.0,
         "San Diego": 66.67,
         "Davis Cup Finals RR: USA vs ITA": 100.0,
         "Davis Cup Finals RR: ITA vs COL": 100.0,
@@ -103950,7 +103953,7 @@
         "Rio de Janeiro": 50.0,
         "Barcelona": 50.0,
         "Stuttgart": 50.0,
-        "Winston-Salem": 85.71,
+        "Winston-Salem": 80.0,
         "Sofia": 50.0,
         "Davis Cup Finals QF: ITA vs USA": 100.0,
         "Davis Cup Finals SF: ITA vs CAN": 100.0,
@@ -103964,7 +103967,7 @@
         "Adelaide": 50.0,
         "Indian Wells Masters": 16.67,
         "Madrid Masters": 28.57,
-        "Canada Masters": 33.33,
+        "Canada Masters": 28.57,
         "Hong Kong": 50.0,
         "Auckland": 33.33,
         "Marseille": 66.67,
@@ -103977,33 +103980,33 @@
       "decade": 2020,
       "active_span": "11 years (16-26)",
       "country": "RUS",
-      "matches_won": 449,
-      "matches_played": 636,
-      "win_pct": 70.6,
+      "matches_won": 450,
+      "matches_played": 640,
+      "win_pct": 70.31,
       "win_pct_category": "Above 70%",
-      "career_total_matches": 636,
-      "career_win_pct": 70.6,
+      "career_total_matches": 640,
+      "career_win_pct": 70.31,
       "gs_titles": 1,
       "peak_ranking": 1,
       "top_5_wins": 18,
       "top_5_matches": 58,
       "top_5_win_pct": 31.03,
       "was_top_5": true,
-      "unique_opponents": 209,
+      "unique_opponents": 211,
       "surface_wins": {
         "Grass": 57,
         "Clay": 52,
-        "Hard": 340
+        "Hard": 341
       },
       "surface_matches": {
         "Clay": 91,
         "Grass": 85,
-        "Hard": 460
+        "Hard": 464
       },
       "surface_win_pcts": {
         "Grass": 67.06,
         "Clay": 57.14,
-        "Hard": 73.91
+        "Hard": 73.49
       },
       "tourney_wins": {
         "'s-Hertogenbosch": 10,
@@ -104039,7 +104042,7 @@
         "Davis Cup QLS R1: SUI vs RUS": 1,
         "Sofia": 4,
         "Barcelona": 4,
-        "Cincinnati Masters": 15,
+        "Cincinnati Masters": 16,
         "ATP Cup": 11,
         "Vienna": 12,
         "Tour Finals": 11,
@@ -104086,9 +104089,9 @@
         "Eastbourne": 5,
         "Wimbledon": 28,
         "Washington": 14,
-        "Canada Masters": 21,
-        "Cincinnati Masters": 22,
-        "Winston-Salem": 7,
+        "Canada Masters": 22,
+        "Cincinnati Masters": 24,
+        "Winston-Salem": 8,
         "US Open": 40,
         "Tokyo": 6,
         "Shanghai Masters": 14,
@@ -104155,8 +104158,8 @@
         "Miami Masters": 74.07,
         "Davis Cup G1 R2: AUT vs RUS": 100.0,
         "Monte Carlo Masters": 62.5,
-        "Canada Masters": 66.67,
-        "Winston-Salem": 85.71,
+        "Canada Masters": 63.64,
+        "Winston-Salem": 75.0,
         "US Open": 82.5,
         "Davis Cup G1 R2: RUS vs BLR": 50.0,
         "Tokyo": 83.33,
@@ -104167,7 +104170,7 @@
         "Davis Cup QLS R1: SUI vs RUS": 100.0,
         "Sofia": 100.0,
         "Barcelona": 80.0,
-        "Cincinnati Masters": 68.18,
+        "Cincinnati Masters": 66.67,
         "ATP Cup": 84.62,
         "Vienna": 80.0,
         "Tour Finals": 55.0,
@@ -104199,31 +104202,31 @@
       "decade": 2020,
       "active_span": "11 years (16-26)",
       "country": "CAN",
-      "matches_won": 241,
-      "matches_played": 445,
-      "win_pct": 54.16,
+      "matches_won": 246,
+      "matches_played": 453,
+      "win_pct": 54.3,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 445,
-      "career_win_pct": 54.16,
+      "career_total_matches": 453,
+      "career_win_pct": 54.3,
       "gs_titles": 0,
       "peak_ranking": 10,
       "top_5_wins": 6,
       "top_5_matches": 34,
       "top_5_win_pct": 17.65,
       "was_top_5": false,
-      "unique_opponents": 199,
+      "unique_opponents": 203,
       "surface_wins": {
-        "Hard": 179,
+        "Hard": 184,
         "Grass": 22,
         "Clay": 40
       },
       "surface_matches": {
-        "Hard": 313,
+        "Hard": 321,
         "Grass": 49,
         "Clay": 83
       },
       "surface_win_pcts": {
-        "Hard": 57.19,
+        "Hard": 57.32,
         "Grass": 44.9,
         "Clay": 48.19
       },
@@ -104248,7 +104251,7 @@
         "Eastbourne": 1,
         "Wimbledon": 12,
         "Washington": 4,
-        "Cincinnati Masters": 6,
+        "Cincinnati Masters": 7,
         "Davis Cup WG PO: CAN vs NED": 1,
         "St. Petersburg": 6,
         "Shenzhen": 1,
@@ -104284,12 +104287,12 @@
         "Belgrade": 5,
         "Adelaide": 1,
         "Dallas": 8,
-        "Los Cabos": 4,
+        "Los Cabos": 8,
         "Munich": 2
       },
       "tourney_matches": {
         "Washington": 8,
-        "Canada Masters": 16,
+        "Canada Masters": 17,
         "Davis Cup WG PO: CAN vs CHI": 1,
         "Davis Cup WG R1: CAN vs GBR": 2,
         "Marseille": 5,
@@ -104318,7 +104321,7 @@
         "Roland Garros": 15,
         "Stuttgart": 9,
         "Eastbourne": 2,
-        "Cincinnati Masters": 11,
+        "Cincinnati Masters": 13,
         "Davis Cup WG PO: CAN vs NED": 1,
         "St. Petersburg": 9,
         "Shenzhen": 2,
@@ -104364,12 +104367,12 @@
         "Hong Kong": 1,
         "Adelaide": 2,
         "Munich": 4,
-        "Los Cabos": 4,
+        "Los Cabos": 9,
         "Monte Carlo": 1,
         "'s-Hertogenbosch": 1
       },
       "tourney_win_pcts": {
-        "Canada Masters": 50.0,
+        "Canada Masters": 47.06,
         "Davis Cup WG PO: CAN vs CHI": 100.0,
         "Queen's Club": 45.45,
         "US Open": 68.18,
@@ -104389,7 +104392,7 @@
         "Eastbourne": 50.0,
         "Wimbledon": 57.14,
         "Washington": 50.0,
-        "Cincinnati Masters": 54.55,
+        "Cincinnati Masters": 53.85,
         "Davis Cup WG PO: CAN vs NED": 100.0,
         "St. Petersburg": 66.67,
         "Shenzhen": 50.0,
@@ -104425,7 +104428,7 @@
         "Belgrade": 100.0,
         "Adelaide": 50.0,
         "Dallas": 80.0,
-        "Los Cabos": 100.0,
+        "Los Cabos": 88.89,
         "Munich": 50.0
       }
     },
@@ -104663,31 +104666,31 @@
       "decade": 2020,
       "active_span": "10 years (17-26)",
       "country": "AUS",
-      "matches_won": 327,
-      "matches_played": 517,
-      "win_pct": 63.25,
+      "matches_won": 331,
+      "matches_played": 524,
+      "win_pct": 63.17,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 517,
-      "career_win_pct": 63.25,
+      "career_total_matches": 524,
+      "career_win_pct": 63.17,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 8,
       "top_5_matches": 51,
       "top_5_win_pct": 15.69,
       "was_top_5": false,
-      "unique_opponents": 195,
+      "unique_opponents": 196,
       "surface_wins": {
-        "Hard": 235,
+        "Hard": 239,
         "Clay": 48,
         "Grass": 44
       },
       "surface_matches": {
-        "Hard": 359,
+        "Hard": 366,
         "Clay": 91,
         "Grass": 67
       },
       "surface_win_pcts": {
-        "Hard": 65.46,
+        "Hard": 65.3,
         "Clay": 52.75,
         "Grass": 65.67
       },
@@ -104699,7 +104702,7 @@
         "Estoril": 1,
         "Wimbledon": 17,
         "Atlanta": 10,
-        "Washington": 10,
+        "Washington": 12,
         "US Open": 18,
         "Shenzhen": 3,
         "Tokyo": 3,
@@ -104709,7 +104712,7 @@
         "Acapulco": 12,
         "Roland Garros": 10,
         "'s-Hertogenbosch": 9,
-        "Cincinnati Masters": 5,
+        "Cincinnati Masters": 6,
         "Zhuhai": 5,
         "Basel": 5,
         "Paris Masters": 14,
@@ -104734,7 +104737,7 @@
         "Monte Carlo Masters": 8,
         "Rome Masters": 6,
         "Lyon": 2,
-        "Canada Masters": 10,
+        "Canada Masters": 11,
         "Davis Cup Finals RR: AUS vs BEL": 1,
         "Davis Cup Finals RR: FRA vs AUS": 1,
         "Laver Cup": 1,
@@ -104770,7 +104773,7 @@
         "Wimbledon": 25,
         "Newport": 1,
         "Atlanta": 12,
-        "Washington": 14,
+        "Washington": 17,
         "Winston-Salem": 1,
         "Davis Cup WG PO: AUT vs AUS": 2,
         "Shenzhen": 4,
@@ -104785,8 +104788,8 @@
         "Rome Masters": 14,
         "'s-Hertogenbosch": 13,
         "Queen's Club": 17,
-        "Canada Masters": 15,
-        "Cincinnati Masters": 10,
+        "Canada Masters": 17,
+        "Cincinnati Masters": 12,
         "Zhuhai": 5,
         "Basel": 8,
         "Davis Cup Finals RR: AUS vs COL": 1,
@@ -104842,7 +104845,7 @@
         "Estoril": 33.33,
         "Wimbledon": 68.0,
         "Atlanta": 83.33,
-        "Washington": 71.43,
+        "Washington": 70.59,
         "US Open": 69.23,
         "Shenzhen": 75.0,
         "Tokyo": 42.86,
@@ -104877,7 +104880,7 @@
         "Monte Carlo Masters": 61.54,
         "Rome Masters": 42.86,
         "Lyon": 66.67,
-        "Canada Masters": 66.67,
+        "Canada Masters": 64.71,
         "Davis Cup Finals RR: AUS vs BEL": 100.0,
         "Davis Cup Finals RR: FRA vs AUS": 100.0,
         "Laver Cup": 100.0,
@@ -104905,31 +104908,31 @@
       "decade": 2020,
       "active_span": "10 years (17-26)",
       "country": "GRE",
-      "matches_won": 391,
-      "matches_played": 586,
-      "win_pct": 66.72,
+      "matches_won": 394,
+      "matches_played": 593,
+      "win_pct": 66.44,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 586,
-      "career_win_pct": 66.72,
+      "career_total_matches": 593,
+      "career_win_pct": 66.44,
       "gs_titles": 0,
       "peak_ranking": 3,
       "top_5_wins": 17,
       "top_5_matches": 53,
       "top_5_win_pct": 32.08,
       "was_top_5": true,
-      "unique_opponents": 203,
+      "unique_opponents": 204,
       "surface_wins": {
-        "Hard": 233,
+        "Hard": 236,
         "Clay": 134,
         "Grass": 24
       },
       "surface_matches": {
-        "Hard": 360,
+        "Hard": 367,
         "Clay": 181,
         "Grass": 45
       },
       "surface_win_pcts": {
-        "Hard": 64.72,
+        "Hard": 64.31,
         "Clay": 74.03,
         "Grass": 53.33
       },
@@ -104948,7 +104951,7 @@
         "Halle": 5,
         "Wimbledon": 10,
         "Washington": 6,
-        "Canada Masters": 8,
+        "Canada Masters": 9,
         "US Open": 6,
         "Tokyo": 2,
         "Stockholm": 7,
@@ -104968,7 +104971,7 @@
         "ATP Cup": 4,
         "Rotterdam": 12,
         "Davis Cup WG2 PO: PHI vs GRE": 2,
-        "Cincinnati Masters": 12,
+        "Cincinnati Masters": 13,
         "Hamburg": 5,
         "Vienna": 6,
         "Acapulco": 9,
@@ -104987,7 +104990,8 @@
         "Paris Olympics": 3,
         "Davis Cup WG1 R1: GRE vs BRA": 1,
         "Davis Cup WG1 PO: GRE vs MEX": 2,
-        "Geneva": 1
+        "Geneva": 1,
+        "Winston-Salem": 1
       },
       "tourney_matches": {
         "Rotterdam": 20,
@@ -105014,9 +105018,9 @@
         "Rome Masters": 27,
         "'s-Hertogenbosch": 4,
         "Halle": 10,
-        "Washington": 8,
-        "Canada Masters": 15,
-        "Cincinnati Masters": 19,
+        "Washington": 9,
+        "Canada Masters": 17,
+        "Cincinnati Masters": 21,
         "US Open": 13,
         "Shenzhen": 1,
         "Stockholm": 8,
@@ -105053,7 +105057,8 @@
         "Davis Cup WG1 PO: GRE vs MEX": 2,
         "Monte Carlo": 1,
         "Munich": 1,
-        "Geneva": 2
+        "Geneva": 2,
+        "Winston-Salem": 2
       },
       "tourney_win_pcts": {
         "Shanghai Masters": 64.29,
@@ -105069,8 +105074,8 @@
         "'s-Hertogenbosch": 50.0,
         "Halle": 50.0,
         "Wimbledon": 52.63,
-        "Washington": 75.0,
-        "Canada Masters": 53.33,
+        "Washington": 66.67,
+        "Canada Masters": 52.94,
         "US Open": 46.15,
         "Tokyo": 40.0,
         "Stockholm": 87.5,
@@ -105090,7 +105095,7 @@
         "ATP Cup": 57.14,
         "Rotterdam": 60.0,
         "Davis Cup WG2 PO: PHI vs GRE": 100.0,
-        "Cincinnati Masters": 63.16,
+        "Cincinnati Masters": 61.9,
         "Hamburg": 71.43,
         "Vienna": 60.0,
         "Acapulco": 75.0,
@@ -105109,7 +105114,8 @@
         "Paris Olympics": 75.0,
         "Davis Cup WG1 R1: GRE vs BRA": 50.0,
         "Davis Cup WG1 PO: GRE vs MEX": 100.0,
-        "Geneva": 50.0
+        "Geneva": 50.0,
+        "Winston-Salem": 50.0
       }
     },
     {
@@ -105117,31 +105123,31 @@
       "decade": 2020,
       "active_span": "10 years (17-26)",
       "country": "NED",
-      "matches_won": 131,
-      "matches_played": 261,
-      "win_pct": 50.19,
+      "matches_won": 134,
+      "matches_played": 266,
+      "win_pct": 50.38,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 261,
-      "career_win_pct": 50.19,
+      "career_total_matches": 266,
+      "career_win_pct": 50.38,
       "gs_titles": 0,
       "peak_ranking": 23,
-      "top_5_wins": 1,
-      "top_5_matches": 23,
-      "top_5_win_pct": 4.35,
+      "top_5_wins": 2,
+      "top_5_matches": 24,
+      "top_5_win_pct": 8.33,
       "was_top_5": false,
-      "unique_opponents": 141,
+      "unique_opponents": 143,
       "surface_wins": {
-        "Hard": 80,
+        "Hard": 83,
         "Clay": 30,
         "Grass": 21
       },
       "surface_matches": {
-        "Hard": 160,
+        "Hard": 165,
         "Grass": 36,
         "Clay": 65
       },
       "surface_win_pcts": {
-        "Hard": 50.0,
+        "Hard": 50.3,
         "Clay": 46.15,
         "Grass": 58.33
       },
@@ -105190,7 +105196,8 @@
         "Munich": 2,
         "Rome Masters": 1,
         "Bastad": 1,
-        "Vienna": 2
+        "Vienna": 2,
+        "Canada Masters": 3
       },
       "tourney_matches": {
         "Rotterdam": 21,
@@ -105234,8 +105241,8 @@
         "Dubai": 13,
         "Banja Luka": 1,
         "Madrid Masters": 8,
-        "Washington": 5,
-        "Canada Masters": 3,
+        "Washington": 6,
+        "Canada Masters": 7,
         "Cincinnati Masters": 2,
         "Davis Cup Finals RR: NED vs FIN": 1,
         "Davis Cup Finals RR: NED vs USA": 1,
@@ -105287,7 +105294,7 @@
         "Dubai": 69.23,
         "Indian Wells Masters": 60.0,
         "Marrakech": 50.0,
-        "Washington": 80.0,
+        "Washington": 66.67,
         "Davis Cup Finals RR: NED vs FIN": 100.0,
         "Davis Cup Finals RR: NED vs USA": 100.0,
         "Astana": 33.33,
@@ -105306,7 +105313,8 @@
         "Munich": 50.0,
         "Rome Masters": 20.0,
         "Bastad": 33.33,
-        "Vienna": 50.0
+        "Vienna": 50.0,
+        "Canada Masters": 42.86
       }
     },
     {
@@ -105314,31 +105322,31 @@
       "decade": 2020,
       "active_span": "10 years (17-26)",
       "country": "ITA",
-      "matches_won": 224,
-      "matches_played": 349,
-      "win_pct": 64.18,
+      "matches_won": 225,
+      "matches_played": 352,
+      "win_pct": 63.92,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 349,
-      "career_win_pct": 64.18,
+      "career_total_matches": 352,
+      "career_win_pct": 63.92,
       "gs_titles": 0,
       "peak_ranking": 6,
       "top_5_wins": 6,
       "top_5_matches": 26,
       "top_5_win_pct": 23.08,
       "was_top_5": false,
-      "unique_opponents": 168,
+      "unique_opponents": 170,
       "surface_wins": {
-        "Hard": 104,
+        "Hard": 105,
         "Clay": 76,
         "Grass": 44
       },
       "surface_matches": {
         "Clay": 109,
-        "Hard": 183,
+        "Hard": 186,
         "Grass": 57
       },
       "surface_win_pcts": {
-        "Hard": 56.83,
+        "Hard": 56.45,
         "Clay": 69.72,
         "Grass": 77.19
       },
@@ -105367,7 +105375,7 @@
         "Vienna": 9,
         "Tour Finals": 1,
         "Australian Open": 10,
-        "Cincinnati Masters": 2,
+        "Cincinnati Masters": 3,
         "Antalya": 2,
         "ATP Cup": 4,
         "Serbia": 4,
@@ -105431,7 +105439,7 @@
         "Monte Carlo Masters": 9,
         "Munich": 5,
         "Stuttgart": 15,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 10,
         "Shanghai Masters": 7,
         "Vienna": 13,
         "Paris Masters": 3,
@@ -105446,7 +105454,7 @@
         "Laver Cup": 2,
         "Rio de Janeiro": 5,
         "Acapulco": 4,
-        "Canada Masters": 3,
+        "Canada Masters": 4,
         "Davis Cup Finals RR: ITA vs CRO": 1,
         "Davis Cup Finals RR: ITA vs ARG": 1,
         "Davis Cup Finals RR: ITA vs SWE": 1,
@@ -105495,7 +105503,7 @@
         "Vienna": 69.23,
         "Tour Finals": 25.0,
         "Australian Open": 58.82,
-        "Cincinnati Masters": 25.0,
+        "Cincinnati Masters": 30.0,
         "Antalya": 66.67,
         "ATP Cup": 57.14,
         "Serbia": 100.0,
@@ -105511,7 +105519,7 @@
         "United Cup": 60.0,
         "Acapulco": 50.0,
         "Monte Carlo Masters": 44.44,
-        "Canada Masters": 33.33,
+        "Canada Masters": 25.0,
         "Marrakech": 71.43,
         "Davis Cup Finals RR: ITA vs BEL": 100.0,
         "Davis Cup Finals RR: ITA vs BRA": 100.0,
@@ -105535,32 +105543,32 @@
       "decade": 2020,
       "active_span": "10 years (17-26)",
       "country": "GBR",
-      "matches_won": 254,
-      "matches_played": 446,
-      "win_pct": 56.95,
+      "matches_won": 261,
+      "matches_played": 456,
+      "win_pct": 57.24,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 446,
-      "career_win_pct": 56.95,
+      "career_total_matches": 456,
+      "career_win_pct": 57.24,
       "gs_titles": 0,
       "peak_ranking": 8,
       "top_5_wins": 7,
-      "top_5_matches": 27,
-      "top_5_win_pct": 25.93,
+      "top_5_matches": 28,
+      "top_5_win_pct": 25.0,
       "was_top_5": false,
-      "unique_opponents": 209,
+      "unique_opponents": 215,
       "surface_wins": {
         "Grass": 26,
-        "Hard": 153,
+        "Hard": 160,
         "Clay": 75
       },
       "surface_matches": {
         "Grass": 50,
-        "Hard": 272,
+        "Hard": 282,
         "Clay": 124
       },
       "surface_win_pcts": {
         "Grass": 52.0,
-        "Hard": 56.25,
+        "Hard": 56.74,
         "Clay": 60.48
       },
       "tourney_wins": {
@@ -105581,8 +105589,8 @@
         "Monte Carlo Masters": 2,
         "Rome Masters": 7,
         "Wimbledon": 15,
-        "Los Cabos": 8,
-        "Canada Masters": 3,
+        "Los Cabos": 11,
+        "Canada Masters": 6,
         "Zhuhai": 2,
         "Beijing": 1,
         "Shanghai Masters": 1,
@@ -105604,7 +105612,7 @@
         "Davis Cup Finals RR: FRA vs GBR": 1,
         "Davis Cup Finals RR: GBR vs CZE": 1,
         "Madrid Masters": 8,
-        "Cincinnati Masters": 4,
+        "Cincinnati Masters": 5,
         "Davis Cup Finals RR: USA vs GBR": 1,
         "Seoul": 1,
         "Stockholm": 1,
@@ -105648,15 +105656,15 @@
         "Monte Carlo Masters": 6,
         "Barcelona": 17,
         "Rome Masters": 14,
-        "Los Cabos": 11,
-        "Canada Masters": 8,
+        "Los Cabos": 15,
+        "Canada Masters": 12,
         "Zhuhai": 4,
         "Beijing": 3,
         "Shanghai Masters": 3,
         "Paris Masters": 9,
         "ATP Cup": 7,
         "New York": 2,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 10,
         "St. Petersburg": 3,
         "Nur-Sultan": 1,
         "Murray River Open": 1,
@@ -105710,8 +105718,8 @@
         "Monte Carlo Masters": 33.33,
         "Rome Masters": 50.0,
         "Wimbledon": 62.5,
-        "Los Cabos": 72.73,
-        "Canada Masters": 37.5,
+        "Los Cabos": 73.33,
+        "Canada Masters": 50.0,
         "Zhuhai": 50.0,
         "Beijing": 33.33,
         "Shanghai Masters": 33.33,
@@ -105756,31 +105764,31 @@
       "decade": 2020,
       "active_span": "9 years (18-26)",
       "country": "AUS",
-      "matches_won": 117,
-      "matches_played": 267,
-      "win_pct": 43.82,
+      "matches_won": 119,
+      "matches_played": 270,
+      "win_pct": 44.07,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 267,
-      "career_win_pct": 43.82,
+      "career_total_matches": 270,
+      "career_win_pct": 44.07,
       "gs_titles": 0,
       "peak_ranking": 21,
       "top_5_wins": 3,
       "top_5_matches": 17,
       "top_5_win_pct": 17.65,
       "was_top_5": false,
-      "unique_opponents": 152,
+      "unique_opponents": 154,
       "surface_wins": {
-        "Hard": 75,
+        "Hard": 77,
         "Clay": 35,
         "Grass": 7
       },
       "surface_matches": {
-        "Hard": 170,
+        "Hard": 173,
         "Clay": 70,
         "Grass": 27
       },
       "surface_win_pcts": {
-        "Hard": 44.12,
+        "Hard": 44.51,
         "Clay": 50.0,
         "Grass": 25.93
       },
@@ -105819,7 +105827,7 @@
         "Brisbane": 1,
         "Doha": 4,
         "Paris Olympics": 2,
-        "Canada Masters": 9,
+        "Canada Masters": 11,
         "Davis Cup Finals RR: AUS vs CZE": 1,
         "Davis Cup Finals RR: AUS vs ESP": 1,
         "Shanghai Masters": 1,
@@ -105886,7 +105894,7 @@
         "Barcelona": 1,
         "Hamburg": 1,
         "Paris Olympics": 3,
-        "Canada Masters": 10,
+        "Canada Masters": 13,
         "Davis Cup Finals RR: AUS vs CZE": 1,
         "Davis Cup Finals RR: AUS vs ESP": 1,
         "Davis Cup Finals RR: AUS vs FRA": 1,
@@ -105931,7 +105939,7 @@
         "Brisbane": 20.0,
         "Doha": 57.14,
         "Paris Olympics": 66.67,
-        "Canada Masters": 90.0,
+        "Canada Masters": 84.62,
         "Davis Cup Finals RR: AUS vs CZE": 100.0,
         "Davis Cup Finals RR: AUS vs ESP": 100.0,
         "Shanghai Masters": 33.33,
@@ -105945,33 +105953,33 @@
       "decade": 2020,
       "active_span": "9 years (18-26)",
       "country": "FRA",
-      "matches_won": 102,
-      "matches_played": 229,
-      "win_pct": 44.54,
+      "matches_won": 103,
+      "matches_played": 232,
+      "win_pct": 44.4,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 229,
-      "career_win_pct": 44.54,
+      "career_total_matches": 232,
+      "career_win_pct": 44.4,
       "gs_titles": 0,
       "peak_ranking": 30,
       "top_5_wins": 1,
       "top_5_matches": 12,
       "top_5_win_pct": 8.33,
       "was_top_5": false,
-      "unique_opponents": 149,
+      "unique_opponents": 150,
       "surface_wins": {
         "Clay": 37,
         "Grass": 15,
-        "Hard": 50
+        "Hard": 51
       },
       "surface_matches": {
-        "Hard": 109,
+        "Hard": 112,
         "Clay": 88,
         "Grass": 32
       },
       "surface_win_pcts": {
         "Clay": 42.05,
         "Grass": 46.88,
-        "Hard": 45.87
+        "Hard": 45.54
       },
       "tourney_wins": {
         "Quito": 2,
@@ -106008,7 +106016,7 @@
         "Stuttgart": 1,
         "Queen's Club": 2,
         "Washington": 3,
-        "Canada Masters": 1,
+        "Canada Masters": 2,
         "Davis Cup QLS R2: CRO vs FRA": 2,
         "Almaty": 4,
         "Vienna": 2,
@@ -106072,14 +106080,15 @@
         "Indian Wells Masters": 3,
         "Miami Masters": 4,
         "Queen's Club": 4,
-        "Canada Masters": 2,
+        "Canada Masters": 4,
         "Davis Cup QLS R2: CRO vs FRA": 2,
         "Almaty": 5,
         "Vienna": 3,
         "Davis Cup Finals QF: FRA vs BEL": 1,
         "Delray Beach": 1,
         "Acapulco": 1,
-        "Monte Carlo": 2
+        "Monte Carlo": 2,
+        "Los Cabos": 1
       },
       "tourney_win_pcts": {
         "Quito": 66.67,
@@ -106129,12 +106138,12 @@
       "decade": 2020,
       "active_span": "9 years (18-26)",
       "country": "CAN",
-      "matches_won": 287,
-      "matches_played": 470,
-      "win_pct": 61.06,
+      "matches_won": 289,
+      "matches_played": 473,
+      "win_pct": 61.1,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 470,
-      "career_win_pct": 61.06,
+      "career_total_matches": 473,
+      "career_win_pct": 61.1,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 10,
@@ -106143,17 +106152,17 @@
       "was_top_5": true,
       "unique_opponents": 200,
       "surface_wins": {
-        "Hard": 190,
+        "Hard": 192,
         "Clay": 61,
         "Grass": 36
       },
       "surface_matches": {
-        "Hard": 303,
+        "Hard": 306,
         "Clay": 111,
         "Grass": 56
       },
       "surface_win_pcts": {
-        "Hard": 62.71,
+        "Hard": 62.75,
         "Clay": 54.95,
         "Grass": 64.29
       },
@@ -106183,7 +106192,7 @@
         "Rotterdam": 16,
         "Marseille": 8,
         "Acapulco": 3,
-        "Cincinnati Masters": 9,
+        "Cincinnati Masters": 11,
         "US Open": 9,
         "Hamburg": 5,
         "Cologne 1": 3,
@@ -106249,7 +106258,7 @@
         "Queen's Club": 4,
         "Wimbledon": 18,
         "Washington": 5,
-        "Cincinnati Masters": 15,
+        "Cincinnati Masters": 18,
         "Beijing": 3,
         "Shanghai Masters": 4,
         "Davis Cup Finals F: CAN vs ESP": 1,
@@ -106327,7 +106336,7 @@
         "Rotterdam": 69.57,
         "Marseille": 66.67,
         "Acapulco": 50.0,
-        "Cincinnati Masters": 60.0,
+        "Cincinnati Masters": 61.11,
         "US Open": 56.25,
         "Hamburg": 62.5,
         "Cologne 1": 75.0,
@@ -106554,26 +106563,26 @@
       "decade": 2020,
       "active_span": "9 years (18-26)",
       "country": "SRB",
-      "matches_won": 180,
-      "matches_played": 370,
-      "win_pct": 48.65,
+      "matches_won": 183,
+      "matches_played": 376,
+      "win_pct": 48.67,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 370,
-      "career_win_pct": 48.65,
+      "career_total_matches": 376,
+      "career_win_pct": 48.67,
       "gs_titles": 0,
       "peak_ranking": 27,
       "top_5_wins": 1,
       "top_5_matches": 14,
       "top_5_win_pct": 7.14,
       "was_top_5": false,
-      "unique_opponents": 174,
+      "unique_opponents": 176,
       "surface_wins": {
-        "Hard": 117,
+        "Hard": 120,
         "Clay": 44,
         "Grass": 19
       },
       "surface_matches": {
-        "Hard": 234,
+        "Hard": 240,
         "Clay": 94,
         "Grass": 42
       },
@@ -106592,7 +106601,7 @@
         "Wimbledon": 8,
         "Atlanta": 2,
         "Washington": 3,
-        "Cincinnati Masters": 3,
+        "Cincinnati Masters": 4,
         "Winston Salem": 1,
         "US Open": 4,
         "Zhuhai": 1,
@@ -106632,7 +106641,7 @@
         "Lyon": 1,
         "Eastbourne": 4,
         "Gstaad": 3,
-        "Canada Masters": 2,
+        "Canada Masters": 3,
         "Chengdu": 2,
         "Stockholm": 6,
         "Davis Cup Finals QF: SRB vs GBR": 1,
@@ -106649,7 +106658,8 @@
         "Davis Cup WG1 R1: SRB vs TUR": 1,
         "Athens": 2,
         "Dallas": 2,
-        "Mallorca": 2
+        "Mallorca": 2,
+        "Winston-Salem": 1
       },
       "tourney_matches": {
         "Miami Masters": 16,
@@ -106665,7 +106675,7 @@
         "Wimbledon": 15,
         "Atlanta": 4,
         "Washington": 7,
-        "Cincinnati Masters": 8,
+        "Cincinnati Masters": 10,
         "Winston Salem": 2,
         "US Open": 10,
         "Zhuhai": 2,
@@ -106693,7 +106703,7 @@
         "Belgrade": 5,
         "Mallorca": 5,
         "Tokyo Olympics": 2,
-        "Canada Masters": 7,
+        "Canada Masters": 9,
         "Sofia": 3,
         "Davis Cup Finals QF: SRB vs KAZ": 1,
         "Sydney": 2,
@@ -106734,7 +106744,8 @@
         "Davis Cup WG1 R1: SRB vs TUR": 1,
         "Athens": 3,
         "Montpellier": 1,
-        "Monte Carlo": 1
+        "Monte Carlo": 1,
+        "Winston-Salem": 2
       },
       "tourney_win_pcts": {
         "Brisbane": 50.0,
@@ -106746,7 +106757,7 @@
         "Wimbledon": 53.33,
         "Atlanta": 50.0,
         "Washington": 42.86,
-        "Cincinnati Masters": 37.5,
+        "Cincinnati Masters": 40.0,
         "Winston Salem": 50.0,
         "US Open": 40.0,
         "Zhuhai": 50.0,
@@ -106786,7 +106797,7 @@
         "Lyon": 50.0,
         "Eastbourne": 57.14,
         "Gstaad": 60.0,
-        "Canada Masters": 28.57,
+        "Canada Masters": 33.33,
         "Chengdu": 66.67,
         "Stockholm": 66.67,
         "Davis Cup Finals QF: SRB vs GBR": 100.0,
@@ -106803,7 +106814,8 @@
         "Davis Cup WG1 R1: SRB vs TUR": 100.0,
         "Athens": 66.67,
         "Dallas": 40.0,
-        "Mallorca": 40.0
+        "Mallorca": 40.0,
+        "Winston-Salem": 50.0
       }
     },
     {
@@ -106986,31 +106998,31 @@
       "decade": 2020,
       "active_span": "9 years (18-26)",
       "country": "FRA",
-      "matches_won": 190,
-      "matches_played": 352,
-      "win_pct": 53.98,
+      "matches_won": 191,
+      "matches_played": 356,
+      "win_pct": 53.65,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 352,
-      "career_win_pct": 53.98,
+      "career_total_matches": 356,
+      "career_win_pct": 53.65,
       "gs_titles": 0,
       "peak_ranking": 13,
       "top_5_wins": 6,
       "top_5_matches": 14,
       "top_5_win_pct": 42.86,
       "was_top_5": false,
-      "unique_opponents": 172,
+      "unique_opponents": 175,
       "surface_wins": {
-        "Hard": 132,
+        "Hard": 133,
         "Clay": 21,
         "Grass": 37
       },
       "surface_matches": {
-        "Hard": 226,
+        "Hard": 230,
         "Clay": 61,
         "Grass": 65
       },
       "surface_win_pcts": {
-        "Hard": 58.41,
+        "Hard": 57.83,
         "Clay": 34.43,
         "Grass": 56.92
       },
@@ -107051,7 +107063,7 @@
         "Indian Wells Masters": 4,
         "Roland Garros": 3,
         "'s-Hertogenbosch": 6,
-        "Washington": 2,
+        "Washington": 3,
         "Cincinnati Masters": 1,
         "Davis Cup Finals RR: FRA vs SUI": 1,
         "Davis Cup Finals RR: GBR vs FRA": 1,
@@ -107101,7 +107113,7 @@
         "New York": 2,
         "Delray Beach": 4,
         "Acapulco": 2,
-        "Cincinnati Masters": 5,
+        "Cincinnati Masters": 6,
         "Rome Masters": 8,
         "Hamburg": 6,
         "St. Petersburg": 2,
@@ -107114,7 +107126,7 @@
         "Halle": 8,
         "Mallorca": 3,
         "Tokyo Olympics": 4,
-        "Canada Masters": 6,
+        "Canada Masters": 7,
         "ATP Cup": 3,
         "Barcelona": 3,
         "Eastbourne": 9,
@@ -107122,7 +107134,7 @@
         "Basel": 12,
         "Davis Cup QLS R1: FRA vs HUN": 2,
         "Queen's Club": 6,
-        "Washington": 3,
+        "Washington": 5,
         "Davis Cup Finals RR: FRA vs SUI": 1,
         "Davis Cup Finals RR: AUS vs FRA": 2,
         "Davis Cup Finals RR: GBR vs FRA": 1,
@@ -107168,7 +107180,7 @@
         "Halle": 75.0,
         "Mallorca": 33.33,
         "Tokyo Olympics": 75.0,
-        "Canada Masters": 50.0,
+        "Canada Masters": 42.86,
         "ATP Cup": 33.33,
         "Barcelona": 33.33,
         "Sofia": 50.0,
@@ -107177,8 +107189,8 @@
         "Indian Wells Masters": 40.0,
         "Roland Garros": 27.27,
         "'s-Hertogenbosch": 54.55,
-        "Washington": 66.67,
-        "Cincinnati Masters": 20.0,
+        "Washington": 60.0,
+        "Cincinnati Masters": 16.67,
         "Davis Cup Finals RR: FRA vs SUI": 100.0,
         "Davis Cup Finals RR: GBR vs FRA": 100.0,
         "Beijing": 66.67,
@@ -107207,31 +107219,31 @@
       "decade": 2020,
       "active_span": "8 years (19-26)",
       "country": "CZE",
-      "matches_won": 134,
-      "matches_played": 233,
-      "win_pct": 57.51,
+      "matches_won": 137,
+      "matches_played": 239,
+      "win_pct": 57.32,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 233,
-      "career_win_pct": 57.51,
+      "career_total_matches": 239,
+      "career_win_pct": 57.32,
       "gs_titles": 0,
       "peak_ranking": 12,
       "top_5_wins": 6,
       "top_5_matches": 21,
       "top_5_win_pct": 28.57,
       "was_top_5": false,
-      "unique_opponents": 125,
+      "unique_opponents": 130,
       "surface_wins": {
-        "Hard": 89,
+        "Hard": 92,
         "Clay": 27,
         "Grass": 18
       },
       "surface_matches": {
-        "Hard": 153,
+        "Hard": 159,
         "Clay": 51,
         "Grass": 29
       },
       "surface_win_pcts": {
-        "Hard": 58.17,
+        "Hard": 57.86,
         "Clay": 52.94,
         "Grass": 62.07
       },
@@ -107257,7 +107269,7 @@
         "Queen's Club": 6,
         "Wimbledon": 7,
         "Umag": 1,
-        "Canada Masters": 3,
+        "Canada Masters": 5,
         "Winston-Salem": 4,
         "Davis Cup Finals RR: ESP vs CZE": 1,
         "Davis Cup Finals RR: CZE vs KOR": 1,
@@ -107269,7 +107281,7 @@
         "Marseille": 1,
         "Dubai": 4,
         "Madrid Masters": 7,
-        "Cincinnati Masters": 2,
+        "Cincinnati Masters": 3,
         "US Open": 2,
         "Beijing": 2,
         "Shanghai Masters": 1,
@@ -107318,8 +107330,8 @@
         "Rome Masters": 4,
         "Queen's Club": 9,
         "Umag": 2,
-        "Canada Masters": 5,
-        "Cincinnati Masters": 4,
+        "Canada Masters": 8,
+        "Cincinnati Masters": 6,
         "Davis Cup Finals RR: ESP vs CZE": 1,
         "Davis Cup Finals RR: CZE vs KOR": 1,
         "Davis Cup Finals RR: SRB vs CZE": 1,
@@ -107344,7 +107356,8 @@
         "Brussels": 4,
         "Davis Cup Finals QF: ESP vs CZE": 1,
         "Davis Cup QLS R1: CZE vs SWE": 1,
-        "Monte Carlo": 3
+        "Monte Carlo": 3,
+        "Los Cabos": 1
       },
       "tourney_win_pcts": {
         "Rotterdam": 57.14,
@@ -107368,7 +107381,7 @@
         "Queen's Club": 66.67,
         "Wimbledon": 63.64,
         "Umag": 50.0,
-        "Canada Masters": 60.0,
+        "Canada Masters": 62.5,
         "Winston-Salem": 66.67,
         "Davis Cup Finals RR: ESP vs CZE": 100.0,
         "Davis Cup Finals RR: CZE vs KOR": 100.0,
@@ -107401,32 +107414,32 @@
       "decade": 2020,
       "active_span": "8 years (19-26)",
       "country": "ARG",
-      "matches_won": 164,
-      "matches_played": 288,
-      "win_pct": 56.94,
+      "matches_won": 165,
+      "matches_played": 292,
+      "win_pct": 56.51,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 288,
-      "career_win_pct": 56.94,
+      "career_total_matches": 292,
+      "career_win_pct": 56.51,
       "gs_titles": 0,
       "peak_ranking": 18,
       "top_5_wins": 5,
       "top_5_matches": 19,
       "top_5_win_pct": 26.32,
       "was_top_5": false,
-      "unique_opponents": 138,
+      "unique_opponents": 140,
       "surface_wins": {
         "Clay": 93,
-        "Hard": 59,
+        "Hard": 60,
         "Grass": 12
       },
       "surface_matches": {
         "Clay": 152,
-        "Hard": 113,
+        "Hard": 117,
         "Grass": 23
       },
       "surface_win_pcts": {
         "Clay": 61.18,
-        "Hard": 52.21,
+        "Hard": 51.28,
         "Grass": 52.17
       },
       "tourney_wins": {
@@ -107471,7 +107484,8 @@
         "Santiago": 4,
         "Munich": 5,
         "Davis Cup QLS R2: NED vs ARG": 1,
-        "Monte Carlo": 1
+        "Monte Carlo": 1,
+        "Los Cabos": 1
       },
       "tourney_matches": {
         "Buenos Aires": 23,
@@ -107491,8 +107505,8 @@
         "Eastbourne": 6,
         "Wimbledon": 6,
         "Hamburg": 11,
-        "Canada Masters": 6,
-        "Cincinnati Masters": 3,
+        "Canada Masters": 7,
+        "Cincinnati Masters": 4,
         "US Open": 5,
         "Davis Cup Finals RR: ITA vs ARG": 1,
         "Davis Cup Finals RR: ARG vs CRO": 1,
@@ -107534,7 +107548,8 @@
         "Davis Cup QLS R2: NED vs ARG": 1,
         "Davis Cup Finals QF: ARG vs GER": 1,
         "Adelaide": 1,
-        "Monte Carlo": 2
+        "Monte Carlo": 2,
+        "Los Cabos": 2
       },
       "tourney_win_pcts": {
         "Cordoba": 33.33,
@@ -107558,7 +107573,7 @@
         "Roland Garros": 57.14,
         "Eastbourne": 66.67,
         "Wimbledon": 16.67,
-        "Canada Masters": 50.0,
+        "Canada Masters": 42.86,
         "US Open": 40.0,
         "Davis Cup WG1 R1: ARG vs LTU": 100.0,
         "Laver Cup": 66.67,
@@ -107578,7 +107593,8 @@
         "Santiago": 50.0,
         "Munich": 71.43,
         "Davis Cup QLS R2: NED vs ARG": 100.0,
-        "Monte Carlo": 50.0
+        "Monte Carlo": 50.0,
+        "Los Cabos": 50.0
       }
     },
     {
@@ -107978,31 +107994,31 @@
       "decade": 2020,
       "active_span": "8 years (19-26)",
       "country": "NED",
-      "matches_won": 120,
-      "matches_played": 240,
-      "win_pct": 50.0,
-      "win_pct_category": "41% - 50%",
-      "career_total_matches": 240,
-      "career_win_pct": 50.0,
+      "matches_won": 124,
+      "matches_played": 246,
+      "win_pct": 50.41,
+      "win_pct_category": "51% - 60%",
+      "career_total_matches": 246,
+      "career_win_pct": 50.41,
       "gs_titles": 0,
       "peak_ranking": 22,
       "top_5_wins": 2,
       "top_5_matches": 14,
       "top_5_win_pct": 14.29,
       "was_top_5": false,
-      "unique_opponents": 133,
+      "unique_opponents": 135,
       "surface_wins": {
-        "Hard": 75,
+        "Hard": 79,
         "Clay": 33,
         "Grass": 12
       },
       "surface_matches": {
-        "Hard": 152,
+        "Hard": 158,
         "Clay": 63,
         "Grass": 25
       },
       "surface_win_pcts": {
-        "Hard": 49.34,
+        "Hard": 50.0,
         "Clay": 52.38,
         "Grass": 48.0
       },
@@ -108027,9 +108043,9 @@
         "Rome Masters": 3,
         "Queen's Club": 4,
         "Washington": 1,
-        "Canada Masters": 1,
+        "Canada Masters": 4,
         "Cincinnati Masters": 1,
-        "Winston-Salem": 3,
+        "Winston-Salem": 4,
         "Davis Cup Finals RR: KAZ vs NED": 1,
         "Davis Cup Finals RR: GBR vs NED": 1,
         "Davis Cup Finals RR: USA vs NED": 1,
@@ -108086,9 +108102,9 @@
         "Mallorca": 1,
         "Hamburg": 1,
         "Washington": 2,
-        "Canada Masters": 2,
-        "Cincinnati Masters": 2,
-        "Winston-Salem": 7,
+        "Canada Masters": 6,
+        "Cincinnati Masters": 3,
+        "Winston-Salem": 8,
         "Davis Cup Finals RR: GBR vs NED": 1,
         "Davis Cup Finals RR: USA vs NED": 1,
         "Tel Aviv": 2,
@@ -108147,9 +108163,9 @@
         "Rome Masters": 50.0,
         "Queen's Club": 66.67,
         "Washington": 50.0,
-        "Canada Masters": 50.0,
-        "Cincinnati Masters": 50.0,
-        "Winston-Salem": 42.86,
+        "Canada Masters": 66.67,
+        "Cincinnati Masters": 33.33,
+        "Winston-Salem": 50.0,
         "Davis Cup Finals RR: KAZ vs NED": 50.0,
         "Davis Cup Finals RR: GBR vs NED": 100.0,
         "Davis Cup Finals RR: USA vs NED": 100.0,
@@ -108184,31 +108200,31 @@
       "decade": 2020,
       "active_span": "7 years (20-26)",
       "country": "CHI",
-      "matches_won": 86,
-      "matches_played": 172,
-      "win_pct": 50.0,
-      "win_pct_category": "41% - 50%",
-      "career_total_matches": 172,
-      "career_win_pct": 50.0,
+      "matches_won": 90,
+      "matches_played": 179,
+      "win_pct": 50.28,
+      "win_pct_category": "51% - 60%",
+      "career_total_matches": 179,
+      "career_win_pct": 50.28,
       "gs_titles": 0,
       "peak_ranking": 19,
       "top_5_wins": 2,
       "top_5_matches": 6,
       "top_5_win_pct": 33.33,
       "was_top_5": false,
-      "unique_opponents": 121,
+      "unique_opponents": 126,
       "surface_wins": {
-        "Hard": 33,
+        "Hard": 37,
         "Clay": 45,
         "Grass": 8
       },
       "surface_matches": {
-        "Hard": 74,
+        "Hard": 81,
         "Clay": 81,
         "Grass": 17
       },
       "surface_win_pcts": {
-        "Hard": 44.59,
+        "Hard": 45.68,
         "Clay": 55.56,
         "Grass": 47.06
       },
@@ -108248,7 +108264,9 @@
         "Rio de Janeiro": 4,
         "Monte Carlo": 1,
         "Madrid Masters": 1,
-        "Bastad": 2
+        "Bastad": 2,
+        "Washington": 3,
+        "Cincinnati Masters": 1
       },
       "tourney_matches": {
         "Australian Open": 6,
@@ -108283,8 +108301,8 @@
         "Roland Garros": 7,
         "Kitzbuhel": 1,
         "Paris Olympics": 1,
-        "Canada Masters": 3,
-        "Cincinnati Masters": 1,
+        "Canada Masters": 4,
+        "Cincinnati Masters": 3,
         "Davis Cup Finals RR: GER vs CHI": 1,
         "Davis Cup Finals RR: SVK vs CHI": 1,
         "Davis Cup Finals RR: USA vs CHI": 1,
@@ -108303,7 +108321,8 @@
         "Davis Cup QLS R1: CHI vs SRB": 1,
         "Monte Carlo": 2,
         "Bastad": 3,
-        "Estoril": 1
+        "Estoril": 1,
+        "Washington": 4
       },
       "tourney_win_pcts": {
         "Australian Open": 16.67,
@@ -108329,7 +108348,7 @@
         "Rome Masters": 71.43,
         "Queen's Club": 25.0,
         "Mallorca": 66.67,
-        "Canada Masters": 66.67,
+        "Canada Masters": 50.0,
         "Shanghai Masters": 50.0,
         "Almaty": 50.0,
         "Basel": 50.0,
@@ -108341,7 +108360,9 @@
         "Rio de Janeiro": 66.67,
         "Monte Carlo": 50.0,
         "Madrid Masters": 33.33,
-        "Bastad": 66.67
+        "Bastad": 66.67,
+        "Washington": 75.0,
+        "Cincinnati Masters": 33.33
       }
     },
     {
@@ -108349,31 +108370,31 @@
       "decade": 2020,
       "active_span": "7 years (20-26)",
       "country": "USA",
-      "matches_won": 142,
-      "matches_played": 260,
-      "win_pct": 54.62,
+      "matches_won": 154,
+      "matches_played": 275,
+      "win_pct": 56.0,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 260,
-      "career_win_pct": 54.62,
+      "career_total_matches": 275,
+      "career_win_pct": 56.0,
       "gs_titles": 0,
-      "peak_ranking": 29,
+      "peak_ranking": 22,
       "top_5_wins": 1,
       "top_5_matches": 6,
       "top_5_win_pct": 16.67,
       "was_top_5": false,
-      "unique_opponents": 141,
+      "unique_opponents": 145,
       "surface_wins": {
-        "Hard": 96,
+        "Hard": 108,
         "Clay": 22,
         "Grass": 24
       },
       "surface_matches": {
-        "Hard": 173,
+        "Hard": 188,
         "Grass": 41,
         "Clay": 46
       },
       "surface_win_pcts": {
-        "Hard": 55.49,
+        "Hard": 57.45,
         "Clay": 47.83,
         "Grass": 58.54
       },
@@ -108382,7 +108403,7 @@
         "US Open": 7,
         "Los Cabos": 6,
         "Atlanta": 7,
-        "Washington": 6,
+        "Washington": 9,
         "San Diego": 6,
         "Indian Wells Masters": 7,
         "Antwerp": 2,
@@ -108407,8 +108428,8 @@
         "Stuttgart": 5,
         "Queen's Club": 6,
         "Newport": 1,
-        "Canada Masters": 3,
-        "Cincinnati Masters": 2,
+        "Canada Masters": 8,
+        "Cincinnati Masters": 6,
         "Davis Cup Finals RR: GER vs USA": 1,
         "Davis Cup Finals RR: USA vs CHI": 1,
         "Davis Cup Finals RR: USA vs SVK": 1,
@@ -108428,8 +108449,8 @@
         "Wimbledon": 14,
         "Los Cabos": 8,
         "Atlanta": 11,
-        "Washington": 10,
-        "Cincinnati Masters": 6,
+        "Washington": 14,
+        "Cincinnati Masters": 11,
         "San Diego": 7,
         "Indian Wells Masters": 13,
         "Antwerp": 3,
@@ -108444,7 +108465,7 @@
         "Roland Garros": 10,
         "'s-Hertogenbosch": 4,
         "Eastbourne": 3,
-        "Canada Masters": 7,
+        "Canada Masters": 13,
         "Tokyo": 4,
         "Florence": 3,
         "Basel": 2,
@@ -108480,7 +108501,7 @@
         "US Open": 58.33,
         "Los Cabos": 75.0,
         "Atlanta": 63.64,
-        "Washington": 60.0,
+        "Washington": 64.29,
         "San Diego": 85.71,
         "Indian Wells Masters": 53.85,
         "Antwerp": 66.67,
@@ -108505,8 +108526,8 @@
         "Stuttgart": 71.43,
         "Queen's Club": 66.67,
         "Newport": 50.0,
-        "Canada Masters": 42.86,
-        "Cincinnati Masters": 33.33,
+        "Canada Masters": 61.54,
+        "Cincinnati Masters": 54.55,
         "Davis Cup Finals RR: GER vs USA": 100.0,
         "Davis Cup Finals RR: USA vs CHI": 100.0,
         "Davis Cup Finals RR: USA vs SVK": 100.0,
@@ -108693,32 +108714,32 @@
       "decade": 2020,
       "active_span": "7 years (20-26)",
       "country": "ITA",
-      "matches_won": 181,
-      "matches_played": 318,
-      "win_pct": 56.92,
+      "matches_won": 187,
+      "matches_played": 327,
+      "win_pct": 57.19,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 318,
-      "career_win_pct": 56.92,
+      "career_total_matches": 327,
+      "career_win_pct": 57.19,
       "gs_titles": 0,
       "peak_ranking": 5,
       "top_5_wins": 5,
       "top_5_matches": 31,
       "top_5_win_pct": 16.13,
       "was_top_5": true,
-      "unique_opponents": 153,
+      "unique_opponents": 158,
       "surface_wins": {
         "Clay": 84,
-        "Hard": 79,
+        "Hard": 85,
         "Grass": 18
       },
       "surface_matches": {
-        "Hard": 160,
+        "Hard": 169,
         "Clay": 129,
         "Grass": 29
       },
       "surface_win_pcts": {
         "Clay": 65.12,
-        "Hard": 49.38,
+        "Hard": 50.3,
         "Grass": 62.07
       },
       "tourney_wins": {
@@ -108755,8 +108776,8 @@
         "Queen's Club": 6,
         "Wimbledon": 7,
         "Bastad": 2,
-        "Canada Masters": 3,
-        "Cincinnati Masters": 2,
+        "Canada Masters": 4,
+        "Cincinnati Masters": 5,
         "Chengdu": 5,
         "Beijing": 2,
         "Hong Kong": 5,
@@ -108767,7 +108788,8 @@
         "Vienna": 6,
         "Brussels": 1,
         "Athens": 3,
-        "ATP Finals": 1
+        "ATP Finals": 1,
+        "Washington": 2
       },
       "tourney_matches": {
         "Dubai": 3,
@@ -108804,7 +108826,7 @@
         "Queen's Club": 9,
         "Hamburg": 8,
         "Umag": 6,
-        "Cincinnati Masters": 5,
+        "Cincinnati Masters": 9,
         "Davis Cup Finals RR: ITA vs CRO": 1,
         "Metz": 1,
         "Florence": 3,
@@ -108816,7 +108838,7 @@
         "Buenos Aires": 4,
         "Rio De Janeiro": 1,
         "Santiago": 1,
-        "Canada Masters": 5,
+        "Canada Masters": 7,
         "Davis Cup Finals RR: CAN vs ITA": 1,
         "Chengdu": 8,
         "Beijing": 4,
@@ -108829,7 +108851,7 @@
         "Estoril": 1,
         "Paris Olympics": 6,
         "Davis Cup Finals QF: ITA vs ARG": 1,
-        "Washington": 1,
+        "Washington": 4,
         "Brussels": 2,
         "Athens": 4,
         "ATP Finals": 3,
@@ -108869,8 +108891,8 @@
         "Queen's Club": 66.67,
         "Wimbledon": 58.33,
         "Bastad": 40.0,
-        "Canada Masters": 60.0,
-        "Cincinnati Masters": 40.0,
+        "Canada Masters": 57.14,
+        "Cincinnati Masters": 55.56,
         "Chengdu": 62.5,
         "Beijing": 50.0,
         "Hong Kong": 62.5,
@@ -108881,7 +108903,8 @@
         "Vienna": 60.0,
         "Brussels": 50.0,
         "Athens": 75.0,
-        "ATP Finals": 33.33
+        "ATP Finals": 33.33,
+        "Washington": 50.0
       }
     },
     {
@@ -108889,12 +108912,12 @@
       "decade": 2020,
       "active_span": "7 years (20-26)",
       "country": "FRA",
-      "matches_won": 104,
-      "matches_played": 229,
-      "win_pct": 45.41,
+      "matches_won": 106,
+      "matches_played": 233,
+      "win_pct": 45.49,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 229,
-      "career_win_pct": 45.41,
+      "career_total_matches": 233,
+      "career_win_pct": 45.49,
       "gs_titles": 0,
       "peak_ranking": 24,
       "top_5_wins": 1,
@@ -108903,17 +108926,17 @@
       "was_top_5": false,
       "unique_opponents": 137,
       "surface_wins": {
-        "Hard": 57,
+        "Hard": 59,
         "Clay": 32,
         "Grass": 15
       },
       "surface_matches": {
         "Clay": 68,
-        "Hard": 127,
+        "Hard": 131,
         "Grass": 34
       },
       "surface_win_pcts": {
-        "Hard": 44.88,
+        "Hard": 45.04,
         "Clay": 47.06,
         "Grass": 44.12
       },
@@ -108950,7 +108973,7 @@
         "Newport": 1,
         "Atlanta": 3,
         "Washington": 1,
-        "Canada Masters": 2,
+        "Canada Masters": 4,
         "Winston-Salem": 1,
         "Shanghai Masters": 1,
         "Paris Masters": 3,
@@ -108993,7 +109016,7 @@
         "Miami Masters": 5,
         "Monte Carlo Masters": 1,
         "Stuttgart": 6,
-        "Canada Masters": 5,
+        "Canada Masters": 8,
         "Tel Aviv": 3,
         "Gijon": 4,
         "Basel": 3,
@@ -109028,7 +109051,8 @@
         "Davis Cup QLS R1: FRA vs SVK": 2,
         "Rotterdam": 1,
         "Monte Carlo": 2,
-        "Munich": 2
+        "Munich": 2,
+        "Cincinnati Masters": 1
       },
       "tourney_win_pcts": {
         "Marseille": 57.14,
@@ -109063,7 +109087,7 @@
         "Newport": 50.0,
         "Atlanta": 75.0,
         "Washington": 50.0,
-        "Canada Masters": 40.0,
+        "Canada Masters": 50.0,
         "Winston-Salem": 25.0,
         "Shanghai Masters": 33.33,
         "Paris Masters": 42.86,
@@ -109085,18 +109109,18 @@
       "active_span": "7 years (20-26)",
       "country": "CZE",
       "matches_won": 83,
-      "matches_played": 151,
-      "win_pct": 54.97,
+      "matches_played": 153,
+      "win_pct": 54.25,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 151,
-      "career_win_pct": 54.97,
+      "career_total_matches": 153,
+      "career_win_pct": 54.25,
       "gs_titles": 0,
       "peak_ranking": 20,
       "top_5_wins": 3,
       "top_5_matches": 16,
       "top_5_win_pct": 18.75,
       "was_top_5": false,
-      "unique_opponents": 94,
+      "unique_opponents": 96,
       "surface_wins": {
         "Hard": 58,
         "Clay": 21,
@@ -109104,11 +109128,11 @@
       },
       "surface_matches": {
         "Clay": 41,
-        "Hard": 101,
+        "Hard": 103,
         "Grass": 9
       },
       "surface_win_pcts": {
-        "Hard": 57.43,
+        "Hard": 56.31,
         "Clay": 51.22,
         "Grass": 44.44
       },
@@ -109181,7 +109205,7 @@
         "Umag": 1,
         "Paris Olympics": 2,
         "Canada Masters": 2,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 2,
         "Davis Cup Finals RR: AUS vs CZE": 1,
         "Davis Cup Finals RR: CZE vs ESP": 1,
         "Tokyo": 4,
@@ -109197,7 +109221,8 @@
         "Montpellier": 1,
         "Doha": 1,
         "Marrakech": 1,
-        "Monte Carlo": 3
+        "Monte Carlo": 3,
+        "Winston-Salem": 1
       },
       "tourney_win_pcts": {
         "Australian Open": 57.14,
@@ -109243,11 +109268,11 @@
       "active_span": "6 years (21-26)",
       "country": "ARG",
       "matches_won": 110,
-      "matches_played": 227,
-      "win_pct": 48.46,
+      "matches_played": 230,
+      "win_pct": 47.83,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 227,
-      "career_win_pct": 48.46,
+      "career_total_matches": 230,
+      "career_win_pct": 47.83,
       "gs_titles": 0,
       "peak_ranking": 25,
       "top_5_wins": 0,
@@ -109261,13 +109286,13 @@
         "Grass": 4
       },
       "surface_matches": {
-        "Hard": 92,
+        "Hard": 95,
         "Clay": 118,
         "Grass": 17
       },
       "surface_win_pcts": {
         "Clay": 54.24,
-        "Hard": 45.65,
+        "Hard": 44.21,
         "Grass": 23.53
       },
       "tourney_wins": {
@@ -109343,8 +109368,8 @@
         "Eastbourne": 3,
         "Hamburg": 7,
         "Kitzbuhel": 7,
-        "Canada Masters": 6,
-        "Cincinnati Masters": 3,
+        "Canada Masters": 7,
+        "Cincinnati Masters": 4,
         "Davis Cup WG1 R1: ARG vs LTU": 1,
         "Zhuhai": 3,
         "Beijing": 2,
@@ -109376,7 +109401,8 @@
         "Davis Cup Finals QF: ARG vs GER": 1,
         "Hong Kong": 2,
         "Auckland": 1,
-        "Monte Carlo": 3
+        "Monte Carlo": 3,
+        "Washington": 1
       },
       "tourney_win_pcts": {
         "Cordoba": 42.86,
@@ -109403,8 +109429,8 @@
         "Lyon": 66.67,
         "Gstaad": 25.0,
         "Paris Olympics": 50.0,
-        "Canada Masters": 50.0,
-        "Cincinnati Masters": 33.33,
+        "Canada Masters": 42.86,
+        "Cincinnati Masters": 25.0,
         "Davis Cup Finals RR: FIN vs ARG": 100.0,
         "Davis Cup Finals RR: GBR vs ARG": 100.0,
         "Shanghai Masters": 33.33,
@@ -109430,32 +109456,32 @@
       "decade": 2020,
       "active_span": "6 years (21-26)",
       "country": "ARG",
-      "matches_won": 126,
-      "matches_played": 250,
-      "win_pct": 50.4,
+      "matches_won": 129,
+      "matches_played": 256,
+      "win_pct": 50.39,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 250,
-      "career_win_pct": 50.4,
+      "career_total_matches": 256,
+      "career_win_pct": 50.39,
       "gs_titles": 0,
       "peak_ranking": 18,
       "top_5_wins": 0,
       "top_5_matches": 14,
       "top_5_win_pct": 0.0,
       "was_top_5": false,
-      "unique_opponents": 138,
+      "unique_opponents": 143,
       "surface_wins": {
         "Clay": 90,
-        "Hard": 33,
+        "Hard": 36,
         "Grass": 3
       },
       "surface_matches": {
         "Clay": 149,
-        "Hard": 89,
+        "Hard": 95,
         "Grass": 12
       },
       "surface_win_pcts": {
         "Clay": 60.4,
-        "Hard": 37.08,
+        "Hard": 37.89,
         "Grass": 25.0
       },
       "tourney_wins": {
@@ -109480,7 +109506,7 @@
         "Madrid Masters": 2,
         "Eastbourne": 1,
         "Kitzbuhel": 8,
-        "Winston-Salem": 5,
+        "Winston-Salem": 6,
         "US Open": 3,
         "Davis Cup WG1 R1: ARG vs LTU": 1,
         "Shanghai Masters": 1,
@@ -109488,13 +109514,14 @@
         "Davis Cup QLS R1: ARG vs KAZ": 1,
         "Geneva": 2,
         "Paris Olympics": 2,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 2,
         "Rio de Janeiro": 5,
         "Bucharest": 4,
         "Barcelona": 1,
         "United Cup": 3,
         "Auckland": 4,
-        "Monte Carlo": 1
+        "Monte Carlo": 1,
+        "Canada Masters": 1
       },
       "tourney_matches": {
         "Santiago": 20,
@@ -109520,8 +109547,8 @@
         "Bastad": 11,
         "Umag": 1,
         "Washington": 1,
-        "Canada Masters": 1,
-        "Cincinnati Masters": 3,
+        "Canada Masters": 3,
+        "Cincinnati Masters": 5,
         "US Open": 6,
         "Davis Cup Finals RR: ARG vs SWE": 1,
         "Davis Cup Finals RR: ITA vs ARG": 1,
@@ -109537,7 +109564,7 @@
         "Madrid Masters": 6,
         "Eastbourne": 3,
         "Kitzbuhel": 11,
-        "Winston-Salem": 6,
+        "Winston-Salem": 8,
         "Davis Cup WG1 R1: ARG vs LTU": 1,
         "Astana": 1,
         "Shanghai Masters": 3,
@@ -109579,7 +109606,7 @@
         "Madrid Masters": 33.33,
         "Eastbourne": 33.33,
         "Kitzbuhel": 72.73,
-        "Winston-Salem": 83.33,
+        "Winston-Salem": 75.0,
         "US Open": 50.0,
         "Davis Cup WG1 R1: ARG vs LTU": 100.0,
         "Shanghai Masters": 33.33,
@@ -109587,13 +109614,14 @@
         "Davis Cup QLS R1: ARG vs KAZ": 100.0,
         "Geneva": 50.0,
         "Paris Olympics": 66.67,
-        "Cincinnati Masters": 33.33,
+        "Cincinnati Masters": 40.0,
         "Rio de Janeiro": 71.43,
         "Bucharest": 66.67,
         "Barcelona": 20.0,
         "United Cup": 100.0,
         "Auckland": 57.14,
-        "Monte Carlo": 50.0
+        "Monte Carlo": 50.0,
+        "Canada Masters": 33.33
       }
     },
     {
@@ -109602,31 +109630,31 @@
       "active_span": "6 years (21-26)",
       "country": "GBR",
       "matches_won": 116,
-      "matches_played": 181,
-      "win_pct": 64.09,
+      "matches_played": 183,
+      "win_pct": 63.39,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 181,
-      "career_win_pct": 64.09,
+      "career_total_matches": 183,
+      "career_win_pct": 63.39,
       "gs_titles": 0,
       "peak_ranking": 4,
       "top_5_wins": 5,
       "top_5_matches": 13,
       "top_5_win_pct": 38.46,
       "was_top_5": true,
-      "unique_opponents": 96,
+      "unique_opponents": 98,
       "surface_wins": {
         "Grass": 22,
         "Hard": 73,
         "Clay": 21
       },
       "surface_matches": {
-        "Hard": 112,
+        "Hard": 114,
         "Grass": 32,
         "Clay": 37
       },
       "surface_win_pcts": {
         "Grass": 68.75,
-        "Hard": 65.18,
+        "Hard": 64.04,
         "Clay": 56.76
       },
       "tourney_wins": {
@@ -109671,7 +109699,7 @@
         "Madrid Masters": 10,
         "Eastbourne": 8,
         "Washington": 2,
-        "Canada Masters": 5,
+        "Canada Masters": 6,
         "Winston-Salem": 5,
         "US Open": 13,
         "Antwerp": 2,
@@ -109697,7 +109725,7 @@
         "Geneva": 1,
         "Stuttgart": 5,
         "Paris Olympics": 2,
-        "Cincinnati Masters": 4,
+        "Cincinnati Masters": 5,
         "Davis Cup Finals RR: CAN vs GBR": 1,
         "Davis Cup Finals RR: GBR vs ARG": 1,
         "Vienna": 5,
@@ -109713,7 +109741,7 @@
         "Eastbourne": 75.0,
         "Wimbledon": 42.86,
         "Washington": 50.0,
-        "Canada Masters": 60.0,
+        "Canada Masters": 50.0,
         "Winston-Salem": 60.0,
         "US Open": 76.92,
         "Antwerp": 50.0,
@@ -109733,7 +109761,7 @@
         "Rome Masters": 66.67,
         "Stuttgart": 100.0,
         "Paris Olympics": 50.0,
-        "Cincinnati Masters": 75.0,
+        "Cincinnati Masters": 60.0,
         "Tokyo": 50.0,
         "Vienna": 100.0,
         "Doha": 80.0,
@@ -109747,32 +109775,32 @@
       "decade": 2020,
       "active_span": "6 years (21-26)",
       "country": "ITA",
-      "matches_won": 100,
-      "matches_played": 176,
-      "win_pct": 56.82,
+      "matches_won": 104,
+      "matches_played": 182,
+      "win_pct": 57.14,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 176,
-      "career_win_pct": 56.82,
+      "career_total_matches": 182,
+      "career_win_pct": 57.14,
       "gs_titles": 0,
       "peak_ranking": 9,
       "top_5_wins": 1,
       "top_5_matches": 10,
       "top_5_win_pct": 10.0,
       "was_top_5": false,
-      "unique_opponents": 106,
+      "unique_opponents": 108,
       "surface_wins": {
         "Clay": 43,
-        "Hard": 44,
+        "Hard": 48,
         "Grass": 13
       },
       "surface_matches": {
         "Clay": 69,
-        "Hard": 85,
+        "Hard": 91,
         "Grass": 22
       },
       "surface_win_pcts": {
         "Clay": 62.32,
-        "Hard": 51.76,
+        "Hard": 52.75,
         "Grass": 59.09
       },
       "tourney_wins": {
@@ -109796,7 +109824,7 @@
         "Hamburg": 6,
         "Washington": 5,
         "Canada Masters": 3,
-        "Cincinnati Masters": 2,
+        "Cincinnati Masters": 6,
         "US Open": 2,
         "Davis Cup Finals RR: ITA vs NED": 1,
         "Beijing": 2,
@@ -109841,8 +109869,8 @@
         "Wimbledon": 12,
         "Hamburg": 8,
         "Washington": 7,
-        "Canada Masters": 5,
-        "Cincinnati Masters": 3,
+        "Canada Masters": 6,
+        "Cincinnati Masters": 8,
         "US Open": 3,
         "Davis Cup Finals RR: ITA vs BEL": 1,
         "Davis Cup Finals RR: ITA vs NED": 1,
@@ -109883,8 +109911,8 @@
         "Wimbledon": 75.0,
         "Hamburg": 75.0,
         "Washington": 71.43,
-        "Canada Masters": 60.0,
-        "Cincinnati Masters": 66.67,
+        "Canada Masters": 50.0,
+        "Cincinnati Masters": 75.0,
         "US Open": 66.67,
         "Davis Cup Finals RR: ITA vs NED": 100.0,
         "Beijing": 66.67,
@@ -109908,32 +109936,32 @@
       "decade": 2020,
       "active_span": "5 years (22-26)",
       "country": "ITA",
-      "matches_won": 75,
-      "matches_played": 148,
-      "win_pct": 50.68,
-      "win_pct_category": "51% - 60%",
-      "career_total_matches": 148,
-      "career_win_pct": 50.68,
+      "matches_won": 76,
+      "matches_played": 152,
+      "win_pct": 50.0,
+      "win_pct_category": "41% - 50%",
+      "career_total_matches": 152,
+      "career_win_pct": 50.0,
       "gs_titles": 0,
       "peak_ranking": 30,
       "top_5_wins": 2,
       "top_5_matches": 12,
       "top_5_win_pct": 16.67,
       "was_top_5": false,
-      "unique_opponents": 98,
+      "unique_opponents": 99,
       "surface_wins": {
         "Clay": 33,
-        "Hard": 41,
+        "Hard": 42,
         "Grass": 1
       },
       "surface_matches": {
         "Clay": 59,
-        "Hard": 81,
+        "Hard": 85,
         "Grass": 8
       },
       "surface_win_pcts": {
         "Clay": 55.93,
-        "Hard": 50.62,
+        "Hard": 49.41,
         "Grass": 12.5
       },
       "tourney_wins": {
@@ -109943,7 +109971,7 @@
         "Roland Garros": 10,
         "Bastad": 1,
         "Umag": 4,
-        "Canada Masters": 6,
+        "Canada Masters": 7,
         "US Open": 5,
         "Davis Cup Finals RR: ITA vs CHI": 1,
         "Davis Cup Finals RR: ITA vs SWE": 1,
@@ -109975,7 +110003,7 @@
         "Wimbledon": 4,
         "Bastad": 2,
         "Umag": 7,
-        "Canada Masters": 9,
+        "Canada Masters": 11,
         "US Open": 7,
         "Davis Cup Finals RR: ITA vs CHI": 1,
         "Davis Cup Finals RR: ITA vs SWE": 1,
@@ -109997,7 +110025,7 @@
         "Queen's Club": 2,
         "Hamburg": 1,
         "Paris Olympics": 2,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 2,
         "Davis Cup Finals RR: ITA vs BRA": 1,
         "Tokyo": 1,
         "Basel": 1,
@@ -110005,7 +110033,7 @@
         "Dallas": 3,
         "Geneva": 3,
         "Stuttgart": 1,
-        "Washington": 3,
+        "Washington": 4,
         "Brussels": 1,
         "Bucharest": 1,
         "Monte Carlo": 1,
@@ -110018,7 +110046,7 @@
         "Roland Garros": 71.43,
         "Bastad": 50.0,
         "Umag": 57.14,
-        "Canada Masters": 66.67,
+        "Canada Masters": 63.64,
         "US Open": 71.43,
         "Davis Cup Finals RR: ITA vs CHI": 100.0,
         "Davis Cup Finals RR: ITA vs SWE": 100.0,
@@ -110038,7 +110066,7 @@
         "Davis Cup Finals RR: ITA vs BRA": 100.0,
         "Dallas": 66.67,
         "Geneva": 66.67,
-        "Washington": 66.67
+        "Washington": 50.0
       }
     },
     {
@@ -110046,31 +110074,31 @@
       "decade": 2020,
       "active_span": "5 years (22-26)",
       "country": "USA",
-      "matches_won": 131,
-      "matches_played": 216,
-      "win_pct": 60.65,
+      "matches_won": 139,
+      "matches_played": 226,
+      "win_pct": 61.5,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 216,
-      "career_win_pct": 60.65,
+      "career_total_matches": 226,
+      "career_win_pct": 61.5,
       "gs_titles": 0,
       "peak_ranking": 5,
       "top_5_wins": 4,
       "top_5_matches": 24,
       "top_5_win_pct": 16.67,
       "was_top_5": true,
-      "unique_opponents": 118,
+      "unique_opponents": 122,
       "surface_wins": {
-        "Hard": 88,
+        "Hard": 96,
         "Clay": 25,
         "Grass": 18
       },
       "surface_matches": {
-        "Hard": 139,
+        "Hard": 149,
         "Clay": 46,
         "Grass": 31
       },
       "surface_win_pcts": {
-        "Hard": 63.31,
+        "Hard": 64.43,
         "Clay": 54.35,
         "Grass": 58.06
       },
@@ -110084,7 +110112,7 @@
         "Barcelona": 1,
         "Queen's Club": 1,
         "Wimbledon": 8,
-        "Canada Masters": 8,
+        "Canada Masters": 14,
         "US Open": 7,
         "Laver Cup": 2,
         "Shanghai Masters": 5,
@@ -110097,7 +110125,7 @@
         "Rome Masters": 1,
         "Roland Garros": 6,
         "Mallorca": 1,
-        "Washington": 6,
+        "Washington": 8,
         "Basel": 5,
         "Paris Masters": 3,
         "Munich": 8,
@@ -110107,7 +110135,7 @@
       },
       "tourney_matches": {
         "Atlanta": 4,
-        "Cincinnati Masters": 9,
+        "Cincinnati Masters": 10,
         "US Open": 10,
         "Auckland": 8,
         "Australian Open": 19,
@@ -110125,8 +110153,8 @@
         "Queen's Club": 4,
         "Mallorca": 4,
         "Wimbledon": 12,
-        "Washington": 9,
-        "Canada Masters": 10,
+        "Washington": 12,
+        "Canada Masters": 16,
         "Laver Cup": 3,
         "Shanghai Masters": 7,
         "Tokyo": 8,
@@ -110145,7 +110173,7 @@
       },
       "tourney_win_pcts": {
         "Atlanta": 25.0,
-        "Cincinnati Masters": 66.67,
+        "Cincinnati Masters": 60.0,
         "Auckland": 50.0,
         "Australian Open": 78.95,
         "Indian Wells Masters": 63.64,
@@ -110153,7 +110181,7 @@
         "Barcelona": 50.0,
         "Queen's Club": 25.0,
         "Wimbledon": 66.67,
-        "Canada Masters": 80.0,
+        "Canada Masters": 87.5,
         "US Open": 70.0,
         "Laver Cup": 66.67,
         "Shanghai Masters": 71.43,
@@ -110334,31 +110362,31 @@
       "decade": 2020,
       "active_span": "5 years (22-26)",
       "country": "FRA",
-      "matches_won": 108,
-      "matches_played": 175,
-      "win_pct": 61.71,
+      "matches_won": 117,
+      "matches_played": 186,
+      "win_pct": 62.9,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 175,
-      "career_win_pct": 61.71,
+      "career_total_matches": 186,
+      "career_win_pct": 62.9,
       "gs_titles": 0,
       "peak_ranking": 14,
       "top_5_wins": 3,
       "top_5_matches": 13,
       "top_5_win_pct": 23.08,
       "was_top_5": false,
-      "unique_opponents": 95,
+      "unique_opponents": 99,
       "surface_wins": {
-        "Hard": 63,
+        "Hard": 72,
         "Clay": 38,
         "Grass": 7
       },
       "surface_matches": {
-        "Hard": 103,
+        "Hard": 114,
         "Clay": 59,
         "Grass": 13
       },
       "surface_win_pcts": {
-        "Hard": 61.17,
+        "Hard": 63.16,
         "Clay": 64.41,
         "Grass": 53.85
       },
@@ -110383,7 +110411,7 @@
         "'s-Hertogenbosch": 1,
         "Halle": 2,
         "Wimbledon": 4,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 7,
         "Davis Cup Finals RR: CZE vs FRA": 1,
         "Tokyo": 5,
         "Basel": 3,
@@ -110393,7 +110421,7 @@
         "Rotterdam": 1,
         "Miami Masters": 7,
         "Roland Garros": 2,
-        "Canada Masters": 1,
+        "Canada Masters": 4,
         "Doha": 4,
         "Madrid Masters": 4
       },
@@ -110408,7 +110436,7 @@
         "Wimbledon": 7,
         "Gstaad": 1,
         "Hamburg": 9,
-        "Cincinnati Masters": 3,
+        "Cincinnati Masters": 9,
         "Winston-Salem": 1,
         "US Open": 4,
         "Davis Cup Finals RR: GBR vs FRA": 1,
@@ -110431,7 +110459,7 @@
         "Madrid Masters": 7,
         "Halle": 3,
         "Paris Olympics": 1,
-        "Canada Masters": 3,
+        "Canada Masters": 7,
         "Davis Cup Finals RR: AUS vs FRA": 1,
         "Davis Cup Finals RR: CZE vs FRA": 1,
         "Davis Cup Finals RR: FRA vs ESP": 1,
@@ -110441,7 +110469,8 @@
         "Davis Cup QLS R1: FRA vs BRA": 1,
         "Rotterdam": 3,
         "Dubai": 1,
-        "Doha": 5
+        "Doha": 5,
+        "Washington": 1
       },
       "tourney_win_pcts": {
         "Montpellier": 71.43,
@@ -110464,7 +110493,7 @@
         "'s-Hertogenbosch": 33.33,
         "Halle": 66.67,
         "Wimbledon": 57.14,
-        "Cincinnati Masters": 33.33,
+        "Cincinnati Masters": 77.78,
         "Davis Cup Finals RR: CZE vs FRA": 100.0,
         "Tokyo": 100.0,
         "Basel": 75.0,
@@ -110474,7 +110503,7 @@
         "Rotterdam": 33.33,
         "Miami Masters": 70.0,
         "Roland Garros": 40.0,
-        "Canada Masters": 33.33,
+        "Canada Masters": 57.14,
         "Doha": 80.0,
         "Madrid Masters": 57.14
       }
@@ -110484,33 +110513,33 @@
       "decade": 2020,
       "active_span": "4 years (23-26)",
       "country": "ITA",
-      "matches_won": 78,
-      "matches_played": 144,
-      "win_pct": 54.17,
+      "matches_won": 82,
+      "matches_played": 152,
+      "win_pct": 53.95,
       "win_pct_category": "51% - 60%",
-      "career_total_matches": 144,
-      "career_win_pct": 54.17,
+      "career_total_matches": 152,
+      "career_win_pct": 53.95,
       "gs_titles": 0,
       "peak_ranking": 16,
       "top_5_wins": 1,
       "top_5_matches": 4,
       "top_5_win_pct": 25.0,
       "was_top_5": false,
-      "unique_opponents": 88,
+      "unique_opponents": 92,
       "surface_wins": {
         "Clay": 66,
         "Grass": 5,
-        "Hard": 7
+        "Hard": 11
       },
       "surface_matches": {
         "Clay": 96,
-        "Hard": 34,
+        "Hard": 42,
         "Grass": 14
       },
       "surface_win_pcts": {
         "Clay": 68.75,
         "Grass": 35.71,
-        "Hard": 20.59
+        "Hard": 26.19
       },
       "tourney_wins": {
         "Cordoba": 6,
@@ -110534,7 +110563,9 @@
         "Bastad": 8,
         "Auckland": 1,
         "Australian Open": 3,
-        "Estoril": 2
+        "Estoril": 2,
+        "Canada Masters": 3,
+        "Winston-Salem": 1
       },
       "tourney_matches": {
         "Cordoba": 7,
@@ -110554,9 +110585,9 @@
         "Hamburg": 9,
         "Umag": 6,
         "Paris Olympics": 1,
-        "Canada Masters": 1,
-        "Cincinnati Masters": 2,
-        "Winston-Salem": 1,
+        "Canada Masters": 5,
+        "Cincinnati Masters": 3,
+        "Winston-Salem": 3,
         "US Open": 1,
         "Hangzhou": 1,
         "Tokyo": 1,
@@ -110578,7 +110609,8 @@
         "Almaty": 1,
         "Athens": 1,
         "Monte Carlo": 1,
-        "Estoril": 3
+        "Estoril": 3,
+        "Los Cabos": 1
       },
       "tourney_win_pcts": {
         "Cordoba": 85.71,
@@ -110593,7 +110625,7 @@
         "Wimbledon": 50.0,
         "Hamburg": 66.67,
         "Umag": 83.33,
-        "Cincinnati Masters": 50.0,
+        "Cincinnati Masters": 33.33,
         "Vienna": 33.33,
         "Rio de Janeiro": 33.33,
         "Miami Masters": 25.0,
@@ -110602,7 +110634,9 @@
         "Bastad": 88.89,
         "Auckland": 33.33,
         "Australian Open": 60.0,
-        "Estoril": 66.67
+        "Estoril": 66.67,
+        "Canada Masters": 60.0,
+        "Winston-Salem": 33.33
       }
     },
     {
@@ -110610,31 +110644,31 @@
       "decade": 2020,
       "active_span": "4 years (23-26)",
       "country": "CZE",
-      "matches_won": 81,
-      "matches_played": 131,
-      "win_pct": 61.83,
+      "matches_won": 87,
+      "matches_played": 140,
+      "win_pct": 62.14,
       "win_pct_category": "61% - 70%",
-      "career_total_matches": 131,
-      "career_win_pct": 61.83,
+      "career_total_matches": 140,
+      "career_win_pct": 62.14,
       "gs_titles": 0,
       "peak_ranking": 12,
       "top_5_wins": 4,
       "top_5_matches": 9,
       "top_5_win_pct": 44.44,
       "was_top_5": false,
-      "unique_opponents": 81,
+      "unique_opponents": 89,
       "surface_wins": {
-        "Hard": 54,
+        "Hard": 60,
         "Clay": 20,
         "Grass": 7
       },
       "surface_matches": {
-        "Hard": 83,
+        "Hard": 92,
         "Clay": 32,
         "Grass": 16
       },
       "surface_win_pcts": {
-        "Hard": 65.06,
+        "Hard": 65.22,
         "Clay": 62.5,
         "Grass": 43.75
       },
@@ -110662,12 +110696,14 @@
         "Queen's Club": 1,
         "Eastbourne": 1,
         "Wimbledon": 3,
-        "Canada Masters": 1,
+        "Canada Masters": 4,
         "Davis Cup QLS R2: USA vs CZE": 1,
         "Basel": 1,
         "Davis Cup Finals QF: ESP vs CZE": 1,
         "United Cup": 1,
-        "Hamburg": 1
+        "Hamburg": 1,
+        "Washington": 1,
+        "Cincinnati Masters": 2
       },
       "tourney_matches": {
         "US Open": 6,
@@ -110700,12 +110736,14 @@
         "Roland Garros": 8,
         "Queen's Club": 3,
         "Eastbourne": 2,
-        "Canada Masters": 2,
+        "Canada Masters": 6,
         "Davis Cup QLS R2: USA vs CZE": 2,
         "Basel": 2,
         "Davis Cup Finals QF: ESP vs CZE": 1,
         "United Cup": 3,
-        "Hamburg": 2
+        "Hamburg": 2,
+        "Washington": 2,
+        "Cincinnati Masters": 3
       },
       "tourney_win_pcts": {
         "US Open": 66.67,
@@ -110731,12 +110769,14 @@
         "Queen's Club": 33.33,
         "Eastbourne": 50.0,
         "Wimbledon": 50.0,
-        "Canada Masters": 50.0,
+        "Canada Masters": 66.67,
         "Davis Cup QLS R2: USA vs CZE": 50.0,
         "Basel": 50.0,
         "Davis Cup Finals QF: ESP vs CZE": 100.0,
         "United Cup": 33.33,
-        "Hamburg": 50.0
+        "Hamburg": 50.0,
+        "Washington": 50.0,
+        "Cincinnati Masters": 66.67
       }
     },
     {
@@ -110744,32 +110784,32 @@
       "decade": 2020,
       "active_span": "3 years (24-26)",
       "country": "ARG",
-      "matches_won": 52,
-      "matches_played": 111,
-      "win_pct": 46.85,
+      "matches_won": 55,
+      "matches_played": 117,
+      "win_pct": 47.01,
       "win_pct_category": "41% - 50%",
-      "career_total_matches": 111,
-      "career_win_pct": 46.85,
+      "career_total_matches": 117,
+      "career_win_pct": 47.01,
       "gs_titles": 0,
       "peak_ranking": 29,
       "top_5_wins": 1,
       "top_5_matches": 4,
       "top_5_win_pct": 25.0,
       "was_top_5": false,
-      "unique_opponents": 83,
+      "unique_opponents": 87,
       "surface_wins": {
         "Clay": 43,
-        "Hard": 8,
+        "Hard": 11,
         "Grass": 1
       },
       "surface_matches": {
         "Clay": 74,
         "Grass": 7,
-        "Hard": 30
+        "Hard": 36
       },
       "surface_win_pcts": {
         "Clay": 58.11,
-        "Hard": 26.67,
+        "Hard": 30.56,
         "Grass": 14.29
       },
       "tourney_wins": {
@@ -110795,7 +110835,9 @@
         "Umag": 1,
         "Miami Masters": 1,
         "Geneva": 4,
-        "Kitzbuhel": 2
+        "Kitzbuhel": 2,
+        "Canada Masters": 2,
+        "Cincinnati Masters": 1
       },
       "tourney_matches": {
         "Cordoba": 1,
@@ -110812,9 +110854,9 @@
         "Bastad": 5,
         "Umag": 3,
         "Paris Olympics": 2,
-        "Canada Masters": 1,
-        "Cincinnati Masters": 1,
-        "Winston-Salem": 1,
+        "Canada Masters": 4,
+        "Cincinnati Masters": 3,
+        "Winston-Salem": 2,
         "US Open": 2,
         "Tokyo": 2,
         "Shanghai Masters": 1,
@@ -110861,7 +110903,9 @@
         "Umag": 33.33,
         "Miami Masters": 33.33,
         "Geneva": 80.0,
-        "Kitzbuhel": 66.67
+        "Kitzbuhel": 66.67,
+        "Canada Masters": 50.0,
+        "Cincinnati Masters": 33.33
       }
     }
   ],
@@ -307776,20 +307820,21 @@
     {
       "player1": "Adrian Mannarino",
       "player2": "Lorenzo Sonego",
-      "total_matches": 5,
+      "total_matches": 6,
       "player1_wins": 3,
-      "player2_wins": 2,
+      "player2_wins": 3,
       "surface_breakdown": {
         "Clay": 1,
         "Grass": 1,
-        "Hard": 3
+        "Hard": 4
       },
       "tourney_breakdown": {
         "Rome Masters": 1,
         "Antalya": 1,
         "US Open": 1,
         "United Cup": 1,
-        "Beijing": 1
+        "Beijing": 1,
+        "Winston-Salem": 1
       },
       "surface_wins": {
         "Adrian Mannarino": {
@@ -307797,7 +307842,8 @@
         },
         "Lorenzo Sonego": {
           "Clay": 1,
-          "Grass": 1
+          "Grass": 1,
+          "Hard": 1
         }
       },
       "tourney_wins": {
@@ -307808,7 +307854,8 @@
         },
         "Lorenzo Sonego": {
           "Rome Masters": 1,
-          "Antalya": 1
+          "Antalya": 1,
+          "Winston-Salem": 1
         }
       }
     },
@@ -309123,11 +309170,11 @@
     {
       "player1": "Alex de Minaur",
       "player2": "Stefanos Tsitsipas",
-      "total_matches": 13,
-      "player1_wins": 1,
+      "total_matches": 14,
+      "player1_wins": 2,
       "player2_wins": 12,
       "surface_breakdown": {
-        "Hard": 10,
+        "Hard": 11,
         "Clay": 3
       },
       "tourney_breakdown": {
@@ -309141,11 +309188,12 @@
         "Miami Masters": 2,
         "Los Cabos": 1,
         "Acapulco": 1,
-        "Rome Masters": 1
+        "Rome Masters": 1,
+        "Washington": 1
       },
       "surface_wins": {
         "Alex de Minaur": {
-          "Hard": 1
+          "Hard": 2
         },
         "Stefanos Tsitsipas": {
           "Hard": 9,
@@ -309154,7 +309202,8 @@
       },
       "tourney_wins": {
         "Alex de Minaur": {
-          "Acapulco": 1
+          "Acapulco": 1,
+          "Washington": 1
         },
         "Stefanos Tsitsipas": {
           "Tokyo": 1,
@@ -310173,11 +310222,11 @@
     {
       "player1": "Alexander Zverev",
       "player2": "Cameron Norrie",
-      "total_matches": 7,
-      "player1_wins": 7,
+      "total_matches": 8,
+      "player1_wins": 8,
       "player2_wins": 0,
       "surface_breakdown": {
-        "Hard": 6,
+        "Hard": 7,
         "Grass": 1
       },
       "tourney_breakdown": {
@@ -310186,11 +310235,12 @@
         "ATP Cup": 1,
         "Vienna": 1,
         "Australian Open": 2,
-        "Wimbledon": 1
+        "Wimbledon": 1,
+        "Cincinnati Masters": 1
       },
       "surface_wins": {
         "Alexander Zverev": {
-          "Hard": 6,
+          "Hard": 7,
           "Grass": 1
         },
         "Cameron Norrie": {}
@@ -310202,7 +310252,8 @@
           "ATP Cup": 1,
           "Vienna": 1,
           "Australian Open": 2,
-          "Wimbledon": 1
+          "Wimbledon": 1,
+          "Cincinnati Masters": 1
         },
         "Cameron Norrie": {}
       }
@@ -310248,11 +310299,11 @@
     {
       "player1": "Felix Auger-Aliassime",
       "player2": "Stefanos Tsitsipas",
-      "total_matches": 10,
-      "player1_wins": 3,
+      "total_matches": 11,
+      "player1_wins": 4,
       "player2_wins": 7,
       "surface_breakdown": {
-        "Hard": 8,
+        "Hard": 9,
         "Grass": 1,
         "Clay": 1
       },
@@ -310263,14 +310314,14 @@
         "Marseille": 1,
         "Acapulco": 1,
         "Barcelona": 1,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 2,
         "Rotterdam": 1,
         "Paris Masters": 1,
         "Dubai": 1
       },
       "surface_wins": {
         "Felix Auger-Aliassime": {
-          "Hard": 2,
+          "Hard": 3,
           "Grass": 1
         },
         "Stefanos Tsitsipas": {
@@ -310282,7 +310333,8 @@
         "Felix Auger-Aliassime": {
           "Indian Wells Masters": 1,
           "Queen's Club": 1,
-          "Rotterdam": 1
+          "Rotterdam": 1,
+          "Cincinnati Masters": 1
         },
         "Stefanos Tsitsipas": {
           "Shanghai Masters": 1,
@@ -315150,11 +315202,11 @@
     {
       "player1": "Brandon Nakashima",
       "player2": "Frances Tiafoe",
-      "total_matches": 7,
+      "total_matches": 8,
       "player1_wins": 1,
-      "player2_wins": 6,
+      "player2_wins": 7,
       "surface_breakdown": {
-        "Hard": 6,
+        "Hard": 7,
         "Clay": 1
       },
       "tourney_breakdown": {
@@ -315163,14 +315215,15 @@
         "Miami Masters": 1,
         "Atlanta": 1,
         "Tokyo": 1,
-        "Houston": 1
+        "Houston": 1,
+        "Cincinnati Masters": 1
       },
       "surface_wins": {
         "Brandon Nakashima": {
           "Hard": 1
         },
         "Frances Tiafoe": {
-          "Hard": 5,
+          "Hard": 6,
           "Clay": 1
         }
       },
@@ -315183,18 +315236,19 @@
           "Indian Wells Masters": 1,
           "Miami Masters": 1,
           "Atlanta": 1,
-          "Houston": 1
+          "Houston": 1,
+          "Cincinnati Masters": 1
         }
       }
     },
     {
       "player1": "Frances Tiafoe",
       "player2": "Lorenzo Musetti",
-      "total_matches": 6,
-      "player1_wins": 3,
+      "total_matches": 7,
+      "player1_wins": 4,
       "player2_wins": 3,
       "surface_breakdown": {
-        "Hard": 3,
+        "Hard": 4,
         "Clay": 2,
         "Grass": 1
       },
@@ -315203,12 +315257,12 @@
         "United Cup": 1,
         "Rome Masters": 1,
         "Stuttgart": 1,
-        "Cincinnati Masters": 1,
+        "Cincinnati Masters": 2,
         "Roland Garros": 1
       },
       "surface_wins": {
         "Frances Tiafoe": {
-          "Hard": 2,
+          "Hard": 3,
           "Grass": 1
         },
         "Lorenzo Musetti": {
@@ -315220,7 +315274,7 @@
         "Frances Tiafoe": {
           "United Cup": 1,
           "Stuttgart": 1,
-          "Cincinnati Masters": 1
+          "Cincinnati Masters": 2
         },
         "Lorenzo Musetti": {
           "Acapulco": 1,
@@ -316144,18 +316198,18 @@
     {
       "player1": "Alexander Zverev",
       "player2": "Tallon Griekspoor",
-      "total_matches": 12,
+      "total_matches": 13,
       "player1_wins": 10,
-      "player2_wins": 2,
+      "player2_wins": 3,
       "surface_breakdown": {
         "Grass": 1,
-        "Hard": 8,
+        "Hard": 9,
         "Clay": 3
       },
       "tourney_breakdown": {
         "Wimbledon": 1,
         "Rotterdam": 1,
-        "Canada Masters": 1,
+        "Canada Masters": 2,
         "Indian Wells Masters": 2,
         "Roland Garros": 2,
         "Shanghai Masters": 1,
@@ -316171,7 +316225,7 @@
           "Clay": 3
         },
         "Tallon Griekspoor": {
-          "Hard": 2
+          "Hard": 3
         }
       },
       "tourney_wins": {
@@ -316188,7 +316242,8 @@
         },
         "Tallon Griekspoor": {
           "Rotterdam": 1,
-          "Indian Wells Masters": 1
+          "Indian Wells Masters": 1,
+          "Canada Masters": 1
         }
       }
     },
@@ -316227,6 +316282,44 @@
         },
         "Sebastian Korda": {
           "Wimbledon": 1
+        }
+      }
+    },
+    {
+      "player1": "Brandon Nakashima",
+      "player2": "Taylor Fritz",
+      "total_matches": 6,
+      "player1_wins": 2,
+      "player2_wins": 4,
+      "surface_breakdown": {
+        "Grass": 1,
+        "Hard": 5
+      },
+      "tourney_breakdown": {
+        "Wimbledon": 1,
+        "Indian Wells Masters": 1,
+        "Cincinnati Masters": 2,
+        "Dallas": 1,
+        "Washington": 1
+      },
+      "surface_wins": {
+        "Brandon Nakashima": {
+          "Hard": 2
+        },
+        "Taylor Fritz": {
+          "Grass": 1,
+          "Hard": 3
+        }
+      },
+      "tourney_wins": {
+        "Brandon Nakashima": {
+          "Cincinnati Masters": 2
+        },
+        "Taylor Fritz": {
+          "Wimbledon": 1,
+          "Indian Wells Masters": 1,
+          "Dallas": 1,
+          "Washington": 1
         }
       }
     },
@@ -316707,6 +316800,46 @@
       }
     },
     {
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Frances Tiafoe",
+      "total_matches": 5,
+      "player1_wins": 3,
+      "player2_wins": 2,
+      "surface_breakdown": {
+        "Hard": 3,
+        "Clay": 1,
+        "Grass": 1
+      },
+      "tourney_breakdown": {
+        "US Open": 1,
+        "Barcelona": 1,
+        "Paris Masters": 1,
+        "Halle": 1,
+        "Cincinnati Masters": 1
+      },
+      "surface_wins": {
+        "Felix Auger-Aliassime": {
+          "Hard": 2,
+          "Clay": 1
+        },
+        "Frances Tiafoe": {
+          "Grass": 1,
+          "Hard": 1
+        }
+      },
+      "tourney_wins": {
+        "Felix Auger-Aliassime": {
+          "US Open": 1,
+          "Barcelona": 1,
+          "Paris Masters": 1
+        },
+        "Frances Tiafoe": {
+          "Halle": 1,
+          "Cincinnati Masters": 1
+        }
+      }
+    },
+    {
       "player1": "Carlos Alcaraz",
       "player2": "Felix Auger-Aliassime",
       "total_matches": 8,
@@ -316745,6 +316878,42 @@
           "US Open": 1,
           "Davis Cup Finals RR: ESP vs CAN": 1,
           "Basel": 1
+        }
+      }
+    },
+    {
+      "player1": "Botic van de Zandschulp",
+      "player2": "Daniil Medvedev",
+      "total_matches": 5,
+      "player1_wins": 1,
+      "player2_wins": 4,
+      "surface_breakdown": {
+        "Hard": 5
+      },
+      "tourney_breakdown": {
+        "US Open": 1,
+        "Australian Open": 1,
+        "Cincinnati Masters": 1,
+        "Rotterdam": 1,
+        "Canada Masters": 1
+      },
+      "surface_wins": {
+        "Botic van de Zandschulp": {
+          "Hard": 1
+        },
+        "Daniil Medvedev": {
+          "Hard": 4
+        }
+      },
+      "tourney_wins": {
+        "Botic van de Zandschulp": {
+          "Canada Masters": 1
+        },
+        "Daniil Medvedev": {
+          "US Open": 1,
+          "Australian Open": 1,
+          "Cincinnati Masters": 1,
+          "Rotterdam": 1
         }
       }
     },
@@ -316991,11 +317160,11 @@
     {
       "player1": "Hubert Hurkacz",
       "player2": "Tommy Paul",
-      "total_matches": 5,
+      "total_matches": 6,
       "player1_wins": 2,
-      "player2_wins": 3,
+      "player2_wins": 4,
       "surface_breakdown": {
-        "Hard": 2,
+        "Hard": 3,
         "Clay": 2,
         "Grass": 1
       },
@@ -317003,7 +317172,8 @@
         "Paris Masters": 1,
         "Indian Wells Masters": 1,
         "Rome Masters": 2,
-        "Wimbledon": 1
+        "Wimbledon": 1,
+        "Cincinnati Masters": 1
       },
       "surface_wins": {
         "Hubert Hurkacz": {
@@ -317011,7 +317181,7 @@
           "Grass": 1
         },
         "Tommy Paul": {
-          "Hard": 1,
+          "Hard": 2,
           "Clay": 2
         }
       },
@@ -317022,7 +317192,8 @@
         },
         "Tommy Paul": {
           "Indian Wells Masters": 1,
-          "Rome Masters": 2
+          "Rome Masters": 2,
+          "Cincinnati Masters": 1
         }
       }
     },
@@ -317653,17 +317824,17 @@
     {
       "player1": "Alex de Minaur",
       "player2": "Cameron Norrie",
-      "total_matches": 6,
+      "total_matches": 7,
       "player1_wins": 3,
-      "player2_wins": 3,
+      "player2_wins": 4,
       "surface_breakdown": {
         "Clay": 2,
-        "Hard": 4
+        "Hard": 5
       },
       "tourney_breakdown": {
         "Barcelona": 1,
         "United Cup": 2,
-        "Canada Masters": 1,
+        "Canada Masters": 2,
         "Indian Wells Masters": 1,
         "Monte Carlo": 1
       },
@@ -317673,7 +317844,7 @@
           "Hard": 1
         },
         "Cameron Norrie": {
-          "Hard": 3
+          "Hard": 4
         }
       },
       "tourney_wins": {
@@ -317684,7 +317855,8 @@
         },
         "Cameron Norrie": {
           "United Cup": 2,
-          "Indian Wells Masters": 1
+          "Indian Wells Masters": 1,
+          "Canada Masters": 1
         }
       }
     },
@@ -318712,6 +318884,42 @@
       }
     },
     {
+      "player1": "Frances Tiafoe",
+      "player2": "Lorenzo Sonego",
+      "total_matches": 5,
+      "player1_wins": 2,
+      "player2_wins": 3,
+      "surface_breakdown": {
+        "Hard": 5
+      },
+      "tourney_breakdown": {
+        "Paris Masters": 1,
+        "Davis Cup Finals QF: ITA vs USA": 1,
+        "Miami Masters": 1,
+        "Shanghai Masters": 1,
+        "Cincinnati Masters": 1
+      },
+      "surface_wins": {
+        "Frances Tiafoe": {
+          "Hard": 2
+        },
+        "Lorenzo Sonego": {
+          "Hard": 3
+        }
+      },
+      "tourney_wins": {
+        "Frances Tiafoe": {
+          "Paris Masters": 1,
+          "Cincinnati Masters": 1
+        },
+        "Lorenzo Sonego": {
+          "Davis Cup Finals QF: ITA vs USA": 1,
+          "Miami Masters": 1,
+          "Shanghai Masters": 1
+        }
+      }
+    },
+    {
       "player1": "Carlos Alcaraz",
       "player2": "Grigor Dimitrov",
       "total_matches": 7,
@@ -319645,24 +319853,24 @@
     {
       "player1": "Ben Shelton",
       "player2": "Brandon Nakashima",
-      "total_matches": 5,
-      "player1_wins": 5,
+      "total_matches": 6,
+      "player1_wins": 6,
       "player2_wins": 0,
       "surface_breakdown": {
         "Clay": 1,
-        "Hard": 4
+        "Hard": 5
       },
       "tourney_breakdown": {
         "Houston": 1,
         "Washington": 1,
         "Australian Open": 1,
         "Indian Wells Masters": 1,
-        "Canada Masters": 1
+        "Canada Masters": 2
       },
       "surface_wins": {
         "Ben Shelton": {
           "Clay": 1,
-          "Hard": 4
+          "Hard": 5
         },
         "Brandon Nakashima": {}
       },
@@ -319672,7 +319880,7 @@
           "Washington": 1,
           "Australian Open": 1,
           "Indian Wells Masters": 1,
-          "Canada Masters": 1
+          "Canada Masters": 2
         },
         "Brandon Nakashima": {}
       }
@@ -319803,11 +320011,11 @@
     {
       "player1": "Arthur Fils",
       "player2": "Jiri Lehecka",
-      "total_matches": 5,
-      "player1_wins": 3,
+      "total_matches": 6,
+      "player1_wins": 4,
       "player2_wins": 2,
       "surface_breakdown": {
-        "Hard": 4,
+        "Hard": 5,
         "Clay": 1
       },
       "tourney_breakdown": {
@@ -319815,11 +320023,12 @@
         "Canada Masters": 1,
         "Doha": 1,
         "Miami Masters": 1,
-        "Madrid Masters": 1
+        "Madrid Masters": 1,
+        "Cincinnati Masters": 1
       },
       "surface_wins": {
         "Arthur Fils": {
-          "Hard": 2,
+          "Hard": 3,
           "Clay": 1
         },
         "Jiri Lehecka": {
@@ -319830,7 +320039,8 @@
         "Arthur Fils": {
           "Davis Cup Finals RR: CZE vs FRA": 1,
           "Doha": 1,
-          "Madrid Masters": 1
+          "Madrid Masters": 1,
+          "Cincinnati Masters": 1
         },
         "Jiri Lehecka": {
           "Canada Masters": 1,
@@ -348232,9 +348442,9 @@
     }
   ],
   "metadata": {
-    "total_matches": 151889,
-    "total_players": 4315,
-    "total_matchups": 73252,
+    "total_matches": 152091,
+    "total_players": 4318,
+    "total_matchups": 73350,
     "year_range": {
       "min": 1968,
       "max": 2026
