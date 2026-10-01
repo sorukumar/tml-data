@@ -719,8 +719,8 @@
     "surface_stats": {
       "Hard": {
         "wins": 9,
-        "matches": 34,
-        "win_pct": 26.47
+        "matches": 36,
+        "win_pct": 25.0
       },
       "Clay": {
         "wins": 6,
@@ -845,8 +845,8 @@
     "surface_stats": {
       "Hard": {
         "wins": 4,
-        "matches": 5,
-        "win_pct": 80.0
+        "matches": 6,
+        "win_pct": 66.67
       },
       "Clay": {
         "wins": 0,

@@ -377,10 +377,10 @@
     "years_played": 10,
     "min_year": 2016,
     "max_year": 2026,
-    "matches_played": 56,
+    "matches_played": 58,
     "wins": 15,
-    "losses": 41,
-    "win_pct": 26.79,
+    "losses": 43,
+    "win_pct": 25.86,
     "best_rank": 68.0
   },
   {
@@ -471,11 +471,11 @@
     "years_played": 2,
     "min_year": 2025,
     "max_year": 2026,
-    "matches_played": 5,
+    "matches_played": 6,
     "wins": 4,
-    "losses": 1,
-    "win_pct": 80.0,
-    "best_rank": 394.0
+    "losses": 2,
+    "win_pct": 66.67,
+    "best_rank": 367.0
   },
   {
     "id": "A022",

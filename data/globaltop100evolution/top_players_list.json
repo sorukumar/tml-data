@@ -899,7 +899,7 @@
       2025,
       2026
     ],
-    "total_titles": 589,
+    "total_titles": 590,
     "peak_year": 2010
   },
   {
@@ -1021,6 +1021,27 @@
     "peak_year": 2001
   },
   {
+    "player": "Alexander Zverev",
+    "country": "GER",
+    "years_active": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_titles": 569,
+    "peak_year": 2024
+  },
+  {
     "player": "Jaime Fillol Sr.",
     "country": "CHI",
     "years_active": [
@@ -1072,27 +1093,6 @@
     ],
     "total_titles": 559,
     "peak_year": 2009
-  },
-  {
-    "player": "Alexander Zverev",
-    "country": "GER",
-    "years_active": [
-      2014,
-      2015,
-      2016,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025,
-      2026
-    ],
-    "total_titles": 559,
-    "peak_year": 2024
   },
   {
     "player": "Raul Ramirez",

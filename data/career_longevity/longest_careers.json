@@ -81,6 +81,15 @@
     "best_rank": 197.0
   },
   {
+    "player_name": "Stan Wawrinka",
+    "career_length_years": 23.2,
+    "career_start": "2003-07-07",
+    "career_end": "2026-09-18",
+    "total_matches": 988,
+    "wins": 592,
+    "best_rank": 3.0
+  },
+  {
     "player_name": "Richard Gasquet",
     "career_length_years": 23.11,
     "career_start": "2002-04-15",
@@ -88,15 +97,6 @@
     "total_matches": 1031,
     "wins": 613,
     "best_rank": 7.0
-  },
-  {
-    "player_name": "Stan Wawrinka",
-    "career_length_years": 23.04,
-    "career_start": "2003-07-07",
-    "career_end": "2026-07-21",
-    "total_matches": 986,
-    "wins": 592,
-    "best_rank": 3.0
   },
   {
     "player_name": "Tommy Robredo",
@@ -136,10 +136,10 @@
   },
   {
     "player_name": "Novak Djokovic",
-    "career_length_years": 22.35,
+    "career_length_years": 22.39,
     "career_start": "2004-04-09",
-    "career_end": "2026-08-16",
-    "total_matches": 1423,
+    "career_end": "2026-08-30",
+    "total_matches": 1424,
     "wins": 1184,
     "best_rank": 1.0
   },
@@ -163,11 +163,11 @@
   },
   {
     "player_name": "Gael Monfils",
-    "career_length_years": 21.84,
+    "career_length_years": 21.89,
     "career_start": "2004-10-11",
-    "career_end": "2026-08-14",
-    "total_matches": 955,
-    "wins": 589,
+    "career_end": "2026-09-03",
+    "total_matches": 957,
+    "wins": 590,
     "best_rank": 6.0
   },
   {
@@ -477,6 +477,15 @@
     "best_rank": 15.0
   },
   {
+    "player_name": "Adrian Mannarino",
+    "career_length_years": 18.34,
+    "career_start": "2008-05-25",
+    "career_end": "2026-09-27",
+    "total_matches": 703,
+    "wins": 324,
+    "best_rank": 17.0
+  },
+  {
     "player_name": "Gilles Muller",
     "career_length_years": 18.33,
     "career_start": "2000-04-28",
@@ -504,13 +513,13 @@
     "best_rank": 19.0
   },
   {
-    "player_name": "Adrian Mannarino",
-    "career_length_years": 18.25,
-    "career_start": "2008-05-25",
-    "career_end": "2026-08-26",
-    "total_matches": 698,
-    "wins": 321,
-    "best_rank": 17.0
+    "player_name": "Grigor Dimitrov",
+    "career_length_years": 18.26,
+    "career_start": "2008-06-15",
+    "career_end": "2026-09-19",
+    "total_matches": 809,
+    "wins": 491,
+    "best_rank": 3.0
   },
   {
     "player_name": "Radek Stepanek",
@@ -529,15 +538,6 @@
     "total_matches": 22,
     "wins": 10,
     "best_rank": 437.0
-  },
-  {
-    "player_name": "Grigor Dimitrov",
-    "career_length_years": 18.16,
-    "career_start": "2008-06-15",
-    "career_end": "2026-08-14",
-    "total_matches": 806,
-    "wins": 490,
-    "best_rank": 3.0
   },
   {
     "player_name": "Robin Haase",

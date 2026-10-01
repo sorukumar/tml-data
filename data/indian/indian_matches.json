@@ -41728,5 +41728,44 @@
     "winner_rank": 51.0,
     "loser_rank": 394.0,
     "minutes": 93.0
+  },
+  {
+    "tourney_date": "20260918",
+    "tourney_name": "Davis Cup QLS R2: KOR vs IND",
+    "tourney_level": "D",
+    "surface": "Hard",
+    "round": "RR",
+    "winner_name": "Soonwoo Kwon",
+    "loser_name": "Dhakshineswar Suresh",
+    "score": "3-6 6-3 6-4",
+    "winner_rank": 157.0,
+    "loser_rank": 367.0,
+    "minutes": 125.0
+  },
+  {
+    "tourney_date": "20260918",
+    "tourney_name": "Davis Cup QLS R2: KOR vs IND",
+    "tourney_level": "D",
+    "surface": "Hard",
+    "round": "RR",
+    "winner_name": "Hyeon Chung",
+    "loser_name": "Sumit Nagal",
+    "score": "2-6 6-4 7-5",
+    "winner_rank": 549.0,
+    "loser_rank": 247.0,
+    "minutes": 186.0
+  },
+  {
+    "tourney_date": "20260919",
+    "tourney_name": "Davis Cup QLS R2: KOR vs IND",
+    "tourney_level": "D",
+    "surface": "Hard",
+    "round": "RR",
+    "winner_name": "Soonwoo Kwon",
+    "loser_name": "Sumit Nagal",
+    "score": "6-1 6-2",
+    "winner_rank": 157.0,
+    "loser_rank": 247.0,
+    "minutes": null
   }
 ]

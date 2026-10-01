@@ -117,6 +117,19 @@
     "best_rank": 197.0
   },
   {
+    "player_id": "W367",
+    "player_name": "Stan Wawrinka",
+    "career_start": "2003-07-07",
+    "career_end": "2026-09-18",
+    "career_length_days": 8474,
+    "career_length_years": 23.2,
+    "total_matches": 988,
+    "wins": 592,
+    "losses": 396,
+    "win_pct": 59.92,
+    "best_rank": 3.0
+  },
+  {
     "player_id": "G628",
     "player_name": "Richard Gasquet",
     "career_start": "2002-04-15",
@@ -128,19 +141,6 @@
     "losses": 418,
     "win_pct": 59.46,
     "best_rank": 7.0
-  },
-  {
-    "player_id": "W367",
-    "player_name": "Stan Wawrinka",
-    "career_start": "2003-07-07",
-    "career_end": "2026-07-21",
-    "career_length_days": 8415,
-    "career_length_years": 23.04,
-    "total_matches": 986,
-    "wins": 592,
-    "losses": 394,
-    "win_pct": 60.04,
-    "best_rank": 3.0
   },
   {
     "player_id": "R419",
@@ -198,13 +198,13 @@
     "player_id": "D643",
     "player_name": "Novak Djokovic",
     "career_start": "2004-04-09",
-    "career_end": "2026-08-16",
-    "career_length_days": 8164,
-    "career_length_years": 22.35,
-    "total_matches": 1423,
+    "career_end": "2026-08-30",
+    "career_length_days": 8178,
+    "career_length_years": 22.39,
+    "total_matches": 1424,
     "wins": 1184,
-    "losses": 239,
-    "win_pct": 83.2,
+    "losses": 240,
+    "win_pct": 83.15,
     "best_rank": 1.0
   },
   {
@@ -237,13 +237,13 @@
     "player_id": "MC65",
     "player_name": "Gael Monfils",
     "career_start": "2004-10-11",
-    "career_end": "2026-08-14",
-    "career_length_days": 7977,
-    "career_length_years": 21.84,
-    "total_matches": 955,
-    "wins": 589,
-    "losses": 366,
-    "win_pct": 61.68,
+    "career_end": "2026-09-03",
+    "career_length_days": 7997,
+    "career_length_years": 21.89,
+    "total_matches": 957,
+    "wins": 590,
+    "losses": 367,
+    "win_pct": 61.65,
     "best_rank": 6.0
   },
   {
@@ -689,6 +689,19 @@
     "best_rank": 15.0
   },
   {
+    "player_id": "ME82",
+    "player_name": "Adrian Mannarino",
+    "career_start": "2008-05-25",
+    "career_end": "2026-09-27",
+    "career_length_days": 6699,
+    "career_length_years": 18.34,
+    "total_matches": 703,
+    "wins": 324,
+    "losses": 379,
+    "win_pct": 46.09,
+    "best_rank": 17.0
+  },
+  {
     "player_id": "MA30",
     "player_name": "Gilles Muller",
     "career_start": "2000-04-28",
@@ -728,17 +741,17 @@
     "best_rank": 19.0
   },
   {
-    "player_id": "ME82",
-    "player_name": "Adrian Mannarino",
-    "career_start": "2008-05-25",
-    "career_end": "2026-08-26",
-    "career_length_days": 6667,
-    "career_length_years": 18.25,
-    "total_matches": 698,
-    "wins": 321,
-    "losses": 377,
-    "win_pct": 45.99,
-    "best_rank": 17.0
+    "player_id": "D875",
+    "player_name": "Grigor Dimitrov",
+    "career_start": "2008-06-15",
+    "career_end": "2026-09-19",
+    "career_length_days": 6670,
+    "career_length_years": 18.26,
+    "total_matches": 809,
+    "wins": 491,
+    "losses": 318,
+    "win_pct": 60.69,
+    "best_rank": 3.0
   },
   {
     "player_id": "S694",
@@ -765,19 +778,6 @@
     "losses": 12,
     "win_pct": 45.45,
     "best_rank": 437.0
-  },
-  {
-    "player_id": "D875",
-    "player_name": "Grigor Dimitrov",
-    "career_start": "2008-06-15",
-    "career_end": "2026-08-14",
-    "career_length_days": 6634,
-    "career_length_years": 18.16,
-    "total_matches": 806,
-    "wins": 490,
-    "losses": 316,
-    "win_pct": 60.79,
-    "best_rank": 3.0
   },
   {
     "player_id": "H756",
@@ -1456,6 +1456,19 @@
     "best_rank": 3.0
   },
   {
+    "player_id": "F724",
+    "player_name": "Marton Fucsovics",
+    "career_start": "2010-03-05",
+    "career_end": "2026-08-30",
+    "career_length_days": 6022,
+    "career_length_years": 16.49,
+    "total_matches": 378,
+    "wins": 185,
+    "losses": 193,
+    "win_pct": 48.94,
+    "best_rank": 31.0
+  },
+  {
     "player_id": "E113",
     "player_name": "Thomas Enqvist",
     "career_start": "1989-05-01",
@@ -1493,19 +1506,6 @@
     "losses": 306,
     "win_pct": 48.74,
     "best_rank": 19.0
-  },
-  {
-    "player_id": "F724",
-    "player_name": "Marton Fucsovics",
-    "career_start": "2010-03-05",
-    "career_end": "2026-08-14",
-    "career_length_days": 6006,
-    "career_length_years": 16.44,
-    "total_matches": 377,
-    "wins": 185,
-    "losses": 192,
-    "win_pct": 49.07,
-    "best_rank": 31.0
   },
   {
     "player_id": "U043",
@@ -1638,6 +1638,19 @@
     "best_rank": 1.0
   },
   {
+    "player_id": "D923",
+    "player_name": "Damir Dzumhur",
+    "career_start": "2010-07-09",
+    "career_end": "2026-09-19",
+    "career_length_days": 5916,
+    "career_length_years": 16.2,
+    "total_matches": 346,
+    "wins": 160,
+    "losses": 186,
+    "win_pct": 46.24,
+    "best_rank": 23.0
+  },
+  {
     "player_id": "L987",
     "player_name": "Dusan Lajovic",
     "career_start": "2010-05-03",
@@ -1649,6 +1662,19 @@
     "losses": 279,
     "win_pct": 42.94,
     "best_rank": 23.0
+  },
+  {
+    "player_id": "DA31",
+    "player_name": "Hugo Dellien",
+    "career_start": "2010-07-09",
+    "career_end": "2026-09-18",
+    "career_length_days": 5915,
+    "career_length_years": 16.19,
+    "total_matches": 111,
+    "wins": 40,
+    "losses": 71,
+    "win_pct": 36.04,
+    "best_rank": 73.0
   },
   {
     "player_id": "A596",
@@ -1753,19 +1779,6 @@
     "losses": 287,
     "win_pct": 47.24,
     "best_rank": 22.0
-  },
-  {
-    "player_id": "D923",
-    "player_name": "Damir Dzumhur",
-    "career_start": "2010-07-09",
-    "career_end": "2026-07-21",
-    "career_length_days": 5856,
-    "career_length_years": 16.03,
-    "total_matches": 344,
-    "wins": 159,
-    "losses": 185,
-    "win_pct": 46.22,
-    "best_rank": 23.0
   },
   {
     "player_id": "D683",
@@ -1961,19 +1974,6 @@
     "losses": 354,
     "win_pct": 54.5,
     "best_rank": 17.0
-  },
-  {
-    "player_id": "DA31",
-    "player_name": "Hugo Dellien",
-    "career_start": "2010-07-09",
-    "career_end": "2026-05-24",
-    "career_length_days": 5798,
-    "career_length_years": 15.87,
-    "total_matches": 110,
-    "wins": 39,
-    "losses": 71,
-    "win_pct": 35.45,
-    "best_rank": 73.0
   },
   {
     "player_id": "P021",
@@ -2496,6 +2496,19 @@
     "best_rank": 30.0
   },
   {
+    "player_id": "CD85",
+    "player_name": "Pablo Carreno Busta",
+    "career_start": "2011-04-18",
+    "career_end": "2026-08-30",
+    "career_length_days": 5613,
+    "career_length_years": 15.37,
+    "total_matches": 544,
+    "wins": 295,
+    "losses": 249,
+    "win_pct": 54.23,
+    "best_rank": 10.0
+  },
+  {
     "player_id": "S052",
     "player_name": "Russell Simpson",
     "career_start": "1971-12-06",
@@ -2533,19 +2546,6 @@
     "losses": 260,
     "win_pct": 57.24,
     "best_rank": 9.0
-  },
-  {
-    "player_id": "CD85",
-    "player_name": "Pablo Carreno Busta",
-    "career_start": "2011-04-18",
-    "career_end": "2026-08-24",
-    "career_length_days": 5607,
-    "career_length_years": 15.35,
-    "total_matches": 543,
-    "wins": 295,
-    "losses": 248,
-    "win_pct": 54.33,
-    "best_rank": 10.0
   },
   {
     "player_id": "L797",
@@ -3224,6 +3224,19 @@
     "best_rank": 300.0
   },
   {
+    "player_id": "D994",
+    "player_name": "James Duckworth",
+    "career_start": "2012-01-01",
+    "career_end": "2026-09-24",
+    "career_length_days": 5380,
+    "career_length_years": 14.73,
+    "total_matches": 223,
+    "wins": 85,
+    "losses": 138,
+    "win_pct": 38.12,
+    "best_rank": 49.0
+  },
+  {
     "player_id": "F196",
     "player_name": "Wayne Ferreira",
     "career_start": "1990-06-11",
@@ -3274,19 +3287,6 @@
     "losses": 312,
     "win_pct": 50.55,
     "best_rank": 20.0
-  },
-  {
-    "player_id": "D994",
-    "player_name": "James Duckworth",
-    "career_start": "2012-01-01",
-    "career_end": "2026-08-29",
-    "career_length_days": 5354,
-    "career_length_years": 14.66,
-    "total_matches": 219,
-    "wins": 84,
-    "losses": 135,
-    "win_pct": 38.36,
-    "best_rank": 49.0
   },
   {
     "player_id": "S123",
@@ -3365,6 +3365,19 @@
     "losses": 169,
     "win_pct": 51.3,
     "best_rank": 29.0
+  },
+  {
+    "player_id": "CF88",
+    "player_name": "Roberto Cid Subervi",
+    "career_start": "2012-02-10",
+    "career_end": "2026-09-18",
+    "career_length_days": 5334,
+    "career_length_years": 14.6,
+    "total_matches": 20,
+    "wins": 7,
+    "losses": 13,
+    "win_pct": 35.0,
+    "best_rank": 367.0
   },
   {
     "player_id": "L428",
@@ -4017,6 +4030,19 @@
     "best_rank": NaN
   },
   {
+    "player_id": "TA29",
+    "player_name": "Marco Trungelliti",
+    "career_start": "2012-07-09",
+    "career_end": "2026-09-03",
+    "career_length_days": 5169,
+    "career_length_years": 14.15,
+    "total_matches": 65,
+    "wins": 26,
+    "losses": 39,
+    "win_pct": 40.0,
+    "best_rank": 77.0
+  },
+  {
     "player_id": "G016",
     "player_name": "Brad Gilbert",
     "career_start": "1981-01-19",
@@ -4080,19 +4106,6 @@
     "losses": 242,
     "win_pct": 48.07,
     "best_rank": 19.0
-  },
-  {
-    "player_id": "TA29",
-    "player_name": "Marco Trungelliti",
-    "career_start": "2012-07-09",
-    "career_end": "2026-08-16",
-    "career_length_days": 5151,
-    "career_length_years": 14.1,
-    "total_matches": 63,
-    "wins": 25,
-    "losses": 38,
-    "win_pct": 39.68,
-    "best_rank": 77.0
   },
   {
     "player_id": "C582",
@@ -4223,6 +4236,19 @@
     "losses": 269,
     "win_pct": 44.88,
     "best_rank": 34.0
+  },
+  {
+    "player_id": "GD64",
+    "player_name": "Cristian Garin",
+    "career_start": "2012-09-14",
+    "career_end": "2026-09-19",
+    "career_length_days": 5118,
+    "career_length_years": 14.01,
+    "total_matches": 275,
+    "wins": 139,
+    "losses": 136,
+    "win_pct": 50.55,
+    "best_rank": 17.0
   },
   {
     "player_id": "E038",
@@ -4654,19 +4680,6 @@
     "best_rank": 86.0
   },
   {
-    "player_id": "GD64",
-    "player_name": "Cristian Garin",
-    "career_start": "2012-09-14",
-    "career_end": "2026-05-26",
-    "career_length_days": 5002,
-    "career_length_years": 13.69,
-    "total_matches": 274,
-    "wins": 139,
-    "losses": 135,
-    "win_pct": 50.73,
-    "best_rank": 17.0
-  },
-  {
     "player_id": "S537",
     "player_name": "Suwandi Suwandi",
     "career_start": "1993-01-11",
@@ -4758,6 +4771,19 @@
     "best_rank": 203.0
   },
   {
+    "player_id": "F840",
+    "player_name": "Nerman Fatic",
+    "career_start": "2013-02-01",
+    "career_end": "2026-09-20",
+    "career_length_days": 4979,
+    "career_length_years": 13.63,
+    "total_matches": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_pct": 45.45,
+    "best_rank": 204.0
+  },
+  {
     "player_id": "K148",
     "player_name": "Petr Korda",
     "career_start": "1985-10-21",
@@ -4808,19 +4834,6 @@
     "losses": 334,
     "win_pct": 61.12,
     "best_rank": 11.0
-  },
-  {
-    "player_id": "CF88",
-    "player_name": "Roberto Cid Subervi",
-    "career_start": "2012-02-10",
-    "career_end": "2025-09-12",
-    "career_length_days": 4963,
-    "career_length_years": 13.59,
-    "total_matches": 19,
-    "wins": 6,
-    "losses": 13,
-    "win_pct": 31.58,
-    "best_rank": 367.0
   },
   {
     "player_id": "F316",
@@ -5291,6 +5304,19 @@
     "best_rank": 74.0
   },
   {
+    "player_id": "SL28",
+    "player_name": "Jan-Lennard Struff",
+    "career_start": "2013-04-22",
+    "career_end": "2026-09-03",
+    "career_length_days": 4882,
+    "career_length_years": 13.37,
+    "total_matches": 533,
+    "wins": 250,
+    "losses": 283,
+    "win_pct": 46.9,
+    "best_rank": 21.0
+  },
+  {
     "player_id": "B131",
     "player_name": "Alvaro Betancur",
     "career_start": "1968-03-04",
@@ -5380,19 +5406,6 @@
     "losses": 3,
     "win_pct": 25.0,
     "best_rank": NaN
-  },
-  {
-    "player_id": "SL28",
-    "player_name": "Jan-Lennard Struff",
-    "career_start": "2013-04-22",
-    "career_end": "2026-08-16",
-    "career_length_days": 4864,
-    "career_length_years": 13.32,
-    "total_matches": 531,
-    "wins": 249,
-    "losses": 282,
-    "win_pct": 46.89,
-    "best_rank": 21.0
   },
   {
     "player_id": "A060",
@@ -5668,6 +5681,19 @@
     "best_rank": 33.0
   },
   {
+    "player_id": "Z355",
+    "player_name": "Alexander Zverev",
+    "career_start": "2013-07-15",
+    "career_end": "2026-09-27",
+    "career_length_days": 4822,
+    "career_length_years": 13.2,
+    "total_matches": 800,
+    "wins": 569,
+    "losses": 231,
+    "win_pct": 71.12,
+    "best_rank": 2.0
+  },
+  {
     "player_id": "B471",
     "player_name": "Mahesh Bhupathi",
     "career_start": "1995-02-03",
@@ -5861,19 +5887,6 @@
     "losses": 37,
     "win_pct": 39.34,
     "best_rank": 141.0
-  },
-  {
-    "player_id": "Z355",
-    "player_name": "Alexander Zverev",
-    "career_start": "2013-07-15",
-    "career_end": "2026-08-20",
-    "career_length_days": 4784,
-    "career_length_years": 13.1,
-    "total_matches": 790,
-    "wins": 559,
-    "losses": 231,
-    "win_pct": 70.76,
-    "best_rank": 2.0
   },
   {
     "player_id": "M012",
@@ -6097,6 +6110,19 @@
     "best_rank": 33.0
   },
   {
+    "player_id": "CH27",
+    "player_name": "Hyeon Chung",
+    "career_start": "2013-09-23",
+    "career_end": "2026-09-18",
+    "career_length_days": 4743,
+    "career_length_years": 12.99,
+    "total_matches": 160,
+    "wins": 89,
+    "losses": 71,
+    "win_pct": 55.62,
+    "best_rank": 21.0
+  },
+  {
     "player_id": "F392",
     "player_name": "Marcel Felder",
     "career_start": "2000-04-07",
@@ -6108,6 +6134,19 @@
     "losses": 14,
     "win_pct": 60.0,
     "best_rank": 235.0
+  },
+  {
+    "player_id": "KE29",
+    "player_name": "Karen Khachanov",
+    "career_start": "2013-09-16",
+    "career_end": "2026-09-11",
+    "career_length_days": 4743,
+    "career_length_years": 12.99,
+    "total_matches": 572,
+    "wins": 332,
+    "losses": 240,
+    "win_pct": 58.04,
+    "best_rank": 8.0
   },
   {
     "player_id": "MB27",
@@ -6355,19 +6394,6 @@
     "losses": 83,
     "win_pct": 35.16,
     "best_rank": 108.0
-  },
-  {
-    "player_id": "KE29",
-    "player_name": "Karen Khachanov",
-    "career_start": "2013-09-16",
-    "career_end": "2026-08-15",
-    "career_length_days": 4716,
-    "career_length_years": 12.91,
-    "total_matches": 566,
-    "wins": 327,
-    "losses": 239,
-    "win_pct": 57.77,
-    "best_rank": 8.0
   },
   {
     "player_id": "C433",
@@ -6799,6 +6825,19 @@
     "best_rank": 21.0
   },
   {
+    "player_id": "DA81",
+    "player_name": "Taro Daniel",
+    "career_start": "2014-02-03",
+    "career_end": "2026-09-25",
+    "career_length_days": 4617,
+    "career_length_years": 12.64,
+    "total_matches": 245,
+    "wins": 89,
+    "losses": 156,
+    "win_pct": 36.33,
+    "best_rank": 58.0
+  },
+  {
     "player_id": "J032",
     "player_name": "Kjell Johansson",
     "career_start": "1969-07-07",
@@ -6875,19 +6914,6 @@
     "losses": 179,
     "win_pct": 42.07,
     "best_rank": 33.0
-  },
-  {
-    "player_id": "F840",
-    "player_name": "Nerman Fatic",
-    "career_start": "2013-02-01",
-    "career_end": "2025-09-12",
-    "career_length_days": 4606,
-    "career_length_years": 12.61,
-    "total_matches": 10,
-    "wins": 4,
-    "losses": 6,
-    "win_pct": 40.0,
-    "best_rank": 204.0
   },
   {
     "player_id": "G254",
@@ -7228,6 +7254,19 @@
     "best_rank": 261.0
   },
   {
+    "player_id": "GB93",
+    "player_name": "Norbert Gombos",
+    "career_start": "2014-04-04",
+    "career_end": "2026-09-20",
+    "career_length_days": 4552,
+    "career_length_years": 12.46,
+    "total_matches": 92,
+    "wins": 30,
+    "losses": 62,
+    "win_pct": 32.61,
+    "best_rank": 81.0
+  },
+  {
     "player_id": "H390",
     "player_name": "Luis Horna",
     "career_start": "1997-04-04",
@@ -7267,17 +7306,17 @@
     "best_rank": 18.0
   },
   {
-    "player_id": "DA81",
-    "player_name": "Taro Daniel",
-    "career_start": "2014-02-03",
-    "career_end": "2026-07-14",
-    "career_length_days": 4544,
+    "player_id": "BG23",
+    "player_name": "Nikoloz Basilashvili",
+    "career_start": "2014-04-21",
+    "career_end": "2026-09-28",
+    "career_length_days": 4543,
     "career_length_years": 12.44,
-    "total_matches": 243,
-    "wins": 88,
-    "losses": 155,
-    "win_pct": 36.21,
-    "best_rank": 58.0
+    "total_matches": 352,
+    "wins": 163,
+    "losses": 189,
+    "win_pct": 46.31,
+    "best_rank": 16.0
   },
   {
     "player_id": "F070",
@@ -7382,19 +7421,6 @@
     "losses": 4,
     "win_pct": 50.0,
     "best_rank": 705.0
-  },
-  {
-    "player_id": "CH27",
-    "player_name": "Hyeon Chung",
-    "career_start": "2013-09-23",
-    "career_end": "2026-02-06",
-    "career_length_days": 4519,
-    "career_length_years": 12.37,
-    "total_matches": 159,
-    "wins": 88,
-    "losses": 71,
-    "win_pct": 55.35,
-    "best_rank": 21.0
   },
   {
     "player_id": "B678",
@@ -7590,19 +7616,6 @@
     "losses": 13,
     "win_pct": 23.53,
     "best_rank": 214.0
-  },
-  {
-    "player_id": "BG23",
-    "player_name": "Nikoloz Basilashvili",
-    "career_start": "2014-04-21",
-    "career_end": "2026-07-20",
-    "career_length_days": 4473,
-    "career_length_years": 12.25,
-    "total_matches": 348,
-    "wins": 160,
-    "losses": 188,
-    "win_pct": 45.98,
-    "best_rank": 16.0
   },
   {
     "player_id": "D362",
@@ -7917,6 +7930,19 @@
     "best_rank": 39.0
   },
   {
+    "player_id": "TD51",
+    "player_name": "Frances Tiafoe",
+    "career_start": "2014-07-28",
+    "career_end": "2026-09-11",
+    "career_length_days": 4428,
+    "career_length_years": 12.12,
+    "total_matches": 500,
+    "wins": 273,
+    "losses": 227,
+    "win_pct": 54.6,
+    "best_rank": 10.0
+  },
+  {
     "player_id": "C011",
     "player_name": "Jonathan Canter",
     "career_start": "1982-07-12",
@@ -7995,19 +8021,6 @@
     "best_rank": 729.0
   },
   {
-    "player_id": "TD51",
-    "player_name": "Frances Tiafoe",
-    "career_start": "2014-07-28",
-    "career_end": "2026-08-24",
-    "career_length_days": 4410,
-    "career_length_years": 12.07,
-    "total_matches": 494,
-    "wins": 268,
-    "losses": 226,
-    "win_pct": 54.25,
-    "best_rank": 10.0
-  },
-  {
     "player_id": "R064",
     "player_name": "Dennis Ralston",
     "career_start": "1968-01-20",
@@ -8060,6 +8073,19 @@
     "best_rank": 108.0
   },
   {
+    "player_id": "RE44",
+    "player_name": "Andrey Rublev",
+    "career_start": "2014-09-12",
+    "career_end": "2026-09-29",
+    "career_length_days": 4400,
+    "career_length_years": 12.05,
+    "total_matches": 621,
+    "wins": 398,
+    "losses": 223,
+    "win_pct": 64.09,
+    "best_rank": 5.0
+  },
+  {
     "player_id": "T243",
     "player_name": "Michal Tabara",
     "career_start": "1996-04-29",
@@ -8099,6 +8125,19 @@
     "best_rank": 38.0
   },
   {
+    "player_id": "GC88",
+    "player_name": "Marcos Giron",
+    "career_start": "2014-08-17",
+    "career_end": "2026-09-02",
+    "career_length_days": 4399,
+    "career_length_years": 12.04,
+    "total_matches": 295,
+    "wins": 136,
+    "losses": 159,
+    "win_pct": 46.1,
+    "best_rank": 37.0
+  },
+  {
     "player_id": "N291",
     "player_name": "Frederic Niemeyer",
     "career_start": "1997-07-28",
@@ -8123,19 +8162,6 @@
     "losses": 199,
     "win_pct": 47.35,
     "best_rank": 24.0
-  },
-  {
-    "player_id": "GC88",
-    "player_name": "Marcos Giron",
-    "career_start": "2014-08-17",
-    "career_end": "2026-08-24",
-    "career_length_days": 4390,
-    "career_length_years": 12.02,
-    "total_matches": 294,
-    "wins": 136,
-    "losses": 158,
-    "win_pct": 46.26,
-    "best_rank": 37.0
   },
   {
     "player_id": "P018",
@@ -8645,19 +8671,6 @@
     "best_rank": 227.0
   },
   {
-    "player_id": "RE44",
-    "player_name": "Andrey Rublev",
-    "career_start": "2014-09-12",
-    "career_end": "2026-08-18",
-    "career_length_days": 4358,
-    "career_length_years": 11.93,
-    "total_matches": 615,
-    "wins": 394,
-    "losses": 221,
-    "win_pct": 64.07,
-    "best_rank": 5.0
-  },
-  {
     "player_id": "B002",
     "player_name": "Joel Bailey",
     "career_start": "1976-11-15",
@@ -8812,19 +8825,6 @@
     "losses": 21,
     "win_pct": 30.0,
     "best_rank": 115.0
-  },
-  {
-    "player_id": "GB93",
-    "player_name": "Norbert Gombos",
-    "career_start": "2014-04-04",
-    "career_end": "2026-02-06",
-    "career_length_days": 4326,
-    "career_length_years": 11.84,
-    "total_matches": 90,
-    "wins": 29,
-    "losses": 61,
-    "win_pct": 32.22,
-    "best_rank": 81.0
   },
   {
     "player_id": "H127",
@@ -9399,6 +9399,19 @@
     "best_rank": 346.0
   },
   {
+    "player_id": "MQ75",
+    "player_name": "Kamil Majchrzak",
+    "career_start": "2015-03-06",
+    "career_end": "2026-09-26",
+    "career_length_days": 4222,
+    "career_length_years": 11.56,
+    "total_matches": 125,
+    "wins": 57,
+    "losses": 68,
+    "win_pct": 45.6,
+    "best_rank": 45.0
+  },
+  {
     "player_id": "R177",
     "player_name": "Francisco Roig",
     "career_start": "1987-09-21",
@@ -9423,6 +9436,19 @@
     "losses": 121,
     "win_pct": 37.63,
     "best_rank": 64.0
+  },
+  {
+    "player_id": "BI81",
+    "player_name": "Alex Bolt",
+    "career_start": "2015-03-12",
+    "career_end": "2026-09-24",
+    "career_length_days": 4214,
+    "career_length_years": 11.54,
+    "total_matches": 53,
+    "wins": 18,
+    "losses": 35,
+    "win_pct": 33.96,
+    "best_rank": 125.0
   },
   {
     "player_id": "F048",
@@ -9475,6 +9501,19 @@
     "losses": 14,
     "win_pct": 26.32,
     "best_rank": 503.0
+  },
+  {
+    "player_id": "V836",
+    "player_name": "Juan Pablo Varillas",
+    "career_start": "2015-03-06",
+    "career_end": "2026-09-19",
+    "career_length_days": 4215,
+    "career_length_years": 11.54,
+    "total_matches": 87,
+    "wins": 38,
+    "losses": 49,
+    "win_pct": 43.68,
+    "best_rank": 63.0
   },
   {
     "player_id": "A226",
@@ -9631,19 +9670,6 @@
     "losses": 85,
     "win_pct": 27.35,
     "best_rank": 93.0
-  },
-  {
-    "player_id": "MQ75",
-    "player_name": "Kamil Majchrzak",
-    "career_start": "2015-03-06",
-    "career_end": "2026-08-25",
-    "career_length_days": 4190,
-    "career_length_years": 11.47,
-    "total_matches": 119,
-    "wins": 54,
-    "losses": 65,
-    "win_pct": 45.38,
-    "best_rank": 45.0
   },
   {
     "player_id": "P082",
@@ -9828,6 +9854,19 @@
     "best_rank": 98.0
   },
   {
+    "player_id": "MU94",
+    "player_name": "Jaume Munar",
+    "career_start": "2015-04-20",
+    "career_end": "2026-09-02",
+    "career_length_days": 4153,
+    "career_length_years": 11.37,
+    "total_matches": 297,
+    "wins": 125,
+    "losses": 172,
+    "win_pct": 42.09,
+    "best_rank": 33.0
+  },
+  {
     "player_id": "D551",
     "player_name": "Farrukh Dustov",
     "career_start": "2005-03-04",
@@ -9852,6 +9891,19 @@
     "losses": 14,
     "win_pct": 46.15,
     "best_rank": NaN
+  },
+  {
+    "player_id": "HB64",
+    "player_name": "Quentin Halys",
+    "career_start": "2015-05-17",
+    "career_end": "2026-09-26",
+    "career_length_days": 4150,
+    "career_length_years": 11.36,
+    "total_matches": 169,
+    "wins": 67,
+    "losses": 102,
+    "win_pct": 39.64,
+    "best_rank": 46.0
   },
   {
     "player_id": "V014",
@@ -9945,32 +9997,6 @@
     "best_rank": 129.0
   },
   {
-    "player_id": "MU94",
-    "player_name": "Jaume Munar",
-    "career_start": "2015-04-20",
-    "career_end": "2026-08-04",
-    "career_length_days": 4124,
-    "career_length_years": 11.29,
-    "total_matches": 295,
-    "wins": 124,
-    "losses": 171,
-    "win_pct": 42.03,
-    "best_rank": 33.0
-  },
-  {
-    "player_id": "HB64",
-    "player_name": "Quentin Halys",
-    "career_start": "2015-05-17",
-    "career_end": "2026-08-26",
-    "career_length_days": 4119,
-    "career_length_years": 11.28,
-    "total_matches": 165,
-    "wins": 66,
-    "losses": 99,
-    "win_pct": 40.0,
-    "best_rank": 46.0
-  },
-  {
     "player_id": "S115",
     "player_name": "David Schneider",
     "career_start": "1972-03-27",
@@ -9995,6 +10021,19 @@
     "losses": 6,
     "win_pct": 25.0,
     "best_rank": NaN
+  },
+  {
+    "player_id": "FB98",
+    "player_name": "Taylor Fritz",
+    "career_start": "2015-06-21",
+    "career_end": "2026-09-26",
+    "career_length_days": 4115,
+    "career_length_years": 11.27,
+    "total_matches": 587,
+    "wins": 359,
+    "losses": 228,
+    "win_pct": 61.16,
+    "best_rank": 4.0
   },
   {
     "player_id": "MF35",
@@ -10153,19 +10192,6 @@
     "best_rank": 17.0
   },
   {
-    "player_id": "FB98",
-    "player_name": "Taylor Fritz",
-    "career_start": "2015-06-21",
-    "career_end": "2026-08-22",
-    "career_length_days": 4080,
-    "career_length_years": 11.17,
-    "total_matches": 583,
-    "wins": 357,
-    "losses": 226,
-    "win_pct": 61.23,
-    "best_rank": 4.0
-  },
-  {
     "player_id": "H256",
     "player_name": "Mauricio Hadad",
     "career_start": "1990-02-02",
@@ -10177,6 +10203,19 @@
     "losses": 54,
     "win_pct": 55.0,
     "best_rank": 78.0
+  },
+  {
+    "player_id": "KJ00",
+    "player_name": "Alex Knaff",
+    "career_start": "2015-07-17",
+    "career_end": "2026-09-18",
+    "career_length_days": 4081,
+    "career_length_years": 11.17,
+    "total_matches": 17,
+    "wins": 9,
+    "losses": 8,
+    "win_pct": 52.94,
+    "best_rank": 486.0
   },
   {
     "player_id": "S077",
@@ -10478,19 +10517,6 @@
     "best_rank": 22.0
   },
   {
-    "player_id": "BI81",
-    "player_name": "Alex Bolt",
-    "career_start": "2015-03-12",
-    "career_end": "2026-04-02",
-    "career_length_days": 4039,
-    "career_length_years": 11.06,
-    "total_matches": 52,
-    "wins": 18,
-    "losses": 34,
-    "win_pct": 34.62,
-    "best_rank": 125.0
-  },
-  {
     "player_id": "R361",
     "player_name": "Yohny Romero",
     "career_start": "1999-02-12",
@@ -10673,6 +10699,19 @@
     "best_rank": 364.0
   },
   {
+    "player_id": "PL56",
+    "player_name": "Tommy Paul",
+    "career_start": "2015-08-31",
+    "career_end": "2026-09-06",
+    "career_length_days": 4024,
+    "career_length_years": 11.02,
+    "total_matches": 396,
+    "wins": 242,
+    "losses": 154,
+    "win_pct": 61.11,
+    "best_rank": 9.0
+  },
+  {
     "player_id": "Z079",
     "player_name": "Jicham Zaatini",
     "career_start": "1997-04-04",
@@ -10803,6 +10842,19 @@
     "best_rank": 25.0
   },
   {
+    "player_id": "Z371",
+    "player_name": "Zhizhen Zhang",
+    "career_start": "2015-09-28",
+    "career_end": "2026-09-24",
+    "career_length_days": 4014,
+    "career_length_years": 10.99,
+    "total_matches": 146,
+    "wins": 66,
+    "losses": 80,
+    "win_pct": 45.21,
+    "best_rank": 33.0
+  },
+  {
     "player_id": "B440",
     "player_name": "Noam Behr",
     "career_start": "1990-10-08",
@@ -10879,19 +10931,6 @@
     "losses": 13,
     "win_pct": 18.75,
     "best_rank": NaN
-  },
-  {
-    "player_id": "PL56",
-    "player_name": "Tommy Paul",
-    "career_start": "2015-08-31",
-    "career_end": "2026-08-21",
-    "career_length_days": 4008,
-    "career_length_years": 10.97,
-    "total_matches": 392,
-    "wins": 239,
-    "losses": 153,
-    "win_pct": 60.97,
-    "best_rank": 9.0
   },
   {
     "player_id": "M475",
@@ -11113,19 +11152,6 @@
     "losses": 202,
     "win_pct": 54.4,
     "best_rank": 65.0
-  },
-  {
-    "player_id": "V836",
-    "player_name": "Juan Pablo Varillas",
-    "career_start": "2015-03-06",
-    "career_end": "2026-02-06",
-    "career_length_days": 3990,
-    "career_length_years": 10.92,
-    "total_matches": 85,
-    "wins": 36,
-    "losses": 49,
-    "win_pct": 42.35,
-    "best_rank": 63.0
   },
   {
     "player_id": "D176",
@@ -11531,19 +11557,6 @@
     "best_rank": 93.0
   },
   {
-    "player_id": "Z371",
-    "player_name": "Zhizhen Zhang",
-    "career_start": "2015-09-28",
-    "career_end": "2026-06-12",
-    "career_length_days": 3910,
-    "career_length_years": 10.7,
-    "total_matches": 145,
-    "wins": 66,
-    "losses": 79,
-    "win_pct": 45.52,
-    "best_rank": 33.0
-  },
-  {
     "player_id": "D032",
     "player_name": "Mohamed Dlimi",
     "career_start": "1977-08-27",
@@ -11830,6 +11843,32 @@
     "best_rank": 225.0
   },
   {
+    "player_id": "HB71",
+    "player_name": "Hubert Hurkacz",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-29",
+    "career_length_days": 3861,
+    "career_length_years": 10.57,
+    "total_matches": 417,
+    "wins": 247,
+    "losses": 170,
+    "win_pct": 59.23,
+    "best_rank": 6.0
+  },
+  {
+    "player_id": "HG86",
+    "player_name": "Lloyd Harris",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-27",
+    "career_length_days": 3859,
+    "career_length_years": 10.57,
+    "total_matches": 166,
+    "wins": 80,
+    "losses": 86,
+    "win_pct": 48.19,
+    "best_rank": 31.0
+  },
+  {
     "player_id": "P324",
     "player_name": "Sebastian Prieto",
     "career_start": "1996-09-09",
@@ -11843,19 +11882,6 @@
     "best_rank": 154.0
   },
   {
-    "player_id": "KJ00",
-    "player_name": "Alex Knaff",
-    "career_start": "2015-07-17",
-    "career_end": "2026-02-06",
-    "career_length_days": 3857,
-    "career_length_years": 10.56,
-    "total_matches": 16,
-    "wins": 9,
-    "losses": 7,
-    "win_pct": 56.25,
-    "best_rank": 486.0
-  },
-  {
     "player_id": "M073",
     "player_name": "Tony Mmoh",
     "career_start": "1978-02-27",
@@ -11867,6 +11893,19 @@
     "losses": 30,
     "win_pct": 41.18,
     "best_rank": 105.0
+  },
+  {
+    "player_id": "RH16",
+    "player_name": "Casper Ruud",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-25",
+    "career_length_days": 3857,
+    "career_length_years": 10.56,
+    "total_matches": 493,
+    "wins": 322,
+    "losses": 171,
+    "win_pct": 65.31,
+    "best_rank": 2.0
   },
   {
     "player_id": "B804",
@@ -11908,6 +11947,32 @@
     "best_rank": 169.0
   },
   {
+    "player_id": "CN78",
+    "player_name": "Lucas Catarina",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-18",
+    "career_length_days": 3850,
+    "career_length_years": 10.54,
+    "total_matches": 10,
+    "wins": 2,
+    "losses": 8,
+    "win_pct": 20.0,
+    "best_rank": 365.0
+  },
+  {
+    "player_id": "E09U",
+    "player_name": "Hernando Jose Escurra Isnardi",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-19",
+    "career_length_days": 3851,
+    "career_length_years": 10.54,
+    "total_matches": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_pct": 20.0,
+    "best_rank": NaN
+  },
+  {
     "player_id": "SH77",
     "player_name": "Artem Smirnov",
     "career_start": "2007-07-20",
@@ -11919,6 +11984,19 @@
     "losses": 8,
     "win_pct": 20.0,
     "best_rank": 294.0
+  },
+  {
+    "player_id": "V993",
+    "player_name": "Eero Vasa",
+    "career_start": "2016-03-04",
+    "career_end": "2026-09-18",
+    "career_length_days": 3850,
+    "career_length_years": 10.54,
+    "total_matches": 12,
+    "wins": 2,
+    "losses": 10,
+    "win_pct": 16.67,
+    "best_rank": 446.0
   },
   {
     "player_id": "B009",
@@ -12038,19 +12116,6 @@
     "best_rank": 22.0
   },
   {
-    "player_id": "HB71",
-    "player_name": "Hubert Hurkacz",
-    "career_start": "2016-03-04",
-    "career_end": "2026-08-16",
-    "career_length_days": 3817,
-    "career_length_years": 10.45,
-    "total_matches": 410,
-    "wins": 242,
-    "losses": 168,
-    "win_pct": 59.02,
-    "best_rank": 6.0
-  },
-  {
     "player_id": "P218",
     "player_name": "Nicolas Pereira",
     "career_start": "1987-01-30",
@@ -12062,19 +12127,6 @@
     "losses": 130,
     "win_pct": 39.25,
     "best_rank": 74.0
-  },
-  {
-    "player_id": "RH16",
-    "player_name": "Casper Ruud",
-    "career_start": "2016-03-04",
-    "career_end": "2026-08-16",
-    "career_length_days": 3817,
-    "career_length_years": 10.45,
-    "total_matches": 490,
-    "wins": 319,
-    "losses": 171,
-    "win_pct": 65.1,
-    "best_rank": 2.0
   },
   {
     "player_id": "K099",
@@ -12259,6 +12311,19 @@
     "best_rank": 143.0
   },
   {
+    "player_id": "SU87",
+    "player_name": "Lorenzo Sonego",
+    "career_start": "2016-05-09",
+    "career_end": "2026-09-25",
+    "career_length_days": 3791,
+    "career_length_years": 10.38,
+    "total_matches": 372,
+    "wins": 178,
+    "losses": 194,
+    "win_pct": 47.85,
+    "best_rank": 21.0
+  },
+  {
     "player_id": "G288",
     "player_name": "Neville Godwin",
     "career_start": "1992-03-30",
@@ -12270,6 +12335,19 @@
     "losses": 56,
     "win_pct": 39.13,
     "best_rank": 91.0
+  },
+  {
+    "player_id": "MM58",
+    "player_name": "Daniil Medvedev",
+    "career_start": "2016-05-16",
+    "career_end": "2026-09-29",
+    "career_length_days": 3788,
+    "career_length_years": 10.37,
+    "total_matches": 648,
+    "wins": 457,
+    "losses": 191,
+    "win_pct": 70.52,
+    "best_rank": 1.0
   },
   {
     "player_id": "O234",
@@ -12363,19 +12441,6 @@
     "best_rank": 176.0
   },
   {
-    "player_id": "SU87",
-    "player_name": "Lorenzo Sonego",
-    "career_start": "2016-05-09",
-    "career_end": "2026-08-27",
-    "career_length_days": 3762,
-    "career_length_years": 10.3,
-    "total_matches": 369,
-    "wins": 177,
-    "losses": 192,
-    "win_pct": 47.97,
-    "best_rank": 21.0
-  },
-  {
     "player_id": "B137",
     "player_name": "Ben Bishop",
     "career_start": "1968-04-08",
@@ -12425,19 +12490,6 @@
     "wins": 393,
     "losses": 195,
     "win_pct": 66.84,
-    "best_rank": 1.0
-  },
-  {
-    "player_id": "MM58",
-    "player_name": "Daniil Medvedev",
-    "career_start": "2016-05-16",
-    "career_end": "2026-08-26",
-    "career_length_days": 3754,
-    "career_length_years": 10.28,
-    "total_matches": 640,
-    "wins": 450,
-    "losses": 190,
-    "win_pct": 70.31,
     "best_rank": 1.0
   },
   {
@@ -12545,6 +12597,19 @@
     "best_rank": 706.0
   },
   {
+    "player_id": "CH12",
+    "player_name": "Jan Choinski",
+    "career_start": "2016-06-06",
+    "career_end": "2026-09-02",
+    "career_length_days": 3740,
+    "career_length_years": 10.24,
+    "total_matches": 23,
+    "wins": 5,
+    "losses": 18,
+    "win_pct": 21.74,
+    "best_rank": 75.0
+  },
+  {
     "player_id": "E678",
     "player_name": "Jonathan Eysseric",
     "career_start": "2007-05-28",
@@ -12595,19 +12660,6 @@
     "losses": 9,
     "win_pct": 30.77,
     "best_rank": NaN
-  },
-  {
-    "player_id": "CH12",
-    "player_name": "Jan Choinski",
-    "career_start": "2016-06-06",
-    "career_end": "2026-08-25",
-    "career_length_days": 3732,
-    "career_length_years": 10.22,
-    "total_matches": 22,
-    "wins": 5,
-    "losses": 17,
-    "win_pct": 22.73,
-    "best_rank": 75.0
   },
   {
     "player_id": "M138",
@@ -12662,6 +12714,19 @@
     "best_rank": 59.0
   },
   {
+    "player_id": "SU55",
+    "player_name": "Denis Shapovalov",
+    "career_start": "2016-07-18",
+    "career_end": "2026-09-28",
+    "career_length_days": 3724,
+    "career_length_years": 10.2,
+    "total_matches": 460,
+    "wins": 251,
+    "losses": 209,
+    "win_pct": 54.57,
+    "best_rank": 10.0
+  },
+  {
     "player_id": "R255",
     "player_name": "Patrick Rafter",
     "career_start": "1991-09-23",
@@ -12699,6 +12764,32 @@
     "losses": 6,
     "win_pct": 40.0,
     "best_rank": NaN
+  },
+  {
+    "player_id": "DF88",
+    "player_name": "Aziz Dougaz",
+    "career_start": "2016-07-15",
+    "career_end": "2026-09-18",
+    "career_length_days": 3717,
+    "career_length_years": 10.18,
+    "total_matches": 22,
+    "wins": 7,
+    "losses": 15,
+    "win_pct": 31.82,
+    "best_rank": 211.0
+  },
+  {
+    "player_id": "EA13",
+    "player_name": "Moez Echargui",
+    "career_start": "2016-07-15",
+    "career_end": "2026-09-18",
+    "career_length_days": 3717,
+    "career_length_years": 10.18,
+    "total_matches": 18,
+    "wins": 11,
+    "losses": 7,
+    "win_pct": 61.11,
+    "best_rank": 139.0
   },
   {
     "player_id": "T022",
@@ -12907,96 +12998,5 @@
     "losses": 144,
     "win_pct": 42.63,
     "best_rank": 41.0
-  },
-  {
-    "player_id": "DB59",
-    "player_name": "Dennis Novak",
-    "career_start": "2013-07-28",
-    "career_end": "2023-09-15",
-    "career_length_days": 3701,
-    "career_length_years": 10.13,
-    "total_matches": 80,
-    "wins": 26,
-    "losses": 54,
-    "win_pct": 32.5,
-    "best_rank": 85.0
-  },
-  {
-    "player_id": "R203",
-    "player_name": "David Rikl",
-    "career_start": "1989-08-07",
-    "career_end": "1999-09-24",
-    "career_length_days": 3700,
-    "career_length_years": 10.13,
-    "total_matches": 148,
-    "wins": 54,
-    "losses": 94,
-    "win_pct": 36.49,
-    "best_rank": 44.0
-  },
-  {
-    "player_id": "AC39",
-    "player_name": "Mubarak Shannan Zayid",
-    "career_start": "2016-01-04",
-    "career_end": "2026-02-16",
-    "career_length_days": 3696,
-    "career_length_years": 10.12,
-    "total_matches": 5,
-    "wins": 0,
-    "losses": 5,
-    "win_pct": 0.0,
-    "best_rank": NaN
-  },
-  {
-    "player_id": "P034",
-    "player_name": "Ulrich Pinner",
-    "career_start": "1973-06-04",
-    "career_end": "1983-07-18",
-    "career_length_days": 3696,
-    "career_length_years": 10.12,
-    "total_matches": 272,
-    "wins": 145,
-    "losses": 127,
-    "win_pct": 53.31,
-    "best_rank": 19.0
-  },
-  {
-    "player_id": "S080",
-    "player_name": "Carl-Uwe Steeb",
-    "career_start": "1986-09-08",
-    "career_end": "1996-10-21",
-    "career_length_days": 3696,
-    "career_length_years": 10.12,
-    "total_matches": 425,
-    "wins": 212,
-    "losses": 213,
-    "win_pct": 49.88,
-    "best_rank": 14.0
-  },
-  {
-    "player_id": "A176",
-    "player_name": "Jan Apell",
-    "career_start": "1989-01-02",
-    "career_end": "1999-02-08",
-    "career_length_days": 3689,
-    "career_length_years": 10.1,
-    "total_matches": 112,
-    "wins": 44,
-    "losses": 68,
-    "win_pct": 39.29,
-    "best_rank": 68.0
-  },
-  {
-    "player_id": "G231",
-    "player_name": "Thierry Guardiola",
-    "career_start": "1990-10-01",
-    "career_end": "2000-11-06",
-    "career_length_days": 3689,
-    "career_length_years": 10.1,
-    "total_matches": 59,
-    "wins": 13,
-    "losses": 46,
-    "win_pct": 22.03,
-    "best_rank": 107.0
   }
 ]
