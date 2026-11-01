@@ -11650,7 +11650,7 @@
   {
     "tourney_date": "20260824",
     "tourney_name": "Winston-Salem",
-    "tourney_level": "M",
+    "tourney_level": "250",
     "surface": "Hard",
     "round": "R64",
     "winner_name": "Dhakshineswar Suresh",
@@ -11663,7 +11663,7 @@
   {
     "tourney_date": "20260826",
     "tourney_name": "Winston-Salem",
-    "tourney_level": "M",
+    "tourney_level": "250",
     "surface": "Hard",
     "round": "R32",
     "winner_name": "Juan Manuel Cerundolo",

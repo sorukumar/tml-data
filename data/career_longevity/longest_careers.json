@@ -82,11 +82,11 @@
   },
   {
     "player_name": "Stan Wawrinka",
-    "career_length_years": 23.2,
+    "career_length_years": 23.29,
     "career_start": "2003-07-07",
-    "career_end": "2026-09-18",
-    "total_matches": 988,
-    "wins": 592,
+    "career_end": "2026-10-22",
+    "total_matches": 990,
+    "wins": 593,
     "best_rank": 3.0
   },
   {
@@ -136,11 +136,11 @@
   },
   {
     "player_name": "Novak Djokovic",
-    "career_length_years": 22.39,
+    "career_length_years": 22.5,
     "career_start": "2004-04-09",
-    "career_end": "2026-08-30",
-    "total_matches": 1424,
-    "wins": 1184,
+    "career_end": "2026-10-09",
+    "total_matches": 1430,
+    "wins": 1189,
     "best_rank": 1.0
   },
   {
@@ -180,6 +180,15 @@
     "best_rank": 6.0
   },
   {
+    "player_name": "Marin Cilic",
+    "career_length_years": 21.23,
+    "career_start": "2005-07-25",
+    "career_end": "2026-10-19",
+    "total_matches": 981,
+    "wins": 613,
+    "best_rank": 3.0
+  },
+  {
     "player_name": "Ivo Karlovic",
     "career_length_years": 21.13,
     "career_start": "2000-07-14",
@@ -187,15 +196,6 @@
     "total_matches": 719,
     "wins": 373,
     "best_rank": 14.0
-  },
-  {
-    "player_name": "Marin Cilic",
-    "career_length_years": 21.06,
-    "career_start": "2005-07-25",
-    "career_end": "2026-08-15",
-    "total_matches": 979,
-    "wins": 613,
-    "best_rank": 3.0
   },
   {
     "player_name": "Fernando Verdasco",
@@ -351,6 +351,15 @@
     "best_rank": 82.0
   },
   {
+    "player_name": "Kei Nishikori",
+    "career_length_years": 19.21,
+    "career_start": "2007-07-16",
+    "career_end": "2026-10-01",
+    "total_matches": 693,
+    "wins": 455,
+    "best_rank": 4.0
+  },
+  {
     "player_name": "Andy Murray",
     "career_length_years": 19.16,
     "career_start": "2005-04-18",
@@ -358,15 +367,6 @@
     "total_matches": 1017,
     "wins": 748,
     "best_rank": 1.0
-  },
-  {
-    "player_name": "Kei Nishikori",
-    "career_length_years": 19.04,
-    "career_start": "2007-07-16",
-    "career_end": "2026-07-30",
-    "total_matches": 692,
-    "wins": 455,
-    "best_rank": 4.0
   },
   {
     "player_name": "Jurgen Melzer",
@@ -385,6 +385,15 @@
     "total_matches": 883,
     "wins": 619,
     "best_rank": 1.0
+  },
+  {
+    "player_name": "Mikhail Kukushkin",
+    "career_length_years": 19.0,
+    "career_start": "2007-10-22",
+    "career_end": "2026-10-21",
+    "total_matches": 417,
+    "wins": 176,
+    "best_rank": 40.0
   },
   {
     "player_name": "Giovanni Lapentti",
@@ -459,6 +468,15 @@
     "best_rank": 8.0
   },
   {
+    "player_name": "Adrian Mannarino",
+    "career_length_years": 18.41,
+    "career_start": "2008-05-25",
+    "career_end": "2026-10-23",
+    "total_matches": 709,
+    "wins": 328,
+    "best_rank": 17.0
+  },
+  {
     "player_name": "Andrei Pavel",
     "career_length_years": 18.39,
     "career_start": "1991-05-03",
@@ -475,15 +493,6 @@
     "total_matches": 573,
     "wins": 297,
     "best_rank": 15.0
-  },
-  {
-    "player_name": "Adrian Mannarino",
-    "career_length_years": 18.34,
-    "career_start": "2008-05-25",
-    "career_end": "2026-09-27",
-    "total_matches": 703,
-    "wins": 324,
-    "best_rank": 17.0
   },
   {
     "player_name": "Gilles Muller",
@@ -612,6 +621,15 @@
     "best_rank": 8.0
   },
   {
+    "player_name": "Bernard Tomic",
+    "career_length_years": 17.76,
+    "career_start": "2009-01-04",
+    "career_end": "2026-10-08",
+    "total_matches": 378,
+    "wins": 189,
+    "best_rank": 17.0
+  },
+  {
     "player_name": "Toshiro Sakai",
     "career_length_years": 17.74,
     "career_start": "1968-01-19",
@@ -646,15 +664,6 @@
     "total_matches": 304,
     "wins": 147,
     "best_rank": 25.0
-  },
-  {
-    "player_name": "Bernard Tomic",
-    "career_length_years": 17.57,
-    "career_start": "2009-01-04",
-    "career_end": "2026-07-31",
-    "total_matches": 377,
-    "wins": 189,
-    "best_rank": 17.0
   },
   {
     "player_name": "Denis Istomin",
@@ -727,15 +736,6 @@
     "total_matches": 483,
     "wins": 227,
     "best_rank": 23.0
-  },
-  {
-    "player_name": "Mikhail Kukushkin",
-    "career_length_years": 17.27,
-    "career_start": "2007-10-22",
-    "career_end": "2025-01-27",
-    "total_matches": 415,
-    "wins": 175,
-    "best_rank": 40.0
   },
   {
     "player_name": "Jonas Bjorkman",
